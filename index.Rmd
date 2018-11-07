@@ -1,0 +1,77 @@
+---
+title:
+author: "Alessandro filazzola"
+date: "2018"
+output:
+  html_document:
+    theme: flatly
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+  pdf_document:
+    toc: yes
+---
+<br>  
+
+### Grazing effects are multi-trophic through mediating plant composition: a meta-analysis
+<br>  
+
+![](./grazing.jpg)
+<br> 
+
+[Alessandro Filazzola](http://www.filazzola.info/), Batbaatar Amgaa,  Charlotte Brown, Issac Heida, Jessica Grenke, Margarete Dettlaff, Tan Bao, & [JC Cahill](https://grad.biology.ualberta.ca/cahill/)
+
+
+```{r warning=FALSE, message=FALSE}
+library(tidyverse)
+library(PRISMAstatement)
+```
+
+### Purpose
+
+Conduct a meta-analysis of the literature testing the indirect effects of grazing on animal taxa's through the direct effects on the plant community. 
+
+### Objectives
+
+1. 
+2. 
+
+
+
+### Timeline
+
+date    | task
+------------------|--------------------------------------------------
+Nov 9 | Establish search terms to be used in the meta-analysis
+Nov 12 | Compile list of journal artcles and sub-divide for each researcher
+Nov 14  | Begin reviewing papers and extracting data
+Jan 28  | Complete data extraction from papers
+Feb 11  | Complete preliminary analysis and set structure for MS
+Feb 25 | Settle on analyses to be used and begin writing manuscript
+March 11 | Complete first draft of MS and pass to co-authors
+March 25 | Comments passed back on draft
+April 2 | Complete revisions and submit to journal
+
+
+### Literature Review - 1. Search
+
+
+### Revise list
+```{r warning=FALSE, message=FALSE, eval=FALSE}
+search1.1 <- read.csv("data/WOS-lit.csv")
+search1.2 <- read.csv("data/WoSPart3-July_4_2018.csv")
+net.difference <- anti_join(search1.2, search1.1, by = "DOI")
+net.difference <- net.difference %>% select(Title, DOI) #to simplify for a look
+nrow(net.difference) #count of number of differences from consecutive search
+
+## 182 papers to be added by including revised terms
+## Select those articles and join with other dataset
+net.difference <- anti_join(search1.2, search1.1, by = "DOI")
+
+updated.search <- rbind(search1.1, net.difference)
+
+#write.csv(updated.search, "data/WOS-lit.updated.csv")
+```
+
+
+
