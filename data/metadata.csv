@@ -1,0 +1,41 @@
+File,uniqueID,Study identifier
+evidence,Title,title of the manuscript
+evidence,Authors,authors of the manuscript
+evidence,Source Title,journal manuscript was published from
+evidence,Publication Year,the year that the journal was published in
+evidence,investigator,The person that processed this manuscript
+evidence,exclude,"whether or not the paper can be included in the meta-analysis (y, n, qual.only)"
+evidence,reason,"If exclude = y, then the reason the paper should be excluded"
+evidence,grazer.spp,the species of grazer that was used in the study
+evidence,grazer.status,the relative history of the grazer on the system (i.e. native grazer or domesticated)
+evidence,contrast,Whether the study was comparing gradients or grazed to ungrazed. 
+evidence,grazing.legacy,"If the system has had previous instances of grazing (yes, no). "
+evidence,grazing.timeframe,Length of grazing on the lands if recorded
+evidence,plants.surveyed,yes or no if there are measures of plants included in the analysis
+evidence,lat,latitude of study sites; if more than one separate by semi-colon (;)
+evidence,lon,longitude of study sites; if more than one separate by semi-colon (;)
+evidence,elevation,elevation of study sites; if more than one separate by semi-colon (;)
+evidence,country,country study took place in; if more than one separate by semi-colon (;)
+evidence,n.sites,the number of study sites used
+evidence,survey.technique,"the technique for surveying the response taxa (e.g. mark-recapture, pan trap, camera trap, etc)"
+evidence,Soil.microbia,1/0 if any soil micro-organisms were measured
+evidence,Annelida,1/0 if any soil worms were measured
+evidence,Arthropoda,"1/0 if any arthropods were measured including insects, centipedes, spiders, scorpions, millipedes, or  springtails"
+evidence,Amphibia,1/0 if any amphibians were measured
+evidence,Reptilia,1/0 if any reptiles were measured
+evidence,Aves,1/0 if any birds were measured
+evidence,Mammalia,1/0 if any mammals were measured
+masterdataset-template,uniqueID,Study identifier
+masterdataset-template,siteID,any site identifier that was used in the study
+masterdataset-template,year,any year replicates that were used in the study
+masterdataset-template,replicate,any sub-replicate or different treatments that were used within the study
+masterdataset-template,grazing.compare,grazed vs ungrazed treatments (includes equivalents)
+masterdataset-template,grazing.estimate,"the measure of grazers used (e.g. number of heads, frequency of grazing)"
+masterdataset-template,grazing.value,value that corresponds with the grazing estimate
+masterdataset-template,Taxa,"The response taxa that was surveyed, such as reptilia or aves, can include plants"
+masterdataset-template,Genus,Genus of response taxa if recorded
+masterdataset-template,Species,Species name of response taxa if recorded
+masterdataset-template,Status,Whether response taxa is native or non-native
+masterdataset-template,Estimate,"the measured estimate of the response taxa (abundance, richness, number of calls, etc)"
+masterdataset-template,Stat,"the statistic used: mean, stdev, sterror. For raw values put ""count"""
+masterdataset-template,Value,the value of the measured response taxa

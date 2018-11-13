@@ -36,6 +36,15 @@ Conduct a meta-analysis of the literature testing the indirect effects of grazin
 1. 
 2. 
 
+## Search Terms
+
+A systematic literature search was conducted using Web of Science for all emperical research articles.  The review will include all studies globally. The intended purpose of this search is to capture all articles that have documented grazing either along a gradient (e.g. different frequencies or intensity) or presence/absence (e.g. excluded, ungrazed, or retired ranch lands). We condcuted two separate searches to capture studies that tested gradients and studies that compared grazing to ungrazed treatments. Duplicate articles between the searches were removed. We also intentionally excluded terms that  resulted in articles not relevant to the purpose of this study including: review, synthesis, policy, social, carbon, and fish. The search terms that used were: 
+
+**Search A**
+`graz* OR livestock` **AND**  `exclosure* OR exclusion OR exclude* OR ungrazed OR retire* OR fallow*`
+
+**Search B**
+`grazing intensity OR grazing gradient OR stocking rate OR rotation* grazing`
 
 
 ### Timeline
