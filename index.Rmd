@@ -1,6 +1,6 @@
 ---
-title:
-author: "Alessandro filazzola"
+title: A meta-analysis fo the multi-trophic effects of grazing
+author: ""
 date: "2018"
 output:
   html_document:
@@ -36,7 +36,7 @@ Conduct a meta-analysis of the literature testing the indirect effects of grazin
 1. 
 2. 
 
-## Search Terms
+### Search Terms
 
 A systematic literature search was conducted using Web of Science for all emperical research articles.  The review will include all studies globally. The intended purpose of this search is to capture all articles that have documented grazing either along a gradient (e.g. different frequencies or intensity) or presence/absence (e.g. excluded, ungrazed, or retired ranch lands). We condcuted two separate searches to capture studies that tested gradients and studies that compared grazing to ungrazed treatments. Duplicate articles between the searches were removed. We also intentionally excluded terms that  resulted in articles not relevant to the purpose of this study including: review, synthesis, policy, social, carbon, and fish. The search terms that used were: 
 
@@ -81,6 +81,14 @@ updated.search <- rbind(search1.1, net.difference)
 
 #write.csv(updated.search, "data/WOS-lit.updated.csv")
 ```
+
+### Literature Review - 2. Sort
+
+This steps includes a. checking for duplicating, b. reviewing each instance for relevancy, c. consistently identifying and documenting exclusion criteria. Outcomes include a list of publications to be used for synthesis, a library of pdfs, and a PRISMA report to ensure the worflow is transparent and reproducible. Papers were excluded with the following characteristics:
+
+- Not emperical study (e.g. review, book chapter)
+- Irrelevant categories (e.g. political science, law, sports tourism, art)
+
 
 
 

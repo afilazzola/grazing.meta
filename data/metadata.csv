@@ -11,13 +11,13 @@ evidence,grazer.status,the relative history of the grazer on the system (i.e. na
 evidence,contrast,Whether the study was comparing gradients or grazed to ungrazed. 
 evidence,grazing.legacy,"If the system has had previous instances of grazing (yes, no). "
 evidence,grazing.timeframe,Length of grazing on the lands if recorded
-evidence,plants.surveyed,yes or no if there are measures of plants included in the analysis
 evidence,lat,latitude of study sites; if more than one separate by semi-colon (;)
 evidence,lon,longitude of study sites; if more than one separate by semi-colon (;)
 evidence,elevation,elevation of study sites; if more than one separate by semi-colon (;)
 evidence,country,country study took place in; if more than one separate by semi-colon (;)
 evidence,n.sites,the number of study sites used
 evidence,survey.technique,"the technique for surveying the response taxa (e.g. mark-recapture, pan trap, camera trap, etc)"
+evidence,Plants,1/0 if there are measures of plants included in the analysis
 evidence,Soil.microbia,1/0 if any soil micro-organisms were measured
 evidence,Annelida,1/0 if any soil worms were measured
 evidence,Arthropoda,"1/0 if any arthropods were measured including insects, centipedes, spiders, scorpions, millipedes, or  springtails"
@@ -29,6 +29,7 @@ masterdataset-template,uniqueID,Study identifier
 masterdataset-template,siteID,any site identifier that was used in the study
 masterdataset-template,year,any year replicates that were used in the study
 masterdataset-template,replicate,any sub-replicate or different treatments that were used within the study
+masterdataset-template,last.grazed,number of years since the last grazing event
 masterdataset-template,grazing.compare,grazed vs ungrazed treatments (includes equivalents)
 masterdataset-template,grazing.estimate,"the measure of grazers used (e.g. number of heads, frequency of grazing)"
 masterdataset-template,grazing.value,value that corresponds with the grazing estimate
