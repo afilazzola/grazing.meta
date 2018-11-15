@@ -77,7 +77,7 @@ nrow(net.difference) #count of number of differences from consecutive search
 ## Select those articles and join with other dataset
 net.difference <- anti_join(search1.2, search1.1, by = "DOI")
 
-updated.search <- rbind(search1.1, net.difference)
+updated.search <- rbind(search1.1, net.diference)
 
 #write.csv(updated.search, "data/WOS-lit.updated.csv")
 ```
