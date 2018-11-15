@@ -19,6 +19,7 @@ evidence,elevation,elevation of study sites; if more than one separate by semi-c
 evidence,country,country study took place in; if more than one separate by semi-colon (;)
 evidence,n.sites,the number of study sites used
 evidence,survey.technique,"the technique for surveying the response taxa (e.g. mark-recapture, pan trap, camera trap, etc)"
+evidence,community.origin,"The composition of the sites being grazed, i.e. planted pasture vs self-assembled grassland"
 evidence,Plants,1/0 if there are measures of plants included in the analysis
 evidence,Soil.microbia,1/0 if any soil micro-organisms were measured
 evidence,Annelida,1/0 if any soil worms were measured
