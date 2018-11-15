@@ -9,8 +9,10 @@ evidence,reason,"If exclude = y, then the reason the paper should be excluded"
 evidence,grazer.spp,the species of grazer that was used in the study
 evidence,grazer.status,the relative history of the grazer on the system (i.e. native grazer or domesticated)
 evidence,contrast,Whether the study was comparing gradients or grazed to ungrazed. 
-evidence,grazing.legacy,"If the system has had previous instances of grazing (yes, no). "
-evidence,grazing.timeframe,Length of grazing on the lands if recorded
+evidence,last.grazing.event,the number of years since the last grazing occurred on the land (for ungrazed sites): 0 - x years
+evidence,indigenous.grazers,"If there has ever been any native or feral grazers on the land. One of four options: None, co-occurring, historic, unknown"
+evidence,grazing.frequency,"The approximate frequency that the sites have been grazed in the last few decades. Ordinal variable of 0-3 where  absent (0), minimal (1), sporadic (2), & regular (3) "
+evidence,study.duration,The number of years that the study took place for. If only one growing season (e.g. April - September) put 1 yr
 evidence,lat,latitude of study sites; if more than one separate by semi-colon (;)
 evidence,lon,longitude of study sites; if more than one separate by semi-colon (;)
 evidence,elevation,elevation of study sites; if more than one separate by semi-colon (;)
