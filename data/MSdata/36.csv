@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+36,multisite,1997,14,grazed,0,,,Lepidoptera,,,,richness,mean,32.2
+36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,richness,mean,42.9
+36,multisite,1997,14,grazed,0,,,Lepidoptera,,,,richness,sd,10.7
+36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,richness,sd,6.77
+36,multisite,1997,14,grazed,0,,,Lepidoptera,,,,abundance,mean,631
+36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,abundance,mean,421
+36,multisite,1997,14,grazed,0,,,Lepidoptera,,,,abundance,sd,245
+36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,abundance,sd,143
+36,multisite,1997,14,grazed,0,,,Lepidoptera,,,,RedList.species,mean,6.07
+36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,RedList.species,mean,8.98
+36,multisite,1997,14,grazed,0,,,Lepidoptera,,,,RedList.species,sd,1.61
+36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,RedList.species,sd,1
