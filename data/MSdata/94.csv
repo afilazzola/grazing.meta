@@ -1,0 +1,65 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+94,Blackmount,1991,15,grazed,0,deer per km2,11,plants,,,,biomass,mean,0.7
+94,Tyndrum,1991,15,grazed,0,deer per km2,13,plants,,,,biomass,mean,0.2
+94,Meggernie,1991,15,grazed,0,deer per km2,15,plants,,,,biomass,mean,0.5
+94,Rannoch,1991,15,grazed,0,deer per km2,15,plants,,,,biomass,mean,0.3
+94,Glen Feshie,1991,15,grazed,0,deer per km2,20,plants,,,,biomass,mean,0.6
+94,Abernethy,1991,15,grazed,0,deer per km2,11,plants,,,,biomass,mean,1
+94,Ballochbuie,1991,15,grazed,0,deer per km2,14,plants,,,,biomass,mean,0.9
+94,Glen Tanar,1991,15,grazed,0,deer per km2,16,plants,,,,biomass,mean,1.2
+94,Blackmount,1991,15,grazed,0,deer per km2,11,plants,,,,biomass,se,0.2
+94,Tyndrum,1991,15,grazed,0,deer per km2,13,plants,,,,biomass,se,0.03
+94,Meggernie,1991,15,grazed,0,deer per km2,15,plants,,,,biomass,se,0.2
+94,Rannoch,1991,15,grazed,0,deer per km2,15,plants,,,,biomass,se,0.2
+94,Glen Feshie,1991,15,grazed,0,deer per km2,20,plants,,,,biomass,se,0
+94,Abernethy,1991,15,grazed,0,deer per km2,11,plants,,,,biomass,se,0
+94,Ballochbuie,1991,15,grazed,0,deer per km2,14,plants,,,,biomass,se,0.2
+94,Glen Tanar,1991,15,grazed,0,deer per km2,16,plants,,,,biomass,se,0.2
+94,Blackmount,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,mean,1.5
+94,Tyndrum,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,mean,1
+94,Meggernie,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,mean,1.7
+94,Rannoch,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,mean,1.9
+94,Glen Feshie,1991,15,ungrazed,1,deer per km2,10,plants,,,,biomass,mean,1.4
+94,Abernethy,1991,15,ungrazed,1,deer per km2,3,plants,,,,biomass,mean,1.8
+94,Ballochbuie,1991,15,ungrazed,1,deer per km2,4,plants,,,,biomass,mean,1.5
+94,Glen Tanar,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,mean,2.1
+94,Blackmount,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,se,0.1
+94,Tyndrum,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,se,0.1
+94,Meggernie,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,se,0.2
+94,Rannoch,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,se,0.2
+94,Glen Feshie,1991,15,ungrazed,1,deer per km2,10,plants,,,,biomass,se,0
+94,Abernethy,1991,15,ungrazed,1,deer per km2,3,plants,,,,biomass,se,0.5
+94,Ballochbuie,1991,15,ungrazed,1,deer per km2,4,plants,,,,biomass,se,0.3
+94,Glen Tanar,1991,15,ungrazed,1,deer per km2,0,plants,,,,biomass,se,0.03
+94,Blackmount,1991,15,grazed,0,deer per km2,11,lepidoptera,,,,biomass,mean,39.7
+94,Tyndrum,1991,15,grazed,0,deer per km2,13,lepidoptera,,,,biomass,mean,9
+94,Meggernie,1991,15,grazed,0,deer per km2,15,lepidoptera,,,,biomass,mean,10.2
+94,Rannoch,1991,15,grazed,0,deer per km2,15,lepidoptera,,,,biomass,mean,6.4
+94,Glen Feshie,1991,15,grazed,0,deer per km2,20,lepidoptera,,,,biomass,mean,67.8
+94,Abernethy,1991,15,grazed,0,deer per km2,11,lepidoptera,,,,biomass,mean,66.5
+94,Ballochbuie,1991,15,grazed,0,deer per km2,14,lepidoptera,,,,biomass,mean,231.6
+94,Glen Tanar,1991,15,grazed,0,deer per km2,16,lepidoptera,,,,biomass,mean,319.8
+94,Blackmount,1991,15,grazed,0,deer per km2,11,lepidoptera,,,,biomass,se,12.8
+94,Tyndrum,1991,15,grazed,0,deer per km2,13,lepidoptera,,,,biomass,se,5.1
+94,Meggernie,1991,15,grazed,0,deer per km2,15,lepidoptera,,,,biomass,se,5.1
+94,Rannoch,1991,15,grazed,0,deer per km2,15,lepidoptera,,,,biomass,se,6.4
+94,Glen Feshie,1991,15,grazed,0,deer per km2,20,lepidoptera,,,,biomass,se,17.9
+94,Abernethy,1991,15,grazed,0,deer per km2,11,lepidoptera,,,,biomass,se,24.3
+94,Ballochbuie,1991,15,grazed,0,deer per km2,14,lepidoptera,,,,biomass,se,102.3
+94,Glen Tanar,1991,15,grazed,0,deer per km2,16,lepidoptera,,,,biomass,se,25.6
+94,Blackmount,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,mean,102.3
+94,Tyndrum,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,mean,35.8
+94,Meggernie,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,mean,87
+94,Rannoch,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,mean,120.3
+94,Glen Feshie,1991,15,ungrazed,1,deer per km2,10,lepidoptera,,,,biomass,mean,248.2
+94,Abernethy,1991,15,ungrazed,1,deer per km2,3,lepidoptera,,,,biomass,mean,261
+94,Ballochbuie,1991,15,ungrazed,1,deer per km2,4,lepidoptera,,,,biomass,mean,400.4
+94,Glen Tanar,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,mean,442.6
+94,Blackmount,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,se,40.9
+94,Tyndrum,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,se,19.2
+94,Meggernie,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,se,11.5
+94,Rannoch,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,se,24.3
+94,Glen Feshie,1991,15,ungrazed,1,deer per km2,10,lepidoptera,,,,biomass,se,20.5
+94,Abernethy,1991,15,ungrazed,1,deer per km2,3,lepidoptera,,,,biomass,se,90.8
+94,Ballochbuie,1991,15,ungrazed,1,deer per km2,4,lepidoptera,,,,biomass,se,98.5
+94,Glen Tanar,1991,15,ungrazed,1,deer per km2,0,lepidoptera,,,,biomass,se,147.1

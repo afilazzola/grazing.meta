@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+73,MpalaResearchCentre,2002,36,ungrazed,6,cattle per ha,0,mammals,Equus,spp.,native,dung per ha,mean,853
+73,MpalaResearchCentre,2002,36,grazed,6,cattle per ha,120,mammals,Equus,spp.,native,dung per ha,mean,473
+73,MpalaResearchCentre,2002,36,ungrazed,6,cattle per ha,0,mammals,Equus,spp.,native,dung per ha,se,147
+73,MpalaResearchCentre,2002,36,grazed,6,cattle per ha,120,mammals,Equus,spp.,native,dung per ha,se,133
+73,MpalaResearchCentre,2002,36,ungrazed,6,cattle per ha,0,plants,,,,percent.cover,mean,12.86
+73,MpalaResearchCentre,2002,36,grazed,6,cattle per ha,120,plants,,,,percent.cover,mean,11.57
+73,MpalaResearchCentre,2002,36,ungrazed,6,cattle per ha,0,plants,,,,percent.cover,se,1.68
+73,MpalaResearchCentre,2002,36,grazed,6,cattle per ha,120,plants,,,,percent.cover,se,1.11
