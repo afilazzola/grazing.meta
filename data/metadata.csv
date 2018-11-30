@@ -7,7 +7,7 @@ evidence,investigator,The person that processed this manuscript
 evidence,exclude,"whether or not the paper can be included in the meta-analysis (y, n, qual.only)"
 evidence,reason,"If exclude = y, then the reason the paper should be excluded"
 evidence,grazer.spp,the species of grazer that was used in the study
-evidence,grazer.status,the relative history of the grazer on the system (i.e. native grazer or domesticated)
+evidence,grazer.status,the relative history of the grazer on the system (i.e. indigenous or domesticated)
 evidence,contrast,Whether the study was comparing gradients or grazed to ungrazed. 
 evidence,last.grazing.event,the number of years since the last grazing occurred on the land (for ungrazed sites): 0 - x years
 evidence,indigenous.grazers,"If there has ever been any native or feral grazers on the land. One of four options: None, co-occurring, historic, unknown"
