@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+857,,2006,10,grazed,0,,,Plant,,,,species richness,count,26.3
+857,,2006,10,grazed,0,,,Insect (herbivore),Xyphosia,miliaria,,abundance,mean,4.1
+857,,2006,10,grazed,0,,,Insect (herbivore),Tephritis,conura,,abundance,mean,18.1
+857,,2006,10,grazed,0,,,Insect (parasitoid),Pteromalus,elevatus,,abundance,mean,3.7
+857,,2006,10,grazed,0,,,Plant,,,,species richness,sd,6.3
+857,,2006,10,grazed,0,,,Insect (herbivore),Xyphosia,miliaria,,abundance,se,1.3
+857,,2006,10,grazed,0,,,Insect (herbivore),Tephritis,conura,,abundance,se,4.9
+857,,2006,10,grazed,0,,,Insect (parasitoid),Pteromalus,elevatus,,abundance,se,1.2
+857,,2006,10,ungrazed,10,,,Plant,,,,species richness,count,16.8
+857,,2006,10,ungrazed,10,,,Insect (herbivore),Xyphosia,miliaria,,abundance,mean,6.1
+857,,2006,10,ungrazed,10,,,Insect (herbivore),Tephritis,conura,,abundance,mean,6.1
+857,,2006,10,ungrazed,10,,,Insect (parasitoid),Pteromalus,elevatus,,abundance,mean,0.4
+857,,2006,10,ungrazed,10,,,Plant,,,,species richness,sd,5.1
+857,,2006,10,ungrazed,10,,,Insect (herbivore),Xyphosia,miliaria,,abundance,se,2.6
+857,,2006,10,ungrazed,10,,,Insect (herbivore),Tephritis,conura,,abundance,se,3.25
+857,,2006,10,ungrazed,10,,,Insect (parasitoid),Pteromalus,elevatus,,abundance,se,0.1
