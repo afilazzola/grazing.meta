@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+444,grasslandsChihuahuanDesertRRC,1991,5,grazed,0,,,Plants,,,,percent cover,mean,34.6
+444,grasslandsChihuahuanDesertRRC,1991,5,grazed,0,,,Ants,,,,ant seed removal (g/tray/12 hour),mean,12.5
+444,grasslandsChihuahuanDesertRRC,1991,5,grazed,0,,,Rodents,,,,rodent seed removal (g/tray/12 hour),mean,2.1
+444,grasslandsChihuahuanDesertRRC,1991,5,grazed,0,,,Plants,,,,percent cover,se,5.3
+444,grasslandsChihuahuanDesertRRC,1991,5,grazed,0,,,Ants,,,,ant seed removal (g/tray/12 hour),se,1.5
+444,grasslandsChihuahuanDesertRRC,1991,5,grazed,0,,,Rodents,,,,rodent seed removal (g/tray/12 hour),se,1
+444,grasslandsChihuahuanDesertRRC,1991,5,ungrazed,39,,,Plants,,,,percent cover,mean,49.2
+444,grasslandsChihuahuanDesertRRC,1991,5,ungrazed,39,,,Ants,,,,ant seed removal (g/tray/12 hour),mean,14.2
+444,grasslandsChihuahuanDesertRRC,1991,5,ungrazed,39,,,Rodents,,,,rodent seed removal (g/tray/12 hour),mean,4.1
+444,grasslandsChihuahuanDesertRRC,1991,5,ungrazed,39,,,Plants,,,,percent cover,se,8.2
+444,grasslandsChihuahuanDesertRRC,1991,5,ungrazed,39,,,Ants,,,,ant seed removal (g/tray/12 hour),se,2.3
+444,grasslandsChihuahuanDesertRRC,1991,5,ungrazed,39,,,Rodents,,,,rodent seed removal (g/tray/12 hour),se,1.4
