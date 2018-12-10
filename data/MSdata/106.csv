@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+106,multisite,1991,10,ungrazed,40,density (/km2),5 to 25,Lichens,,,,biomass (g /m2),mean,790
+106,multisite,1991,10,ungrazed,40,density (/km2),5 to 25,Lichens,,,,biomass (g /m2),se,130
+106,multisite,1991,10,ungrazed,40,density (/km2),5 to 25,Bryophytes,,,,biomass (g /m2),mean,7
+106,multisite,1991,10,ungrazed,40,density (/km2),5 to 25,Bryophytes,,,,biomass (g /m2),se,4
+106,multisite,1991,10,ungrazed,40,density (/km2),5 to 25,Shrubs,,,,biomass (g /m2),mean,38
+106,multisite,1991,10,ungrazed,40,density (/km2),5 to 25,Shrubs,,,,biomass (g /m2),se,12
+106,multisite,1991,10,grazed,40,density (/km2),5 to 25,Lichens,,,,biomass (g /m2),mean,86
+106,multisite,1991,10,grazed,40,density (/km2),5 to 25,Lichens,,,,biomass (g /m2),se,16
+106,multisite,1991,10,grazed,40,density (/km2),5 to 25,Bryophytes,,,,biomass (g /m2),mean,21
+106,multisite,1991,10,grazed,40,density (/km2),5 to 25,Bryophytes,,,,biomass (g /m2),se,13
+106,multisite,1991,10,grazed,40,density (/km2),5 to 25,Shrubs,,,,biomass (g /m2),mean,14
+106,multisite,1991,10,grazed,40,density (/km2),5 to 25,Shrubs,,,,biomass (g /m2),se,4
+106,multisite,1991,10,ungrazed,40,density (/km2),5 to 25,microbial,,,,biomass (mg /g),mean,3.77
+106,multisite,1991,10,ungrazed,40,density (/km2),5 to 25,microbial,,,,biomass (mg /g),se,0.4
+106,multisite,1991,10,grazed,40,density (/km2),5 to 25,microbial,,,,biomass (mg /g),mean,3.45
+106,multisite,1991,10,grazed,40,density (/km2),5 to 25,microbial,,,,biomass (mg /g),se,0.4
