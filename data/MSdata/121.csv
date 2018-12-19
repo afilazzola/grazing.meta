@@ -1,0 +1,29 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+121,JunnerKoeland,1998,5,ungrazed,6,cattle per ha,0.4,Leporidae,,,native,individuals per ha,mean,9.7
+121,JunnerKoeland,1998,5,ungrazed,6,cattle per ha,0.4,Leporidae,,,native,individuals per ha,se,1.1
+121,JunnerKoeland,1998,5,grazed,0,cattle per ha,0.4,Leporidae,,,native,individuals per ha,mean,12.4
+121,JunnerKoeland,1998,5,grazed,0,cattle per ha,0.4,Leporidae,,,native,individuals per ha,se,1.1
+121,JunnerKoeland,1998,5,ungrazed,6,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,mean,583
+121,JunnerKoeland,1998,5,ungrazed,6,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,se,261
+121,JunnerKoeland,1998,5,grazed,0,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,mean,278
+121,JunnerKoeland,1998,5,grazed,0,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,se,124
+121,JunnerKoeland,1999,5,ungrazed,6,cattle per ha,0.4,Leporidae,,,native,individuals per ha,mean,10.3
+121,JunnerKoeland,1999,5,ungrazed,6,cattle per ha,0.4,Leporidae,,,native,individuals per ha,se,2.9
+121,JunnerKoeland,1999,5,grazed,0,cattle per ha,0.4,Leporidae,,,native,individuals per ha,mean,19
+121,JunnerKoeland,1999,5,grazed,0,cattle per ha,0.4,Leporidae,,,native,individuals per ha,se,1.6
+121,JunnerKoeland,1999,5,ungrazed,6,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,mean,889
+121,JunnerKoeland,1999,5,ungrazed,6,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,se,398
+121,JunnerKoeland,1999,5,grazed,0,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,mean,0
+121,JunnerKoeland,1999,5,grazed,0,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,se,0
+121,JunnerKoeland,2000,5,ungrazed,6,cattle per ha,0.4,Leporidae,,,native,individuals per ha,mean,7.8
+121,JunnerKoeland,2000,5,ungrazed,6,cattle per ha,0.4,Leporidae,,,native,individuals per ha,se,1.7
+121,JunnerKoeland,2000,5,grazed,0,cattle per ha,0.4,Leporidae,,,native,individuals per ha,mean,12.2
+121,JunnerKoeland,2000,5,grazed,0,cattle per ha,0.4,Leporidae,,,native,individuals per ha,se,1.2
+121,JunnerKoeland,2000,5,ungrazed,6,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,mean,903
+121,JunnerKoeland,2000,5,ungrazed,6,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,se,404
+121,JunnerKoeland,2000,5,grazed,0,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,mean,0
+121,JunnerKoeland,2000,5,grazed,0,cattle per ha,0.4,Arvicolinae,,,native,individuals per ha,se,0
+121,JunnerKoeland,2000,5,ungrazed,6,cattle per ha,0.4,plantae,,,,biomass (g/m2),mean,718
+121,JunnerKoeland,2000,5,ungrazed,6,cattle per ha,0.4,plantae,,,,biomass (g/m2),se,115
+121,JunnerKoeland,2000,5,grazed,0,cattle per ha,0.4,plantae,,,,biomass (g/m2),mean,734
+121,JunnerKoeland,2000,5,grazed,0,cattle per ha,0.4,plantae,,,,biomass (g/m2),se,43

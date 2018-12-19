@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+149,Multisite,1993,10,ungrazed,,,,Plantae,,,,tree abundance,mean,0.72
+149,Multisite,1993,10,ungrazed,,,,Plantae,,,,tree abundance,se,0.14
+149,Multisite,1993,10,ungrazed,,,,Plantae,,,,shrub abundance,mean,2.95
+149,Multisite,1993,10,ungrazed,,,,Plantae,,,,shrub abundance,se,0.51
+149,Multisite,1993,10,ungrazed,,,,Plantae,,,,understorey percent cover,mean,59.53
+149,Multisite,1993,10,ungrazed,,,,Plantae,,,,understorey percent cover,se,3.34
+149,Multisite,1993,10,grazed,,,,Plantae,,,,tree abundance,mean,0.98
+149,Multisite,1993,10,grazed,,,,Plantae,,,,tree abundance,se,0.24
+149,Multisite,1993,10,grazed,,,,Plantae,,,,shrub abundance,mean,0.09
+149,Multisite,1993,10,grazed,,,,Plantae,,,,shrub abundance,se,0.04
+149,Multisite,1993,10,grazed,,,,Plantae,,,,understorey percent cover,mean,5.32
+149,Multisite,1993,10,grazed,,,,Plantae,,,,understorey percent cover,se,1.28
+149,Multisite,1993,10,ungrazed,,,,Arthropod,,,,abundance,mean,10.67
+149,Multisite,1993,10,ungrazed,,,,Arthropod,,,,abundance,se,0.87
+149,Multisite,1993,10,grazed,,,,Arthropod,,,,abundance,mean,20.04
+149,Multisite,1993,10,grazed,,,,Arthropod,,,,abundance,se,2.71
