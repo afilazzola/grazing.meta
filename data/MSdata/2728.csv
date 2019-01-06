@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2728,,2013,6,grazed,,,,Arthropoda (Curculionidae),,,,richness,24,3.7
+2728,,2013,6,ungrazed,22,,,Arthropoda (Curculionidae),,,,richness,22.2,3.07
+2728,,2013,6,grazed,,,,Arthropoda (Curculionidae),,,,abundance,126.3,18.8
+2728,,2013,6,ungrazed,22,,,Arthropoda (Curculionidae),,,,abundance,115,28.5

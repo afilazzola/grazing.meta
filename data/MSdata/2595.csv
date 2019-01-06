@@ -1,0 +1,65 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2595,S. klemenzii,2015,20,ungrazed,10,,,Plantae,,,,richness,mean,7.536231884
+2595,S. klemenzii,2015,20,ungrazed,10,,,Plantae,,,,richness,se,0.543478261
+2595,S. klemenzii,2015,20,grazed,,,,Plantae,,,,richness,mean,6.449275362
+2595,S. klemenzii,2015,20,grazed,,,,Plantae,,,,richness,se,0.18115942
+2595,S. grandis,2015,20,ungrazed,24,,,Plantae,,,,richness,mean,10.07246377
+2595,S. grandis,2015,20,ungrazed,24,,,Plantae,,,,richness,se,0.362318841
+2595,S. grandis,2015,20,grazed,,,,Plantae,,,,richness,mean,8.260869565
+2595,S. grandis,2015,20,grazed,,,,Plantae,,,,richness,se,0.362318841
+2595,L. chinensis,2015,20,ungrazed,24,,,Plantae,,,,richness,mean,14.05797101
+2595,L. chinensis,2015,20,ungrazed,24,,,Plantae,,,,richness,se,0.362318841
+2595,L. chinensis,2015,20,grazed,,,,Plantae,,,,richness,mean,7.355072464
+2595,L. chinensis,2015,20,grazed,,,,Plantae,,,,richness,se,0.362318841
+2595,Meadow,2015,20,ungrazed,24,,,Plantae,,,,richness,mean,21.66666667
+2595,Meadow,2015,20,ungrazed,24,,,Plantae,,,,richness,se,0.724637681
+2595,Meadow,2015,20,grazed,,,,Plantae,,,,richness,mean,5.724637681
+2595,Meadow,2015,20,grazed,,,,Plantae,,,,richness,se,0.905797101
+2595,S. klemenzii,2015,10,ungrazed,10,,,Arthropoda,,,,abundance,mean,180.8219178
+2595,S. grandis,2015,10,ungrazed,24,,,Arthropoda,,,,abundance,mean,279.4520548
+2595,L. chinensis,2015,10,ungrazed,24,,,Arthropoda,,,,abundance,mean,73.97260274
+2595,Meadow,2015,10,ungrazed,24,,,Arthropoda,,,,abundance,mean,230.1369863
+2595,S. klemenzii,2015,10,ungrazed,10,,,Arthropoda,,,,abundance,se,24.65753425
+2595,S. grandis,2015,10,ungrazed,24,,,Arthropoda,,,,abundance,se,65.75342466
+2595,L. chinensis,2015,10,ungrazed,24,,,Arthropoda,,,,abundance,se,16.43835616
+2595,Meadow,2015,10,ungrazed,24,,,Arthropoda,,,,abundance,se,57.53424658
+2595,S. klemenzii,2015,10,grazed,,,,Arthropoda,,,,abundance,mean,575.3424658
+2595,S. grandis,2015,10,grazed,,,,Arthropoda,,,,abundance,mean,1068.493151
+2595,L. chinensis,2015,10,grazed,,,,Arthropoda,,,,abundance,mean,854.7945205
+2595,Meadow,2015,10,grazed,,,,Arthropoda,,,,abundance,mean,312.3287671
+2595,S. klemenzii,2015,10,grazed,,,,Arthropoda,,,,abundance,se,41.09589041
+2595,S. grandis,2015,10,grazed,,,,Arthropoda,,,,abundance,se,61.64383562
+2595,L. chinensis,2015,10,grazed,,,,Arthropoda,,,,abundance,se,106.8493151
+2595,Meadow,2015,10,grazed,,,,Arthropoda,,,,abundance,se,160.2739726
+2595,S. klemenzii,2015,10,ungrazed,10,,,Arthropoda,,,,richness,mean,4.98630137
+2595,S. grandis,2015,10,ungrazed,24,,,Arthropoda,,,,richness,mean,8.602739726
+2595,L. chinensis,2015,10,ungrazed,24,,,Arthropoda,,,,richness,mean,5.643835616
+2595,Meadow,2015,10,ungrazed,24,,,Arthropoda,,,,richness,mean,7.98630137
+2595,S. klemenzii,2015,10,ungrazed,10,,,Arthropoda,,,,richness,se,0.657534247
+2595,S. grandis,2015,10,ungrazed,24,,,Arthropoda,,,,richness,se,0.328767123
+2595,L. chinensis,2015,10,ungrazed,24,,,Arthropoda,,,,richness,se,0.287671233
+2595,Meadow,2015,10,ungrazed,24,,,Arthropoda,,,,richness,se,0.98630137
+2595,S. klemenzii,2015,10,grazed,,,,Arthropoda,,,,richness,mean,5.479452055
+2595,S. grandis,2015,10,grazed,,,,Arthropoda,,,,richness,mean,7.328767123
+2595,L. chinensis,2015,10,grazed,,,,Arthropoda,,,,richness,mean,8.02739726
+2595,Meadow,2015,10,grazed,,,,Arthropoda,,,,richness,mean,8.02739726
+2595,S. klemenzii,2015,10,grazed,,,,Arthropoda,,,,richness,se,0.410958904
+2595,S. grandis,2015,10,grazed,,,,Arthropoda,,,,richness,se,0.328767123
+2595,L. chinensis,2015,10,grazed,,,,Arthropoda,,,,richness,se,?
+2595,Meadow,2015,10,grazed,,,,Arthropoda,,,,richness,se,?
+2595,S. klemenzii,2015,10,ungrazed,10,,,Arthropoda,,,,diversity (H),mean,0.739726027
+2595,S. grandis,2015,10,ungrazed,24,,,Arthropoda,,,,diversity (H),mean,1.726027397
+2595,L. chinensis,2015,10,ungrazed,24,,,Arthropoda,,,,diversity (H),mean,1.315068493
+2595,Meadow,2015,10,ungrazed,24,,,Arthropoda,,,,diversity (H),mean,1.095890411
+2595,S. klemenzii,2015,10,ungrazed,10,,,Arthropoda,,,,diversity (H),se,0.191780822
+2595,S. grandis,2015,10,ungrazed,24,,,Arthropoda,,,,diversity (H),se,0.04109589
+2595,L. chinensis,2015,10,ungrazed,24,,,Arthropoda,,,,diversity (H),se,0.123287671
+2595,Meadow,2015,10,ungrazed,24,,,Arthropoda,,,,diversity (H),se,0.082191781
+2595,S. klemenzii,2015,10,grazed,,,,Arthropoda,,,,diversity (H),mean,0.219178082
+2595,S. grandis,2015,10,grazed,,,,Arthropoda,,,,diversity (H),mean,0.95890411
+2595,L. chinensis,2015,10,grazed,,,,Arthropoda,,,,diversity (H),mean,1.232876712
+2595,Meadow,2015,10,grazed,,,,Arthropoda,,,,diversity (H),mean,1.260273973
+2595,S. klemenzii,2015,10,grazed,,,,Arthropoda,,,,diversity (H),se,0.01369863
+2595,S. grandis,2015,10,grazed,,,,Arthropoda,,,,diversity (H),se,0.095890411
+2595,L. chinensis,2015,10,grazed,,,,Arthropoda,,,,diversity (H),se,0.095890411
+2595,Meadow,2015,10,grazed,,,,Arthropoda,,,,diversity (H),se,0.164383562
