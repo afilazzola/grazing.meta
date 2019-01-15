@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+184,mainsite,1991,12,ungrazed,50,,,aves,,,,bird species per plot,mean,11.67
+184,mainsite,1992,12,ungrazed,50,,,aves,,,,bird species per plot,mean,10.66
+184,mainsite,1993,12,ungrazed,50,,,aves,,,,bird species per plot,mean,12.55
+184,mainsite,1991,12,ungrazed,50,,,aves,,,,bird species per plot,se,1.16
+184,mainsite,1992,12,ungrazed,50,,,aves,,,,bird species per plot,se,0.66
+184,mainsite,1993,12,ungrazed,50,,,aves,,,,bird species per plot,se,1.01
+184,mainsite,1991,12,grazed,0,,,aves,,,,bird species per plot,mean,7.29
+184,mainsite,1992,12,grazed,0,,,aves,,,,bird species per plot,mean,7.21
+184,mainsite,1993,12,grazed,0,,,aves,,,,bird species per plot,mean,10.89
+184,mainsite,1991,12,grazed,0,,,aves,,,,bird species per plot,se,0.28
+184,mainsite,1992,12,grazed,0,,,aves,,,,bird species per plot,se,1.38
+184,mainsite,1993,12,grazed,0,,,aves,,,,bird species per plot,se,1.08
