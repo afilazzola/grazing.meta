@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+213,,1997,12,ungrazed,30,,,,,,,Microbial respiration (ug / g),mean,507
+213,,1997,12,ungrazed,30,,,,,,,Microbial respiration (ug / g),se,66
+213,,1997,12,grazed,0,,,,,,,Microbial respiration (ug / g),mean,363.3
+213,,1997,12,grazed,0,,,,,,,Microbial respiration (ug / g),se,79.9
