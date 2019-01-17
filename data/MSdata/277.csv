@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+277,Dutch butterfly Monitoring Project,1992,11,grazed,0,stocking rate,0.16,Lepidoptera,,,,abundance,mean,17
+277,Dutch butterfly Monitoring Project,1992,11,grazed,0,stocking rate,0.16,Lepidoptera,,,,abundance,sd,5.5
+277,Dutch butterfly Monitoring Project,1992,7,ungrazed,none,stocking rate,0,Lepidoptera,,,,abundance,mean,17.4
+277,Dutch butterfly Monitoring Project,1992,7,grazed,none,stocking rate,0,Lepidoptera,,,,abundance,sd,4
