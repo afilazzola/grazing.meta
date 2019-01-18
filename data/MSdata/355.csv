@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+355,San Joaquin Experimental Range,1993,30,grazed,0,,,Aves,Melozone,crissalis,,number of territories,mean,4.38
+355,San Joaquin Experimental Range,1993,30,grazed,0,,,Aves,Melozone,crissalis,,number of territories,se,0.58
+355,San Joaquin Experimental Range,1993,30,ungrazed,59,,,Aves,Melozone,crissalis,,number of territories,mean,6.22
+355,San Joaquin Experimental Range,1993,30,ungrazed,59,,,Aves,Melozone,crissalis,,number of territories,se,0.66
+355,San Joaquin Experimental Range,1993,45,grazed,0,,,Aves,Melozone,crissalis,,daily mortality rate,mean,0.0288
+355,San Joaquin Experimental Range,1993,45,grazed,0,,,Aves,Melozone,crissalis,,daily mortality rate,se,0.0069
+355,San Joaquin Experimental Range,1993,45,ungrazed,59,,,Aves,Melozone,crissalis,,daily mortality rate,mean,0.0739
+355,San Joaquin Experimental Range,1993,45,ungrazed,59,,,Aves,Melozone,crissalis,,daily mortality rate,se,0.0139
+355,San Joaquin Experimental Range,1993,45,grazed,0,,,Aves,Melozone,crissalis,,daily predation rate,mean,0.0254
+355,San Joaquin Experimental Range,1993,45,grazed,0,,,Aves,Melozone,crissalis,,daily predation rate,se,65
+355,San Joaquin Experimental Range,1993,45,ungrazed,59,,,Aves,Melozone,crissalis,,daily predation rate,mean,0.071
+355,San Joaquin Experimental Range,1993,45,ungrazed,59,,,Aves,Melozone,crissalis,,daily predation rate,se,0.0137

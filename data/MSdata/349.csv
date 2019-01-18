@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+349,multisite,1988,15,grazed,0,,,Coleoptera,,,,Shannon-Diversity,mean,1.966
+349,multisite,1988,15,grazed,0,,,Coleoptera,,,,Shannon-Diversity,se,0.1089
+349,multisite,1988,15,ungrazed,0,,,Coleoptera,,,,Shannon-Diversity,mean,1.624
+349,multisite,1988,15,ungrazed,0,,,Coleoptera,,,,Shannon-Diversity,se,0.1549
