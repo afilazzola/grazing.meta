@@ -1,0 +1,33 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+228,high site,,4,high,0,stocking rate / distance from water,0.09,plants,,,,percent cover,mean,1.51
+228,low site,,4,low,0,stocking rate / distance from water,0.01,plants,,,,percent cover,mean,2.82
+228,high site,,4,high,0,stocking rate / distance from water,0.09,reptiles,,,,abundance,mean,20.8
+228,low site,,4,low,0,stocking rate / distance from water,0.01,reptiles,,,,abundance,mean,24.8
+228,high site,,4,high,0,stocking rate / distance from water,0.09,mammals,,,,abundance,mean,0.1
+228,low site,,4,low,0,stocking rate / distance from water,0.01,mammals,,,,abundance,mean,0.5
+228,high site,,4,high,0,stocking rate / distance from water,0.09,amphibians,,,,abundance,mean,0.1
+228,low site,,4,low,0,stocking rate / distance from water,0.01,amphibians,,,,abundance,mean,0.3
+228,high site,,4,high,0,stocking rate / distance from water,0.09,reptiles,,,,richness,mean,5
+228,low site,,4,low,0,stocking rate / distance from water,0.01,reptiles,,,,richness,mean,6.1
+228,high site,,4,high,0,stocking rate / distance from water,0.09,mammals,,,,richness,mean,0.1
+228,low site,,4,low,0,stocking rate / distance from water,0.01,mammals,,,,richness,mean,0.4
+228,high site,,4,high,0,stocking rate / distance from water,0.09,amphibians,,,,richness,mean,0.1
+228,low site,,4,low,0,stocking rate / distance from water,0.01,amphibians,,,,richness,mean,0.2
+228,high site,,4,high,0,stocking rate / distance from water,0.09,amphibians,,,,richness,mean,20.9
+228,low site,,4,low,0,stocking rate / distance from water,0.01,amphibians,,,,richness,mean,25.8
+228,high site,,4,high,0,stocking rate / distance from water,0.09,plants,,,,percent cover,se,0.535
+228,low site,,4,low,0,stocking rate / distance from water,0.01,plants,,,,percent cover,se,0.685
+228,high site,,4,high,0,stocking rate / distance from water,0.09,reptiles,,,,abundance,se,4.6
+228,low site,,4,low,0,stocking rate / distance from water,0.01,reptiles,,,,abundance,se,6.3
+228,high site,,4,high,0,stocking rate / distance from water,0.09,mammals,,,,abundance,se,0.1
+228,low site,,4,low,0,stocking rate / distance from water,0.01,mammals,,,,abundance,se,0.27
+228,high site,,4,high,0,stocking rate / distance from water,0.09,amphibians,,,,abundance,se,0.1
+228,low site,,4,low,0,stocking rate / distance from water,0.01,amphibians,,,,abundance,se,0.2
+228,high site,,4,high,0,stocking rate / distance from water,0.09,reptiles,,,,richness,se,0.8
+228,low site,,4,low,0,stocking rate / distance from water,0.01,reptiles,,,,richness,se,0.65
+228,high site,,4,high,0,stocking rate / distance from water,0.09,mammals,,,,richness,se,0.1
+228,low site,,4,low,0,stocking rate / distance from water,0.01,mammals,,,,richness,se,0.2
+228,high site,,4,high,0,stocking rate / distance from water,0.09,amphibians,,,,richness,se,0.1
+228,low site,,4,low,0,stocking rate / distance from water,0.01,amphibians,,,,richness,se,0.15
+228,high site,,4,high,0,stocking rate / distance from water,0.09,amphibians,,,,richness,se,2.2
+228,low site,,4,low,0,stocking rate / distance from water,0.01,amphibians,,,,richness,se,1.65

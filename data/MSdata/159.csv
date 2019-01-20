@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+159,1,1994,16,grazed,0,animals per hectare,0.19,rodents,,,,trapped individuals,mean,6.63
+159,1,1994,16,grazed,0,animals per hectare,0.19,rodents,,,,trapped individuals,se,0.92
+159,1,1994,16,ungrazed,3,animals per hectare,0.19,rodents,,,,trapped individuals,mean,5.56
+159,1,1994,16,ungrazed,3,animals per hectare,0.19,rodents,,,,trapped individuals,se,0.96

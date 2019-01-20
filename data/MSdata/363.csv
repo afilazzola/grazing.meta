@@ -1,0 +1,23 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+363,spring 1,1998,16,grazed,0,,,plants,,,,plant height (cm),mean,8.8
+363,spring 1,1998,16,grazed,0,,,plants,,,,plant height (cm),se,0.6
+363,spring 1,1998,16,ungrazed,15,,,plants,,,,plant height (cm),mean,40
+363,spring 1,1998,16,ungrazed,15,,,plants,,,,plant height (cm),se,2.6
+363,spring 2,1998,16,grazed,0,,,plants,,,,plant height (cm),mean,15.1
+363,spring 2,1998,16,grazed,0,,,plants,,,,plant height (cm),se,1.2
+363,spring 2,1998,16,ungrazed,15,,,plants,,,,plant height (cm),mean,42.7
+363,spring 2,1998,16,ungrazed,15,,,plants,,,,plant height (cm),se,3.5
+363,spring 1,1998,16,grazed,0,,,rodents,Peromyscus,maniculatus,,trapped individuals,count,0
+363,spring 1,1998,16,ungrazed,15,,,rodents,Peromyscus,maniculatus,,trapped individuals,count,1
+363,spring 2,1998,16,grazed,0,,,rodents,Peromyscus,maniculatus,,trapped individuals,count,5
+363,spring 2,1998,16,grazed,0,,,rodents,Microtus,longicaudus,,trapped individuals,count,1
+363,spring 2,1998,16,grazed,0,,,rodents,Lemmiscus,curtatus,,trapped individuals,count,0
+363,spring 2,1998,16,grazed,0,,,rodents,Tamias,sp.,,trapped individuals,count,0
+363,spring 2,1998,16,ungrazed,15,,,rodents,Peromyscus,maniculatus,,trapped individuals,count,6
+363,spring 2,1998,16,ungrazed,15,,,rodents,Microtus,longicaudus,,trapped individuals,count,1
+363,spring 2,1998,16,ungrazed,15,,,rodents,Lemmiscus,curtatus,,trapped individuals,count,1
+363,spring 2,1998,16,ungrazed,15,,,rodents,Tamias,sp.,,trapped individuals,count,1
+363,spring 3,1998,16,grazed,0,,,rodents,Peromyscus,maniculatus,,trapped individuals,count,3
+363,spring 3,1998,16,grazed,0,,,rodents,Tamias,sp.,,trapped individuals,count,1
+363,spring 3,1998,16,ungrazed,15,,,rodents,Peromyscus,maniculatus,,trapped individuals,count,0
+363,spring 3,1998,16,ungrazed,15,,,rodents,Tamias,sp.,,trapped individuals,count,1

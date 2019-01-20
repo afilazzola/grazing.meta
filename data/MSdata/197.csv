@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+197,bush,2001,4,ungrazed,2,,,plants,,,,ANPP,mean,122
+197,bush,2001,4,ungrazed,2,,,plants,,,,ANPP,se,24
+197,bush,2001,4,grazed,0,,,plants,,,,ANPP,mean,63
+197,bush,2001,4,grazed,0,,,plants,,,,ANPP,se,12
+197,glade,2001,4,ungrazed,2,,,plants,,,,ANPP,mean,251
+197,glade,2001,4,ungrazed,2,,,plants,,,,ANPP,se,56
+197,glade,2001,4,grazed,0,,,plants,,,,ANPP,mean,302
+197,glade,2001,4,grazed,0,,,plants,,,,ANPP,se,73
+197,bush,2001,4,ungrazed,2,,,soil microbes,,,,microbial respiration (ug / g soil),mean,64.3
+197,bush,2001,4,ungrazed,2,,,soil microbes,,,,microbial respiration (ug / g soil),se,3.1
+197,bush,2001,4,grazed,0,,,soil microbes,,,,microbial respiration (ug / g soil),mean,84.5
+197,bush,2001,4,grazed,0,,,soil microbes,,,,microbial respiration (ug / g soil),se,14.3
+197,glade,2001,4,ungrazed,2,,,soil microbes,,,,microbial respiration (ug / g soil),mean,80.3
+197,glade,2001,4,ungrazed,2,,,soil microbes,,,,microbial respiration (ug / g soil),se,19.4
+197,glade,2001,4,grazed,0,,,soil microbes,,,,microbial respiration (ug / g soil),mean,93.3
+197,glade,2001,4,grazed,0,,,soil microbes,,,,microbial respiration (ug / g soil),se,8.5

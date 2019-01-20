@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+188,Ru-Wu,1992,8,ungrazed,,,,aves,,,,richness,mean,20.62
+188,Ru-Wu,1992,8,ungrazed,,,,aves,,,,richness,se,1.77
+188,R-W,1992,8,grazed,,,,aves,,,,richness,mean,20.14
+188,R-W,1992,8,grazed,,,,aves,,,,richness,se,2.01
+188,Ru-Wu,1992,8,ungrazed,,,,aves,,,,abundance,mean,12.4
+188,Ru-Wu,1992,8,ungrazed,,,,aves,,,,abundance,se,122.9
+188,R-W,1992,8,grazed,,,,aves,,,,abundance,mean,90.37
+188,R-W,1992,8,grazed,,,,aves,,,,abundance,se,10.93

@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+237, Joatka Research Area,1991,4,grazed,0,,,microbial,,,,microbial N (ug / g),mean,439.7
+237, Joatka Research Area,1991,4,grazed,0,,,microbial,,,,microbial N (ug / g),se,116.3
+237, Joatka Research Area,1991,4,ungrazed,1,,,microbial,,,,microbial N (ug / g),mean,611.4
+237, Joatka Research Area,1991,4,ungrazed,1,,,microbial,,,,microbial N (ug / g),se,20.2
+237, Joatka Research Area,1991,4,grazed,0,,,microbial,,,,microbial P (ug / g),mean,48.3
+237, Joatka Research Area,1991,4,grazed,0,,,microbial,,,,microbial P (ug / g),se,21.7
+237, Joatka Research Area,1991,4,ungrazed,1,,,microbial,,,,microbial P (ug / g),mean,90
+237, Joatka Research Area,1991,4,ungrazed,1,,,microbial,,,,microbial P (ug / g),se,20

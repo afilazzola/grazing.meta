@@ -1,0 +1,23 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+311,7-spring,2000,5,ungrazed,,livestock units,0,Auchenorrhyncha,,,,abundance,count,4472
+311,16-spring,2000,5,ungrazed,,livestock units,0,Auchenorrhyncha,,,,abundance,count,1763
+311,23-spring,2000,5,ungrazed,,livestock units,0,Auchenorrhyncha,,,,abundance,count,722
+311,22-spring,2000,5,ungrazed,,livestock units,0,Auchenorrhyncha,,,,abundance,count,583
+311,7-summer,2000,5,ungrazed,,livestock units,0,Auchenorrhyncha,,,,abundance,count,1833
+311,16-summer,2000,5,ungrazed,,livestock units,0,Auchenorrhyncha,,,,abundance,count,1083
+311,23-summer,2000,5,ungrazed,,livestock units,0,Auchenorrhyncha,,,,abundance,count,1055
+311,22-summer,2000,5,ungrazed,,livestock units,0,Auchenorrhyncha,,,,abundance,count,1472
+311,15-spring,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,4083
+311,18-spring,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,1638
+311,17-spring,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,513
+311,14-spring,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,416
+311,13-spring,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,388
+311,11-spring,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,319
+311,20-spring,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,180
+311,15-summer,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,2888
+311,18-summer,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,972
+311,17-summer,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,416
+311,14-summer,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,1097
+311,13-summer,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,791
+311,11-summer,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,1333
+311,20-summer,2000,8,grazed,,livestock units,1.05,Auchenorrhyncha,,,,abundance,count,1611

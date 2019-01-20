@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+351,multisite,1997,4,ungrazed,19,stocking rate per ha,0,Insecta,,,,richness,mean,47
+351,multisite,1997,4,ungrazed,19,stocking rate per ha,0,Insecta,,,,richness,se,4.63
+351,multisite,1997,4,ungrazed,19,stocking rate per ha,0,Insecta,,,,abundance,mean,1208.3
+351,multisite,1997,4,ungrazed,19,stocking rate per ha,0,Insecta,,,,abundance,se,262.4
+351,multisite,1997,4,ungrazed,19,stocking rate per ha,0,Insecta,,,,diversity,mean,2.632
+351,multisite,1997,4,ungrazed,19,stocking rate per ha,0,Insecta,,,,diversity,se,0.33
+351,multisite,1997,4,ungrazed,19,stocking rate per ha,0,Insecta,,,,evenness,mean,0.685
+351,multisite,1997,4,ungrazed,19,stocking rate per ha,0,Insecta,,,,evenness,se,0.09
+351,multisite,1997,4,grazed,19,stocking rate per ha,0.375,Insecta,,,,richness,mean,24.75
+351,multisite,1997,4,grazed,19,stocking rate per ha,0.375,Insecta,,,,richness,se,2.86
+351,multisite,1997,4,grazed,19,stocking rate per ha,0.375,Insecta,,,,abundance,mean,747.3
+351,multisite,1997,4,grazed,19,stocking rate per ha,0.375,Insecta,,,,abundance,se,296.4
+351,multisite,1997,4,grazed,19,stocking rate per ha,0.375,Insecta,,,,diversity,mean,1.935
+351,multisite,1997,4,grazed,19,stocking rate per ha,0.375,Insecta,,,,diversity,se,0.27
+351,multisite,1997,4,grazed,19,stocking rate per ha,0.375,Insecta,,,,evenness,mean,0.608
+351,multisite,1997,4,grazed,19,stocking rate per ha,0.375,Insecta,,,,evenness,se,0.1

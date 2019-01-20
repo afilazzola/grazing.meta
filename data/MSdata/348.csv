@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+348,Mid Yare RSPB Reserve,1998,18,grazed,0,livestock units per ha,0.65,plants,,,,biomass (g / m2),mean,1503
+348,Mid Yare RSPB Reserve,1998,18,grazed,0,livestock units per ha,0.65,plants,,,,biomass (g / m2),se,175
+348,Mid Yare RSPB Reserve,1998,18,ungrazed,2,livestock units per ha,0.65,plants,,,,biomass (g / m2),mean,2602
+348,Mid Yare RSPB Reserve,1998,18,ungrazed,2,livestock units per ha,0.65,plants,,,,biomass (g / m2),se,368
+348,Mid Yare RSPB Reserve,1998,18,grazed,0,livestock units per ha,0.65,mollusca,,,,richness,mean,2.5
+348,Mid Yare RSPB Reserve,1998,18,grazed,0,livestock units per ha,0.65,mollusca,,,,richness,se,0.4
+348,Mid Yare RSPB Reserve,1998,18,ungrazed,2,livestock units per ha,0.65,mollusca,,,,richness,mean,5.1
+348,Mid Yare RSPB Reserve,1998,18,ungrazed,2,livestock units per ha,0.65,mollusca,,,,richness,se,0.3
+348,Mid Yare RSPB Reserve,1998,18,grazed,0,livestock units per ha,0.65,mollusca,,,,density (no / m2),mean,32.9
+348,Mid Yare RSPB Reserve,1998,18,grazed,0,livestock units per ha,0.65,mollusca,,,,density (no / m2),se,7
+348,Mid Yare RSPB Reserve,1998,18,ungrazed,2,livestock units per ha,0.65,mollusca,,,,density (no / m2),mean,57.3
+348,Mid Yare RSPB Reserve,1998,18,ungrazed,2,livestock units per ha,0.65,mollusca,,,,density (no / m2),se,15
