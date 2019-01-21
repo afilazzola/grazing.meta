@@ -1,0 +1,29 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+374,native,2003,5,ungrazed,1,frequency (per year),0,plants,,,native,percent cover,mean,12.5
+374,native,2003,5,ungrazed,1,frequency (per year),0,plants,,,native,percent cover,se,2
+374,grazed,2003,9,grazed,0,frequency (per year),1,plants,,,native,percent cover,mean,1.5
+374,grazed,2003,9,grazed,0,frequency (per year),1,plants,,,native,percent cover,se,0.4
+374,native,2003,5,ungrazed,1,frequency (per year),0,plants,,,non-native,percent cover,mean,5.8
+374,native,2003,5,ungrazed,1,frequency (per year),0,plants,,,non-native,percent cover,se,1.7
+374,grazed,2003,9,grazed,0,frequency (per year),1,plants,,,non-native,percent cover,mean,21.7
+374,grazed,2003,9,grazed,0,frequency (per year),1,plants,,,non-native,percent cover,se,2.6
+374,native,2003,5,ungrazed,1,frequency (per year),0,moss/lichen,,,,percent cover,mean,32.8
+374,native,2003,5,ungrazed,1,frequency (per year),0,moss/lichen,,,,percent cover,se,2.2
+374,grazed,2003,9,grazed,0,frequency (per year),1,moss/lichen,,,,percent cover,mean,13.6
+374,grazed,2003,9,grazed,0,frequency (per year),1,moss/lichen,,,,percent cover,se,3.2
+374,native,2003,5,ungrazed,1,frequency (per year),0,aves,Melanodryas,cucullata,,perch height (cm),mean,278
+374,native,2003,5,ungrazed,1,frequency (per year),0,aves,Melanodryas,cucullata,,perch height (cm),se,42
+374,grazed,2003,9,grazed,0,frequency (per year),1,aves,Melanodryas,cucullata,,perch height (cm),mean,196
+374,grazed,2003,9,grazed,0,frequency (per year),1,aves,Melanodryas,cucullata,,perch height (cm),se,23
+374,native,2003,5,ungrazed,1,frequency (per year),0,aves,Melanodryas,cucullata,,perch height (cm),mean,193
+374,native,2003,5,ungrazed,1,frequency (per year),0,aves,Melanodryas,cucullata,,perch height (cm),se,23
+374,grazed,2003,9,grazed,0,frequency (per year),1,aves,Melanodryas,cucullata,,perch height (cm),mean,151
+374,grazed,2003,9,grazed,0,frequency (per year),1,aves,Melanodryas,cucullata,,perch height (cm),se,17
+374,native,2003,5,ungrazed,1,frequency (per year),0,aves,Petroica,goodenovii,,perch height (cm),mean,136
+374,native,2003,5,ungrazed,1,frequency (per year),0,aves,Petroica,goodenovii,,perch height (cm),se,17
+374,grazed,2003,9,grazed,0,frequency (per year),1,aves,Petroica,goodenovii,,perch height (cm),mean,128
+374,grazed,2003,9,grazed,0,frequency (per year),1,aves,Petroica,goodenovii,,perch height (cm),se,10
+374,native,2003,5,ungrazed,1,frequency (per year),0,aves,Petroica,goodenovii,,perch height (cm),mean,185
+374,native,2003,5,ungrazed,1,frequency (per year),0,aves,Petroica,goodenovii,,perch height (cm),se,22
+374,grazed,2003,9,grazed,0,frequency (per year),1,aves,Petroica,goodenovii,,perch height (cm),mean,152
+374,grazed,2003,9,grazed,0,frequency (per year),1,aves,Petroica,goodenovii,,perch height (cm),se,13

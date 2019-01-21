@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+373,multisite,2000,11,ungrazed,2,cattle per ha,0,plants,,,,vegetation height (PCA value),mean,0.74
+373,multisite,2000,11,ungrazed,2,cattle per ha,0,plants,,,,vegetation height (PCA value),se,0.07
+373,multisite,2000,11,grazed,0,cattle per ha,6,plants,,,,vegetation height (PCA value),mean,-0.74
+373,multisite,2000,11,grazed,0,cattle per ha,6,plants,,,,vegetation height (PCA value),se,0.84
+373,multisite,2000,11,ungrazed,2,cattle per ha,0,rodents,,,,abundance,mean,5.97
+373,multisite,2000,11,ungrazed,2,cattle per ha,0,rodents,,,,abundance,se,15.65
+373,multisite,2000,11,grazed,0,cattle per ha,6,rodents,,,,abundance,mean,0.106
+373,multisite,2000,11,grazed,0,cattle per ha,6,rodents,,,,abundance,se,0.796
