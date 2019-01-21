@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2947,,,Moderate,grazed,0,ha/Adult Equivalent,4-6,Reptilia,,,,abundance,mean,14.63755459
+2947,,,Heavy,grazed,0,ha/Adult Equivalent,8-10,Reptilia,,,,abundance,mean,14.10917031
+2947,,,Moderate,grazed,0,ha/Adult Equivalent,4-6,Reptilia,,,,abundance,se,1.873362445
+2947,,,Heavy,grazed,0,ha/Adult Equivalent,8-10,Reptilia,,,,abundance,se,1.537117904
+2947,,,Moderate,grazed,0,ha/Adult Equivalent,4-6,Reptilia,,,,abundance,n,6
+2947,,,Heavy,grazed,0,ha/Adult Equivalent,8-10,Reptilia,,,,abundance,n,6
+2947,,,Moderate,grazed,0,ha/Adult Equivalent,4-6,Reptilia,,,,richness,mean,4.010204082
+2947,,,Heavy,grazed,0,ha/Adult Equivalent,8-10,Reptilia,,,,richness,mean,3.704081633
+2947,,,Moderate,grazed,0,ha/Adult Equivalent,4-6,Reptilia,,,,richness,se,0.153061224
+2947,,,Heavy,grazed,0,ha/Adult Equivalent,8-10,Reptilia,,,,richness,se,0.397959184
+2947,,,Moderate,grazed,0,ha/Adult Equivalent,4-6,Reptilia,,,,richness,n,6
+2947,,,Heavy,grazed,0,ha/Adult Equivalent,8-10,Reptilia,,,,richness,n,6
