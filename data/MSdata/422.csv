@@ -1,0 +1,27 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+422,,2000,12,grazed,0,,,Plants,,,,total cover (%),mean,22.4
+422,,2000,12,grazed,0,,,Plants,,,,total cover (%),se,2.34
+422,,2000,12,ungrazed,41,,,Plants,,,,total cover (%),mean,30.1
+422,,2000,12,ungrazed,41,,,Plants,,,,total cover (%),se,2.8
+422,,2000,12,grazed,0,,,Plants,,,,total cover (%),mean,22.4
+422,,2000,12,grazed,0,,,Plants,,,,total cover (%),se,2.34
+422,,2000,12,ungrazed,41,,,Plants,,,,total cover (%),mean,30.1
+422,,2000,12,ungrazed,41,,,Plants,,,,total cover (%),se,2.8
+422,,2000,5,ungrazed,41,,,mammals,Dipodomys,merriami,,abundance,count,74
+422,,2000,5,ungrazed,41,,,mammals,Dipodomys,ordii,,abundance,count,2
+422,,2000,5,ungrazed,41,,,mammals,Chaetodipus,baylei,,abundance,count,7
+422,,2000,5,ungrazed,41,,,mammals,Chaetodipus,penicillatus,,abundance,count,11
+422,,2000,5,ungrazed,41,,,mammals,Perognathus,flavus,,abundance,count,1
+422,,2000,5,ungrazed,41,,,mammals,Neotoma,albigula,,abundance,count,4
+422,,2000,5,ungrazed,41,,,mammals,Onychomys,torridus,,abundance,count,4
+422,,2000,5,ungrazed,41,,,mammals,Onychomys,leucogaster,,abundance,count,1
+422,,2000,5,ungrazed,41,,,mammals,Reithrodontomys,megalotis,,abundance,count,1
+422,,2000,5,grazed,0,,,mammals,Dipodomys,merriami,,abundance,count,77
+422,,2000,5,grazed,0,,,mammals,Dipodomys,ordii,,abundance,count,1
+422,,2000,5,grazed,0,,,mammals,Chaetodipus,baylei,,abundance,count,0
+422,,2000,5,grazed,0,,,mammals,Chaetodipus,penicillatus,,abundance,count,1
+422,,2000,5,grazed,0,,,mammals,Perognathus,flavus,,abundance,count,0
+422,,2000,5,grazed,0,,,mammals,Neotoma,albigula,,abundance,count,3
+422,,2000,5,grazed,0,,,mammals,Onychomys,torridus,,abundance,count,3
+422,,2000,5,grazed,0,,,mammals,Onychomys,leucogaster,,abundance,count,0
+422,,2000,5,grazed,0,,,mammals,Reithrodontomys,megalotis,,abundance,count,0
