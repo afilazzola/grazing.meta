@@ -1,0 +1,55 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Anthus,spragueii,Native,Frequency of Occurence,Mean,16.7
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Anthus,spragueii,Native,Frequency of Occurence,Standard Deviation,8.8
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Anthus,spragueii,Native,Frequency of Occurence,n,3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Spizella,pallida,Native,Frequency of Occurence,Mean,88.3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Spizella,pallida,Native,Frequency of Occurence,Standard Deviation,7.3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Spizella,pallida,Native,Frequency of Occurence,n,3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Pooecetes,gramineus,Native,Frequency of Occurence,Mean,10.3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Pooecetes,gramineus,Native,Frequency of Occurence,Standard Deviation,2.9
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Pooecetes,gramineus,Native,Frequency of Occurence,n,3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Passerculus,sandwichensis,Native,Frequency of Occurence,Mean,93.3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Passerculus,sandwichensis,Native,Frequency of Occurence,Standard Deviation,3.3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Passerculus,sandwichensis,Native,Frequency of Occurence,n,3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Ammodramus,leconteii,Native,Frequency of Occurence,Mean,60.7
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Ammodramus,leconteii,Native,Frequency of Occurence,Standard Deviation,22.5
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Ammodramus,leconteii,Native,Frequency of Occurence,n,3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Ammodramus,savannarum,Native,Frequency of Occurence,Mean,50
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Ammodramus,savannarum,Native,Frequency of Occurence,Standard Deviation,25.5
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Ammodramus,savannarum,Native,Frequency of Occurence,n,3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Dolichonyx,oryzivorus,Native,Frequency of Occurence,Mean,57.3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Dolichonyx,oryzivorus,Native,Frequency of Occurence,Standard Deviation,19.7
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Dolichonyx,oryzivorus,Native,Frequency of Occurence,n,3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Sturnella,neglecta,Native,Frequency of Occurence,Mean,25
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Sturnella,neglecta,Native,Frequency of Occurence,Standard Deviation,13.2
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Sturnella,neglecta,Native,Frequency of Occurence,n,3
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Molothus,ater,Native,Frequency of Occurence,Mean,25
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Molothus,ater,Native,Frequency of Occurence,Standard Deviation,13.2
+2757,,1994,Ungrazed,Ungrazed,,,,Aves,Molothus,ater,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Anthus,spragueii,Native,Frequency of Occurence,Mean,30
+2757,,1997,Grazed,Grazed,,,,Aves,Anthus,spragueii,Native,Frequency of Occurence,Standard Deviation,17.3
+2757,,1997,Grazed,Grazed,,,,Aves,Anthus,spragueii,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Spizella,pallida,Native,Frequency of Occurence,Mean,82.2
+2757,,1997,Grazed,Grazed,,,,Aves,Spizella,pallida,Native,Frequency of Occurence,Standard Deviation,9.6
+2757,,1997,Grazed,Grazed,,,,Aves,Spizella,pallida,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Pooecetes,gramineus,Native,Frequency of Occurence,Mean,12.2
+2757,,1997,Grazed,Grazed,,,,Aves,Pooecetes,gramineus,Native,Frequency of Occurence,Standard Deviation,9
+2757,,1997,Grazed,Grazed,,,,Aves,Pooecetes,gramineus,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Passerculus,sandwichensis,Native,Frequency of Occurence,Mean,96.6
+2757,,1997,Grazed,Grazed,,,,Aves,Passerculus,sandwichensis,Native,Frequency of Occurence,Standard Deviation,3.3
+2757,,1997,Grazed,Grazed,,,,Aves,Passerculus,sandwichensis,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Ammodramus,bairdii,Native,Frequency of Occurence,Mean,57.7
+2757,,1997,Grazed,Grazed,,,,Aves,Ammodramus,bairdii,Native,Frequency of Occurence,Standard Deviation,18.9
+2757,,1997,Grazed,Grazed,,,,Aves,Ammodramus,bairdii,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Ammodramus,savannarum,Native,Frequency of Occurence,Mean,43.3
+2757,,1997,Grazed,Grazed,,,,Aves,Ammodramus,savannarum,Native,Frequency of Occurence,Standard Deviation,20.2
+2757,,1997,Grazed,Grazed,,,,Aves,Ammodramus,savannarum,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Dolichonyx,oryzivorus,Native,Frequency of Occurence,Mean,54.4
+2757,,1997,Grazed,Grazed,,,,Aves,Dolichonyx,oryzivorus,Native,Frequency of Occurence,Standard Deviation,17.2
+2757,,1997,Grazed,Grazed,,,,Aves,Dolichonyx,oryzivorus,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Sturnella,neglecta,Native,Frequency of Occurence,Mean,23.3
+2757,,1997,Grazed,Grazed,,,,Aves,Sturnella,neglecta,Native,Frequency of Occurence,Standard Deviation,8.8
+2757,,1997,Grazed,Grazed,,,,Aves,Sturnella,neglecta,Native,Frequency of Occurence,n,3
+2757,,1997,Grazed,Grazed,,,,Aves,Molothus,ater,Native,Frequency of Occurence,Mean,60
+2757,,1997,Grazed,Grazed,,,,Aves,Molothus,ater,Native,Frequency of Occurence,Standard Deviation,17.3
+2757,,1997,Grazed,Grazed,,,,Aves,Molothus,ater,Native,Frequency of Occurence,n,3
