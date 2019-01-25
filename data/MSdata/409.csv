@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+409,Multisite,1985,30,none,NA,grazing intensity,0,Aves,tringa,totanus,native,breeding density (pairs per km2),mean,39.4
+409,Multisite,1985,8,low,0,grazing intensity,1,Aves,tringa,totanus,native,breeding density (pairs per km2),mean,49.68
+409,Multisite,1985,14,medium,0,grazing intensity,2,Aves,tringa,totanus,native,breeding density (pairs per km2),mean,40.625
+409,Multisite,1985,16,high,0,grazing intensity,3,Aves,tringa,totanus,native,breeding density (pairs per km2),mean,3.43
+409,Multisite,1985,30,none,NA,grazing intensity,0,Aves,tringa,totanus,native,breeding density (pairs per km2),se,4.35
+409,Multisite,1985,8,low,0,grazing intensity,1,Aves,tringa,totanus,native,breeding density (pairs per km2),se,5.94
+409,Multisite,1985,14,medium,0,grazing intensity,2,Aves,tringa,totanus,native,breeding density (pairs per km2),se,7.185
+409,Multisite,1985,16,high,0,grazing intensity,3,Aves,tringa,totanus,native,breeding density (pairs per km2),se,2.82
+409,Multisite,1996,30,none,NA,grazing intensity,0,Aves,tringa,totanus,native,breeding density (pairs per km2),mean,42.95
+409,Multisite,1985,8,low,0,grazing intensity,1,Aves,tringa,totanus,native,breeding density (pairs per km2),mean,50.05
+409,Multisite,1985,14,medium,0,grazing intensity,2,Aves,tringa,totanus,native,breeding density (pairs per km2),mean,24.83
+409,Multisite,1985,16,high,0,grazing intensity,3,Aves,tringa,totanus,native,breeding density (pairs per km2),mean,22.07
+409,Multisite,1985,30,none,NA,grazing intensity,0,Aves,tringa,totanus,native,breeding density (pairs per km2),se,5.91
+409,Multisite,1985,8,low,0,grazing intensity,1,Aves,tringa,totanus,native,breeding density (pairs per km2),se,18.52
+409,Multisite,1985,14,medium,0,grazing intensity,2,Aves,tringa,totanus,native,breeding density (pairs per km2),se,8.27
+409,Multisite,1985,16,high,0,grazing intensity,3,Aves,tringa,totanus,native,breeding density (pairs per km2),se,5.91

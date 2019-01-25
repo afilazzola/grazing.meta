@@ -1,0 +1,103 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Quadroppiidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Quadroppiidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Quadroppiidae,,,,soil denisty (per 200 m3),mean,11.2
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Quadroppiidae,,,,soil denisty (per 200 m3),se,5.7
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Quadroppiidae,,,,soil denisty (per 200 m3),mean,20.1
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Quadroppiidae,,,,soil denisty (per 200 m3),se,8.4
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Haplozetidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Haplozetidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Haplozetidae,,,,soil denisty (per 200 m3),mean,1.1
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Haplozetidae,,,,soil denisty (per 200 m3),se,0.6
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Haplozetidae,,,,soil denisty (per 200 m3),mean,0.8
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Haplozetidae,,,,soil denisty (per 200 m3),se,0.5
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Scheloribatidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Scheloribatidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Scheloribatidae,,,,soil denisty (per 200 m3),mean,1.5
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Scheloribatidae,,,,soil denisty (per 200 m3),se,0.7
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Scheloribatidae,,,,soil denisty (per 200 m3),mean,6.5
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Scheloribatidae,,,,soil denisty (per 200 m3),se,3.1
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Liacaridae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Liacaridae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Liacaridae,,,,soil denisty (per 200 m3),mean,0.5
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Liacaridae,,,,soil denisty (per 200 m3),se,0.3
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Liacaridae,,,,soil denisty (per 200 m3),mean,0
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Liacaridae,,,,soil denisty (per 200 m3),se,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Oribatulidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Oribatulidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Oribatulidae,,,,soil denisty (per 200 m3),mean,3.9
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Oribatulidae,,,,soil denisty (per 200 m3),se,1.7
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Oribatulidae,,,,soil denisty (per 200 m3),mean,0
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Oribatulidae,,,,soil denisty (per 200 m3),se,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Achipteriidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Achipteriidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Achipteriidae,,,,soil denisty (per 200 m3),mean,0.3
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Achipteriidae,,,,soil denisty (per 200 m3),se,0.2
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Achipteriidae,,,,soil denisty (per 200 m3),mean,1.1
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Achipteriidae,,,,soil denisty (per 200 m3),se,1.1
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Damaeidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Damaeidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Damaeidae,,,,soil denisty (per 200 m3),mean,1.5
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Damaeidae,,,,soil denisty (per 200 m3),se,0.6
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Damaeidae,,,,soil denisty (per 200 m3),mean,0.3
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Damaeidae,,,,soil denisty (per 200 m3),se,0.2
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Camisiidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Camisiidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Camisiidae,,,,soil denisty (per 200 m3),mean,0.3
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Camisiidae,,,,soil denisty (per 200 m3),se,0.2
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Camisiidae,,,,soil denisty (per 200 m3),mean,1.3
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Camisiidae,,,,soil denisty (per 200 m3),se,0.5
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Galumnidae,,,,soil denisty (per 200 m3),mean,0.4
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Galumnidae,,,,soil denisty (per 200 m3),se,0.4
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Galumnidae,,,,soil denisty (per 200 m3),mean,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Galumnidae,,,,soil denisty (per 200 m3),se,0
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Galumnidae,,,,soil denisty (per 200 m3),mean,0
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Galumnidae,,,,soil denisty (per 200 m3),se,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Trhypochthoniidae,,,,soil denisty (per 200 m3),mean,0.3
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Trhypochthoniidae,,,,soil denisty (per 200 m3),se,0.3
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Trhypochthoniidae,,,,soil denisty (per 200 m3),mean,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Trhypochthoniidae,,,,soil denisty (per 200 m3),se,0
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Trhypochthoniidae,,,,soil denisty (per 200 m3),mean,0
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Trhypochthoniidae,,,,soil denisty (per 200 m3),se,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Ascidae,,,,soil denisty (per 200 m3),mean,1.4
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Ascidae,,,,soil denisty (per 200 m3),se,0.7
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Ascidae,,,,soil denisty (per 200 m3),mean,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Ascidae,,,,soil denisty (per 200 m3),se,0
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Ascidae,,,,soil denisty (per 200 m3),mean,0.3
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Ascidae,,,,soil denisty (per 200 m3),se,0.2
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Eviphididae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Eviphididae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Eviphididae,,,,soil denisty (per 200 m3),mean,0.5
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Eviphididae,,,,soil denisty (per 200 m3),se,0.2
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Eviphididae,,,,soil denisty (per 200 m3),mean,0.3
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Eviphididae,,,,soil denisty (per 200 m3),se,0.2
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Ologamasidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Ologamasidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Ologamasidae,,,,soil denisty (per 200 m3),mean,2
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Ologamasidae,,,,soil denisty (per 200 m3),se,1.2
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Ologamasidae,,,,soil denisty (per 200 m3),mean,0.3
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Ologamasidae,,,,soil denisty (per 200 m3),se,0.3
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Barbitulidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Barbitulidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Barbitulidae,,,,soil denisty (per 200 m3),mean,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Barbitulidae,,,,soil denisty (per 200 m3),se,0
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Barbitulidae,,,,soil denisty (per 200 m3),mean,0.4
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Barbitulidae,,,,soil denisty (per 200 m3),se,0.3
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Bimichaelidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Bimichaelidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Bimichaelidae,,,,soil denisty (per 200 m3),mean,0.8
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Bimichaelidae,,,,soil denisty (per 200 m3),se,0.4
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Bimichaelidae,,,,soil denisty (per 200 m3),mean,0.1
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Bimichaelidae,,,,soil denisty (per 200 m3),se,0.1
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Ereynetidae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Ereynetidae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Ereynetidae,,,,soil denisty (per 200 m3),mean,0.5
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Ereynetidae,,,,soil denisty (per 200 m3),se,0.3
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Ereynetidae,,,,soil denisty (per 200 m3),mean,0.1
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Ereynetidae,,,,soil denisty (per 200 m3),se,0.1
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Terpnacaridae,,,,soil denisty (per 200 m3),mean,0
+407,VH,1999,15,high grazing,0,animal unit month per HA,4.8,Terpnacaridae,,,,soil denisty (per 200 m3),se,0
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Terpnacaridae,,,,soil denisty (per 200 m3),mean,0.5
+407,L,1999,15,low grazing,0,animal unit month per HA,1.2,Terpnacaridae,,,,soil denisty (per 200 m3),se,0.4
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Terpnacaridae,,,,soil denisty (per 200 m3),mean,0.5
+407,Ex,1999,15,ungrazed,0,animal unit month per HA,0,Terpnacaridae,,,,soil denisty (per 200 m3),se,0.3

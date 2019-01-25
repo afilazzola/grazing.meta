@@ -1,0 +1,27 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+402,San Simon Valley,2002,8,grazed,0,,,plants,,,,percent cover,mean,22.3
+402,San Simon Valley,2002,8,grazed,0,,,plants,,,,percent cover,se,2.5
+402,San Simon Valley,2002,8,ungrazed,44,,,plants,,,,percent cover,mean,30.2
+402,San Simon Valley,2002,8,ungrazed,44,,,plants,,,,percent cover,se,2.8
+402,San Simon Valley,2002,8,grazed,0,,,reptilia,Sceloporus,undulatus,,abundance,count,17
+402,San Simon Valley,2002,8,ungrazed,44,,,reptilia,Sceloporus,undulatus,,abundance,count,26
+402,San Simon Valley,2002,8,grazed,0,,,reptilia,Sceloporus,magister,,abundance,count,3
+402,San Simon Valley,2002,8,ungrazed,44,,,reptilia,Sceloporus,magister,,abundance,count,2
+402,San Simon Valley,2002,8,grazed,0,,,reptilia,Uta,stansburiana,,abundance,count,29
+402,San Simon Valley,2002,8,ungrazed,44,,,reptilia,Uta,stansburiana,,abundance,count,34
+402,San Simon Valley,2002,8,grazed,0,,,reptilia,Uta,ornatus,,abundance,count,4
+402,San Simon Valley,2002,8,ungrazed,44,,,reptilia,Uta,ornatus,,abundance,count,3
+402,San Simon Valley,2002,8,grazed,0,,,reptilia,Phrynosoma,modestum,,abundance,count,11
+402,San Simon Valley,2002,8,ungrazed,44,,,reptilia,Phrynosoma,modestum,,abundance,count,10
+402,San Simon Valley,2002,8,grazed,0,,,reptilia,Coleonyx,variegatus,,abundance,count,1
+402,San Simon Valley,2002,8,ungrazed,44,,,reptilia,Coleonyx,variegatus,,abundance,count,1
+402,San Simon Valley,2002,8,grazed,0,,,reptilia,Cnemidophorus,tigris,,abundance,count,82
+402,San Simon Valley,2002,8,ungrazed,44,,,reptilia,Cnemidophorus,tigris,,abundance,count,85
+402,San Simon Valley,2002,8,grazed,0,,,reptilia,Cnemidophorus,uniparens,,abundance,count,2
+402,San Simon Valley,2002,8,ungrazed,44,,,reptilia,Cnemidophorus,uniparens,,abundance,count,8
+402,San Simon Valley,2002,8,grazed,0,,,arthropoda,Hogna,carolinensis,,abundance,count,16
+402,San Simon Valley,2002,8,ungrazed,44,,,arthropoda,Hogna,carolinensis,,abundance,count,16
+402,San Simon Valley,2002,8,grazed,0,,,arthropoda,Eremobates,spp.,,abundance,count,37
+402,San Simon Valley,2002,8,ungrazed,44,,,arthropoda,Eremobates,spp.,,abundance,count,42
+402,San Simon Valley,2002,8,grazed,0,,,arthropoda,Pogonomyrmex,spp.,,abundance,count,11
+402,San Simon Valley,2002,8,ungrazed,44,,,arthropoda,Pogonomyrmex,spp.,,abundance,count,8

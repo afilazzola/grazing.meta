@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+405,Dryandra Woodland ,1998/1999,10,ungrazed,15,frequency (per year),0,,Climacteris,rufus,,nest success (%),mean,64.1
+405,Dryandra Woodland ,1998/1999,10,ungrazed,15,frequency (per year),0,,Climacteris,rufus,,nest success (%),se,12.5
+405,Dryandra Woodland ,1998/1999,10,grazed,15,frequency (per year),1,,Climacteris,rufus,,nest success (%),mean,23.8
+405,Dryandra Woodland ,1998/1999,10,grazed,15,frequency (per year),1,,Climacteris,rufus,,nest success (%),se,13
+405,Dryandra Woodland ,1998/1999,10,ungrazed,15,frequency (per year),0,,Climacteris,rufus,,fledgling survival,mean,1.2
+405,Dryandra Woodland ,1998/1999,10,ungrazed,15,frequency (per year),0,,Climacteris,rufus,,fledgling survival,se,0.25
+405,Dryandra Woodland ,1998/1999,10,grazed,15,frequency (per year),1,,Climacteris,rufus,,fledgling survival,mean,0.1
+405,Dryandra Woodland ,1998/1999,10,grazed,15,frequency (per year),1,,Climacteris,rufus,,fledgling survival,se,0.08
+405,Dryandra Woodland ,1998/1999,10,ungrazed,15,frequency (per year),0,,Climacteris,rufus,,juvenile survival,mean,0.6
+405,Dryandra Woodland ,1998/1999,10,ungrazed,15,frequency (per year),0,,Climacteris,rufus,,juvenile survival,se,0.18
+405,Dryandra Woodland ,1998/1999,10,grazed,15,frequency (per year),1,,Climacteris,rufus,,juvenile survival,mean,0
+405,Dryandra Woodland ,1998/1999,10,grazed,15,frequency (per year),1,,Climacteris,rufus,,juvenile survival,se,0

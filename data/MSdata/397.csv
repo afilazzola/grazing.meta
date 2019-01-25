@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+397,multisite,2009,30,grazed,0,,,plants,,,,height (cm),mean,9.6
+397,multisite,2009,30,grazed,0,,,plants,,,,height (cm),se,1.7
+397,multisite,2009,34,ungrazed,19,,,plants,,,,height (cm),mean,27.4
+397,multisite,2009,34,ungrazed,19,,,plants,,,,height (cm),se,1.5
+397,multisite,2009,30,grazed,0,,,aves,,,,Shannon Diversity,mean,1.04
+397,multisite,2009,30,grazed,0,,,aves,,,,Shannon Diversity,se,0.12
+397,multisite,2009,34,ungrazed,19,,,aves,,,,Shannon Diversity,mean,1.37
+397,multisite,2009,34,ungrazed,19,,,aves,,,,Shannon Diversity,se,0.09

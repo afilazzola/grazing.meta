@@ -1,0 +1,25 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+403,Fussingø Manor,2000,9,high cattle,0,animals per ha,4.8,plants,,,,vegetation height (cm),mean,7.5
+403,Fussingø Manor,2000,9,low sheep,0,animals per ha,4.5,plants,,,,vegetation height (cm),mean,11.8
+403,Fussingø Manor,2000,9,ungrazed,3,animals per ha,0,plants,,,,vegetation height (cm),mean,14.6
+403,Fussingø Manor,2000,9,high cattle,0,animals per ha,4.8,plants,,,,vegetation height (cm),se,5.3
+403,Fussingø Manor,2000,9,low sheep,0,animals per ha,4.5,plants,,,,vegetation height (cm),se,6
+403,Fussingø Manor,2000,9,ungrazed,3,animals per ha,0,plants,,,,vegetation height (cm),se,8
+403,Fussingø Manor,2000,9,high cattle,0,animals per ha,4.8,rodents,,,,mean body mass (g),mean,18.3
+403,Fussingø Manor,2000,9,low sheep,0,animals per ha,4.5,rodents,,,,mean body mass (g),mean,18.18
+403,Fussingø Manor,2000,9,ungrazed,3,animals per ha,0,rodents,,,,mean body mass (g),mean,18.3
+403,Fussingø Manor,2000,9,high cattle,0,animals per ha,4.8,rodents,,,,mean body mass (g),se,1.34
+403,Fussingø Manor,2000,9,low sheep,0,animals per ha,4.5,rodents,,,,mean body mass (g),se,0.71
+403,Fussingø Manor,2000,9,ungrazed,3,animals per ha,0,rodents,,,,mean body mass (g),se,0.8
+403,Fussingø Manor,2000,9,high cattle,0,animals per ha,4.8,rodents,,,,mean body mass (g),mean,17.3
+403,Fussingø Manor,2000,9,low sheep,0,animals per ha,4.5,rodents,,,,mean body mass (g),mean,18.97
+403,Fussingø Manor,2000,9,ungrazed,3,animals per ha,0,rodents,,,,mean body mass (g),mean,17.63
+403,Fussingø Manor,2000,9,high cattle,0,animals per ha,4.8,rodents,,,,mean body mass (g),se,1.95
+403,Fussingø Manor,2000,9,low sheep,0,animals per ha,4.5,rodents,,,,mean body mass (g),se,0.94
+403,Fussingø Manor,2000,9,ungrazed,3,animals per ha,0,rodents,,,,mean body mass (g),se,0.76
+403,Fussingø Manor,2000,9,high cattle,0,animals per ha,4.8,rodents,,,,number of offspring,mean,2.22
+403,Fussingø Manor,2000,9,low sheep,0,animals per ha,4.5,rodents,,,,number of offspring,mean,2.43
+403,Fussingø Manor,2000,9,ungrazed,3,animals per ha,0,rodents,,,,number of offspring,mean,0.75
+403,Fussingø Manor,2000,9,high cattle,0,animals per ha,4.8,rodents,,,,number of offspring,se,0.89
+403,Fussingø Manor,2000,9,low sheep,0,animals per ha,4.5,rodents,,,,number of offspring,se,0.72
+403,Fussingø Manor,2000,9,ungrazed,3,animals per ha,0,rodents,,,,number of offspring,se,0.21

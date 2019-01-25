@@ -1,0 +1,61 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Coleoptera (herbivorous),,,,abundance,mean,0.44769209
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Coleoptera (herbivorous),,,,abundance,mean,0.549833997
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Coleoptera (herbivorous),,,,abundance,mean,0.354343694
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Coleoptera (herbivorous),,,,abundance,mean,0.820538481
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Coleoptera (herbivorous),,,,abundance,mean,0.876532952
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Coleoptera (herbivorous),,,,abundance,se,0.077950084
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Coleoptera (herbivorous),,,,abundance,se,0.0916599
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Coleoptera (herbivorous),,,,abundance,se,0.082628222
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Coleoptera (herbivorous),,,,abundance,se,0.046224894
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Coleoptera (herbivorous),,,,abundance,se,0.053593982
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Coleoptera (herbivorous),,,,richness,mean,0.576885261
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Coleoptera (herbivorous),,,,richness,mean,0.617747875
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Coleoptera (herbivorous),,,,richness,mean,0.5
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Coleoptera (herbivorous),,,,richness,mean,0.650218549
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Coleoptera (herbivorous),,,,richness,mean,0.748381722
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Coleoptera (herbivorous),,,,richness,se,0.033506744
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Coleoptera (herbivorous),,,,richness,se,0.043431693
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Coleoptera (herbivorous),,,,richness,se,0.018617583
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Coleoptera (herbivorous),,,,richness,se,0.045573185
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Coleoptera (herbivorous),,,,richness,se,0.02743771
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Coleoptera (predatory),,,,abundance,mean,0.542397941
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Coleoptera (predatory),,,,abundance,mean,0.437823499
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Coleoptera (predatory),,,,abundance,mean,0.63645254
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Coleoptera (predatory),,,,abundance,mean,0.175086268
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Coleoptera (predatory),,,,abundance,mean,0.121318838
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Coleoptera (predatory),,,,abundance,se,0.079425217
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Coleoptera (predatory),,,,abundance,se,0.090616885
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Coleoptera (predatory),,,,abundance,se,0.081434036
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Coleoptera (predatory),,,,abundance,se,0.047396325
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Coleoptera (predatory),,,,abundance,se,0.053942698
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Coleoptera (predatory),,,,richness,mean,0.394126332
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Coleoptera (predatory),,,,richness,mean,0.349781451
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Coleoptera (predatory),,,,richness,mean,0.470035948
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Coleoptera (predatory),,,,richness,mean,0.32959884
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Coleoptera (predatory),,,,richness,mean,0.238667285
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Coleoptera (predatory),,,,richness,se,0.039390135
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Coleoptera (predatory),,,,richness,se,0.03939812
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Coleoptera (predatory),,,,richness,se,0.021920301
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Coleoptera (predatory),,,,richness,se,0.051329278
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Coleoptera (predatory),,,,richness,se,0.029720698
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Plants,,,,flower abundance,mean,0.336261303
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Plants,,,,flower abundance,mean,0.475020813
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Plants,,,,flower abundance,mean,0.171504259
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Plants,,,,flower abundance,mean,0.567092905
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Plants,,,,flower abundance,mean,0.549833997
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Plants,,,,flower abundance,se,0.029824611
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Plants,,,,flower abundance,se,0.090927103
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Plants,,,,flower abundance,se,0.046810456
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Plants,,,,flower abundance,se,0.049058972
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Plants,,,,flower abundance,se,0.031783709
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Plants,,,,root abundance,mean,0.539914885
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Plants,,,,root abundance,mean,0.345246539
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Plants,,,,root abundance,mean,0.530918273
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Plants,,,,root abundance,mean,0.236854984
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Plants,,,,root abundance,mean,0.340739612
+285,UG,2003,5,ungrazed,NA,years of grazing (cattle),0,Plants,,,,root abundance,se,0.046117267
+285,RC,2003,5,recently grazed,0,years of grazing (cattle),3,Plants,,,,root abundance,se,0.080219063
+285,RS,2003,5,recently grazed,0,years of grazing (sheep),3,Plants,,,,root abundance,se,0.044507654
+285,LTC,2003,5,long-term grazing,0,years of grazing (cattle),10,Plants,,,,root abundance,se,0.063591485
+285,LTS,2003,5,long-term grazing,0,years of grazing (sheep),10,Plants,,,,root abundance,se,0.020100288
