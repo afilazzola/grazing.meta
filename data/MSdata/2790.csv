@@ -1,0 +1,55 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2790,,2011,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,mean,24.13407821
+2790,,2011,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,mean,35.53072626
+2790,,2011,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,mean,37.54189944
+2790,,2012,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,mean,115.9776536
+2790,,2012,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,mean,87.15083799
+2790,,2012,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,mean,76.42458101
+2790,,2013,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,mean,64.3575419
+2790,,2013,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,mean,36.20111732
+2790,,2013,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,mean,29.4972067
+2790,,2011,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,se,4.69273743
+2790,,2011,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,se,11.39664804
+2790,,2011,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,se,7.374301676
+2790,,2012,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,se,16.08938547
+2790,,2012,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,se,13.40782123
+2790,,2012,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,se,19.44134078
+2790,,2013,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,se,8.715083799
+2790,,2013,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,se,7.374301676
+2790,,2013,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,se,8.044692737
+2790,,2011,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2011,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2011,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2012,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2012,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2012,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2013,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2013,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2013,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Density,N,4
+2790,,2011,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,8.653846154
+2790,,2011,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,15.625
+2790,,2011,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,13.94230769
+2790,,2012,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,43.99038462
+2790,,2012,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,43.02884615
+2790,,2012,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,35.81730769
+2790,,2013,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,40.625
+2790,,2013,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,29.80769231
+2790,,2013,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,mean,28.125
+2790,,2011,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,1.923076923
+2790,,2011,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,4.567307692
+2790,,2011,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,1.201923077
+2790,,2012,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,5.528846154
+2790,,2012,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,2.403846154
+2790,,2012,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,10.81730769
+2790,,2013,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,5.769230769
+2790,,2013,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,2.644230769
+2790,,2013,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,se,5.288461538
+2790,,2011,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
+2790,,2011,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
+2790,,2011,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
+2790,,2012,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
+2790,,2012,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
+2790,,2012,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
+2790,,2013,Control,ungrazed,,sheep/ha,0,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
+2790,,2013,Low Grazing,grazed,,sheep/ha,2,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
+2790,,2013,High Grazing,grazed,,sheep/ha,4,Mammalia,Lasiopodomys,brandtii,native,Overwinter Survival,N,4
