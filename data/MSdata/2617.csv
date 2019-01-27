@@ -1,0 +1,85 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2617,1,2007,No Heather May 6,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,22.22222222
+2617,1,2007,No Heather June 10,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,79.16666667
+2617,1,2007,No Heather July 13,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,91.66666667
+2617,1,2007,No Heather August 8,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,320.8333333
+2617,1,2007,No Heather September 1,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,266.5
+2617,1,2007,No Heather September 23,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,350
+2617,1,2007,No Heather Oct 21,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,1540
+2617,1,2007,No Heather May 6,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,14.69861839
+2617,1,2007,No Heather June 10,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,28.50992207
+2617,1,2007,No Heather July 13,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,16.08845499
+2617,1,2007,No Heather August 8,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,99.51745951
+2617,1,2007,No Heather September 1,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,83.23344013
+2617,1,2007,No Heather September 23,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,71.68604389
+2617,1,2007,No Heather Oct 21,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,329.8821338
+2617,1,2007,No Heather May 6,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,9
+2617,1,2007,No Heather June 10,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,12
+2617,1,2007,No Heather July 13,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,12
+2617,1,2007,No Heather August 8,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,12
+2617,1,2007,No Heather September 1,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,10
+2617,1,2007,No Heather September 23,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,9
+2617,1,2007,No Heather Oct 21,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,10
+2617,3,2007,No Heather May 6,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,6.25
+2617,3,2007,No Heather June 10,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,244.7368421
+2617,3,2007,No Heather July 13,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,165.7894737
+2617,3,2007,No Heather August 8,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,469.4444444
+2617,3,2007,No Heather September 1,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,708.8235294
+2617,3,2007,No Heather September 23,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,1905.882353
+2617,3,2007,No Heather Oct 21,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,4770.384615
+2617,3,2007,No Heather May 6,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,6.25
+2617,3,2007,No Heather June 10,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,46.49950274
+2617,3,2007,No Heather July 13,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,36.28441733
+2617,3,2007,No Heather August 8,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,86.99211978
+2617,3,2007,No Heather September 1,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,102.7414028
+2617,3,2007,No Heather September 23,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,583.8966838
+2617,3,2007,No Heather Oct 21,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,1071.785065
+2617,3,2007,No Heather May 6,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,8
+2617,3,2007,No Heather June 10,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,19
+2617,3,2007,No Heather July 13,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,19
+2617,3,2007,No Heather August 8,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,18
+2617,3,2007,No Heather September 1,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,17
+2617,3,2007,No Heather September 23,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,17
+2617,3,2007,No Heather Oct 21,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,13
+2617,2,2007,Heather May 6,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,64.28571429
+2617,2,2007,Heather June 10,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,109.0909091
+2617,2,2007,Heather July 13,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,110
+2617,2,2007,Heather August 8,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,295.4545455
+2617,2,2007,Heather September 1,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,272.7272727
+2617,2,2007,Heather September 23,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,455.5555556
+2617,2,2007,Heather Oct 21,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,mean,1365
+2617,2,2007,Heather May 6,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,35.71428571
+2617,2,2007,Heather June 10,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,20.0206505
+2617,2,2007,Heather July 13,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,24.49489743
+2617,2,2007,Heather August 8,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,47.41238113
+2617,2,2007,Heather September 1,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,49.25058207
+2617,2,2007,Heather September 23,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,83.93302739
+2617,2,2007,Heather Oct 21,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,SE,241.6436771
+2617,2,2007,Heather May 6,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,7
+2617,2,2007,Heather June 10,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,11
+2617,2,2007,Heather July 13,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,10
+2617,2,2007,Heather August 8,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,11
+2617,2,2007,Heather September 1,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,11
+2617,2,2007,Heather September 23,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,9
+2617,2,2007,Heather Oct 21,low,,animals/ha,24,Nematoda,,,,Fecal Egg Count,N,10
+2617,4,2007,Heather May 6,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,12.5
+2617,4,2007,Heather June 10,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,141.1764706
+2617,4,2007,Heather July 13,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,139.4736842
+2617,4,2007,Heather August 8,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,363.1578947
+2617,4,2007,Heather September 1,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,610.5263158
+2617,4,2007,Heather September 23,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,1491.666667
+2617,4,2007,Heather Oct 21,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,mean,4087.5
+2617,4,2007,Heather May 6,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,12.5
+2617,4,2007,Heather June 10,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,38.88030608
+2617,4,2007,Heather July 13,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,34.53512225
+2617,4,2007,Heather August 8,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,54.85788461
+2617,4,2007,Heather September 1,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,84.51607579
+2617,4,2007,Heather September 23,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,401.4526319
+2617,4,2007,Heather Oct 21,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,SE,478.354384
+2617,4,2007,Heather May 6,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,8
+2617,4,2007,Heather June 10,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,17
+2617,4,2007,Heather July 13,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,19
+2617,4,2007,Heather August 8,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,19
+2617,4,2007,Heather September 1,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,19
+2617,4,2007,Heather September 23,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,18
+2617,4,2007,Heather Oct 21,high,,animals/ha,38,Nematoda,,,,Fecal Egg Count,N,16
