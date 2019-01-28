@@ -1,0 +1,237 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2804,Esquineau,1996,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,4
+2804,Esquineau,1997,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,6
+2804,Esquineau,1998,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,15
+2804,Esquineau,1999,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,11
+2804,Esquineau,2000,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,8
+2804,Esquineau,2001,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,3
+2804,Esquineau,2002,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,3
+2804,Esquineau,2003,,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,number of births,count,8
+2804,Esquineau,2004,,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,number of births,count,22
+2804,Esquineau,2005,,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,number of births,count,22
+2804,Esquineau,2006,,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,number of births,count,22
+2804,Esquineau,2007,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,26
+2804,Esquineau,2008,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,11
+2804,Esquineau,2009,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,14
+2804,Esquineau,2010,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,4
+2804,Esquineau,2011,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,2
+2804,Esquineau,2012,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,1
+2804,Faisses,1998,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,1
+2804,Faisses,1999,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,5
+2804,Faisses,2000,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,7
+2804,Faisses,2001,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,3
+2804,Faisses,2002,,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,number of births,count,1
+2804,Faisses,2003,,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,number of births,count,8
+2804,Faisses,2004,,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,number of births,count,4
+2804,Faisses,2005,,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,number of births,count,2
+2804,Faisses,2006,,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,number of births,count,6
+2804,Faisses,2007,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,10
+2804,Faisses,2008,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,4
+2804,Faisses,2009,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,1
+2804,Faisses,2010,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,0
+2804,Faisses,2011,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,1
+2804,Faisses,2012,,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,number of births,count,1
+2804,Esquineau,1997,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,176.4705882
+2804,Esquineau,1998,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,141.1764706
+2804,Esquineau,1999,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,166.0899654
+2804,Esquineau,2000,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,168.16609
+2804,Esquineau,2001,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,166.0899654
+2804,Esquineau,2002,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,124.567474
+2804,Esquineau,2003,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,166.0899654
+2804,Esquineau,2004,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,122.4913495
+2804,Esquineau,2005,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,99.65397924
+2804,Esquineau,2006,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,137.0242215
+2804,Esquineau,2007,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,132.8719723
+2804,Esquineau,2008,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,236.6782007
+2804,Esquineau,2009,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,191.0034602
+2804,Esquineau,2010,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,234.6020761
+2804,Esquineau,2011,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,143.2525952
+2804,Esquineau,2012,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,170.2422145
+2805,Esquineau,2013,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,176.4705882
+2804,Esquineau,1997,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,122.4913495
+2804,Esquineau,1998,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,14.53287197
+2804,Esquineau,1999,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,10.38062284
+2804,Esquineau,2000,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,14.53287197
+2804,Esquineau,2001,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,31.14186851
+2804,Esquineau,2002,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,12.4567474
+2804,Esquineau,2003,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,31.14186851
+2804,Esquineau,2004,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,16.60899654
+2804,Esquineau,2005,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,12.4567474
+2804,Esquineau,2006,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,18.68512111
+2804,Esquineau,2007,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,14.53287197
+2804,Esquineau,2008,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,49.82698962
+2804,Esquineau,2009,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,24.91349481
+2804,Esquineau,2010,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,35.29411765
+2804,Esquineau,2011,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,14.53287197
+2804,Esquineau,2012,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,20.76124567
+2805,Esquineau,2013,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,14.53287197
+2804,Faisses,1997,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,68.51211073
+2804,Faisses,1998,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,80.96885813
+2804,Faisses,1999,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,62.28373702
+2804,Faisses,2000,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,85.12110727
+2804,Faisses,2001,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,51.90311419
+2804,Faisses,2002,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,68.51211073
+2804,Faisses,2003,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,76.816609
+2804,Faisses,2004,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,33.21799308
+2804,Faisses,2005,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,87.19723183
+2804,Faisses,2006,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,99.65397924
+2804,Faisses,2007,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,72.66435986
+2804,Faisses,2008,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,89.2733564
+2804,Faisses,2009,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,45.67474048
+2804,Faisses,2010,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,68.51211073
+2804,Faisses,2011,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,93.42560554
+2804,Faisses,2012,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,74.74048443
+2805,Faisses,2013,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,116.2629758
+2804,Faisses,1997,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,31.14186851
+2804,Faisses,1998,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,16.60899654
+2804,Faisses,1999,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,6.228373702
+2804,Faisses,2000,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,22.83737024
+2804,Faisses,2001,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,8.30449827
+2804,Faisses,2002,Adults,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,18.68512111
+2804,Faisses,2003,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,12.4567474
+2804,Faisses,2004,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,8.30449827
+2804,Faisses,2005,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,12.4567474
+2804,Faisses,2006,Adults,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,24.91349481
+2804,Faisses,2007,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,22.83737024
+2804,Faisses,2008,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,31.14186851
+2804,Faisses,2009,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,10.38062284
+2804,Faisses,2010,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,8.30449827
+2804,Faisses,2011,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,16.60899654
+2804,Faisses,2012,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,31.14186851
+2805,Faisses,2013,Adults,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,56.05536332
+2804,Esquineau,1997,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,13.05084746
+2804,Esquineau,1998,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,84.23728814
+2804,Esquineau,1999,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,55.76271186
+2804,Esquineau,2000,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,37.96610169
+2804,Esquineau,2001,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,10.6779661
+2804,Esquineau,2002,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,5.93220339
+2804,Esquineau,2003,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,13.05084746
+2804,Esquineau,2004,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,17.79661017
+2804,Esquineau,2005,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,3.559322034
+2804,Esquineau,2006,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,27.28813559
+2804,Esquineau,2007,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,58.13559322
+2804,Esquineau,2008,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,200.5084746
+2804,Esquineau,2009,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,112.7118644
+2804,Esquineau,2010,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,167.2881356
+2804,Esquineau,2011,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,72.37288136
+2804,Esquineau,2012,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,100.8474576
+2805,Esquineau,2013,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,117.4576271
+2804,Esquineau,1997,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,9.491525424
+2804,Esquineau,1998,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,71.18644068
+2804,Esquineau,1999,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,9.491525424
+2804,Esquineau,2000,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,5.93220339
+2804,Esquineau,2001,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,11.86440678
+2804,Esquineau,2002,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,2.372881356
+2804,Esquineau,2003,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,9.491525424
+2804,Esquineau,2004,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,7.118644068
+2804,Esquineau,2005,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Esquineau,2006,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,18.98305085
+2804,Esquineau,2007,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,21.3559322
+2804,Esquineau,2008,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,123.3898305
+2804,Esquineau,2009,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,23.72881356
+2804,Esquineau,2010,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,49.83050847
+2804,Esquineau,2011,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,9.491525424
+2804,Esquineau,2012,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,23.72881356
+2805,Esquineau,2013,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,35.59322034
+2804,Faisses,1997,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,13.05084746
+2804,Faisses,1998,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,13.05084746
+2804,Faisses,1999,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,17.79661017
+2804,Faisses,2000,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,15.42372881
+2804,Faisses,2001,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,1.186440678
+2804,Faisses,2002,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,3.559322034
+2804,Faisses,2003,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,20.16949153
+2804,Faisses,2004,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,1.186440678
+2804,Faisses,2005,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,21.3559322
+2804,Faisses,2006,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,13.05084746
+2804,Faisses,2007,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,8.305084746
+2804,Faisses,2008,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,15.42372881
+2804,Faisses,2009,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,8.305084746
+2804,Faisses,2010,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,10.6779661
+2804,Faisses,2011,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,27.28813559
+2804,Faisses,2012,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,46.27118644
+2805,Faisses,2013,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,36.77966102
+2804,Faisses,1997,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Faisses,1998,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Faisses,1999,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Faisses,2000,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,7.118644068
+2804,Faisses,2001,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Faisses,2002,Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,2.372881356
+2804,Faisses,2003,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,11.86440678
+2804,Faisses,2004,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,2.372881356
+2804,Faisses,2005,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,3.559322034
+2804,Faisses,2006,Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Faisses,2007,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Faisses,2008,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,9.491525424
+2804,Faisses,2009,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Faisses,2010,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,4.745762712
+2804,Faisses,2011,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,7.118644068
+2804,Faisses,2012,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,26.10169492
+2805,Faisses,2013,Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,26.10169492
+2804,Esquineau,1997,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,190.8196721
+2804,Esquineau,1998,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,230.1639344
+2804,Esquineau,1999,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,222.295082
+2804,Esquineau,2000,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,210.4918033
+2804,Esquineau,2001,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,182.9508197
+2804,Esquineau,2002,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,131.8032787
+2804,Esquineau,2003,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,179.0163934
+2804,Esquineau,2004,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,143.6065574
+2804,Esquineau,2005,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,108.1967213
+2804,Esquineau,2006,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,167.2131148
+2804,Esquineau,2007,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,190.8196721
+2804,Esquineau,2008,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,438.6885246
+2804,Esquineau,2009,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,300.9836066
+2804,Esquineau,2010,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,399.3442623
+2804,Esquineau,2011,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,218.3606557
+2804,Esquineau,2012,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,273.442623
+2805,Esquineau,2013,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,293.1147541
+2804,Esquineau,1997,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,125.9016393
+2804,Esquineau,1998,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,68.85245902
+2804,Esquineau,1999,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,15.73770492
+2804,Esquineau,2000,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,15.73770492
+2804,Esquineau,2001,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,31.47540984
+2804,Esquineau,2002,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,15.73770492
+2804,Esquineau,2003,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,35.40983607
+2804,Esquineau,2004,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,15.73770492
+2804,Esquineau,2005,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,15.73770492
+2804,Esquineau,2006,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,27.54098361
+2804,Esquineau,2007,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,27.54098361
+2804,Esquineau,2008,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,129.8360656
+2804,Esquineau,2009,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,35.40983607
+2804,Esquineau,2010,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,62.95081967
+2804,Esquineau,2011,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,15.73770492
+2804,Esquineau,2012,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,27.54098361
+2805,Esquineau,2013,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,39.3442623
+2804,Faisses,1997,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,80.6557377
+2804,Faisses,1998,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,92.45901639
+2804,Faisses,1999,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,80.6557377
+2804,Faisses,2000,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,100.3278689
+2804,Faisses,2001,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,60.98360656
+2804,Faisses,2002,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,estimate,76.72131148
+2804,Faisses,2003,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,96.39344262
+2804,Faisses,2004,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,25.57377049
+2804,Faisses,2005,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,112.1311475
+2804,Faisses,2006,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,estimate,116.0655738
+2804,Faisses,2007,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,76.72131148
+2804,Faisses,2008,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,104.2622951
+2804,Faisses,2009,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,57.04918033
+2804,Faisses,2010,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,80.6557377
+2804,Faisses,2011,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,120
+2804,Faisses,2012,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,123.9344262
+2805,Faisses,2013,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,estimate,151.4754098
+2804,Faisses,1997,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,27.54098361
+2804,Faisses,1998,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,11.80327869
+2804,Faisses,1999,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,7.868852459
+2804,Faisses,2000,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,23.60655738
+2804,Faisses,2001,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,11.80327869
+2804,Faisses,2002,Adults and Juveniles,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,native,population size,SE,23.60655738
+2804,Faisses,2003,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,11.80327869
+2804,Faisses,2004,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,0
+2804,Faisses,2005,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,15.73770492
+2804,Faisses,2006,Adults and Juveniles,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,native,population size,SE,23.60655738
+2804,Faisses,2007,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,19.67213115
+2804,Faisses,2008,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,27.54098361
+2804,Faisses,2009,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,11.80327869
+2804,Faisses,2010,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,7.868852459
+2804,Faisses,2011,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,15.73770492
+2804,Faisses,2012,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,43.27868852
+2805,Faisses,2013,Adults and Juveniles,medium,,n adult livestock * months / area,2-5,Reptilia,Emys,orbicularis,native,population size,SE,62.95081967

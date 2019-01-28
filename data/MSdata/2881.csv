@@ -1,0 +1,64 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Richness,Mean,30.67
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Richness,Mean,35.33
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Richness,Mean,39.67
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Richness,SE,1.2
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Richness,SE,0.33
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Richness,SE,0.67
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Richness,N,3
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Richness,N,3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Richness,N,3
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Shannon Diversity Abundance,Mean,7.93
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Shannon Diversity Abundance,Mean,2.3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Shannon Diversity Abundance,Mean,7.33
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Shannon Diversity Abundance,SE,0.52
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Shannon Diversity Abundance,SE,0.15
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Shannon Diversity Abundance,SE,0.48
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Shannon Diversity Abundance,N,3
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Shannon Diversity Abundance,N,3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Shannon Diversity Abundance,N,3
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Shannon Diversity Biomass,Mean,7.2
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Shannon Diversity Biomass,Mean,5.3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Shannon Diversity Biomass,Mean,9.5
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Shannon Diversity Biomass,SE,0.58
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Shannon Diversity Biomass,SE,0.62
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Shannon Diversity Biomass,SE,0.47
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Shannon Diversity Biomass,N,3
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Shannon Diversity Biomass,N,3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Shannon Diversity Biomass,N,3
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Simpson Diversity Abundance,Mean,5.43
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Simpson Diversity Abundance,Mean,1.5
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Simpson Diversity Abundance,Mean,4.2
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Simpson Diversity Abundance,SE,0.66
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Simpson Diversity Abundance,SE,0.06
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Simpson Diversity Abundance,SE,0.21
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Simpson Diversity Abundance,N,3
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Simpson Diversity Abundance,N,3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Simpson Diversity Abundance,N,3
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Simpson Diversity Biomass,Mean,5.28
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Simpson Diversity Biomass,Mean,3.63
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Simpson Diversity Biomass,Mean,7.13
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Simpson Diversity Biomass,SE,0.44
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Simpson Diversity Biomass,SE,0.45
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Simpson Diversity Biomass,SE,0.34
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Simpson Diversity Biomass,N,3
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Simpson Diversity Biomass,N,3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Simpson Diversity Biomass,N,3
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Biomass (ug),Mean,33113.11215
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Biomass (ug),Mean,151356.1248
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Biomass (ug),Mean,61659.50019
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Biomass (ug),SE,1.071519305
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Biomass (ug),SE,1.258925412
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Biomass (ug),SE,1.047128548
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Biomass (ug),N,3
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Biomass (ug),N,3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Biomass (ug),N,3
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Abundance (N),Mean,2691.534804
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Abundance (N),Mean,34673.68505
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Abundance (N),Mean,5011.872336
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Abundance (N),SE,1.071519305
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Abundance (N),SE,1.348962883
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Abundance (N),SE,1.047128548
+2881,1,,,ungrazed,,livestock/ha,0,Arthropoda,,,,Abundance (N),N,3
+2881,2,,,grazed,,livestock/ha,0.7,Arthropoda,,,,Abundance (N),N,3
+2881,3,,,grazed,,livestock/ha,1.5,Arthropoda,,,,Abundance (N),N,3

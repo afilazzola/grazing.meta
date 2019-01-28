@@ -1,0 +1,67 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,Ammospermophilus,leucurus,,n caught/400 trap nights,count,0
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,Ammospermophilus,leucurus,,n caught/400 trap nights,count,0
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,Ammospermophilus,leucurus,,n caught/400 trap nights,count,3
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,Ammospermophilus,leucurus,,n caught/400 trap nights,count,1
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,Ammospermophilus,leucurus,,n caught/400 trap nights,count,1
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,Ammospermophilus,leucurus,,n caught/400 trap nights,count,1
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,Dipodomys,ordii,,n caught/400 trap nights,count,2
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,Dipodomys,ordii,,n caught/400 trap nights,count,0
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,Dipodomys,ordii,,n caught/400 trap nights,count,1
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,Dipodomys,ordii,,n caught/400 trap nights,count,2
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,Dipodomys,ordii,,n caught/400 trap nights,count,1
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,Dipodomys,ordii,,n caught/400 trap nights,count,1
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,Neotoma,lepida,,n caught/400 trap nights,count,2
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,Neotoma,lepida,,n caught/400 trap nights,count,0
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,Neotoma,lepida,,n caught/400 trap nights,count,3
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,Neotoma,lepida,,n caught/400 trap nights,count,1
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,Neotoma,lepida,,n caught/400 trap nights,count,0
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,Neotoma,lepida,,n caught/400 trap nights,count,1
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,Chaetodipus,intermedius,,n caught/400 trap nights,count,1
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,Chaetodipus,intermedius,,n caught/400 trap nights,count,0
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,Chaetodipus,intermedius,,n caught/400 trap nights,count,0
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,Chaetodipus,intermedius,,n caught/400 trap nights,count,0
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,Chaetodipus,intermedius,,n caught/400 trap nights,count,0
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,Chaetodipus,intermedius,,n caught/400 trap nights,count,0
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,Perognathus,longimembris,,n caught/400 trap nights,count,16
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,Perognathus,longimembris,,n caught/400 trap nights,count,10
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,Perognathus,longimembris,,n caught/400 trap nights,count,29
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,Perognathus,longimembris,,n caught/400 trap nights,count,23
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,Perognathus,longimembris,,n caught/400 trap nights,count,26
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,Perognathus,longimembris,,n caught/400 trap nights,count,27
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,Peromyscus,crinitus,,n caught/400 trap nights,count,0
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,Peromyscus,crinitus,,n caught/400 trap nights,count,0
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,Peromyscus,crinitus,,n caught/400 trap nights,count,1
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,Peromyscus,crinitus,,n caught/400 trap nights,count,1
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,Peromyscus,crinitus,,n caught/400 trap nights,count,1
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,Peromyscus,crinitus,,n caught/400 trap nights,count,4
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,Peromyscus,maniculatus,,n caught/400 trap nights,count,7
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,Peromyscus,maniculatus,,n caught/400 trap nights,count,8
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,Peromyscus,maniculatus,,n caught/400 trap nights,count,1
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,Peromyscus,maniculatus,,n caught/400 trap nights,count,2
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,Peromyscus,maniculatus,,n caught/400 trap nights,count,2
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,Peromyscus,maniculatus,,n caught/400 trap nights,count,3
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,,,,Total abundance,count,28
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,,,,Total abundance,count,18
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,,,,Total abundance,count,38
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,,,,Total abundance,count,30
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,,,,Total abundance,count,31
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,,,,Total abundance,count,27
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Mammalia,,,,Shannon Diversity Index,Index,1.16
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Mammalia,,,,Shannon Diversity Index,Index,0.69
+2715,,1990,light,grazed,,Distance from water source (km),9,Mammalia,,,,Shannon Diversity Index,Index,0.89
+2715,,1991,light,grazed,,Distance from water source (km),9,Mammalia,,,,Shannon Diversity Index,Index,0.91
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Mammalia,,,,Shannon Diversity Index,Index,0.66
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Mammalia,,,,Shannon Diversity Index,Index,0.98
+2715,,1990,heavy,grazed,,Distance from water source (km),4,Plants,Oryzopsis,hymneoides,,Basal Area,Value,1.4
+2715,,1991,heavy,grazed,,Distance from water source (km),4,Plants,Oryzopsis,hymneoides,,Basal Area,Value,3.2
+2715,,1990,light,grazed,,Distance from water source (km),9,Plants,Oryzopsis,hymneoides,,Basal Area,Value,116
+2715,,1991,light,grazed,,Distance from water source (km),9,Plants,Oryzopsis,hymneoides,,Basal Area,Value,29.5
+2715,,1990,relict,ungrazed,,Distance from water source (km),13,Plants,Oryzopsis,hymneoides,,Basal Area,Value,200.6
+2715,,1991,relict,ungrazed,,Distance from water source (km),13,Plants,Oryzopsis,hymneoides,,Basal Area,Value,101
+,,1990,heavy,grazed,,Distance from water source (km),4,Plants,Gutierrezia,sarothrae,,Canopy cover,mean,225.4
+,,1991,heavy,grazed,,Distance from water source (km),4,Plants,Gutierrezia,sarothrae,,Canopy cover,mean,125.2
+,,1990,light,grazed,,Distance from water source (km),9,Plants,Gutierrezia,sarothrae,,Canopy cover,mean,7.2
+,,1991,light,grazed,,Distance from water source (km),9,Plants,Gutierrezia,sarothrae,,Canopy cover,mean,0
+,,1990,relict,ungrazed,,Distance from water source (km),13,Plants,Gutierrezia,sarothrae,,Canopy cover,mean,200.6
+,,1991,relict,ungrazed,,Distance from water source (km),13,Plants,Gutierrezia,sarothrae,,Canopy cover,mean,101
