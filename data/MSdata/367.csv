@@ -1,0 +1,765 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+367,a001,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a002,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a003,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a004,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a005,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a006,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,8
+367,a007,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,15
+367,a008,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,3
+367,a009,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a010,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a011,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a012,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a013,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a014,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a015,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a016,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a017,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a018,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a019,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a020,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a021,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a022,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a023,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a024,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a025,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a026,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a027,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a028,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a029,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a030,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a031,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,3
+367,a032,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a033,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a034,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a035,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a036,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a037,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a038,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a039,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a040,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a041,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a042,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a043,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a044,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a045,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a046,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a047,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a048,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a049,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a050,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a051,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a052,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a053,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a054,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a055,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a056,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a057,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a058,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a059,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a060,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a061,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a062,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a063,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a064,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a065,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a066,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a067,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a068,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a069,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a070,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a071,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a072,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a073,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a074,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a075,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a076,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,7
+367,a077,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a078,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a079,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a080,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a081,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a082,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a083,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a084,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a085,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a086,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a087,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a088,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a089,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a090,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a091,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a092,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a093,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,3
+367,a094,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,23
+367,a095,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a096,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a097,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a098,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a099,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a100,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a101,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a102,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a103,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a104,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a105,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a106,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a107,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,19
+367,a108,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,4
+367,a109,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a110,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a111,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a112,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a113,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a114,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,9
+367,a115,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,8
+367,a116,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a117,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a118,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a119,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a120,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a121,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a122,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a123,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a124,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,6
+367,a125,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a126,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a127,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a128,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a129,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a130,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a131,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a132,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a133,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a134,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,4
+367,a135,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,9
+367,a136,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a137,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a138,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a139,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a140,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a141,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a142,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,5
+367,a143,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a144,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a145,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a146,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a147,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a148,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,4
+367,a149,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a150,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a151,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a152,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a153,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,8
+367,a154,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a155,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a156,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a157,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a158,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a159,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,5
+367,a160,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a161,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a162,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a163,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a164,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,42
+367,a165,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,32
+367,a166,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a167,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,5
+367,a168,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a169,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,4
+367,a170,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a171,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a172,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,7
+367,a173,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,9
+367,a174,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a175,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a176,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a177,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a178,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a179,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,6
+367,a180,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,5
+367,a181,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,4
+367,a182,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a183,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a184,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,5
+367,a185,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a186,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a187,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,7
+367,a188,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a189,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a190,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a191,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,50
+367,a192,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a193,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,3
+367,a194,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a195,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,6
+367,a196,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a197,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a198,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a199,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,6
+367,a200,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a201,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a202,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a203,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a204,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a205,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a206,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a207,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a208,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a209,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a210,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a211,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a212,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,3
+367,a213,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,3
+367,a214,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a215,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a216,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a217,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a218,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,10
+367,a219,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a220,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a221,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,3
+367,a222,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a223,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a224,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a225,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a226,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a227,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,6
+367,a228,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a229,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a230,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a231,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a232,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a233,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a234,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a235,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a236,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a237,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a238,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a239,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a240,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a241,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a242,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,6
+367,a243,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a244,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a245,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a246,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a247,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a248,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,7
+367,a249,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a250,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a251,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a252,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a253,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a254,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a255,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a256,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a257,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a258,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a259,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a260,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a261,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a262,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a263,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a264,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a265,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,6
+367,a266,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a267,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,9
+367,a268,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,8
+367,a269,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a270,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,3
+367,a271,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,5
+367,a272,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a273,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a274,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a275,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a276,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a277,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a278,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,4
+367,a279,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a280,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a281,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a282,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a283,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a284,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,2
+367,a285,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a286,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,0
+367,a287,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,richness,count,1
+367,a288,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a289,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a290,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a291,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a292,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a293,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a294,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a295,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a296,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a297,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a298,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a299,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a300,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a301,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a302,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a303,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a304,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a305,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a306,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a307,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a308,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a309,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a310,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a311,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a312,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a313,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,2
+367,a314,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a315,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a316,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a317,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a318,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a319,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a320,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a321,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a322,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a323,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a324,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a325,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a326,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,3
+367,a327,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,5
+367,a328,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a329,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a330,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a331,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a332,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a333,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a334,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a335,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a336,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a337,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a338,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a339,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a340,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a341,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a342,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a343,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a344,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a345,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a346,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a347,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a348,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a349,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a350,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a351,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a352,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a353,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a354,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a355,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a356,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a357,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a358,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a359,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a360,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a361,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a362,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a363,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a364,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a365,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a366,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a367,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a368,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a369,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a370,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a371,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a372,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a373,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a374,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a375,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a376,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a377,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a378,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a379,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,1
+367,a380,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a381,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,0
+367,a382,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,richness,count,11
+367,a001,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a002,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.066924382
+367,a003,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,38.79363514
+367,a004,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a005,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a006,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,9.84333391
+367,a007,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,77.26551106
+367,a008,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,9.552015892
+367,a009,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.328684886
+367,a010,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a011,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.715632972
+367,a012,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a013,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a014,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a015,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.608205933
+367,a016,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a017,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a018,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a019,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,77.93016331
+367,a020,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a021,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.398571081
+367,a022,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a023,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a024,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a025,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,17.61158576
+367,a026,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a027,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,8.682749972
+367,a028,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a029,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,40.16917913
+367,a030,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.398571081
+367,a031,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,66.88302365
+367,a032,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a033,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a034,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.814029185
+367,a035,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a036,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.162072797
+367,a037,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a038,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a039,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a040,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.398571081
+367,a041,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a042,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a043,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a044,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a045,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a046,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a047,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.316371569
+367,a048,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.193509936
+367,a049,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,18.72830587
+367,a050,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a051,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,17.61158576
+367,a052,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,8.682749972
+367,a053,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a054,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a055,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a056,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a057,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a058,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,17.61158576
+367,a059,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a060,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a061,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a062,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a063,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a064,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a065,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a066,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,2.174026798
+367,a067,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a068,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.715632972
+367,a069,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a070,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,2.940833807
+367,a071,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.920780111
+367,a072,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.398571081
+367,a073,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,8.682749972
+367,a074,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a075,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,7.264265071
+367,a076,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,10.52531664
+367,a077,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,26.12800886
+367,a078,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,68.21650162
+367,a079,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a080,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a081,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a082,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a083,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a084,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a085,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a086,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a087,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a088,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a089,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a090,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a091,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a092,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.398571081
+367,a093,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,1.080484455
+367,a094,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a095,2008,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.316371569
+367,a096,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a097,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a098,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.886974518
+367,a099,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a100,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,77.99188308
+367,a101,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.521432714
+367,a102,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a103,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a104,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a105,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a106,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a107,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.476822117
+367,a108,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,9.566665353
+367,a109,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a110,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,2.670914259
+367,a111,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.521432714
+367,a112,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,8.805611605
+367,a113,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a114,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a115,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,90.73133891
+367,a116,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a117,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.398571081
+367,a118,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,30.55299959
+367,a119,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a120,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.958651283
+367,a121,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.066924382
+367,a122,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a123,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a124,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.20028695
+367,a125,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a126,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a127,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a128,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.316371569
+367,a129,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a130,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.036898183
+367,a131,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.036898183
+367,a132,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.336377257
+367,a133,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.398571081
+367,a134,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.675130315
+367,a135,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,93.75588266
+367,a136,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a137,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a138,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a139,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a140,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a141,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a142,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a143,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,26.82617595
+367,a144,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a145,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.328684886
+367,a146,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.328684886
+367,a147,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.117593269
+367,a148,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,12.54465381
+367,a149,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.396091064
+367,a150,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a151,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a152,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,9.168094271
+367,a153,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.495180451
+367,a154,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.193509936
+367,a155,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.328684886
+367,a156,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.036898183
+367,a157,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a158,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a159,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.41594018
+367,a160,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a161,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a162,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,25.93121374
+367,a163,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.552268682
+367,a164,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.888619701
+367,a165,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.006777014
+367,a166,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.608205933
+367,a167,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,9.566665353
+367,a168,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a169,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,4.422387293
+367,a170,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.136020551
+367,a171,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a172,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,2.292533119
+367,a173,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a174,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a175,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.328684886
+367,a176,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a177,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a178,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,3.586194391
+367,a179,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,2.33193585
+367,a180,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,36.94351655
+367,a181,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.801715869
+367,a182,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.754208356
+367,a183,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a184,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.247777108
+367,a185,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a186,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a187,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.036898183
+367,a188,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a189,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a190,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a191,2008,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.9090627
+367,a192,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,1.206208706
+367,a193,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,113.610114
+367,a194,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.714224
+367,a195,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,41.23048489
+367,a196,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a197,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,44.01305235
+367,a198,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,10.65812224
+367,a199,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,47.71845229
+367,a200,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a201,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a202,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,8.642435085
+367,a203,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.382624691
+367,a204,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a205,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a206,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a207,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a208,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a209,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a210,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a211,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a212,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.328684886
+367,a213,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,25.2873398
+367,a214,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a215,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,70.64882374
+367,a216,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.65898727
+367,a217,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a218,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,44.01305235
+367,a219,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,58.9547575
+367,a220,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,8.682749972
+367,a221,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,8.682749972
+367,a222,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a223,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,5.739513983
+367,a224,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.35617743
+367,a225,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,21.56026282
+367,a226,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,4.350307276
+367,a227,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,16.45561092
+367,a228,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.920780111
+367,a229,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a230,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a231,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a232,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a233,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a234,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a235,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a236,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a237,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a238,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,47.56336933
+367,a239,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a240,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,44.01305235
+367,a241,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,44.99377197
+367,a242,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,44.51116512
+367,a243,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,105.9791261
+367,a244,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,4.714274311
+367,a245,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,14.81629842
+367,a246,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,124.0447854
+367,a247,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,36.32777767
+367,a248,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,32.05320738
+367,a249,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,11.61766919
+367,a250,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a251,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a252,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.573707636
+367,a253,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a254,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a255,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a256,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a257,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,25.34257653
+367,a258,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a259,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a260,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a261,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a262,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,9.745435895
+367,a263,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,71.53181858
+367,a264,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,62.08526097
+367,a265,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,9.933691525
+367,a266,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,47.43607022
+367,a267,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,115.0271083
+367,a268,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,146.4952295
+367,a269,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,17.61158576
+367,a270,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,36.67287528
+367,a271,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,36.78348415
+367,a272,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,41.23604088
+367,a273,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,17.61158576
+367,a274,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,13.61801456
+367,a275,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a276,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,1.490027965
+367,a277,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a278,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,37.44232525
+367,a279,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.851543305
+367,a280,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a281,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a282,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0.920780111
+367,a283,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a284,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,6.659088397
+367,a285,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a286,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,0
+367,a287,2009,,ungrazed,0,animals per hectare,0.4,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a288,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.093526165
+367,a289,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a290,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a291,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a292,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a293,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,3.861903839
+367,a294,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a295,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a296,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a297,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a298,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a299,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a300,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,36.24877007
+367,a301,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,2.049457781
+367,a302,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,36.58124393
+367,a303,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,8.642435085
+367,a304,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a305,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.052730337
+367,a306,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.460622852
+367,a307,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a308,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a309,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a310,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a311,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a312,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.627578035
+367,a313,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,71.60747503
+367,a314,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a315,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a316,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a317,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a318,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,5.520544132
+367,a319,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a320,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,6.46557846
+367,a321,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,7.131114653
+367,a322,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a323,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a324,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.250941553
+367,a325,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a326,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,36.51053057
+367,a327,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,35.3677923
+367,a328,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a329,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a330,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a331,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a332,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a333,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a334,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a335,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a336,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a337,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a338,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a339,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a340,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,3.463332758
+367,a341,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a342,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a343,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a344,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.122861633
+367,a345,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a346,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a347,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a348,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.250941553
+367,a349,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a350,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.886974518
+367,a351,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a352,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a353,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a354,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a355,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,8.642435085
+367,a356,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a357,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a358,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.037489915
+367,a359,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,35.33030238
+367,a360,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a361,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,1.490027965
+367,a362,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,25.64266456
+367,a363,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a364,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a365,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a366,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,223.0044325
+367,a367,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a368,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a369,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a370,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a371,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a372,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,26.2173354
+367,a373,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a374,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a375,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a376,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,18.72830587
+367,a377,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.485344299
+367,a378,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0.391203754
+367,a379,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,159.1071582
+367,a380,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a381,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,0
+367,a382,2009,,grazed,0,animals per hectare,2.1,Coleoptera,,,,biomass (mg),count,36.23936508
