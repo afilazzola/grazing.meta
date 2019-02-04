@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2789,,,NT-G,grazed,7,animal-days,147-556,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,mean,0.366
+2789,,,NT-G,grazed,7,animal-days,147-557,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,SD,0.276188
+2789,,,NT-G,grazed,7,animal-days,147-558,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,N,31
+2789,,,NT-NG,ungrazed,7,animal-days,0,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,mean,0.266
+2789,,,NT-NG,ungrazed,7,animal-days,0,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,SD,0.297456
+2789,,,NT-NG,ungrazed,7,animal-days,0,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,N,17
+2789,,,T-G,grazed,2,animal-days,584-2224,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,mean,0.322
+2789,,,T-G,grazed,2,animal-days,584-2225,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,SD,0.198545
+2789,,,T-G,grazed,2,animal-days,584-2226,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,N,32
+2789,,,T-NG,ungrazed,2,animal-days,0,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,mean,0.036
+2789,,,T-NG,ungrazed,2,animal-days,0,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,SD,0.060663
+2789,,,T-NG,ungrazed,2,animal-days,0,Aves,Tympanuchus,pallidicinctus,,proportion of habitat use,N,4
