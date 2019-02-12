@@ -1,0 +1,73 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1926,,2004,24,intensive,,,,plant,,,,vegetation height,mean,4.63
+1926,,2004,24,low intense,,,,plant,,,,vegetation height,mean,9.14
+1926,,2004,24,abandoned,10,,,plant,,,,vegetation height,mean,16.51
+1926,,2004,24,intensive,,,,plant,,,,vegetation height,se,1.07
+1926,,2004,24,low intense,,,,plant,,,,vegetation height,se,1.07
+1926,,2004,24,abandoned,10,,,plant,,,,vegetation height,se,1.07
+1926,,2004,24,intensive,,,,plant,,,,litter,mean,0.37
+1926,,2004,24,low intense,,,,plant,,,,litter,mean,0.72
+1926,,2004,24,abandoned,10,,,plant,,,,litter,mean,1.5
+1926,,2004,24,intensive,,,,plant,,,,litter,se,0.07
+1926,,2004,24,low intense,,,,plant,,,,litter,se,0.07
+1926,,2004,24,abandoned,10,,,plant,,,,litter,se,0.07
+1926,,2004,24,intensive,,,,plant,,,,flower abundance,mean,3286
+1926,,2004,24,low intense,,,,plant,,,,flower abundance,mean,4230
+1926,,2004,24,abandoned,10,,,plant,,,,flower abundance,mean,3591
+1926,,2004,24,intensive,,,,plant,,,,flower abundance,se,557
+1926,,2004,24,low intense,,,,plant,,,,flower abundance,se,557
+1926,,2004,24,abandoned,10,,,plant,,,,flower abundance,se,557
+1926,,2004,24,intensive,,,,plant,,,,plant species richness,mean,34.63
+1926,,2004,24,low intense,,,,plant,,,,plant species richness,mean,33.75
+1926,,2004,24,abandoned,10,,,plant,,,,plant species richness,mean,31.38
+1926,,2004,24,intensive,,,,plant,,,,plant species richness,se,2.13
+1926,,2004,24,low intense,,,,plant,,,,plant species richness,se,2.13
+1926,,2004,24,abandoned,10,,,plant,,,,plant species richness,se,2.13
+1926,,2004,24,intensive,,,,arthropoda,,,,bee richness,mean,20.88
+1926,,2004,24,low intense,,,,arthropoda,,,,bee richness,mean,21.25
+1926,,2004,24,abandoned,10,,,arthropoda,,,,bee richness,mean,17.25
+1926,,2004,24,intensive,,,,arthropoda,,,,bee richness,se,1.53
+1926,,2004,24,low intense,,,,arthropoda,,,,bee richness,se,1.53
+1926,,2004,24,abandoned,10,,,arthropoda,,,,bee richness,se,1.53
+1926,,2004,24,intensive,,,,arthropoda,,,,bee abundance,mean,51.75
+1926,,2004,24,low intense,,,,arthropoda,,,,bee abundance,mean,62.5
+1926,,2004,24,abandoned,10,,,arthropoda,,,,bee abundance,mean,43.38
+1926,,2004,24,intensive,,,,arthropoda,,,,bee abundance,se,7.43
+1926,,2004,24,low intense,,,,arthropoda,,,,bee abundance,se,7.43
+1926,,2004,24,abandoned,10,,,arthropoda,,,,bee abundance,se,7.43
+1926,,2004,24,intensive,,,,arthropoda,,,,butterfly richness,mean,9.37
+1926,,2004,24,low intense,,,,arthropoda,,,,butterfly richness,mean,9.13
+1926,,2004,24,abandoned,10,,,arthropoda,,,,butterfly richness,mean,10.38
+1926,,2004,24,intensive,,,,arthropoda,,,,butterfly richness,se,0.72
+1926,,2004,24,low intense,,,,arthropoda,,,,butterfly richness,se,0.72
+1926,,2004,24,abandoned,10,,,arthropoda,,,,butterfly richness,se,0.72
+1926,,2004,24,intensive,,,,arthropoda,,,,butterfly abundance,mean,22.75
+1926,,2004,24,low intense,,,,arthropoda,,,,butterfly abundance,mean,22.87
+1926,,2004,24,abandoned,10,,,arthropoda,,,,butterfly abundance,mean,29.5
+1926,,2004,24,intensive,,,,arthropoda,,,,butterfly abundance,se,3.53
+1926,,2004,24,low intense,,,,arthropoda,,,,butterfly abundance,se,3.53
+1926,,2004,24,abandoned,10,,,arthropoda,,,,butterfly abundance,se,3.53
+1926,,2004,24,intensive,,,,arthropoda,,,,hoverfly richness,mean,7.5
+1926,,2004,24,low intense,,,,arthropoda,,,,hoverfly richness,mean,9.88
+1926,,2004,24,abandoned,10,,,arthropoda,,,,hoverfly richness,mean,10.63
+1926,,2004,24,intensive,,,,arthropoda,,,,hoverfly richness,se,1.22
+1926,,2004,24,low intense,,,,arthropoda,,,,hoverfly richness,se,1.22
+1926,,2004,24,abandoned,10,,,arthropoda,,,,hoverfly richness,se,1.22
+1926,,2004,24,intensive,,,,arthropoda,,,,hoverfly abundance,mean,28.25
+1926,,2004,24,low intense,,,,arthropoda,,,,hoverfly abundance,mean,35.38
+1926,,2004,24,abandoned,10,,,arthropoda,,,,hoverfly abundance,mean,44.38
+1926,,2004,24,intensive,,,,arthropoda,,,,hoverfly abundance,se,5.47
+1926,,2004,24,low intense,,,,arthropoda,,,,hoverfly abundance,se,5.47
+1926,,2004,24,abandoned,10,,,arthropoda,,,,hoverfly abundance,se,5.47
+1926,,2004,24,intensive,,,,arthropoda,,,,beetle richness,mean,2.75
+1926,,2004,24,low intense,,,,arthropoda,,,,beetle richness,mean,3.75
+1926,,2004,24,abandoned,10,,,arthropoda,,,,beetle richness,mean,5.13
+1926,,2004,24,intensive,,,,arthropoda,,,,beetle richness,se,0.6
+1926,,2004,24,low intense,,,,arthropoda,,,,beetle richness,se,0.6
+1926,,2004,24,abandoned,10,,,arthropoda,,,,beetle richness,se,0.6
+1926,,2004,24,intensive,,,,arthropoda,,,,beetle abundance,mean,4.5
+1926,,2004,24,low intense,,,,arthropoda,,,,beetle abundance,mean,6.88
+1926,,2004,24,abandoned,10,,,arthropoda,,,,beetle abundance,mean,15
+1926,,2004,24,intensive,,,,arthropoda,,,,beetle abundance,se,2.36
+1926,,2004,24,low intense,,,,arthropoda,,,,beetle abundance,se,2.36
+1926,,2004,24,abandoned,10,,,arthropoda,,,,beetle abundance,se,2.36

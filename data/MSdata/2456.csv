@@ -1,0 +1,19 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2456,1985sdg,1985,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),mean,1.15
+2456,19852pdg,1985,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),mean,1.89
+2456,1986sdgspring,1986,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),mean,0.63
+2456,19862pdgspring,1986,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),mean,0.61
+2456,1986sdgfall,1986,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),mean,1.56
+2456,19862pdgfall,1986,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),mean,1.57
+2456,1985sdg,1985,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),lower 95% c.i.,1.04
+2456,19852pdg,1985,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),lower 95% c.i.,1.62
+2456,1986sdgspring,1986,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),lower 95% c.i.,0.54
+2456,19862pdgspring,1986,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),lower 95% c.i.,0.48
+2456,1986sdgfall,1986,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),lower 95% c.i.,1.45
+2456,19862pdgfall,1986,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),lower 95% c.i.,1.45
+2456,1985sdg,1985,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),upper 95% c.i.,1.26
+2456,19852pdg,1985,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),upper 95% c.i.,2.15
+2456,1986sdgspring,1986,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),upper 95% c.i.,0.73
+2456,19862pdgspring,1986,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),upper 95% c.i.,0.73
+2456,1986sdgfall,1986,20,grazed,0,stocking rate (ha/au),6.9,Aves,Quail,,,density (quail/ha),upper 95% c.i.,1.68
+2456,19862pdgfall,1986,17,grazed,0,stocking rate (ha/au),9.5,Aves,Quail,,,density (quail/ha),upper 95% c.i.,1.69

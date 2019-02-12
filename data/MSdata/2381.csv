@@ -1,0 +1,12 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2381,mt.sanford,1998,30,grazed,0,Intensity - Distance from water (km),0.159066859,Arthropoda,Araneidae,,,Number of spiders,Mean,7.619047619
+2382,mt.sanford,1998,30,grazed,0,Intensity - Distance from water (km),0.303367003,Arthropoda,Araneidae,,,Number of spiders,Mean,13.33333333
+2383,mt.sanford,1998,30,grazed,0,Intensity - Distance from water (km),0.495767196,Arthropoda,Araneidae,,,Number of spiders,Mean,20.95238095
+2384,mt.sanford,1998,30,grazed,0,Intensity - Distance from water (km),0.78032708,Arthropoda,Araneidae,,,Number of spiders,Mean,52.38095238
+2385,mt.sanford,1998,30,grazed,0,Intensity - Distance from water (km),1.293843194,Arthropoda,Araneidae,,,Number of spiders,Mean,30.47619048
+2386,mt.sanford,1998,30,grazed,0,Intensity - Distance from water (km),2.178691679,Arthropoda,Araneidae,,,Number of spiders,Mean,90.47619048
+2381,kidmansprings,1998,30,grazed,0,Intensity - Distance from water (km),0.11023622,Arthropoda,Araneidae,,,Number of spiders,Mean,22.80247227
+2382,kidmansprings,1998,30,grazed,0,Intensity - Distance from water (km),0.535433071,Arthropoda,Araneidae,,,Number of spiders,Mean,20.6824147
+2383,kidmansprings,1998,30,grazed,0,Intensity - Distance from water (km),1.433070866,Arthropoda,Araneidae,,,Number of spiders,Mean,30.63923461
+2384,kidmansprings,1998,30,grazed,0,Intensity - Distance from water (km),2.992125984,Arthropoda,Araneidae,,,Number of spiders,Mean,26.44991957
+2385,kidmansprings,1998,30,grazed,0,Intensity - Distance from water (km),10.07874016,Arthropoda,Araneidae,,,Number of spiders,Mean,42.01168402

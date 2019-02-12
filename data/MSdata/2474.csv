@@ -1,0 +1,5 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2474,1,2004,20,ungrazed,UNKN,p/a,0,Reptilia,Salamander,,,Salamander relative abundance,Mean,11
+2474,2,2005,20,ungrazed,UNKN,p/a,0,Reptilia,Salamander,,,Salamander relative abundance,Mean,9
+2474,3,2004,20,grazed,,p/a,1,Reptilia,Salamander,,,Salamander relative abundance,Mean,0.7
+2474,4,2005,20,grazed,,p/a,1,Reptilia,Salamander,,,Salamander relative abundance,Mean,1.2

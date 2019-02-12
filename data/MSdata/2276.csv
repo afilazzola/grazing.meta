@@ -1,0 +1,7 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2276,extensive,2005,15,gradient,0,Intensity,Extensive,Plants,,,,Hedgerow Cover (%),Mean,5
+2276,Low-intensive,2005,15,gradient,0,Intensity,Low-intensive,Plants,,,,Hedgerow Cover (%),Mean,2
+2276,Intensive,2005,15,gradient,0,Intensity,Intensive,Plants,,,,Hedgerow Cover (%),Mean,1
+2276,extensive,2005,15,gradient,0,Intensity,Extensive,Mollusca,,,,Snail abundance (individuals/study site 5*5m),Mean,431
+2276,Low-intensive,2005,15,gradient,0,Intensity,Low-intensive,Mollusca,,,,Snail abundance (individuals/study site 5*5m),Mean,141.4
+2276,Intensive,2005,15,gradient,0,Intensity,Intensive,Mollusca,,,,Snail abundance (individuals/study site 5*5m),Mean,125.8

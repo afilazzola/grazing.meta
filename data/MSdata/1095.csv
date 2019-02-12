@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1095,,,3,ungrazed,4,,,Arthropod,,,,number of ant occupied trees,mean,7.441364606
+1095,,,3,ungrazed,4,,,Arthropod,,,,number of ant occupied trees,se,1.044776119
+1095,,,3,cattle,0,,,Arthropod,,,,number of ant occupied trees,mean,3.304904051
+1095,,,3,cattle,0,,,Arthropod,,,,number of ant occupied trees,se,1.257995736
+1095,,,3,megaherbivores,0,,,Arthropod,,,,number of ant occupied trees,mean,2.025586354
+1095,,,3,megaherbivores,0,,,Arthropod,,,,number of ant occupied trees,se,0.405117271
+1095,,,3,both,0,,,Arthropod,,,,number of ant occupied trees,mean,2.132196162
+1095,,,3,both,0,,,Arthropod,,,,number of ant occupied trees,se,0.362473348

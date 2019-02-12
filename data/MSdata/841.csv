@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+741,KLEE,2013 july,3,grazed,0,,,Geckos,Anolis,,,number/ha,mean,280
+741,KLEE,2013 july,3,grazed,0,,,Geckos,Anolis,,,number/ha,sterror,51
+741,KLEE,2013 july,3,ungrazed,18,,,Geckos,Anolis,,,number/ha,mean,286
+741,KLEE,2013 july,3,ungrazed,18,,,Geckos,Anolis,,,number/ha,sterror,53
+741,KLEE,2014 Mar,3,grazed,0,,,Geckos,Anolis,,,number/ha,mean,341
+741,KLEE,2014 Mar,3,grazed,0,,,Geckos,Anolis,,,number/ha,sterror,74
+741,KLEE,2014 Mar,3,ungrazed,18,,,Geckos,Anolis,,,number/ha,mean,350
+741,KLEE,2014 Mar,3,ungrazed,18,,,Geckos,Anolis,,,number/ha,sterror,36
+741,KLEE,2014 july,3,grazed,0,,,Geckos,Anolis,,,number/ha,mean,216
+741,KLEE,2014 july,3,grazed,0,,,Geckos,Anolis,,,number/ha,sterror,26
+741,KLEE,2014 july,3,ungrazed,18,,,Geckos,Anolis,,,number/ha,mean,276
+741,KLEE,2014 july,3,ungrazed,18,,,Geckos,Anolis,,,number/ha,sterror,61

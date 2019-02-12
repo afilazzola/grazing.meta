@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+977,,1998,36,grazed,0,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,mean,22.5
+977,,1998,36,grazed,0,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,se,6.833333333
+977,,1998,36,ungrazed,1,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,mean,27.5
+977,,1998,36,ungrazed,1,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,se,2.166666667
+977,,2001,36,grazed,0,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,mean,12.16666667
+977,,2001,36,grazed,0,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,se,4.5
+977,,2001,36,ungrazed,4,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,mean,7.5
+977,,2001,36,ungrazed,4,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,se,6.166
+977,,2003,36,grazed,0,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,mean,24.16666667
+977,,2003,36,grazed,0,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,se,3.33
+977,,2003,36,ungrazed,6,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,mean,8.5
+977,,2003,36,ungrazed,6,sheep/ha,1.6,Mammal,Oryctolagus,cuniculus,,pellet count,se,3.33
+977,,2003,36,grazed,0,sheep/ha,1.6,Plants,,,,species richness,mean,16.92
+977,,2003,36,grazed,0,sheep/ha,1.6,Plants,,,,species richness,se,2.19
+977,,2003,36,ungrazed,6,sheep/ha,1.6,Plants,,,,species richness,mean,16.33
+977,,2003,36,ungrazed,6,sheep/ha,1.6,Plants,,,,species richness,se,2.45

@@ -1,0 +1,24 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2239,1heavilygrazed,1989,10,grazed,0,grazing intensity,heavy,Arthropoda,Armadillidium vulgare,,,Density,mean # individuals/m²,345
+2239,2mediumgrazed,1989,10,grazed,0,grazing intensity,medium,Arthropoda,Armadillidium vulgare,,,Density,mean # individuals/m131,112
+2239,3lightlygrazed,1989,10,grazed,0,grazing intensity,light,Arthropoda,Armadillidium vulgare,,,Density,mean # individuals/m132,625
+2239,4nograzing,1989,10,nongrazed,49,grazing intensity,0,Arthropoda,Armadillidium vulgare,,,Density,mean # individuals/m133,64
+2239,1heavilygrazed,1987,10,grazed,0,grazing intensity,heavy,Arthropoda,Armadillidium vulgare,,,Mortality,mean k stat,1.146
+2239,2mediumgrazed,1987,10,grazed,0,grazing intensity,medium,Arthropoda,Armadillidium vulgare,,,Mortality,mean k stat,1.539
+2239,3lightlygrazed,1987,10,grazed,0,grazing intensity,light,Arthropoda,Armadillidium vulgare,,,Mortality,mean k stat,0.276
+2239,4nograzing,1987,10,nongrazed,49,grazing intensity,0,Arthropoda,Armadillidium vulgare,,,Mortality,mean k stat,0.915
+2239,1heavilygrazed,1988,10,grazed,0,grazing intensity,heavy,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Extractor,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.36
+2239,2mediumgrazed,1988,10,grazed,0,grazing intensity,medium,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Extractor,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.319
+2239,3lightlygrazed,1988,10,grazed,0,grazing intensity,light,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Extractor,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.294
+2239,4nograzing,1988,10,nongrazed,49,grazing intensity,0,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Extractor,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.298
+2239,1heavilygrazed,1988,10,grazed,0,grazing intensity,heavy,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Pitfall,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.37
+2239,2mediumgrazed,1988,10,grazed,0,grazing intensity,medium,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Pitfall,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.345
+2239,3lightlygrazed,1988,10,grazed,0,grazing intensity,light,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Pitfall,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.301
+2239,4nograzing,1988,10,nongrazed,49,grazing intensity,0,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Pitfall,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.312
+2239,2mediumgrazed,1987,10,grazed,0,grazing intensity,medium,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Extractor,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.227
+2239,3lightlygrazed,1987,10,grazed,0,grazing intensity,light,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Extractor,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.203
+2239,4nograzing,1987,10,nongrazed,49,grazing intensity,0,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Extractor,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.206
+2239,1heavilygrazed,1987,10,grazed,0,grazing intensity,heavy,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Pitfall,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.233
+2239,2mediumgrazed,1987,10,grazed,0,grazing intensity,medium,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Pitfall,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.224
+2239,3lightlygrazed,1987,10,grazed,0,grazing intensity,light,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Pitfall,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.205
+2239,4nograzing,1987,10,nongrazed,49,grazing intensity,0,Arthropoda,Armadillidium vulgare,,,Relative Growth Rate Pitfall,Mean Live weight (mg) t1 - Live weight (mg) t0 / time,0.205

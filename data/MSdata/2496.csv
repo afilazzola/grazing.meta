@@ -1,0 +1,13 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),2.25,Soil microbia,,,,Microbial biomass C (g C/kg soil),mean,0.5
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),3.5,Soil microbia,,,,Microbial biomass C (g C/kg soil),mean,0.2
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),4.75,Soil microbia,,,,Microbial biomass C (g C/kg soil),mean,0.19
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),2.25,Soil microbia,,,,Total bacteria (g/m² soil),mean,70
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),3.5,Soil microbia,,,,Total bacteria (g/m² soil),mean,65
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),4.75,Soil microbia,,,,Total bacteria (g/m² soil),mean,56
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),2.25,Soil microbia,,,,Total fungi (g/m² soil),mean,88
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),3.5,Soil microbia,,,,Total fungi (g/m² soil),mean,71
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),4.75,Soil microbia,,,,Total fungi (g/m² soil),mean,64
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),2.25,Soil microbia,,,,Total bacteria:Total microbial biomass carbon content,mean,1.1
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),3.5,Soil microbia,,,,Total bacteria:Total microbial biomass carbon content,mean,1.2
+2496,,2010,10,grazed,,Grazing intensity (livestock unit/ha),4.75,Soil microbia,,,,Total bacteria:Total microbial biomass carbon content,mean,1.2

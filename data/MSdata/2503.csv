@@ -1,0 +1,33 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2503,1,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Species richness,mean,13.90220628
+2503,2,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Species richness,mean,10.21719215
+2503,3,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Species richness,mean,20.01374151
+2503,4,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Species richness,mean,13.80601573
+2503,5,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Species richness,mean,21.76921902
+2503,6,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Species richness,mean,17.85403466
+2503,7,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Species richness,mean,33.60409192
+2503,8,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Species richness,mean,25.56645545
+2503,1,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Species richness,standard error,10.93060539
+2503,2,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Species richness,standard error,4.574776701
+2503,3,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Species richness,standard error,20.61111535
+2503,4,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Species richness,standard error,4.351477212
+2503,5,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Species richness,standard error,20.61455073
+2503,6,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Species richness,standard error,9.162149782
+2503,7,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Species richness,standard error,5.950072525
+2503,8,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Species richness,standard error,8.926253913
+2503,1,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Log abundance,mean,5.446627579
+2503,2,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Log abundance,mean,9.734682003
+2503,3,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Log abundance,mean,5.260081457
+2503,4,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Log abundance,mean,9.336884035
+2503,5,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Log abundance,mean,6.476390816
+2503,6,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Log abundance,mean,7.957660117
+2503,7,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Log abundance,mean,6.99091438
+2503,8,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Log abundance,mean,10.4364678
+2503,1,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Log abundance,standard error,1.121425055
+2503,2,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Log abundance,standard error,2.948932552
+2503,3,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Log abundance,standard error,0.982500112
+2503,4,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Log abundance,standard error,4.210356711
+2503,5,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Log abundance,standard error,2.806785123
+2503,6,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Log abundance,standard error,5.475003357
+2503,7,1994,12,grazed,,Visual estimation of grazing intensity,Heavy,Arthropoda,,,,Log abundance,standard error,4.350355816
+2503,8,1994,12,grazed,,Visual estimation of grazing intensity,Light,Arthropoda,,,,Log abundance,standard error,0.842142953

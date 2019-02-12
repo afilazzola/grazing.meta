@@ -1,0 +1,6 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2012,1,1990,1,moderate,,,,Hymenoptera,Pogonomyrmex,occidentalis,,abundance of ant colony,count,1450
+2012,2,1990,1,moderate,,,,Hymenoptera,Pogonomyrmex,occidentalis,,abundance of ant colony,count,964
+2012,3,1990,1,light,,,,Hymenoptera,Pogonomyrmex,occidentalis,,abundance of ant colony,count,2051
+2012,4,1990,1,moderate,,,,Hymenoptera,Pogonomyrmex,occidentalis,,abundance of ant colony,count,635
+2012,5,1990,1,heavy,,,,Hymenoptera,Pogonomyrmex,occidentalis,,abundance of ant colony,count,378

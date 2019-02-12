@@ -1,0 +1,33 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+879,Molinia,2001,,ungrazed,,,,Plants,,,,cover depth (cm),mean,28
+879,Molinia,2001,,grazed,,,,Plants,,,,cover depth (cm),mean,27
+879,Molinia,2001,,ungrazed,,,,Plants,,,,cover depth (cm),se,3.6
+879,Molinia,2001,,grazed,,,,Plants,,,,cover depth (cm),se,2.6
+879,Eriophorum,2001,,ungrazed,,,,Plants,,,,cover depth (cm),mean,23
+879,Eriophorum,2001,,grazed,,,,Plants,,,,cover depth (cm),mean,18
+879,Eriophorum,2001,,ungrazed,,,,Plants,,,,cover depth (cm),se,1.6
+879,Eriophorum,2001,,grazed,,,,Plants,,,,cover depth (cm),se,3.5
+879,Nardus,2001,,ungrazed,,,,Plants,,,,cover depth (cm),mean,26
+879,Nardus,2001,,grazed,,,,Plants,,,,cover depth (cm),mean,18
+879,Nardus,2001,,ungrazed,,,,Plants,,,,cover depth (cm),se,3.5
+879,Nardus,2001,,grazed,,,,Plants,,,,cover depth (cm),se,1.9
+879,Calluna,2001,,ungrazed,,,,Plants,,,,cover depth (cm),mean,31
+879,Calluna,2001,,grazed,,,,Plants,,,,cover depth (cm),mean,26
+879,Calluna,2001,,ungrazed,,,,Plants,,,,cover depth (cm),se,5.8
+879,Calluna,2001,,grazed,,,,Plants,,,,cover depth (cm),se,1.9
+879,Molinia,2001,,ungrazed,,,,Mammals,,,,density/ha,mean,19.8
+879,Molinia,2001,,grazed,,,,Mammals,,,,density/ha,mean,10.2
+879,Molinia,2001,,ungrazed,,,,Mammals,,,,density/ha,se,2.5
+879,Molinia,2001,,grazed,,,,Mammals,,,,density/ha,se,1.9
+879,Eriophorum,2001,,ungrazed,,,,Mammals,,,,density/ha,mean,5.5
+879,Eriophorum,2001,,grazed,,,,Mammals,,,,density/ha,mean,2.7
+879,Eriophorum,2001,,ungrazed,,,,Mammals,,,,density/ha,se,3.4
+879,Eriophorum,2001,,grazed,,,,Mammals,,,,density/ha,se,2.4
+879,Nardus,2001,,ungrazed,,,,Mammals,,,,density/ha,mean,18.3
+879,Nardus,2001,,grazed,,,,Mammals,,,,density/ha,mean,7.7
+879,Nardus,2001,,ungrazed,,,,Mammals,,,,density/ha,se,2.5
+879,Nardus,2001,,grazed,,,,Mammals,,,,density/ha,se,2.9
+879,Calluna,2001,,ungrazed,,,,Mammals,,,,density/ha,mean,9.2
+879,Calluna,2001,,grazed,,,,Mammals,,,,density/ha,mean,6.2
+879,Calluna,2001,,ungrazed,,,,Mammals,,,,density/ha,se,2
+879,Calluna,2001,,grazed,,,,Mammals,,,,density/ha,se,1.2

@@ -1,0 +1,93 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2433,pre-treatcontrol,2006,4,non-grazed,2005,Grazing intensity (AUM),0,Plants,,,,Visual obstruction (score),mean,1.35483871
+2433,pre-treatlow,2006,4,grazed,,Grazing intensity (AUM),10,Plants,,,,Visual obstruction (score),mean,1.209677419
+2433,pre-treatmoderate,2006,4,grazed,,Grazing intensity (AUM),20,Plants,,,,Visual obstruction (score),mean,1.258064516
+2433,pre-treathigh,2006,4,grazed,,Grazing intensity (AUM),30,Plants,,,,Visual obstruction (score),mean,1.225806452
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Plants,,,,Visual obstruction (score),mean,1.322580645
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Plants,,,,Visual obstruction (score),mean,0.935483871
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Plants,,,,Visual obstruction (score),mean,0.677419355
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Plants,,,,Visual obstruction (score),mean,0.629032258
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Plants,,,,Visual obstruction (score),mean,1.011196469
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Plants,,,,Visual obstruction (score),mean,0.836629618
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Plants,,,,Visual obstruction (score),mean,0.515568813
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Plants,,,,Visual obstruction (score),mean,0.488231448
+2433,pre-treatcontrol,2009,4,non-grazed,2005,Grazing intensity (AUM),0,Plants,,,,Visual obstruction (score),mean,1.701863354
+2433,pre-treatlow,2009,4,grazed,,Grazing intensity (AUM),10,Plants,,,,Visual obstruction (score),mean,1.332379863
+2433,pre-treatmoderate,2009,4,grazed,,Grazing intensity (AUM),20,Plants,,,,Visual obstruction (score),mean,1.450800915
+2433,pre-treathigh,2009,4,grazed,,Grazing intensity (AUM),30,Plants,,,,Visual obstruction (score),mean,1.309087937
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Savannah sparrow,,,,Visual obstruction (score),mean,1.427376017
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Savannah sparrow,,,,Visual obstruction (score),mean,1.457776754
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Savannah sparrow,,,,Visual obstruction (score),mean,1.357055121
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Savannah sparrow,,,,Visual obstruction (score),mean,1.739060341
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Savannah sparrow,,,,Visual obstruction (score),mean,1.341087057
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Savannah sparrow,,,,Visual obstruction (score),mean,1.587670812
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Savannah sparrow,,,,Visual obstruction (score),mean,1.297789037
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Savannah sparrow,,,,Visual obstruction (score),mean,1.490327038
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Savannah sparrow,,,,Visual obstruction (score),standard error,0.378013204
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Savannah sparrow,,,,Visual obstruction (score),standard error,0.32396745
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Savannah sparrow,,,,Visual obstruction (score),standard error,1.270075234
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Savannah sparrow,,,,Visual obstruction (score),standard error,0.593889145
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Savannah sparrow,,,,Visual obstruction (score),standard error,0.216490097
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Savannah sparrow,,,,Visual obstruction (score),standard error,0.324274528
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Savannah sparrow,,,,Visual obstruction (score),standard error,0.459695993
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Savannah sparrow,,,,Visual obstruction (score),standard error,0.540457546
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Vesper sparrow,,,,Visual obstruction (score),mean,1.234838016
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Vesper sparrow,,,,Visual obstruction (score),mean,1.751650545
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Vesper sparrow,,,,Visual obstruction (score),mean,1.24589283
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Vesper sparrow,,,,Visual obstruction (score),mean,1.599953938
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Vesper sparrow,,,,Visual obstruction (score),mean,1.013127591
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Vesper sparrow,,,,Visual obstruction (score),mean,1.421541532
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Vesper sparrow,,,,Visual obstruction (score),mean,1.213342546
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Vesper sparrow,,,,Visual obstruction (score),mean,1.243436205
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Vesper sparrow,,,,Visual obstruction (score),standard error,1.296483955
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Vesper sparrow,,,,Visual obstruction (score),standard error,1.485951175
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Vesper sparrow,,,,Visual obstruction (score),standard error,0.459388914
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Vesper sparrow,,,,Visual obstruction (score),standard error,0.513127591
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Vesper sparrow,,,,Visual obstruction (score),standard error,0.216183019
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Vesper sparrow,,,,Visual obstruction (score),standard error,1.215722401
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Vesper sparrow,,,,Visual obstruction (score),standard error,0.838016275
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Vesper sparrow,,,,Visual obstruction (score),standard error,0.405036082
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Western meadowlark,,,,Visual obstruction (score),mean,1.700821751
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Western meadowlark,,,,Visual obstruction (score),mean,1.784264989
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Western meadowlark,,,,Visual obstruction (score),mean,1.924774272
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Western meadowlark,,,,Visual obstruction (score),mean,1.632088871
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Western meadowlark,,,,Visual obstruction (score),mean,1.502992797
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Western meadowlark,,,,Visual obstruction (score),mean,1.452013797
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Western meadowlark,,,,Visual obstruction (score),mean,1.458100842
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Western meadowlark,,,,Visual obstruction (score),mean,1.488282439
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Western meadowlark,,,,Visual obstruction (score),standard error,0.37612864
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Western meadowlark,,,,Visual obstruction (score),standard error,1.317591559
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Western meadowlark,,,,Visual obstruction (score),standard error,0.591711474
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Western meadowlark,,,,Visual obstruction (score),standard error,1.639951304
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Western meadowlark,,,,Visual obstruction (score),standard error,0.511058131
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Western meadowlark,,,,Visual obstruction (score),standard error,0.699249264
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Western meadowlark,,,,Visual obstruction (score),standard error,0.48366643
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Western meadowlark,,,,Visual obstruction (score),standard error,0.752764533
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Horned lark,,,,Visual obstruction (score),mean,0.990159278
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Horned lark,,,,Visual obstruction (score),mean,0.778127219
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Horned lark,,,,Visual obstruction (score),mean,0.730952623
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Horned lark,,,,Visual obstruction (score),mean,0.921172771
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Horned lark,,,,Visual obstruction (score),mean,0.792837577
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Horned lark,,,,Visual obstruction (score),mean,0.71497413
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Horned lark,,,,Visual obstruction (score),mean,0.909505935
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Horned lark,,,,Visual obstruction (score),mean,0.831388861
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Horned lark,,,,Visual obstruction (score),standard error,1.398244902
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Horned lark,,,,Visual obstruction (score),standard error,1.049254337
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Horned lark,,,,Visual obstruction (score),standard error,0.860048696
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Horned lark,,,,Visual obstruction (score),standard error,1.370599574
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Horned lark,,,,Visual obstruction (score),standard error,0.993963681
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Horned lark,,,,Visual obstruction (score),standard error,0.725626458
+2433,pre-treathigh,2007,4,grazed,,Grazing intensity (AUM),30,Horned lark,,,,Visual obstruction (score),standard error,0.161306686
+2433,pre-treathigh,2008,4,grazed,,Grazing intensity (AUM),30,Horned lark,,,,Visual obstruction (score),standard error,1.182662068
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Grasshopper sparrow,,,,Visual obstruction (score),mean,1.139240506
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Grasshopper sparrow,,,,Visual obstruction (score),mean,1.455696203
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Grasshopper sparrow,,,,Visual obstruction (score),mean,1.107594937
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Grasshopper sparrow,,,,Visual obstruction (score),mean,1.139240506
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Grasshopper sparrow,,,,Visual obstruction (score),mean,1.202531646
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Grasshopper sparrow,,,,Visual obstruction (score),mean,1.360759494
+2433,pre-treatcontrol,2007,4,non-grazed,2005,Grazing intensity (AUM),0,Grasshopper sparrow,,,,Visual obstruction (score),standard error,2.46835443
+2433,pre-treatcontrol,2008,4,non-grazed,2005,Grazing intensity (AUM),0,Grasshopper sparrow,,,,Visual obstruction (score),standard error,1.107594937
+2433,pre-treatlow,2007,4,grazed,,Grazing intensity (AUM),10,Grasshopper sparrow,,,,Visual obstruction (score),standard error,1.234177215
+2433,pre-treatlow,2008,4,grazed,,Grazing intensity (AUM),10,Grasshopper sparrow,,,,Visual obstruction (score),standard error,0.189873418
+2433,pre-treatmoderate,2007,4,grazed,,Grazing intensity (AUM),20,Grasshopper sparrow,,,,Visual obstruction (score),standard error,0.126582278
+2433,pre-treatmoderate,2008,4,grazed,,Grazing intensity (AUM),20,Grasshopper sparrow,,,,Visual obstruction (score),standard error,0.949367089

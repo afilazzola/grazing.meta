@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+830,,1997,30,grazed,,,,Spiders (low veg),,,,abundance per site,mean,8.3
+830,,1997,30,grazed,,,,Spiders (low veg),,,,abundance per site,sterror,1.4
+830,,1997,30,ungrazed,,,,Spiders (low veg),,,,abundance per site,mean,8.8
+830,,1997,30,ungrazed,,,,Spiders (low veg),,,,abundance per site,sterror,1.4
+830,,1997,30,grazed,,,,Spiders (low veg),,,,richness per site,mean,5.3
+830,,1997,30,grazed,,,,Spiders (low veg),,,,richness per site,sterror,0.4
+830,,1997,30,ungrazed,,,,Spiders (low veg),,,,richness per site,mean,5.3
+830,,1997,30,ungrazed,,,,Spiders (low veg),,,,richness per site,sterror,0.5
+830,,1997,30,grazed,,,,Spiders (ground dwelling),,,,abundance per site,mean,77
+830,,1997,30,grazed,,,,Spiders (ground dwelling),,,,abundance per site,sterror,6.2
+830,,1997,30,ungrazed,,,,Spiders (ground dwelling),,,,abundance per site,mean,81.8
+830,,1997,30,ungrazed,,,,Spiders (ground dwelling),,,,abundance per site,sterror,7.2
+830,,1997,30,grazed,,,,Spiders (ground dwelling),,,,richness per site,mean,13.5
+830,,1997,30,grazed,,,,Spiders (ground dwelling),,,,richness per site,sterror,1
+830,,1997,30,ungrazed,,,,Spiders (ground dwelling),,,,richness per site,mean,14.9
+830,,1997,30,ungrazed,,,,Spiders (ground dwelling),,,,richness per site,sterror,1.3

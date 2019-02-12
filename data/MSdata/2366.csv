@@ -1,0 +1,97 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2366,1,2007,15,grazed,0,Utilization (% Forage removed),6.567406828,Plants,,,,Vegetation structure (robel estimate),Mean,1.522239829
+2366,2,2007,15,grazed,0,Utilization (% Forage removed),7.295906818,Plants,,,,Vegetation structure (robel estimate),Mean,1.495371761
+2366,3,2007,15,grazed,0,Utilization (% Forage removed),7.433786759,Plants,,,,Vegetation structure (robel estimate),Mean,1.198761138
+2366,4,2007,15,grazed,0,Utilization (% Forage removed),7.793920935,Plants,,,,Vegetation structure (robel estimate),Mean,1.158360258
+2366,5,2007,15,grazed,0,Utilization (% Forage removed),15.27648015,Plants,,,,Vegetation structure (robel estimate),Mean,0.984088243
+2366,6,2007,15,grazed,0,Utilization (% Forage removed),16.55958677,Plants,,,,Vegetation structure (robel estimate),Mean,0.991002819
+2366,7,2007,15,grazed,0,Utilization (% Forage removed),21.6704052,Plants,,,,Vegetation structure (robel estimate),Mean,0.877085177
+2366,8,2007,15,grazed,0,Utilization (% Forage removed),26.94174058,Plants,,,,Vegetation structure (robel estimate),Mean,0.61487457
+2366,9,2007,15,grazed,0,Utilization (% Forage removed),30.77048135,Plants,,,,Vegetation structure (robel estimate),Mean,0.500784064
+2366,10,2007,15,grazed,0,Utilization (% Forage removed),32.81604346,Plants,,,,Vegetation structure (robel estimate),Mean,0.703307061
+2366,11,2007,15,grazed,0,Utilization (% Forage removed),34.09812113,Plants,,,,Vegetation structure (robel estimate),Mean,0.703479925
+2366,12,2007,15,grazed,0,Utilization (% Forage removed),40.69783714,Plants,,,,Vegetation structure (robel estimate),Mean,0.744819213
+2366,13,2007,15,grazed,0,Utilization (% Forage removed),50.0181096,Plants,,,,Vegetation structure (robel estimate),Mean,0.611244418
+2366,14,2007,15,grazed,0,Utilization (% Forage removed),27.3553804,Plants,,,,Vegetation structure (robel estimate),Mean,0.925042702
+2366,15,2008,15,grazed,0,Utilization (% Forage removed),12.19578952,Plants,,,,Vegetation structure (robel estimate),Mean,1.199403206
+2366,16,2008,15,grazed,0,Utilization (% Forage removed),9.593562859,Plants,,,,Vegetation structure (robel estimate),Mean,0.949614142
+2366,17,2008,15,grazed,0,Utilization (% Forage removed),11.60311156,Plants,,,,Vegetation structure (robel estimate),Mean,0.916177227
+2366,18,2008,15,grazed,0,Utilization (% Forage removed),15.28368283,Plants,,,,Vegetation structure (robel estimate),Mean,1.031280226
+2366,19,2008,15,grazed,0,Utilization (% Forage removed),23.33525405,Plants,,,,Vegetation structure (robel estimate),Mean,0.985174819
+2366,20,2008,15,grazed,0,Utilization (% Forage removed),17.06480357,Plants,,,,Vegetation structure (robel estimate),Mean,0.701183298
+2366,21,2008,15,grazed,0,Utilization (% Forage removed),18.89531414,Plants,,,,Vegetation structure (robel estimate),Mean,0.694688535
+2366,22,2008,15,grazed,0,Utilization (% Forage removed),28.20221019,Plants,,,,Vegetation structure (robel estimate),Mean,0.473471488
+2366,23,2008,15,grazed,0,Utilization (% Forage removed),34.07959994,Plants,,,,Vegetation structure (robel estimate),Mean,0.582129113
+2366,24,2008,15,grazed,0,Utilization (% Forage removed),37.77046077,Plants,,,,Vegetation structure (robel estimate),Mean,0.764649229
+2366,25,2008,15,grazed,0,Utilization (% Forage removed),40.10618813,Plants,,,,Vegetation structure (robel estimate),Mean,0.468334945
+2366,26,2008,15,grazed,0,Utilization (% Forage removed),52.75101352,Plants,,,,Vegetation structure (robel estimate),Mean,0.517230877
+2366,27,2008,15,grazed,0,Utilization (% Forage removed),50.72500154,Plants,,,,Vegetation structure (robel estimate),Mean,0.442800403
+2366,28,2008,15,grazed,0,Utilization (% Forage removed),64.46154796,Plants,,,,Vegetation structure (robel estimate),Mean,0.444652522
+2366,29,2007,15,grazed,0,Utilization (% Forage removed),6.369863014,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.200508175
+2366,30,2007,15,grazed,0,Utilization (% Forage removed),7.465753425,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.246022978
+2366,31,2007,15,grazed,0,Utilization (% Forage removed),16.50684932,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.11345559
+2366,32,2007,15,grazed,0,Utilization (% Forage removed),26.64383562,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.113499779
+2366,33,2007,15,grazed,0,Utilization (% Forage removed),31.02739726,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.053623509
+2366,34,2008,15,grazed,0,Utilization (% Forage removed),8.867534615,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.222473652
+2366,35,2008,15,grazed,0,Utilization (% Forage removed),10.95060963,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.159888407
+2366,36,2008,15,grazed,0,Utilization (% Forage removed),27.35895846,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.174643521
+2366,37,2008,15,grazed,0,Utilization (% Forage removed),18.96879521,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.105889647
+2366,38,2008,15,grazed,0,Utilization (% Forage removed),10.78528622,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.10533168
+2366,39,2008,15,grazed,0,Utilization (% Forage removed),14.33973962,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.078301302
+2366,40,2008,15,grazed,0,Utilization (% Forage removed),16.52200868,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.048450093
+2366,41,2008,15,grazed,0,Utilization (% Forage removed),21.01053937,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.02966522
+2366,42,2008,15,grazed,0,Utilization (% Forage removed),22.39098987,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.035213887
+2366,43,2008,15,grazed,0,Utilization (% Forage removed),34.17854929,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.025108493
+2366,44,2008,15,grazed,0,Utilization (% Forage removed),38.74974168,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.033601984
+2366,45,2008,15,grazed,0,Utilization (% Forage removed),36.36908452,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,-0.002014879
+2366,46,2008,15,grazed,0,Utilization (% Forage removed),49.11551974,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.004308741
+2366,47,2008,15,grazed,0,Utilization (% Forage removed),48.35503203,Arthropda,Bombus,,,Abundance (#/trapped/hour),Mean,0.053347799
+2366,48,2007,15,grazed,0,Utilization (% Forage removed),8.139534884,Arthropda,Bombus,,,Species richness,Mean,1.877707122
+2366,49,2007,15,grazed,0,Utilization (% Forage removed),10,Arthropda,Bombus,,,Species richness,Mean,1.531395349
+2366,50,2007,15,grazed,0,Utilization (% Forage removed),27.20930233,Arthropda,Bombus,,,Species richness,Mean,2.739925509
+2366,51,2007,15,grazed,0,Utilization (% Forage removed),48.60465116,Arthropda,Bombus,,,Species richness,Mean,0.613980741
+2366,52,2007,15,grazed,0,Utilization (% Forage removed),9.534883721,Arthropda,Bombus,,,Species richness,Mean,0.61309048
+2366,53,2007,15,grazed,0,Utilization (% Forage removed),14.18604651,Arthropda,Bombus,,,Species richness,Mean,0.646920422
+2366,54,2007,15,grazed,0,Utilization (% Forage removed),18.37209302,Arthropda,Bombus,,,Species richness,Mean,0.642914244
+2366,55,2007,15,grazed,0,Utilization (% Forage removed),15.58139535,Arthropda,Bombus,,,Species richness,Mean,0.301053779
+2366,56,2007,15,grazed,0,Utilization (% Forage removed),20.23255814,Arthropda,Bombus,,,Species richness,Mean,-0.009647529
+2366,57,2007,15,grazed,0,Utilization (% Forage removed),21.62790698,Arthropda,Bombus,,,Species richness,Mean,0.027298328
+2366,58,2007,15,grazed,0,Utilization (% Forage removed),33.25581395,Arthropda,Bombus,,,Species richness,Mean,-0.022111192
+2366,59,2007,15,grazed,0,Utilization (% Forage removed),38.8372093,Arthropda,Bombus,,,Species richness,Mean,0.010828488
+2366,60,2007,15,grazed,0,Utilization (% Forage removed),36.51162791,Arthropda,Bombus,,,Species richness,Mean,-0.599445858
+2366,61,2007,15,grazed,0,Utilization (% Forage removed),49.53488372,Arthropda,Bombus,,,Species richness,Mean,-0.65019077
+2366,62,2008,15,grazed,0,Utilization (% Forage removed),6.612903226,Arthropda,,,,Species richness All Bees,Mean,2.990512334
+2366,63,2008,15,grazed,0,Utilization (% Forage removed),7.956989247,Arthropda,,,,Species richness All Bees,Mean,2.584123972
+2366,64,2008,15,grazed,0,Utilization (% Forage removed),16.29032258,Arthropda,,,,Species richness All Bees,Mean,2.829222011
+2366,65,2008,15,grazed,0,Utilization (% Forage removed),26.77419355,Arthropda,,,,Species richness All Bees,Mean,1.490275142
+2366,66,2008,15,grazed,0,Utilization (% Forage removed),30.80645161,Arthropda,,,,Species richness All Bees,Mean,1.484345351
+2366,67,2008,15,grazed,0,Utilization (% Forage removed),6.612903226,Arthropda,Bombus,,,Species richness,Mean,1.336100569
+2366,68,2008,15,grazed,0,Utilization (% Forage removed),7.688172043,Arthropda,Bombus,,,Species richness,Mean,0.709519292
+2366,69,2008,15,grazed,0,Utilization (% Forage removed),16.55913978,Arthropda,Bombus,,,Species richness,Mean,0.586179633
+2366,70,2008,15,grazed,0,Utilization (% Forage removed),26.77419355,Arthropda,Bombus,,,Species richness,Mean,1.012333966
+2366,71,2008,15,grazed,0,Utilization (% Forage removed),30.80645161,Arthropda,Bombus,,,Species richness,Mean,-0.059772296
+2366,72,2008,15,grazed,0,Utilization (% Forage removed),8.896805332,Arthropda,,,,Shannon diversity (H),Mean,2.269248449
+2366,73,2008,15,grazed,0,Utilization (% Forage removed),10.22063893,Arthropda,,,,Shannon diversity (H),Mean,2.510572282
+2366,74,2008,15,grazed,0,Utilization (% Forage removed),12.03171685,Arthropda,,,,Shannon diversity (H),Mean,2.63238336
+2366,75,2008,15,grazed,0,Utilization (% Forage removed),14.78051023,Arthropda,,,,Shannon diversity (H),Mean,2.675132154
+2366,76,2008,15,grazed,0,Utilization (% Forage removed),22.55803264,Arthropda,,,,Shannon diversity (H),Mean,2.842909676
+2366,77,2008,15,grazed,0,Utilization (% Forage removed),26.29050793,Arthropda,,,,Shannon diversity (H),Mean,2.606642151
+2366,78,2008,15,grazed,0,Utilization (% Forage removed),16.27901632,Arthropda,,,,Shannon diversity (H),Mean,2.15663066
+2366,79,2008,15,grazed,0,Utilization (% Forage removed),20.48034934,Arthropda,,,,Shannon diversity (H),Mean,1.880831993
+2366,80,2008,15,grazed,0,Utilization (% Forage removed),34.36221558,Arthropda,,,,Shannon diversity (H),Mean,1.494713859
+2366,81,2008,15,grazed,0,Utilization (% Forage removed),39.17949897,Arthropda,,,,Shannon diversity (H),Mean,2.539531142
+2366,82,2008,15,grazed,0,Utilization (% Forage removed),48.52907378,Arthropda,,,,Shannon diversity (H),Mean,1.868880717
+2366,83,2008,15,grazed,0,Utilization (% Forage removed),49.69662147,Arthropda,,,,Shannon diversity (H),Mean,0.790048265
+2366,84,2008,15,grazed,0,Utilization (% Forage removed),19.75407952,Arthropda,,,,Shannon diversity (H),Mean,1.040105723
+2366,85,2008,15,grazed,0,Utilization (% Forage removed),9.545454545,Arthropda,Bombus,,,Shannon diversity (H),Mean,1.384615385
+2366,86,2008,15,grazed,0,Utilization (% Forage removed),12.27272727,Arthropda,Bombus,,,Shannon diversity (H),Mean,1.038461538
+2366,87,2008,15,grazed,0,Utilization (% Forage removed),14.54545455,Arthropda,Bombus,,,Shannon diversity (H),Mean,0.884615385
+2366,88,2008,15,grazed,0,Utilization (% Forage removed),10.90909091,Arthropda,Bombus,,,Shannon diversity (H),Mean,0.692307692
+2366,89,2008,15,grazed,0,Utilization (% Forage removed),16.81818182,Arthropda,Bombus,,,Shannon diversity (H),Mean,0.653846154
+2366,90,2008,15,grazed,0,Utilization (% Forage removed),19.09090909,Arthropda,Bombus,,,Shannon diversity (H),Mean,-0.038461538
+2366,91,2008,15,grazed,0,Utilization (% Forage removed),21.36363636,Arthropda,Bombus,,,Shannon diversity (H),Mean,-0.038461538
+2366,92,2008,15,grazed,0,Utilization (% Forage removed),22.72727273,Arthropda,Bombus,,,Shannon diversity (H),Mean,1.78E-15
+2366,93,2008,15,grazed,0,Utilization (% Forage removed),34.54545455,Arthropda,Bombus,,,Shannon diversity (H),Mean,-0.076923077
+2366,94,2008,15,grazed,0,Utilization (% Forage removed),39.09090909,Arthropda,Bombus,,,Shannon diversity (H),Mean,0.038461538
+2366,95,2008,15,grazed,0,Utilization (% Forage removed),48.18181818,Arthropda,Bombus,,,Shannon diversity (H),Mean,-0.038461538
+2366,96,2008,15,grazed,0,Utilization (% Forage removed),27.72727273,Arthropda,Bombus,,,Shannon diversity (H),Mean,1.692307692

@@ -1,0 +1,65 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,abundance of all taxa,mean,745.455
+2117,,2011,30,grazed,0,,,arthropoda,,,,abundance of all taxa,mean,563.636
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,abundance of all taxa,se,179.962
+2117,,2011,30,grazed,0,,,arthropoda,,,,abundance of all taxa,se,139.147
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,richness of all taxa,mean,140.656
+2117,,2011,30,grazed,0,,,arthropoda,,,,richness of all taxa,mean,127.104
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,richness of all taxa,se,12.532
+2117,,2011,30,grazed,0,,,arthropoda,,,,richness of all taxa,se,12.095
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,abundance of specialist species,mean,305.948
+2117,,2011,30,grazed,0,,,arthropoda,,,,abundance of specialist species,mean,235.688
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,abundance of specialist species,se,148.327
+2117,,2011,30,grazed,0,,,arthropoda,,,,abundance of specialist species,se,111.524
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,richness of specialist species,mean,43.656
+2117,,2011,30,grazed,0,,,arthropoda,,,,richness of specialist species,mean,38.12
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,richness of specialist species,se,7.732
+2117,,2011,30,grazed,0,,,arthropoda,,,,richness of specialist species,se,6.502
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,abundance of generalist species,mean,308.029
+2117,,2011,30,grazed,0,,,arthropoda,,,,abundance of generalist species,mean,216.058
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,abundance of generalist species,se,59.854
+2117,,2011,30,grazed,0,,,arthropoda,,,,abundance of generalist species,se,43.796
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,richness of generalist species,mean,78.019
+2117,,2011,30,grazed,0,,,arthropoda,,,,richness of generalist species,mean,74.28
+2117,,2011,30,abandoned,5-20 years,,,arthropoda,,,,richness of generalist species,se,8.374
+2117,,2011,30,grazed,0,,,arthropoda,,,,richness of generalist species,se,7.627
+2117,,2011,30,abandoned,5-20 years,,,plant,,,,richness of generalist species,mean,37.65
+2117,,2011,30,grazed,0,,,plant,,,,richness of generalist species,mean,44.035
+2117,,2011,30,abandoned,5-20 years,,,plant,,,,richness of generalist species,se,7.538
+2117,,2011,30,grazed,0,,,plant,,,,richness of generalist species,se,8.87
+2117,rove beetles,2011,30,grazed,0,,,Coleoptera: Staphylinidae,,,,standardized species richness,mean,0.637
+2117,butterfly,2011,30,grazed,0,,,"Lepidoptera: Hesperiidae, Papilionidae, Zygaenidae",,,,standardized species richness,mean,0.699
+2117,spider,2011,30,grazed,0,,,Hemiptera: Arachnida,,,,standardized species richness,mean,0.756
+2117,true bug,2011,30,grazed,0,,,Hemiptera: Heteroptera,,,,standardized species richness,mean,0.766
+2117,leafhopper,2011,30,grazed,0,,,Hemiptera: Auchenorrhyncha,,,,standardized species richness,mean,0.833
+2117,grasshopper,2011,30,grazed,0,,,"Orthoptera: Caelifera, Ensifera",,,,standardized species richness,mean,0.878
+2117,hoverflies,2011,30,grazed,0,,,Diptera: Syrphidae,,,,standardized species richness,mean,1
+2117,plant,2011,30,grazed,0,,,plant,,,,standardized species richness,mean,1.07
+2117,bees,2011,30,grazed,0,,,Hymenoptera: Apiformes,,,,standardized species richness,mean,1.154
+2117,rove beetles,2011,30,grazed,0,,,Coleoptera: Staphylinidae,,,,standardized species richness,95% Cis,0.152
+2117,butterfly,2011,30,grazed,0,,,"Lepidoptera: Hesperiidae, Papilionidae, Zygaenidae",,,,standardized species richness,95% Cis,0.157
+2117,spider,2011,30,grazed,0,,,Hemiptera: Arachnida,,,,standardized species richness,95% Cis,0.167
+2117,true bug,2011,30,grazed,0,,,Hemiptera: Heteroptera,,,,standardized species richness,95% Cis,0.169
+2117,leafhopper,2011,30,grazed,0,,,Hemiptera: Auchenorrhyncha,,,,standardized species richness,95% Cis,0.177
+2117,grasshopper,2011,30,grazed,0,,,"Orthoptera: Caelifera, Ensifera",,,,standardized species richness,95% Cis,0.184
+2117,hoverflies,2011,30,grazed,0,,,Diptera: Syrphidae,,,,standardized species richness,95% Cis,0.204
+2117,plant,2011,30,grazed,0,,,plant,,,,standardized species richness,95% Cis,0.214
+2117,bees,2011,30,grazed,0,,,Hymenoptera: Apiformes,,,,standardized species richness,95% Cis,0.229
+2117,rove beetles,2011,30,abandoned,5-20 years,,,Coleoptera: Staphylinidae,,,,standardized species richness,mean,1.318
+2117,butterfly,2011,30,abandoned,5-20 years,,,"Lepidoptera: Hesperiidae, Papilionidae, Zygaenidae",,,,standardized species richness,mean,1.07
+2117,spider,2011,30,abandoned,5-20 years,,,Hemiptera: Arachnida,,,,standardized species richness,mean,1.162
+2117,true bug,2011,30,abandoned,5-20 years,,,Hemiptera: Heteroptera,,,,standardized species richness,mean,1.085
+2117,leafhopper,2011,30,abandoned,5-20 years,,,Hemiptera: Auchenorrhyncha,,,,standardized species richness,mean,1.189
+2117,grasshopper,2011,30,abandoned,5-20 years,,,"Orthoptera: Caelifera, Ensifera",,,,standardized species richness,mean,1.042
+2117,hoverflies,2011,30,abandoned,5-20 years,,,Diptera: Syrphidae,,,,standardized species richness,mean,1.087
+2117,plant,2011,30,abandoned,5-20 years,,,plant,,,,standardized species richness,mean,0.886
+2117,bees,2011,30,abandoned,5-20 years,,,Hymenoptera: Apiformes,,,,standardized species richness,mean,0.846
+2117,rove beetles,2011,30,abandoned,5-20 years,,,Coleoptera: Staphylinidae,,,,standardized species richness,95% Cis,0.242
+2117,butterfly,2011,30,abandoned,5-20 years,,,"Lepidoptera: Hesperiidae, Papilionidae, Zygaenidae",,,,standardized species richness,95% Cis,0.209
+2117,spider,2011,30,abandoned,5-20 years,,,Hemiptera: Arachnida,,,,standardized species richness,95% Cis,0.226
+2117,true bug,2011,30,abandoned,5-20 years,,,Hemiptera: Heteroptera,,,,standardized species richness,95% Cis,0.209
+2117,leafhopper,2011,30,abandoned,5-20 years,,,Hemiptera: Auchenorrhyncha,,,,standardized species richness,95% Cis,0.229
+2117,grasshopper,2011,30,abandoned,5-20 years,,,"Orthoptera: Caelifera, Ensifera",,,,standardized species richness,95% Cis,0.204
+2117,hoverflies,2011,30,abandoned,5-20 years,,,Diptera: Syrphidae,,,,standardized species richness,95% Cis,0.209
+2117,plant,2011,30,abandoned,5-20 years,,,plant,,,,standardized species richness,95% Cis,0.179
+2117,bees,2011,30,abandoned,5-20 years,,,Hymenoptera: Apiformes,,,,standardized species richness,95% Cis,0.176

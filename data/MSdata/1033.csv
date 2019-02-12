@@ -1,0 +1,11 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1033,riparian,,2,grazed,0,,,Mammal,,,,small mammal abundance/100 trap nights,mean,15.5
+1033,riparian,,2,grazed,0,,,Mammal,,,,small mammal abundance/100 trap nights,se,2.9
+1033,riparian,,2,ungrazed,2,,,Mammal,,,,small mammal abundance/100 trap nights,mean,7.7
+1033,riparian,,2,ungrazed,2,,,Mammal,,,,small mammal abundance/100 trap nights,se,2.1
+1033,riparian,,2,ungrazed,6.5,,,Mammal,,,,small mammal abundance/100 trap nights,mean,21.3
+1033,riparian,,2,ungrazed,6.5,,,Mammal,,,,small mammal abundance/100 trap nights,se,2.4
+1033,woodland,,4,grazed,0,,,Mammal,,,,small mammal abundance/100 trap nights,mean,13.5
+1033,woodland,,4,grazed,0,,,Mammal,,,,small mammal abundance/100 trap nights,se,2.7
+1033,woodland,,3,ungrazed,2,,,Mammal,,,,small mammal abundance/100 trap nights,mean,10.8
+1033,woodland,,3,ungrazed,2,,,Mammal,,,,small mammal abundance/100 trap nights,se,2.1

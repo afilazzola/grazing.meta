@@ -1,0 +1,21 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+718,veg1,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.024
+718,veg1,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.01
+718,veg1,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.001
+718,veg1,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.0004
+718,veg2,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.034
+718,veg2,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.012
+718,veg2,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.002
+718,veg2,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.0006
+718,veg3,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.006
+718,veg3,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.002
+718,veg3,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.029
+718,veg3,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.008
+718,veg4,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.002
+718,veg4,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.0007
+718,veg4,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0
+718,veg4,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0
+718,veg5,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.03
+718,veg5,2002,6,grazed,0,animal/ha,1,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.009
+718,veg5,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),mean,0.002
+718,veg5,2002,6,ungrazed,30,animal/ha,0,mammal,Lepus europaeus,,,cumulative hare droppings (number/m^2/day),sterror,0.002

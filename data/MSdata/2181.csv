@@ -1,0 +1,37 @@
+uniqueID	siteID	year	replicate	grazing.compare	last.grazed	grazing.estimate	grazing.value	Taxa	Genus	Species	Status	Estimate	Stat	Value
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Orthoptera				richness	mean	4
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Orthoptera				richness	mean	5.5
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Orthoptera				richness	mean	14
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Orthoptera				richness	mean	6
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Orthoptera				richness	mean	1.38
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Orthoptera				richness	mean	1.36
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Orthoptera				richness	mean	2.21
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Orthoptera				richness	mean	1.62
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Plants				richness	mean	0.03
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Plants				richness	mean	1.91
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Plants				richness	mean	1.5
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Plants				richness	mean	3
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Plants				percent cover	mean	0.05
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Plants				percent cover	mean	44.58
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Plants				percent cover	mean	42.33
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Plants				percent cover	mean	50
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Arthropoda				shrub % cover/5*5m quadrat	mean	52.5
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Arthropoda				shrub % cover/5*5m quadrat	mean	15.38
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Arthropoda				shrub % cover/5*5m quadrat	mean	20.1
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Arthropoda				shrub % cover/5*5m quadrat	mean	7.5
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Arthropoda				grass height (cm)	mean	0.12
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Arthropoda				grass height (cm)	mean	64.33
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Arthropoda				grass height (cm)	mean	51.5
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Arthropoda				grass height (cm)	mean	95
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Arthropoda				grass height (cm)	maximum	0.23
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Arthropoda				grass height (cm)	maximum	82.92
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Arthropoda				grass height (cm)	maximum	74.88
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Arthropoda				grass height (cm)	maximum	135
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Arthropoda				grass greenness (% ocular estimation)	mean	0.05
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Arthropoda				grass greenness (% ocular estimation)	mean	60.42
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Arthropoda				grass greenness (% ocular estimation)	mean	52.5
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Arthropoda				grass greenness (% ocular estimation)	mean	75
+2181	Continuously-grazed	1999	20	grazed	0	seasonality and presence/absence	Continuously-grazed	Arthropoda				density of vegetation/5*5 m quadrat 	mean	4.5
+2181	Seasonally-grazed	1999	20	grazed	0	Seasonally-grazed	Continuously-grazed	Arthropoda				density of vegetation/5*5 m quadrat 	mean	3.74
+2181	Rotationally-grazed	1999	20	grazed	0	Rotationally-grazed	Continuously-grazed	Arthropoda				density of vegetation/5*5 m quadrat 	mean	2.95
+2181	Continuously-rested	1999	20	grazed	0	Continuously-rested	Continuously-grazed	Arthropoda				density of vegetation/5*5 m quadrat 	mean	5

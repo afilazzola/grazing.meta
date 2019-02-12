@@ -1,0 +1,219 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Grass biomass (g),mean,11.54
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Grass biomass (g),standard error,0.41
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Grass biomass (g),mean,4.62
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Grass biomass (g),standard error,0.32
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Grass biomass (g),mean,1.2
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Grass biomass (g),standard error,0.16
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Sedge biomass (g),mean,144.38
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Sedge biomass (g),standard error,14.6
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Sedge biomass (g),mean,72.96
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Sedge biomass (g),standard error,3.05
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Sedge biomass (g),mean,37.73
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Sedge biomass (g),standard error,2.68
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Forb biomass (g),mean,8.2
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Forb biomass (g),standard error,0.55
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Forb biomass (g),mean,18.39
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Forb biomass (g),standard error,236
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Forb biomass (g),mean,11.41
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Forb biomass (g),standard error,0.75
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Total biomass (g),mean,164.11
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Total biomass (g),standard error,14.75
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Total biomass (g),mean,95.96
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Total biomass (g),standard error,4.42
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Total biomass (g),mean,51.34
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Total biomass (g),standard error,2.85
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Species richness,mean,2.06
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Plants,,,,Species richness,standard error,0.08
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Species richness,mean,2.14
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Plants,,,,Species richness,standard error,0.03
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Species richness,mean,2.49
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Plants,,,,Species richness,standard error,0.03
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Helicotylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,20.08
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Helicotylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,7.35
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Helicotylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,26.75
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Helicotylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,9.99
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Helicotylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,72.65
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Helicotylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,22.01
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Hirschmanniella,,,Abundance (10ᶟ individuals/mᶟ),mean,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Hirschmanniella,,,Abundance (10ᶟ individuals/mᶟ),standard error,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Rotylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,10.25
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Rotylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,7.02
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Rotylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,7.17
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Rotylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,7.17
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Tylenchorhynchus,,,Abundance (10ᶟ individuals/mᶟ),mean,13.03
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Tylenchorhynchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,4.13
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Tylenchorhynchus,,,Abundance (10ᶟ individuals/mᶟ),mean,14.08
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Tylenchorhynchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.91
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Tylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,53.25
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Tylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.57
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Tylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,136.72
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Tylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,27.78
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Tylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,192.78
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Tylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,42.82
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Aphelenchoides,,,Abundance (10ᶟ individuals/mᶟ),mean,6.63
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Aphelenchoides,,,Abundance (10ᶟ individuals/mᶟ),standard error,4.2
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Aphelenchoides,,,Abundance (10ᶟ individuals/mᶟ),mean,70.33
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Aphelenchoides,,,Abundance (10ᶟ individuals/mᶟ),standard error,14.94
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Aphelenchoides,,,Abundance (10ᶟ individuals/mᶟ),mean,49.27
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Aphelenchoides,,,Abundance (10ᶟ individuals/mᶟ),standard error,12.22
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Aphelenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Aphelenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Ditylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,3.73
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Ditylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.73
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Ditylenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Ditylenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Dorylaimoides,,,Abundance (10ᶟ individuals/mᶟ),mean,13.33
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Dorylaimoides,,,Abundance (10ᶟ individuals/mᶟ),standard error,6.79
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Dorylaimoides,,,Abundance (10ᶟ individuals/mᶟ),mean,49.9
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Dorylaimoides,,,Abundance (10ᶟ individuals/mᶟ),standard error,13.57
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Dorylaimoides,,,Abundance (10ᶟ individuals/mᶟ),mean,132.48
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Dorylaimoides,,,Abundance (10ᶟ individuals/mᶟ),standard error,25.15
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Filenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,26.03
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Filenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,6.68
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Filenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,154.35
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Filenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,38.34
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Filenchus,,,Abundance (10ᶟ individuals/mᶟ),mean,86.72
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Filenchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,29.76
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Leptonchus,,,Abundance (10ᶟ individuals/mᶟ),mean,3.63
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Leptonchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.63
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Acrobeles,,,Abundance (10ᶟ individuals/mᶟ),mean,3.08
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Acrobeles,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.08
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Acrobeloides,,,Abundance (10ᶟ individuals/mᶟ),mean,119.32
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Acrobeloides,,,Abundance (10ᶟ individuals/mᶟ),standard error,12.61
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Anaplectus,,,Abundance (10ᶟ individuals/mᶟ),mean,90.72
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Anaplectus,,,Abundance (10ᶟ individuals/mᶟ),standard error,19.23
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Anaplectus,,,Abundance (10ᶟ individuals/mᶟ),mean,23.78
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Anaplectus,,,Abundance (10ᶟ individuals/mᶟ),standard error,12.03
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Anaplectus,,,Abundance (10ᶟ individuals/mᶟ),mean,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Anaplectus,,,Abundance (10ᶟ individuals/mᶟ),standard error,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Cephalobus,,,Abundance (10ᶟ individuals/mᶟ),mean,10.22
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Cephalobus,,,Abundance (10ᶟ individuals/mᶟ),standard error,7.01
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Cephalobus,,,Abundance (10ᶟ individuals/mᶟ),mean,77.2
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Cephalobus,,,Abundance (10ᶟ individuals/mᶟ),standard error,18.93
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Cephalobus,,,Abundance (10ᶟ individuals/mᶟ),mean,469.08
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Cephalobus,,,Abundance (10ᶟ individuals/mᶟ),standard error,18.33
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Chiloplacus,,,Abundance (10ᶟ individuals/mᶟ),mean,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Chiloplacus,,,Abundance (10ᶟ individuals/mᶟ),standard error,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Cylindrolaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,36.43
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Cylindrolaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.2
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Cylindrolaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,39.95
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Cylindrolaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,18.43
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Cylindrolaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,47.35
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Cylindrolaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.5
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Monhystera,,,Abundance (10ᶟ individuals/mᶟ),mean,66.4
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Monhystera,,,Abundance (10ᶟ individuals/mᶟ),standard error,14.29
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Monhystera,,,Abundance (10ᶟ individuals/mᶟ),mean,133.25
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Monhystera,,,Abundance (10ᶟ individuals/mᶟ),standard error,16.65
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Monhystera,,,Abundance (10ᶟ individuals/mᶟ),mean,20.02
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Monhystera,,,Abundance (10ᶟ individuals/mᶟ),standard error,12.68
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Plectus,,,Abundance (10ᶟ individuals/mᶟ),mean,73.83
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Plectus,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.47
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Plectus,,,Abundance (10ᶟ individuals/mᶟ),mean,47.75
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Plectus,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.42
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Prismatolaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,317.27
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Prismatolaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,66.92
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Prismatolaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,219.13
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Prismatolaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,64.84
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Prismatolaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,43.93
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Prismatolaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,6
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Protorhabditis,,,Abundance (10ᶟ individuals/mᶟ),mean,24.05
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Protorhabditis,,,Abundance (10ᶟ individuals/mᶟ),standard error,9.76
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Protorhabditis,,,Abundance (10ᶟ individuals/mᶟ),mean,36.38
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Protorhabditis,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.14
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Rhabdolaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,23.17
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Rhabdolaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,10.75
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Teratocephalus,,,Abundance (10ᶟ individuals/mᶟ),mean,7.03
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Teratocephalus,,,Abundance (10ᶟ individuals/mᶟ),standard error,4.46
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Tylocephalus,,,Abundance (10ᶟ individuals/mᶟ),mean,6.15
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Tylocephalus,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.89
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Clarkus,,,Abundance (10ᶟ individuals/mᶟ),mean,24.4
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Clarkus,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.1
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Coomansus,,,Abundance (10ᶟ individuals/mᶟ),mean,36.48
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Coomansus,,,Abundance (10ᶟ individuals/mᶟ),standard error,9.45
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Coomansus,,,Abundance (10ᶟ individuals/mᶟ),mean,13.05
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Coomansus,,,Abundance (10ᶟ individuals/mᶟ),standard error,6.39
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Coomansus,,,Abundance (10ᶟ individuals/mᶟ),mean,3.07
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Coomansus,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.07
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Iotonchus,,,Abundance (10ᶟ individuals/mᶟ),mean,17.47
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Iotonchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,6.31
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Iotonchus,,,Abundance (10ᶟ individuals/mᶟ),mean,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Iotonchus,,,Abundance (10ᶟ individuals/mᶟ),standard error,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Seinura,,,Abundance (10ᶟ individuals/mᶟ),mean,6.28
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Seinura,,,Abundance (10ᶟ individuals/mᶟ),standard error,6.28
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Seinura,,,Abundance (10ᶟ individuals/mᶟ),mean,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Seinura,,,Abundance (10ᶟ individuals/mᶟ),standard error,2.87
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Tobrilidae,,,Abundance (10ᶟ individuals/mᶟ),mean,79.38
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Tobrilidae,,,Abundance (10ᶟ individuals/mᶟ),standard error,28.19
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Tripyla,,,Abundance (10ᶟ individuals/mᶟ),mean,23.15
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Tripyla,,,Abundance (10ᶟ individuals/mᶟ),standard error,6.26
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Allodorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,23.3
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Allodorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,16.68
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Aporcelaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,3.12
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Aporcelaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.12
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Aporcelaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,3.63
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Aporcelaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.63
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Enchodelus,,,Abundance (10ᶟ individuals/mᶟ),mean,87.62
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Enchodelus,,,Abundance (10ᶟ individuals/mᶟ),standard error,23.7
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Enchodelus,,,Abundance (10ᶟ individuals/mᶟ),mean,53.18
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Enchodelus,,,Abundance (10ᶟ individuals/mᶟ),standard error,16.57
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Enchodelus,,,Abundance (10ᶟ individuals/mᶟ),mean,43.35
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Enchodelus,,,Abundance (10ᶟ individuals/mᶟ),standard error,9.32
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Epidorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,83.58
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Epidorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,28.94
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Epidorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,142.7
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Epidorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,41.23
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Epidorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,174.08
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Epidorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,46.35
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Eudorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,3.12
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Eudorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.12
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Eudorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,3.73
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Eudorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.73
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Labronema,,,Abundance (10ᶟ individuals/mᶟ),mean,3.35
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Labronema,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.35
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Labronema,,,Abundance (10ᶟ individuals/mᶟ),mean,13.8
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Labronema,,,Abundance (10ᶟ individuals/mᶟ),standard error,6.83
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Labronema,,,Abundance (10ᶟ individuals/mᶟ),mean,33.45
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Labronema,,,Abundance (10ᶟ individuals/mᶟ),standard error,6.88
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Mesodorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,46.38
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,Mesodorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,31.84
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Mesodorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,27
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,Mesodorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,10.06
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Mesodorylaimus,,,Abundance (10ᶟ individuals/mᶟ),mean,19.95
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,Mesodorylaimus,,,Abundance (10ᶟ individuals/mᶟ),standard error,5.2
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ),mean,55.18
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ),standard error,5.77
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ),mean,66.07
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ),standard error,8.25
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ),mean,82.11
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ),standard error,3.03
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) plant feeders,mean,4.83
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) plant feeders,standard error,0.92
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) plant feeders,mean,8.17
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) plant feeders,standard error,1.27
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) plant feeders,mean,14.48
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) plant feeders,standard error,2.01
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) fungivores,mean,2.3
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) fungivores,standard error,0.56
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) fungivores,mean,14.1
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) fungivores,standard error,3.14
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) fungivores,mean,13.71
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) fungivores,standard error,2.4
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) bacteriavores,mean,29.74
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) bacteriavores,standard error,3.07
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) bacteriavores,mean,27.38
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) bacteriavores,standard error,4.22
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) bacteriavores,mean,39.94
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) bacteriavores,standard error,0.69
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) predators,mean,6.95
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) predators,standard error,1.92
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) predators,mean,3.06
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) predators,standard error,0.95
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) predators,mean,0.44
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) predators,standard error,0.3
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) omnivores,mean,11.36
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) omnivores,standard error,2.55
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) omnivores,mean,13.37
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.11,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) omnivores,standard error,2.2
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) omnivores,mean,13.54
+2490,,2013,30,gradient,,Grazing intensity (yak/ha),1.54,Nematoda,,,,Abundance (10ᶟ individuals/mᶟ) omnivores,standard error,2.56

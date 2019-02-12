@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+799,AppletonWhittell,1996,7,ungrazed,28,,,Birds,,,,birds/km fenceline,mean,16.6
+799,AppletonWhittell,1996,7,ungrazed,28,,,Birds,,,,birds/km fenceline,sterror,2.45
+799,AppletonWhittell,1996,7,grazed,28,,,Birds,,,,birds/km fenceline,mean,8.39
+799,AppletonWhittell,1996,7,grazed,28,,,Birds,,,,birds/km fenceline,sterror,1.11
+799,AppletonWhittell,1997,7,ungrazed,29,,,Birds,,,,birds/km fenceline,mean,31.18
+799,AppletonWhittell,1997,7,ungrazed,29,,,Birds,,,,birds/km fenceline,sterror,3.79
+799,AppletonWhittell,1997,7,grazed,29,,,Birds,,,,birds/km fenceline,mean,20.2
+799,AppletonWhittell,1997,7,grazed,29,,,Birds,,,,birds/km fenceline,sterror,3.56

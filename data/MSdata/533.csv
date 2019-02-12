@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+533,Aberdeen,2009,5,grazed,0,cattle/ha,8.4,Insects (visitors),"(flies, bees, beetles, butterflies)",,,interaction diversity,mean,3.65
+533,Aberdeen,2009,5,ungrazed,70,cattle/ha,0,Insects (visitors),"(flies, bees, beetles, butterflies)",,,interaction diversity,mean,0.13
+533,Aberdeen,2009,5,grazed,0,cattle/ha,8.4,Insects (visitors),"(flies, bees, beetles, butterflies)",,,interaction diversity,sterror,2.28
+533,Aberdeen,2009,5,ungrazed,70,cattle/ha,0,Insects (visitors),"(flies, bees, beetles, butterflies)",,,interaction diversity,sterror,0.37
+533,Aberdeen,2009,5,grazed,0,cattle/ha,8.4,Plants,,,,floral species richness,mean,14.8
+533,Aberdeen,2009,5,ungrazed,70,cattle/ha,0,Plants,,,,floral species richness,mean,7
+533,Aberdeen,2009,5,grazed,0,cattle/ha,8.4,Plants,,,,floral species richness,sterror,2.6
+533,Aberdeen,2009,5,ungrazed,70,cattle/ha,0,Plants,,,,floral species richness,sterror,1.2

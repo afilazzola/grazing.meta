@@ -1,0 +1,77 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1777,TNC preserve, June 2013,114,ungrazed,1,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,mean,5
+1777,TNC preserve, June 2013,114,grazed,0,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,mean,3
+1777,TNC preserve, June 2013,114,ungrazed,1,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,se,1.7
+1777,TNC preserve, June 2013,114,grazed,0,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,se,1.5
+1777,TNC preserve, July 2013,114,ungrazed,1,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,mean,9
+1777,TNC preserve, July 2013,114,grazed,0,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,mean,14
+1777,TNC preserve, July 2013,114,ungrazed,1,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,se,2.3
+1777,TNC preserve, July 2013,114,grazed,0,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,se,2.7
+1777,TNC preserve, August 2013,114,ungrazed,1,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,mean,6
+1777,TNC preserve, August 2013,114,grazed,0,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,mean,36
+1777,TNC preserve, August 2013,114,ungrazed,1,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,se,1.9
+1777,TNC preserve, August 2013,114,grazed,0,number of cattle ,30-35,Mammalia,Peromyscus,maniculatus,,density per ha,se,4.3
+1777,TNC preserve, June 2014,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,4.995
+1777,TNC preserve, June 2014,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,2.991
+1777,TNC preserve, June 2014,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,1.683
+1777,TNC preserve, June 2014,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,1.496
+1777,TNC preserve, July 2014,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,9.001
+1777,TNC preserve, July 2014,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,14.022
+1777,TNC preserve, July 2014,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,2.297
+1777,TNC preserve, July 2014,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,2.671
+1777,TNC preserve, August 2014,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,12.019
+1777,TNC preserve, August 2014,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,6.010
+1777,TNC preserve, August 2014,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,2.564
+1777,TNC preserve, August 2014,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,1.870
+1777,TNC preserve, June 2015,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,2.991
+1777,TNC preserve, June 2015,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,2.991
+1777,TNC preserve, June 2015,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,1.229
+1777,TNC preserve, June 2015,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,1.496
+1777,TNC preserve, July 2015,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,15.011
+1777,TNC preserve, July 2015,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,2.991
+1777,TNC preserve, July 2015,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,2.911
+1777,TNC preserve, July 2015,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,1.496
+1777,TNC preserve, August 2015,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,17.975
+1777,TNC preserve, August 2015,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,mean,9.028
+1777,TNC preserve, August 2015,114,ungrazed,1,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,3.152
+1777,TNC preserve, August 2015,114,grazed,0,number of cattle ,30-35,Mammalia,Microtusÿ,longicaudus,,density per ha,se,2.297
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of total vegetation,mean,146.266
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of total vegetation,mean,154.764
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of total vegetation,se,6.953
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of total vegetation,se,5.408
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of total vegetation,mean,117.425
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of total vegetation,mean,136.738
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of total vegetation,se,3.605
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of total vegetation,se,6.438
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of monocots,mean,90.129
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of monocots,mean,83.176
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of monocots,se,5.407
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of monocots,se,6.18
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of monocots,mean,68.755
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of monocots,mean,105.064
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of monocots,se,6.696
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of monocots,se,5.666
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of dicots,mean,56.137
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of dicots,mean,71.33
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of dicots,se,5.408
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of dicots,se,5.151
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of dicots,mean,48.412
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of dicots,mean,31.674
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,cover of dicots,se,5.15
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,cover of dicots,se,2.06
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,bareground,mean,2.318
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,bareground,mean,9.013
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,bareground,se,
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,bareground,se,2.575
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,bareground,mean,4.12
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,bareground,mean,22.146
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,bareground,se,1.288
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,bareground,se,5.408
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,litter,mean,40.172
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,litter,mean,4.378
+1777,Juncus, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,litter,se,4.892
+1777,Juncus, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,litter,se,1.03
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,litter,mean,39.142
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,litter,mean,2.318
+1777,Carex, August 2013,20,ungrazed,1,number of cattle ,30-35,plant,,,,litter,se,5.407
+1777,Carex, August 2013,20,grazed,0,number of cattle ,30-35,plant,,,,litter,se,

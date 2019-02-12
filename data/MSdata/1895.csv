@@ -1,0 +1,109 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1895,HD,1992,20,heavily grazed,,,,plant,,,,canopy cover,mean,41.069
+1895,MD,1992,20,moderately grazed,,,,plant,,,,canopy cover,mean,83.826
+1895,MR,1992,20,lightly grazed,,,,plant,,,,canopy cover,mean,95.359
+1895,HR,1992,20,ungrazed,6,,,plant,,,,canopy cover,mean,70.464
+1895,HD,1992,20,heavily grazed,,,,plant,,,,canopy cover,se,14.346
+1895,MD,1992,20,moderately grazed,,,,plant,,,,canopy cover,se,6.751
+1895,MR,1992,20,lightly grazed,,,,plant,,,,canopy cover,se,3.516
+1895,HR,1992,20,ungrazed,6,,,plant,,,,canopy cover,se,12.236
+1895,HD,1992,4,heavily grazed,,,,arthropoda,,,,richness at transect in wet season,mean,30.391
+1895,MD,1992,4,moderately grazed,,,,arthropoda,,,,richness at transect in wet season,mean,31.641
+1895,MR,1992,4,lightly grazed,,,,arthropoda,,,,richness at transect in wet season,mean,28.32
+1895,HR,1992,4,ungrazed,6,,,arthropoda,,,,richness at transect in wet season,mean,33.281
+1895,HD,1992,4,heavily grazed,,,,arthropoda,,,,richness at transect in dry season,mean,18.047
+1895,MD,1992,4,moderately grazed,,,,arthropoda,,,,richness at transect in dry season,mean,15.469
+1895,MR,1992,4,lightly grazed,,,,arthropoda,,,,richness at transect in dry season,mean,15.391
+1895,HR,1992,4,ungrazed,6,,,arthropoda,,,,richness at transect in dry season,mean,22.93
+1895,HD,1992,20,heavily grazed,,,,arthropoda,,,,richness at trap in wet season,mean,13.594
+1895,MD,1992,20,moderately grazed,,,,arthropoda,,,,richness at trap in wet season,mean,12.057
+1895,MR,1992,20,lightly grazed,,,,arthropoda,,,,richness at trap in wet season,mean,9.759
+1895,HR,1992,20,ungrazed,6,,,arthropoda,,,,richness at trap in wet season,mean,14.028
+1895,HD,1992,20,heavily grazed,,,,arthropoda,,,,richness at trap in dry season,mean,8.067
+1895,MD,1992,20,moderately grazed,,,,arthropoda,,,,richness at trap in dry season,mean,6.158
+1895,MR,1992,20,lightly grazed,,,,arthropoda,,,,richness at trap in dry season,mean,5.909
+1895,HR,1992,20,ungrazed,6,,,arthropoda,,,,richness at trap in dry season,mean,9.573
+1895,HD,1992,1,heavily grazed,,,,arthropoda,,,,richness at site in wet season,mean,57.176
+1895,MD,1992,1,moderately grazed,,,,arthropoda,,,,richness at site in wet season,mean,67.176
+1895,MR,1992,1,lightly grazed,,,,arthropoda,,,,richness at site in wet season,mean,68.235
+1895,HR,1992,1,ungrazed,6,,,arthropoda,,,,richness at site in wet season,mean,60.059
+1895,HD,1992,1,heavily grazed,,,,arthropoda,,,,richness at site in dry season,mean,34.118
+1895,MD,1992,1,moderately grazed,,,,arthropoda,,,,richness at site in dry season,mean,38.059
+1895,MR,1992,1,lightly grazed,,,,arthropoda,,,,richness at site in dry season,mean,32.882
+1895,HR,1992,1,ungrazed,6,,,arthropoda,,,,richness at site in dry season,mean,54
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,
+1895,,,,,,,,,,,,,,

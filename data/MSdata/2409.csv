@@ -1,0 +1,183 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2409,85A,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),6,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,6.666666667
+2409,85N,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),138,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,5.256410256
+2409,86J,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),185,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,2.692307692
+2409,86N,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),50,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,7.307692308
+2409,87J,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,10.12820513
+2409,87N,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,9.102564103
+2409,88J,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),229,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,6.025641026
+2409,88N,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),150,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,5.641025641
+2409,89J,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,5.641025641
+2409,89N,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,8.974358974
+2409,91N,1991,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,7.307692308
+2409,98N,1998,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,11.53846154
+2409,99N,1999,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,11.15384615
+2409,85A,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,6.666666667
+2409,85N,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,6.923076923
+2409,86J,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,5.641025641
+2409,86N,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,1.923076923
+2409,87J,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,10.12820513
+2409,87N,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,12.05128205
+2409,88J,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,11.79487179
+2409,88N,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,8.461538462
+2409,89J,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,9.358974359
+2409,89N,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,10.12820513
+2409,91N,1991,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,10.8974359
+2409,98N,1998,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,13.58974359
+2409,99N,1999,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species vegetation and litter,Mean,11.79487179
+2409,85A,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),6,Soil microbes,Collembola,,,Number of species soil ,Mean,9.230064924
+2409,85N,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),138,Soil microbes,Collembola,,,Number of species soil ,Mean,7.106431386
+2409,86J,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),185,Soil microbes,Collembola,,,Number of species soil ,Mean,5.572110316
+2409,86N,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),50,Soil microbes,Collembola,,,Number of species soil ,Mean,3.331946063
+2409,87J,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Collembola,,,Number of species soil ,Mean,7.443815549
+2409,87N,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Collembola,,,Number of species soil ,Mean,8.379945619
+2409,88J,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),229,Soil microbes,Collembola,,,Number of species soil ,Mean,2.373619666
+2409,88N,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),150,Soil microbes,Collembola,,,Number of species soil ,Mean,6.132012652
+2409,89J,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species soil ,Mean,2.951279063
+2409,89N,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species soil ,Mean,5.769657622
+2409,91N,1991,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species soil ,Mean,4.805782143
+2409,98N,1998,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species soil ,Mean,6.139226458
+2409,99N,1999,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Number of species soil ,Mean,6.481049886
+2409,85A,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,7.700738028
+2409,85N,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,7.696298763
+2409,86J,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,5.925031907
+2409,86N,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,2.507907441
+2409,87J,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,5.325731092
+2409,87N,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,7.438821375
+2409,88J,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,3.43238444
+2409,88N,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,7.308972865
+2409,89J,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,3.774207869
+2409,89N,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,7.063148549
+2409,91N,1991,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,6.570945009
+2409,98N,1998,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,8.256201099
+2409,99N,1999,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Number of species soil ,Mean,7.658565007
+2409,85A,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),6,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,2.767060965
+2409,85N,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),138,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.160856685
+2409,86J,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),185,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.991264364
+2409,86N,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),50,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.768572448
+2409,87J,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.497211963
+2409,87N,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.663448516
+2409,88J,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),229,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.742066433
+2409,88N,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),150,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.223606131
+2409,89J,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.824458618
+2409,89N,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.171086873
+2409,91N,1991,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.965512665
+2409,98N,1998,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.784404929
+2409,99N,1999,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,2.96826573
+2409,85A,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.678107855
+2409,85N,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.753365276
+2409,86J,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.900065105
+2409,86N,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.84644819
+2409,87J,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.634512896
+2409,87N,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,2.534624713
+2409,88J,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.78217841
+2409,88N,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.831997737
+2409,89J,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,0.924071218
+2409,89N,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,2.12668682
+2409,91N,1991,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,1.722865558
+2409,98N,1998,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,2.017625239
+2409,99N,1999,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Collembola,,,Density of total Collembla (#/m2),Mean,2.916632867
+2409,85A,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),6,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.920556725
+2409,85N,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),138,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.545210101
+2409,86J,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),185,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.179025908
+2409,86N,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),50,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.205798448
+2409,87J,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.545210101
+2409,87N,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.855346779
+2409,88J,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),229,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,2.997775034
+2409,88N,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),150,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.26002183
+2409,89J,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.126149717
+2409,89N,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.074153006
+2409,91N,1991,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,2.972739757
+2409,98N,1998,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,4.335642908
+2409,99N,1999,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,11.18448817
+2409,85A,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,4.597783681
+2409,85N,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.887815034
+2409,86J,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.575066504
+2409,86N,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.287476486
+2409,87J,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.953574153
+2409,87N,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.887815034
+2409,88J,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.074153006
+2409,88N,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.759559885
+2409,89J,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.048479875
+2409,89N,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,4.054304186
+2409,91N,1991,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,3.635535745
+2409,98N,1998,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,6.063723434
+2409,99N,1999,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,notabilis,,Density of total Collembla (#/m2),Mean,10.54680911
+2409,85A,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),6,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,9.605019614
+2409,85N,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),138,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.341585402
+2409,86J,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),185,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.209599333
+2409,86N,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),50,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,2.540625813
+2409,87J,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,4.120611151
+2409,87N,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.894567111
+2409,88J,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),229,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,2.561185622
+2409,88N,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),150,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.47899904
+2409,89J,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,2.602805721
+2409,89N,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.740739349
+2409,91N,1991,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.235572755
+2409,98N,1998,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,2.731768201
+2409,99N,1999,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.158276316
+2409,85A,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.368626911
+2409,85N,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.740739349
+2409,86J,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.535533906
+2409,86N,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,2.581911809
+2409,87J,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,4.687779916
+2409,87N,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,8.719549965
+2409,88J,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,2.581911809
+2409,88N,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,5.507749627
+2409,89J,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,2.709839048
+2409,89N,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,4.324777074
+2409,91N,1991,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,5.205611442
+2409,98N,1998,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.158276316
+2409,99N,1999,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Mesaphorura,macrochaeta,,Density of total Collembla (#/m2),Mean,3.183834411
+2409,85A,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),6,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.340415628
+2409,85N,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),138,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.818339403
+2409,86J,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),185,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.057991628
+2409,86N,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),50,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.568607644
+2409,87J,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.274527709
+2409,87N,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.057991628
+2409,88J,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),229,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.684799974
+2409,88N,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),150,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.179068185
+2409,89J,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.210434365
+2409,89N,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.443010042
+2409,91N,1991,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.661742729
+2409,98N,1998,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,6.011099355
+2409,99N,1999,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,3.393764832
+2409,85A,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.399135883
+2409,85N,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,3.442615731
+2409,86J,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.321395059
+2409,86N,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.460428525
+2409,87J,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.758606846
+2409,87N,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.568607644
+2409,88J,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.63732442
+2409,88N,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.460428525
+2409,89J,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.502774839
+2409,89N,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.274527709
+2409,91N,1991,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.758606846
+2409,98N,1998,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,2.274527709
+2409,99N,1999,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Folsomia,macrochaeta,,Density of total Collembla (#/m2),Mean,1.660892574
+2409,85A,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),6,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,12.21819977
+2409,85N,1985,3,grazed,,Accumulated Intensity (# animals/ha * days),138,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,75.22214909
+2409,86J,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),185,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,862.6789534
+2409,86N,1986,3,grazed,,Accumulated Intensity (# animals/ha * days),50,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,239.1805167
+2409,87J,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,836.2061873
+2409,87N,1987,3,grazed,,Accumulated Intensity (# animals/ha * days),47,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,1242.245351
+2409,88J,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),229,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,59.54829686
+2409,88N,1988,3,grazed,,Accumulated Intensity (# animals/ha * days),150,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,236.8356097
+2409,89J,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,121.9351654
+2409,89N,1989,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,502.5506006
+2409,91N,1991,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,347.6633207
+2409,98N,1998,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,898.5930558
+2409,99N,1999,3,grazed,,Accumulated Intensity (# animals/ha * days),285,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,236.5270693
+2409,85A,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,24.80664802
+2409,85N,1985,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,367.4099062
+2409,86J,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,36.22264275
+2409,86N,1986,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,378.8259009
+2409,87J,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,645.0962646
+2409,87N,1987,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,34.43310844
+2409,88J,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,71.88991279
+2409,88N,1988,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,71.39624815
+2409,89J,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,45.41714662
+2409,89N,1989,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,70.28550272
+2409,91N,1991,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,105.8293566
+2409,98N,1998,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,85.09544183
+2409,99N,1999,3,ungrazed,1959,Accumulated Intensity (# animals/ha * days),0,Soil microbes,Isotoma ,anglicana,,Density of total Collembla (#/m2),Mean,198.1446437

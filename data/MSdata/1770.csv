@@ -1,0 +1,145 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Total abundance,mean,13716.31188
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Total abundance,mean,14231.74319
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Total abundance,mean,12267.88017
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Total abundance,mean,9003.050032
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Total abundance,mean,11996.99809
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Total abundance,mean,19637.15388
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Total abundance,se,1904.907227
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Total abundance,se,2200.821401
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Total abundance,se,1702.142763
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Total abundance,se,973.136659
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Total abundance,se,1439.396301
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Total abundance,se,1488.007014
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bacterivores abundance,mean,10253.92557
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bacterivores abundance,mean,10454.36683
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bacterivores abundance,mean,10033.54556
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bacterivores abundance,mean,6891.446034
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bacterivores abundance,mean,8177.13251
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bacterivores abundance,mean,13307.6046
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bacterivores abundance,se,1641.205771
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bacterivores abundance,se,1624.779667
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bacterivores abundance,se,1351.798771
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bacterivores abundance,se,680.6926823
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bacterivores abundance,se,1229.177004
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bacterivores abundance,se,800.7263755
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Fungivores abundance,mean,1175.443055
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Fungivores abundance,mean,1340.323507
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Fungivores abundance,mean,1277.283055
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Fungivores abundance,mean,884.4850325
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Fungivores abundance,mean,1959.637442
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Fungivores abundance,mean,3285.395751
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Fungivores abundance,se,206.0267007
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Fungivores abundance,se,217.4088642
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Fungivores abundance,se,415.9700249
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Fungivores abundance,se,125.8411992
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Fungivores abundance,se,309.1938832
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Fungivores abundance,se,386.3969408
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Plant_feeders abundance,mean,1686.440278
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Plant_feeders abundance,mean,2011.500914
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Plant_feeders abundance,mean,603.7552054
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Plant_feeders abundance,mean,866.2999413
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Plant_feeders abundance,mean,769.7909344
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Plant_feeders abundance,mean,1745.974266
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Plant_feeders abundance,se,300.8554448
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Plant_feeders abundance,se,379.3804632
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Plant_feeders abundance,se,78.638329
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Plant_feeders abundance,se,208.3558389
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Plant_feeders abundance,se,127.5902535
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Plant_feeders abundance,se,386.6719021
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Omnivores abundance,mean,583.2158968
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Omnivores abundance,mean,408.077845
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Omnivores abundance,mean,351.2582139
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Omnivores abundance,mean,355.766557
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Omnivores abundance,mean,1081.910274
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Omnivores abundance,mean,1282.870324
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Omnivores abundance,se,66.82644225
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Omnivores abundance,se,87.28937214
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Omnivores abundance,se,44.19973879
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Omnivores abundance,se,48.52663761
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Omnivores abundance,se,153.706704
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Omnivores abundance,se,145.1088111
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Predators abundance,mean,17.2870852
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Predators abundance,mean,17.47408922
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Predators abundance,mean,2.038128576
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Predators abundance,mean,5.052467539
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Predators abundance,mean,8.526930733
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Predators abundance,mean,15.30893362
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Predators abundance,se,7.587521969
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Predators abundance,se,9.072229887
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Predators abundance,se,1.289025693
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Predators abundance,se,3.847908299
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Predators abundance,se,4.952953993
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Predators abundance,se,7.671148854
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Length,mean,346.34
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Length,mean,315.1542
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Length,mean,323.9648
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,Length,mean,329.43
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Length,mean,366.9829
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Length,mean,364.046
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Length,se,5.935955
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Length,se,4.693807
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Length,se,6.797926
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,Length,se,6.611353
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Length,se,6.843453
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Length,se,7.503619
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Width,mean,16.2807
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Width,mean,14.40642
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Width,mean,14.97136
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,Width,mean,15.69601
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Width,mean,15.36784
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Width,mean,15.94646
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Width,se,0.1909427
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Width,se,0.1677449
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Width,se,0.1750497
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,Width,se,0.1912834
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Width,se,0.2136864
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Width,se,0.2310228
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bodysize,mean,0.10804653
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bodysize,mean,0.07724611
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bodysize,mean,0.09617747
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,Bodysize,mean,0.08652457
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bodysize,mean,0.12955516
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bodysize,mean,0.1509624
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bodysize,se,0.008146459
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bodysize,se,0.007030208
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bodysize,se,0.01099567
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,Bodysize,se,0.007843592
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,Bodysize,se,0.010825665
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,Bodysize,se,0.01234955
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,l.w.ratio,mean,21.54471
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,l.w.ratio,mean,22.36725
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,l.w.ratio,mean,21.63913
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,l.w.ratio,mean,21.44932
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,l.w.ratio,mean,23.87811
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,l.w.ratio,mean,22.69706
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,l.w.ratio,se,0.191764
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,l.w.ratio,se,0.1964045
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,l.w.ratio,se,0.2137565
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,l.w.ratio,se,0.2294351
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,l.w.ratio,se,0.2010966
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,l.w.ratio,se,0.2058105
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,body mass,mean,1.087878315
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,body mass,mean,1.063108807
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,body mass,mean,1.071702395
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,body mass,mean,1.073341919
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,body mass,mean,1.095778389
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,body mass,mean,1.106664259
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,body mass,se,0.007007064
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,body mass,se,0.006847523
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,body mass,se,0.007012802
+1770,S2U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,body mass,se,0.007904697
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,body mass,se,0.008745103
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,body mass,se,0.00883198
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),mean,1402.821317
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),mean,1115.987461
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),mean,1134.796238
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),mean,824.4514107
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),mean,1543.887147
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),mean,3100.31348
+1770,S1G,2014,10,grazed,0,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),se,324.4514107
+1770,S1U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),se,315.0470219
+1770,S2G,2014,10,grazed,0,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),se,324.4514107
+1770,S2U,2014,8,ungrazed,18,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),se,366.7711599
+1770,S3G,2014,10,grazed,0,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),se,315.0470219
+1770,S3U,2014,10,ungrazed,18,biomass removal,40%,nematode,,,,biomass (?g/ kg dry soil),se,319.7492163

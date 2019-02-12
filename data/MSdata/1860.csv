@@ -1,0 +1,21 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1860,Tiliqua,2014 Jan,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,mean ,149.377
+1860,Tiliqua,2014 Feb,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,mean ,138.603
+1860,Tiliqua,2014 Mar,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,mean ,143.392
+1860,Tiliqua,2014 Jan,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,mean ,167.631
+1860,Tiliqua,2014 Feb,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,mean ,186.185
+1860,Tiliqua,2014 Mar,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,mean ,181.995
+1860,Tiliqua,2014 Jan,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,se,20.648
+1860,Tiliqua,2014 Feb,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,se,20.05
+1860,Tiliqua,2014 Mar,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,se,24.239
+1860,Tiliqua,2014 Jan,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,se,15.561
+1860,Tiliqua,2014 Feb,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,se,14.962
+1860,Tiliqua,2014 Mar,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,burrow depth,se,25.436
+1860,Tiliqua,2014,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,proportion of shallow burrows remaing intact,mean ,0.602
+1860,Tiliqua,2014,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,proportion of shallow burrows remaing intact,mean ,0.481
+1860,Tiliqua,2014,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,proportion of deep burrows remaing intact,mean ,0.65
+1860,Tiliqua,2014,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,proportion of deep burrows remaing intact,mean ,0.683
+1860,Tiliqua,2014,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,proportion of shallow burrows remaing intact,se,0.033
+1860,Tiliqua,2014,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,proportion of shallow burrows remaing intact,se,0.037
+1860,Tiliqua,2014,6,ungrazed,1,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,proportion of deep burrows remaing intact,se,0.037
+1860,Tiliqua,2014,6,grazed,0,sheep per ha,3 to 5,reptile,Tiliqua,adelaidensis,native,proportion of deep burrows remaing intact,se,0.045

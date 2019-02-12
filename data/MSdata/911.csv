@@ -1,0 +1,19 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+911,,early spring 1997-1998,4,bison,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,mean,6.977225673
+911,,early spring 1997-1998,4,bison,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,se,0.91
+911,,early spring 1997-1998,4,cattle,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,mean,5.031055901
+911,,early spring 1997-1998,4,cattle,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,se,0.869
+911,,early spring 1997-1998,4,ungrazed,2,kg/5ha,0,mammal,Peromyscus ,maniculatus,,Count,mean,2.608695652
+911,,early spring 1997-1998,4,ungrazed,2,kg/5ha,0,mammal,Peromyscus ,maniculatus,,Count,se,0.89
+911,,late spring  1997-1998,4,bison,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,mean,4.865424431
+911,,late spring  1997-1998,4,bison,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,se,9.869
+911,,late spring  1997-1998,4,cattle,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,mean,4.451345756
+911,,late spring  1997-1998,4,cattle,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,se,0.91
+911,,late spring  1997-1998,4,ungrazed,2,kg/5ha,0,mammal,Peromyscus ,maniculatus,,Count,mean,6.376811594
+911,,late spring  1997-1998,4,ungrazed,2,kg/5ha,0,mammal,Peromyscus ,maniculatus,,Count,se,0.848
+911,,fall 1997-1998,4,bison,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,mean,9.130434783
+911,,fall 1997-1998,4,bison,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,se,0.869
+911,,fall 1997-1998,4,cattle,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,mean,6.376811594
+911,,fall 1997-1998,4,cattle,0,kg/5ha,907,mammal,Peromyscus ,maniculatus,,Count,se,0.844
+911,,fall 1997-1998,4,ungrazed,2,kg/5ha,0,mammal,Peromyscus ,maniculatus,,Count,mean,4.596273292
+911,,fall 1997-1998,4,ungrazed,2,kg/5ha,0,mammal,Peromyscus ,maniculatus,,Count,se,0.89

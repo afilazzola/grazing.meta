@@ -1,0 +1,25 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2341,lightlygrazedoa,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,microbial carbon gram/gram soil,mean,177.4336283
+2341,lightlygrazedyt,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,microbial carbon gram/gram soil,mean,290.7079646
+2341,lightlygrazedmt,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,microbial carbon gram/gram soil,mean,350.8849558
+2341,lightlygrazedot,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,microbial carbon gram/gram soil,mean,432.300885
+2341,intensivelygrazedoa,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,microbial carbon gram/gram soil,mean,145.5752212
+2341,intensivelygrazedyt,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,microbial carbon gram/gram soil,mean,198.6725664
+2341,intensivelygrazedmt,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,microbial carbon gram/gram soil,mean,234.0707965
+2341,intensivelygrazedot,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,microbial carbon gram/gram soil,mean,322.5663717
+2341,lightlygrazedoa,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,metabolic quotient (qCO2 / ug CO2 - C mg / Microbial BCh),mean,2.285987261
+2341,lightlygrazedyt,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,metabolic quotient (qCO2 / ug CO2 - C mg / Microbial BCh),mean,1.479148508
+2341,lightlygrazedmt,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,metabolic quotient (qCO2 / ug CO2 - C mg / Microbial BCh),mean,1.409151861
+2341,lightlygrazedot,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,metabolic quotient (qCO2 / ug CO2 - C mg / Microbial BCh),mean,1.318102581
+2341,intensivelygrazedoa,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,metabolic quotient (qCO2 / ug CO2 - C mg / Microbial BCh),mean,2.643881998
+2341,intensivelygrazedyt,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,metabolic quotient (qCO2 / ug CO2 - C mg / Microbial BCh),mean,2.321387865
+2341,intensivelygrazedmt,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,metabolic quotient (qCO2 / ug CO2 - C mg / Microbial BCh),mean,2.082970164
+2341,intensivelygrazedot,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,metabolic quotient (qCO2 / ug CO2 - C mg / Microbial BCh),mean,1.928628897
+2341,lightlygrazedoa,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,Cmicrobial:Corganic (%),mean,2.536534746
+2341,lightlygrazedyt,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,Cmicrobial:Corganic (%),mean,3.205217205
+2341,lightlygrazedmt,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,Cmicrobial:Corganic (%),mean,3.503005797
+2341,lightlygrazedot,2009,4,grazed,,Grazing density (animals/hectare),1,Soil microbia,,,,Cmicrobial:Corganic (%),mean,3.564946683
+2341,intensivelygrazedoa,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,Cmicrobial:Corganic (%),mean,2.43541115
+2341,intensivelygrazedyt,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,Cmicrobial:Corganic (%),mean,2.615329564
+2341,intensivelygrazedmt,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,Cmicrobial:Corganic (%),mean,2.761540113
+2341,intensivelygrazedot,2009,4,grazed,,Grazing density (animals/hectare),2,Soil microbia,,,,Cmicrobial:Corganic (%),mean,3.244721964

@@ -1,0 +1,151 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,richness of all species,mean,25.9
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,richness of all species,mean,22.4
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,richness of all species,mean,33.3
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,richness of all species,sd,6.5
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,richness of all species,sd,4.7
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,richness of all species,sd,7.8
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,abundance of all species,mean,126.2
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,abundance of all species,mean,126
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,abundance of all species,mean,306.3
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,abundance of all species,sd,57.9
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,abundance of all species,sd,73.8
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,abundance of all species,sd,141.8
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,all rarefied species,mean,22.3
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,all rarefied species,mean,19.4
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,all rarefied species,mean,20.8
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,all rarefied species,sd,3
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,all rarefied species,sd,2.6
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,all rarefied species,sd,3.4
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,N2 diversity index of all species,mean,10.3
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,N2 diversity index of all species,mean,7.2
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,N2 diversity index of all species,mean,8.2
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,N2 diversity index of all species,sd,1.4
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,N2 diversity index of all species,sd,3.1
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,N1 diversity index of all species,sd,2.9
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,N1 diversity index of all species,mean,15
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,N1 diversity index of all species,mean,11.1
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,N1 diversity index of all species,mean,13.6
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,N1 diversity index of all species,sd,2.4
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,N1 diversity index of all species,sd,3.5
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,N1 diversity index of all species,sd,4
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,Alatalo's evenness index of all species,mean,0.67
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,Alatalo's evenness index of all species,mean,0.58
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,Alatalo's evenness index of all species,mean,0.56
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,Alatalo's evenness index of all species,sd,0.06
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,Alatalo's evenness index of all species,sd,0.11
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,Alatalo's evenness index of all species,sd,0.1
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,alpha evenness index of all species,mean,10.4
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,alpha evenness index of all species,mean,8.8
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,alpha evenness index of all species,mean,10.1
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,alpha evenness index of all species,sd,2.6
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,alpha evenness index of all species,sd,2.1
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,alpha evenness index of all species,sd,2.6
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,richness of grassland species,mean,20.8
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,richness of grassland species,mean,18.1
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,richness of grassland species,mean,24.3
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,richness of grassland species,sd,3.3
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,richness of grassland species,sd,2.9
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,richness of grassland species,sd,3.6
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,abundance of grassland species,mean,118.8
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,abundance of grassland species,mean,120
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,abundance of grassland species,mean,282.8
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,abundance of grassland species,sd,54.1
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,abundance of grassland species,sd,71
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,abundance of grassland species,sd,131.2
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,grassland rarefied species,mean,18.8
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,grassland rarefied species,mean,16.3
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,grassland rarefied species,mean,17.5
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,grassland rarefied species,sd,1.8
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,grassland rarefied species,sd,1.9
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,grassland rarefied species,sd,2.8
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,N2 diversity index of grassland species,mean,9.2
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,N2 diversity index of grassland species,mean,6.4
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,N2 diversity index of grassland species,mean,7.1
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,N2 diversity index of grassland species,sd,1.2
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,N2 diversity index of grassland species,sd,2.6
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,N2 diversity index of grassland species,sd,2.2
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,N1 diversity index of grassland species,mean,12.7
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,N1 diversity index of grassland species,mean,9.4
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,N1 diversity index of grassland species,mean,11.1
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,N1 diversity index of grassland species,sd,1.5
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,N1 diversity index of grassland species,sd,2.6
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,N1 diversity index of grassland species,sd,2.9
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,Alatalo's evenness index of grassland species,mean,0.7
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,Alatalo's evenness index of grassland species,mean,0.62
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,Alatalo's evenness index of grassland species,mean,0.6
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,Alatalo's evenness index of grassland species,sd,0.05
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,Alatalo's evenness index of grassland species,sd,0.12
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,Alatalo's evenness index of grassland species,sd,0.1
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,alpha evenness index of grassland species,mean,7.6
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,alpha evenness index of grassland species,mean,6.5
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,alpha evenness index of grassland species,mean,6.7
+1975,1,1999-2000,11,old pasture,0,stocking rate head/ha,1.67,arthropoda,,,,alpha evenness index of grassland species,sd,1
+1975,2,1999-2000,10,re-established pasture,0,stocking rate head/ha,1.6,arthropoda,,,,alpha evenness index of grassland species,sd,1.1
+1975,3,1999-2000,12,abandoned pasture,> 10,stocking rate head/ha,0,arthropoda,,,,alpha evenness index of grassland species,sd,1.5
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,5.4ÿ
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,5.5ÿ
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,14.3
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,5.1ÿ
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,3.7ÿ
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,6.3ÿ
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,31.9
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,10.9
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,7.5ÿ
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,25.4
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,mean,5.4ÿ
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,ÿ4.3
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,ÿ5.5
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,17.2
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,ÿ2.6
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,ÿ2.2
+1975,1,1999,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,ÿ4.4
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,12.8
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,ÿ8.7
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,ÿ8.3
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,10.2
+1975,1,2000,15,old pasture,0,stocking rate head/ha,1.67,plant,,,,vegetation height,sd,ÿ2.2
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,6.9ÿ
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,7.4ÿ
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,4.5ÿ
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,15.5
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,28.0
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,10.3
+1975,2,2000,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,18.3
+1975,2,2000,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,31.1
+1975,2,2000,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,45.7
+1975,2,2000,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,mean,53.3
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,ÿ4.8
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,ÿ7.4
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,ÿ3.2
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,12.4
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,11.2
+1975,2,1999,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,ÿ9.3
+1975,2,2000,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,11.0
+1975,2,2000,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,21.8
+1975,2,2000,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,13.7
+1975,2,2000,15,re-established pasture,0,stocking rate head/ha,1.6,plant,,,,vegetation height,sd,ÿ5.3
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,40.7
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,54.5
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,43.7
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,61.3
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,39.3
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,50.9
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,49.5
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,61.3
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,48.2
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,52.9
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,56.3
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,mean,35.0
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,12.2
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,16.4
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,17.5
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,18.4
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,23.6
+1975,3,1999,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,15.3
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,ÿ9.9
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,12.3
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,ÿ9.6
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,10.6
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,16.9
+1975,3,2000,15,abandoned pasture,> 10,stocking rate head/ha,0,plant,,,,vegetation height,sd,14.0

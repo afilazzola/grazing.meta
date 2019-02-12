@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+585,Appleton,1994,4,grazed,0,AMU/ha,0.12,Insects,,,,abundance,mean,561.5
+585,Appleton,1994,4,ungrazed,52,AMU/ha,0,Insects,,,,abundance,mean,957.8
+585,Appleton,1994,4,grazed,0,AMU/ha,0.12,Insects,,,,abundance,sterror,110.32
+585,Appleton,1994,4,ungrazed,52,AMU/ha,0,Insects,,,,abundance,sterror,159.54
+585,Appleton,1994,4,grazed,0,AMU/ha,0.12,Insects,,,,richness,mean,68
+585,Appleton,1994,4,ungrazed,52,AMU/ha,0,Insects,,,,richness,mean,77
+585,Appleton,1994,4,grazed,0,AMU/ha,0.12,Insects,,,,richness,sterror,2.38
+585,Appleton,1994,4,ungrazed,52,AMU/ha,0,Insects,,,,richness,sterror,5.79

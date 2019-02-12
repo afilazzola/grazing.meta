@@ -1,0 +1,61 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,plant,,,,grass height,mean,0.52
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,plant,,,,grass height,mean,0.14
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,plant,,,,grass height,mean,0.85
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,plant,,,,grass height,mean,0.56
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,plant,,,,grass height,mean,0.47
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,plant,,,,grass height,se,0.07
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,plant,,,,grass height,se,0.04
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,plant,,,,grass height,se,0.04
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,plant,,,,grass height,se,0.06
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,plant,,,,grass height,se,0.09
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,mean,-1.01
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,mean,0.8
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,mean,0.01
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,mean,-0.26
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,mean,-0.11
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,se,-0.41
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,se,0.28
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,se,0.33
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,se,0.35
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,large insectivorous local extinction/recolonization,se,0.22
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,mean,0.55
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,mean,-0.06
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,mean,0.54
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,mean,0.12
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,mean,0.17
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,se,0.4
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,se,0.29
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,se,0.33
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,se,0.29
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,mixed diet local extinction/recolonization,se,0.22
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,mean,-0.41
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,mean,0.17
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,mean,-0.2
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,mean,-0.25
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,mean,-0.07
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,se,-0.4
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,se,0.26
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,se,0.37
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,se,0.36
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,tree/shrub foragers local extinction/recolonization,se,0.22
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,mean,-0.27
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,mean,-0.16
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,mean,-0.93
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,mean,0.43
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,mean,0.28
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,se,0.36
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,se,0.25
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,se,0.31
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,se,0.2
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,small insectivorous local extinction/recolonization,se,0.2
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,mean,-0.45
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,mean,-0.13
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,mean,0.14
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,mean,-0.39
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,mean,-0.04
+2060,M to L,1993-1997,7,moderate to low,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,se,0.27
+2060,L to M,1993-1997,13,low to moderate,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,se,0.19
+2060,H to M,1993-1997,9,high to moderate,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,se,0.24
+2060,M to H,1993-1997,10,moderate to high,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,se,0.24
+2060,NC,1993-1997,21,no change,0,vegetation height,<15 cm,aves,,,,small mixed diet local extinction/recolonization,se,0.18

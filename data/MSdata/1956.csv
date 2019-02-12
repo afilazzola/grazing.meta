@@ -1,0 +1,25 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1956,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,,,,bee richness with Apis mellifera,mean,7.7
+1956,,2003,42,intensive,0,cattle per ha,>1,arthropoda,,,,bee richness with Apis mellifera,mean,7.1
+1956,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,,,,bee richness with Apis mellifera,se,1.3
+1956,,2003,42,intensive,0,cattle per ha,>1,arthropoda,,,,bee richness with Apis mellifera,se,1.1
+1956,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,,,,bee richness without Apis mellifera,mean,6.8
+1956,,2003,42,intensive,0,cattle per ha,>1,arthropoda,,,,bee richness without Apis mellifera,mean,6.6
+1956,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,,,,bee richness without Apis mellifera,se,1.2
+1956,,2003,42,intensive,0,cattle per ha,>1,arthropoda,,,,bee richness without Apis mellifera,se,1
+1956,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,,,,bee abundance with Apis mellifera,mean,11.3
+1956,,2003,42,intensive,0,cattle per ha,>1,arthropoda,,,,bee abundance with Apis mellifera,mean,11.7
+1956,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,,,,bee abundance with Apis mellifera,se,2.2
+1956,,2003,42,intensive,0,cattle per ha,>1,arthropoda,,,,bee abundance with Apis mellifera,se,1.9
+1956,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,,,,bee abundance without Apis mellifera,mean,10.4
+1956,,2003,42,intensive,0,cattle per ha,>1,arthropoda,,,,bee abundance without Apis mellifera,mean,11.1
+1956,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,,,,bee abundance without Apis mellifera,se,2
+1956,,2003,42,intensive,0,cattle per ha,>1,arthropoda,,,,bee abundance without Apis mellifera,se,1.7
+1956,,2003,42,extensive,0,cattle per ha,0.5,plant ,,,,insect pollinated plant richness,mean,35.8
+1956,,2003,42,intensive,0,cattle per ha,>1,plant ,,,,insect pollinated plant richness,mean,32
+1956,,2003,42,extensive,0,cattle per ha,0.5,plant ,,,,insect pollinated plant richness,se,3.9
+1956,,2003,42,intensive,0,cattle per ha,>1,plant ,,,,insect pollinated plant richness,se,3
+1956,,2003,42,extensive,0,cattle per ha,0.5,plant ,,,,insect pollinated plant cover,mean,38.6
+1956,,2003,42,intensive,0,cattle per ha,>1,plant ,,,,insect pollinated plant cover,mean,30.4
+1956,,2003,42,extensive,0,cattle per ha,0.5,plant ,,,,insect pollinated plant cover,se,5.4
+1956,,2003,42,intensive,0,cattle per ha,>1,plant ,,,,insect pollinated plant cover,se,4.1

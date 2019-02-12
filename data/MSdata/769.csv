@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+769,Gray,1998,12,grazed,0,AU/50ha/year,1,Rodents,,,,Species richness/pot,mean,0.83
+770,Gray,1998,12,grazed,0,AU/50ha/year,1,Rodents,,,,Species richness/pot,sterror,0.18
+771,Gray,1998,12,ungrazed,2,AU/50ha/year,0,Rodents,,,,Species richness/pot,mean,0.83
+772,Gray,1998,12,ungrazed,2,AU/50ha/year,0,Rodents,,,,Species richness/pot,sterror,0.28
+773,Gray,1998,12,grazed,0,AU/50ha/year,1,Rodents,,,,Abundance/plot,mean,0.92
+774,Gray,1998,12,grazed,0,AU/50ha/year,1,Rodents,,,,Abundance/plot,sterror,0.2
+775,Gray,1998,12,ungrazed,2,AU/50ha/year,0,Rodents,,,,Abundance/plot,mean,1.13
+776,Gray,1998,12,ungrazed,2,AU/50ha/year,0,Rodents,,,,Abundance/plot,sterror,0.45

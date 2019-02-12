@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+801,Malta,1993,4,grazed spring,0,,,Lichen,,,,Lichen % cover,mean,0.54
+802,Malta,1994,4,grazed spring,0,,,Lichen,,,,Lichen % cover,sterror,0.27
+803,Malta,1995,4,grazed summer,0,,,Lichen,,,,Lichen % cover,mean,0.84
+804,Malta,1996,4,grazed summer,0,,,Lichen,,,,Lichen % cover,sterror,0.19
+805,Malta,1997,4,grazed winter,0,,,Lichen,,,,Lichen % cover,mean,2.89
+806,Malta,1998,4,grazed winter,0,,,Lichen,,,,Lichen % cover,sterror,0.25
+807,Malta,1999,4,ungrazed,6,,,Lichen,,,,Lichen % cover,mean,5.78
+808,Malta,2000,4,ungrazed,6,,,Lichen,,,,Lichen % cover,sterror,0.24

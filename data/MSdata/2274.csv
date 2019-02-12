@@ -1,0 +1,85 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2274,patch-burn,2006,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,SD,1.7
+2274,patch-burn,2007,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,SD,1.7
+2274,patch-burn,2008,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,SD,1.5
+2274,patch-burn,2009,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,SD,1.4
+2274,grazed-burn,2006,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,SD,2.3
+2274,grazed-burn,2007,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,SD,2.1
+2274,grazed-burn,2008,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,SD,1.7
+2274,grazed-burn,2009,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,SD,1.9
+2274,non-grazed-burned,2006,90,non-grazed,unkn,Intensity (AUM/acre),0,Plants,,,,Visual obstruction,SD,2.3
+2274,non-grazed-burned,2007,90,non-grazed,unkn,Intensity (AUM/acre),0,Plants,,,,Visual obstruction,SD,2.8
+2274,non-grazed-burned,2008,90,non-grazed,unkn,Intensity (AUM/acre),0,Plants,,,,Visual obstruction,SD,2
+2274,non-grazed-burned,2009,90,non-grazed,unkn,Intensity (AUM/acre),0,Plants,,,,Visual obstruction,SD,1.9
+2274,patch-burn,2006,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,Mean,3
+2274,patch-burn,2007,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,Mean,5
+2274,patch-burn,2008,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,Mean,3.5
+2274,patch-burn,2009,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,Mean,3
+2274,grazed-burn,2006,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,Mean,2.7
+2274,grazed-burn,2007,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,Mean,5
+2274,grazed-burn,2008,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,Mean,4.1
+2274,grazed-burn,2009,90,grazed,0,Intensity (AUM/acre),1.25,Plants,,,,Visual obstruction,Mean,3.5
+2274,non-grazed-burned,2006,90,non-grazed,unkn,Intensity (AUM/acre),0,Plants,,,,Visual obstruction,Mean,3.5
+2274,non-grazed-burned,2007,90,non-grazed,unkn,Intensity (AUM/acre),0,Plants,,,,Visual obstruction,Mean,7.4
+2274,non-grazed-burned,2008,90,non-grazed,unkn,Intensity (AUM/acre),0,Plants,,,,Visual obstruction,Mean,6.9
+2274,non-grazed-burned,2009,90,non-grazed,unkn,Intensity (AUM/acre),0,Plants,,,,Visual obstruction,Mean,6.6
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Grasshopper sparrow,,,Transect ,Mean,0.517
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Grasshopper sparrow,,,Transect ,Mean,1.085
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Grasshopper sparrow,,,Transect ,Mean,1.304
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Bobolink,,,Transect ,Mean,1.336
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Bobolink,,,Transect ,Mean,0.714
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Bobolink,,,Transect ,Mean,0.598
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Eastern Meadowlark,,,Transect ,Mean,0.415
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Eastern Meadowlark,,,Transect ,Mean,0.732
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Eastern Meadowlark,,,Transect ,Mean,0.661
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Dickcissel,,,Transect ,Mean,0.484
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Dickcissel,,,Transect ,Mean,0.371
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Dickcissel,,,Transect ,Mean,0.194
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Henslow's sparrow,,,Transect ,Mean,0.589
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Henslow's sparrow,,,Transect ,Mean,0.109
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Henslow's sparrow,,,Transect ,Mean,0.292
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Sedge wren,,,Transect ,Mean,0.619
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Sedge wren,,,Transect ,Mean,0.094
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Sedge wren,,,Transect ,Mean,0.1
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Upland sandpiper,,,Transect ,Mean,0.004
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Upland sandpiper,,,Transect ,Mean,0
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Upland sandpiper,,,Transect ,Mean,0.003
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Northern harrier,,,Transect ,Mean,0.005
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Northern harrier,,,Transect ,Mean,0
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Northern harrier,,,Transect ,Mean,0
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Red-winged blackbird,,,Transect ,Mean,1.093
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Red-winged blackbird,,,Transect ,Mean,0.862
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Red-winged blackbird,,,Transect ,Mean,0.628
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Brown-headed cowbird,,,Transect ,Mean,0.704
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Brown-headed cowbird,,,Transect ,Mean,0.699
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Brown-headed cowbird,,,Transect ,Mean,0.383
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Common yellowthroat,,,Transect ,Mean,0.542
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Common yellowthroat,,,Transect ,Mean,0.263
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Common yellowthroat,,,Transect ,Mean,0.161
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Eastern kingbird,,,Transect ,Mean,0.403
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Eastern kingbird,,,Transect ,Mean,0.399
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Eastern kingbird,,,Transect ,Mean,0.273
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Mourning dove,,,Transect ,Mean,0.085
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Mourning dove,,,Transect ,Mean,0.09
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Mourning dove,,,Transect ,Mean,0.062
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Eastern bluebird,,,Transect ,Mean,0
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Eastern bluebird,,,Transect ,Mean,0.063
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Eastern bluebird,,,Transect ,Mean,0.059
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Northern bobwhite,,,Transect ,Mean,0.013
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Northern bobwhite,,,Transect ,Mean,0.084
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Northern bobwhite,,,Transect ,Mean,0.012
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Loggerhead shrike,,,Transect ,Mean,0.017
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Loggerhead shrike,,,Transect ,Mean,0.029
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Loggerhead shrike,,,Transect ,Mean,0.04
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Ring-necked pheasant,,,Transect ,Mean,0.009
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Ring-necked pheasant,,,Transect ,Mean,0.005
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Ring-necked pheasant,,,Transect ,Mean,0.033
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Killdeer,,,Transect ,Mean,0.011
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Killdeer,,,Transect ,Mean,0
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Killdeer,,,Transect ,Mean,0.008
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Vesper sparrow,,,Transect ,Mean,0.007
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Vesper sparrow,,,Transect ,Mean,0.015
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Vesper sparrow,,,Transect ,Mean,0.011
+2274,non-grazed-burned,2006-2009,13,non-grazed,unkn,Intensity (AUM/acre),0,Aves,Lark sparrow,,,Transect ,Mean,0
+2274,grazed-burn,2006-2010,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Lark sparrow,,,Transect ,Mean,0
+2274,patch-burn,2006-2011,13,grazed,0,Intensity (AUM/acre),1.25,Aves,Lark sparrow,,,Transect ,Mean,0.003

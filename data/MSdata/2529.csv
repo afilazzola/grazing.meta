@@ -1,0 +1,23 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2529,1,2009,15,grazed,,Stocking density (LSU/ha),0.085,Plants,,,,Species richness,mean,105
+2529,2,2009,15,grazed,,Stocking density (LSU/ha),0.62,Plants,,,,Species richness,mean,107
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Allodontermes,,,Number,mean,4
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Allodontermes,,,Frequency of occurrence,mean,18
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Allodontermes,,,Number,mean,0
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Allodontermes,,,Frequency of occurrence,mean,0
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Macrotermes,,,Number,mean,1
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Macrotermes,,,Frequency of occurrence,mean,5
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Macrotermes,,,Number,mean,2
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Macrotermes,,,Frequency of occurrence,mean,13
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Microtermes,,,Number,mean,15
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Microtermes,,,Frequency of occurrence,mean,68
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Microtermes,,,Number,mean,11
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Microtermes,,,Frequency of occurrence,mean,69
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Odontotermes,,,Number,mean,3
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Odontotermes,,,Frequency of occurrence,mean,14
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Odontotermes,,,Number,mean,2
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Odontotermes,,,Frequency of occurrence,mean,13
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Trinervitermes,,,Number,mean,0
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.085,Arthropoda,Trinervitermes,,,Frequency of occurrence,mean,0
+2529,1,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Trinervitermes,,,Number,mean,1
+2529,2,2009,30,grazed,,Stocking density (LSU/ha),0.62,Arthropoda,Trinervitermes,,,Frequency of occurrence,mean,6

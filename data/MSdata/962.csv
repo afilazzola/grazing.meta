@@ -1,0 +1,165 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Eniochthonius,minutissimus,,population density,mean,48.8
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Eniochthonius,minutissimus,,population density,se,42.2
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Eniochthonius,minutissimus,,population density,mean,42.1
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Eniochthonius,minutissimus,,population density,se,72.9
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Eniochthonius,minutissimus,,population density,mean,150.8
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Eniochthonius,minutissimus,,population density,se,53
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Eniochthonius,minutissimus,,population density,mean,62.7
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Eniochthonius,minutissimus,,population density,se,39.9
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Sellnickochthonius,zelawaiensis,,population density,mean,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Sellnickochthonius,zelawaiensis,,population density,se,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Sellnickochthonius,zelawaiensis,,population density,mean,15.8
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Sellnickochthonius,zelawaiensis,,population density,se,4
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Sellnickochthonius,zelawaiensis,,population density,mean,1.9
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Sellnickochthonius,zelawaiensis,,population density,se,0.9
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Sellnickochthonius,zelawaiensis,,population density,mean,6.7
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Sellnickochthonius,zelawaiensis,,population density,se,6.4
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Platynothrus ,peltifer,,population density,mean,0.4
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Platynothrus ,peltifer,,population density,se,0.8
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Platynothrus ,peltifer,,population density,mean,2.5
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Platynothrus ,peltifer,,population density,se,3
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Platynothrus ,peltifer,,population density,mean,94.2
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Platynothrus ,peltifer,,population density,se,76.7
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Platynothrus ,peltifer,,population density,mean,57.1
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Platynothrus ,peltifer,,population density,se,68.6
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Nothrus ,silvestris,,population density,mean,16.7
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Nothrus ,silvestris,,population density,se,12.8
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Nothrus ,silvestris,,population density,mean,156.3
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Nothrus ,silvestris,,population density,se,98.2
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Nothrus ,silvestris,,population density,mean,11.7
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Nothrus ,silvestris,,population density,se,11.6
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Nothrus ,silvestris,,population density,mean,75.4
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Nothrus ,silvestris,,population density,se,45.3
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Nanhermannia,nanus,,population density,mean,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Nanhermannia,nanus,,population density,se,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Nanhermannia,nanus,,population density,mean,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Nanhermannia,nanus,,population density,se,0
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Nanhermannia,nanus,,population density,mean,21.3
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Nanhermannia,nanus,,population density,se,15.2
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Nanhermannia,nanus,,population density,mean,29.2
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Nanhermannia,nanus,,population density,se,24.8
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Suctobelbella,subcornigera,,population density,mean,35
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Suctobelbella,subcornigera,,population density,se,20.7
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Suctobelbella,subcornigera,,population density,mean,32.9
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Suctobelbella,subcornigera,,population density,se,20.4
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Suctobelbella,subcornigera,,population density,mean,176.7
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Suctobelbella,subcornigera,,population density,se,47.5
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Suctobelbella,subcornigera,,population density,mean,183.8
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Suctobelbella,subcornigera,,population density,se,100.4
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Oppiella,subpectinata,,population density,mean,15.8
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Oppiella,subpectinata,,population density,se,12
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Oppiella,subpectinata,,population density,mean,7.9
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Oppiella,subpectinata,,population density,se,4.7
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Oppiella,subpectinata,,population density,mean,55
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Oppiella,subpectinata,,population density,se,17.2
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Oppiella,subpectinata,,population density,mean,58.3
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Oppiella,subpectinata,,population density,se,36.1
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Schwieba,talpa,,population density,mean,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Schwieba,talpa,,population density,se,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Schwieba,talpa,,population density,mean,0.8
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Schwieba,talpa,,population density,se,0.8
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Schwieba,talpa,,population density,mean,0
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Schwieba,talpa,,population density,se,0
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Schwieba,talpa,,population density,mean,5.6
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Schwieba,talpa,,population density,se,0.9
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Schwieba,lebruni,,population density,mean,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Schwieba,lebruni,,population density,se,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Schwieba,lebruni,,population density,mean,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Schwieba,lebruni,,population density,se,0
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Schwieba,lebruni,,population density,mean,0
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Schwieba,lebruni,,population density,se,0
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Schwieba,lebruni,,population density,mean,0.9
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Schwieba,lebruni,,population density,se,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Arctoseius,cetratus,,population density,mean,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Arctoseius,cetratus,,population density,se,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Arctoseius,cetratus,,population density,mean,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Arctoseius,cetratus,,population density,se,0
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Arctoseius,cetratus,,population density,mean,0.4
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Arctoseius,cetratus,,population density,se,0.8
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Arctoseius,cetratus,,population density,mean,0
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Arctoseius,cetratus,,population density,se,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Dendrolaelaps,reticulatus,,population density,mean,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Dendrolaelaps,reticulatus,,population density,se,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Dendrolaelaps,reticulatus,,population density,mean,2.5
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Dendrolaelaps,reticulatus,,population density,se,0.9
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Dendrolaelaps,reticulatus,,population density,mean,0
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Dendrolaelaps,reticulatus,,population density,se,0
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Dendrolaelaps,reticulatus,,population density,mean,0
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Dendrolaelaps,reticulatus,,population density,se,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Zercon,triangularis,,population density,mean,6.3
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Zercon,triangularis,,population density,se,6.6
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Zercon,triangularis,,population density,mean,6.7
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Zercon,triangularis,,population density,se,4.7
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Zercon,triangularis,,population density,mean,18.8
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Zercon,triangularis,,population density,se,4.5
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Zercon,triangularis,,population density,mean,19.2
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Zercon,triangularis,,population density,se,17.2
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Variatipes,quadrangularis,,population density,mean,92.9
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Variatipes,quadrangularis,,population density,se,42.3
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Variatipes,quadrangularis,,population density,mean,128.9
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Variatipes,quadrangularis,,population density,se,120.9
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Variatipes,quadrangularis,,population density,mean,134.2
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Variatipes,quadrangularis,,population density,se,48
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Variatipes,quadrangularis,,population density,mean,369.6
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Variatipes,quadrangularis,,population density,se,194.5
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Phgmephorus,cf haarloevi,,population density,mean,29.6
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Phgmephorus,cf haarloevi,,population density,se,19.1
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Phgmephorus,cf haarloevi,,population density,mean,243.3
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Phgmephorus,cf haarloevi,,population density,se,171.5
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Phgmephorus,cf haarloevi,,population density,mean,30.8
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Phgmephorus,cf haarloevi,,population density,se,33.3
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Phgmephorus,cf haarloevi,,population density,mean,66.3
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Phgmephorus,cf haarloevi,,population density,se,39
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Nanorchestes,arboriger,,population density,mean,19.9
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Nanorchestes,arboriger,,population density,se,15.8
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Nanorchestes,arboriger,,population density,mean,64.5
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Nanorchestes,arboriger,,population density,se,43.7
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Nanorchestes,arboriger,,population density,mean,5.5
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Nanorchestes,arboriger,,population density,se,1.4
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Nanorchestes,arboriger,,population density,mean,17.1
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Nanorchestes,arboriger,,population density,se,7.1
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Hypogastrura,denticulata,,population density,mean,376.5
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Hypogastrura,denticulata,,population density,se,164.9
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Hypogastrura,denticulata,,population density,mean,839.6
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Hypogastrura,denticulata,,population density,se,496.4
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Hypogastrura,denticulata,,population density,mean,25.4
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Hypogastrura,denticulata,,population density,se,18.8
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Hypogastrura,denticulata,,population density,mean,14.2
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Hypogastrura,denticulata,,population density,se,7.1
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Tullbergia,krausbaueri,,population density,mean,2.1
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Tullbergia,krausbaueri,,population density,se,1.4
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Tullbergia,krausbaueri,,population density,mean,44.2
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Tullbergia,krausbaueri,,population density,se,32
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Tullbergia,krausbaueri,,population density,mean,0.4
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Tullbergia,krausbaueri,,population density,se,0.8
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Tullbergia,krausbaueri,,population density,mean,19.2
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Tullbergia,krausbaueri,,population density,se,8.5
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Friesea,mirabilia,,population density,mean,0.8
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Friesea,mirabilia,,population density,se,0.9
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Friesea,mirabilia,,population density,mean,237.5
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Friesea,mirabilia,,population density,se,66.7
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Friesea,mirabilia,,population density,mean,0.8
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Friesea,mirabilia,,population density,se,0.9
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Friesea,mirabilia,,population density,mean,5.4
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Friesea,mirabilia,,population density,se,9.7
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Folsomia,quadrioculata,,population density,mean,0
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Folsomia,quadrioculata,,population density,se,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Folsomia,quadrioculata,,population density,mean,0
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Folsomia,quadrioculata,,population density,se,0
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Folsomia,quadrioculata,,population density,mean,19.6
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Folsomia,quadrioculata,,population density,se,11.5
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Folsomia,quadrioculata,,population density,mean,77.9
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Folsomia,quadrioculata,,population density,se,50.3
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Folsomia,quadrioculata,,population density,mean,32.5
+962,,may,72,grazed,0,cows/ha,0.06,Arthropoda,Folsomia,quadrioculata,,population density,se,14.7
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Folsomia,quadrioculata,,population density,mean,599.6
+962,,november,72,grazed,0,cows/ha,0.06,Arthropoda,Folsomia,quadrioculata,,population density,se,411.8
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Folsomia,quadrioculata,,population density,mean,2.9
+962,,may,72,ungrazed,>20,cows/ha,0,Arthropoda,Folsomia,quadrioculata,,population density,se,3
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Folsomia,quadrioculata,,population density,mean,10.4
+962,,november,72,ungrazed,>20,cows/ha,0,Arthropoda,Folsomia,quadrioculata,,population density,se,2.6
+962,,,,grazed,0,cows/ha,0.06,Plants,,,,biomass (kg/ha),mean,1349
+962,,,,grazed,0,cows/ha,0.06,Plants,,,,biomass (kg/ha),se,207
+962,,,,ungrazed,>20,cows/ha,0,Plants,,,,biomass (kg/ha),mean,1829
+962,,,,ungrazed,>20,cows/ha,0,Plants,,,,biomass (kg/ha),se,480

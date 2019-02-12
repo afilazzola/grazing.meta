@@ -1,0 +1,27 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Clay-coloured sparrow,,,Count ,Mean,30
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Clay-coloured sparrow,,,Density (#/9ha),Mean,1.1
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Clay-coloured sparrow,,,Count ,Mean,11
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Clay-coloured sparrow,,,Density (#/9ha),Mean,0.6
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Total ground nesters,,,Count ,Mean,65
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Total ground nesters,,,Density (#/9ha),Mean,2.3
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Total ground nesters,,,Count ,Mean,45
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Total ground nesters,,,Density (#/9ha),Mean,2.3
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Savannah sparrow,,,Count ,Mean,25
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Savannah sparrow,,,Density (#/9ha),Mean,0.9
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Savannah sparrow,,,Count ,Mean,17
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Savannah sparrow,,,Density (#/9ha),Mean,0.9
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Vesper sparrow,,,Count ,Mean,16
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Vesper sparrow,,,Density (#/9ha),Mean,0.6
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Vesper sparrow,,,Count ,Mean,16
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Vesper sparrow,,,Density (#/9ha),Mean,0.8
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Western meadowlark,,,Count ,Mean,18
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Western meadowlark,,,Density (#/9ha),Mean,0.6
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Western meadowlark,,,Count ,Mean,7
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Western meadowlark,,,Density (#/9ha),Mean,0.4
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Le Conte's sparrow,,,Count ,Mean,3
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Le Conte's sparrow,,,Count ,Mean,4
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,Bobolink,,,Count ,Mean,0
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,Bobolink,,,Count ,Mean,1
+2989,twice-over,2012,9,grazed,,stocking rate (AUM/acre),0.878,Aves,UNKN sparrows,,,Count ,Mean,4
+2989,once-over,2012,6,grazed,,stocking rate (AUM/acre),0.757,Aves,UNKN sparrows,,,Count ,Mean,0

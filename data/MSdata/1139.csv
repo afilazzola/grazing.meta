@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1139,lower elevation,,10,ungrazed,20,cows/ha,0,Arthropod,,,,number of ants captured,mean,5.101214575
+1139,lower elevation,,10,ungrazed,20,cows/ha,0,Arthropod,,,,number of ants captured,se,0.728744939
+1139,lower elevation,,10,grazed,0,cows/ha,1,Arthropod,,,,number of ants captured,mean,2.267206478
+1139,lower elevation,,10,grazed,0,cows/ha,1,Arthropod,,,,number of ants captured,se,0.4048583
+1139,upper elevation,,10,ungrazed,20,cows/ha,0,Arthropod,,,,number of ants captured,mean,3.319838057
+1139,upper elevation,,10,ungrazed,20,cows/ha,0,Arthropod,,,,number of ants captured,se,0.48582996
+1139,upper elevation,,10,grazed,0,cows/ha,1,Arthropod,,,,number of ants captured,mean,15.06072874
+1139,upper elevation,,10,grazed,0,cows/ha,1,Arthropod,,,,number of ants captured,se,3.076923077
+1139,lower elevation,,10,ungrazed,20,cows/ha,0,Arthropod,,,,species richness,mean,1.754940711
+1139,lower elevation,,10,ungrazed,20,cows/ha,0,Arthropod,,,,species richness,se,0.14229249
+1139,lower elevation,,10,grazed,0,cows/ha,1,Arthropod,,,,species richness,mean,1.114624506
+1139,lower elevation,,10,grazed,0,cows/ha,1,Arthropod,,,,species richness,se,0.130434783
+1139,upper elevation,,10,ungrazed,20,cows/ha,0,Arthropod,,,,species richness,mean,1.328063241
+1139,upper elevation,,10,ungrazed,20,cows/ha,0,Arthropod,,,,species richness,se,0.14229249
+1139,upper elevation,,10,grazed,0,cows/ha,1,Arthropod,,,,species richness,mean,2.122529644
+1139,upper elevation,,10,grazed,0,cows/ha,1,Arthropod,,,,species richness,se,0.14229249

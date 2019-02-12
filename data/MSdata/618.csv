@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+618,Yellowstone,202,6,grazed,0,,,AMF ,,,,Spore abundance/g soil,mean,24.29
+618,Yellowstone,202,6,grazed,0,,,AMF ,,,,Spore abundance/g soil,sterror,5.2
+618,Yellowstone,202,6,ungrazed,51,,,AMF ,,,,Spore abundance/g soil,mean,34.3
+618,Yellowstone,202,6,ungrazed,51,,,AMF ,,,,Spore abundance/g soil,sterror,6.9
+618,Yellowstone,202,6,grazed,0,,,AMF ,,,,Species richness/g soil,mean,3.7
+618,Yellowstone,202,6,grazed,0,,,AMF ,,,,Species richness/g soil,sterror,0.32
+618,Yellowstone,202,6,ungrazed,51,,,AMF ,,,,Species richness/g soil,mean,4.1
+618,Yellowstone,202,6,ungrazed,51,,,AMF ,,,,Species richness/g soil,sterror,0.42

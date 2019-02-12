@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+740,Setesdal,2000,10,grazed ,0,sheep/km^2,30,Moss,,,,Species Richness/plot,mean,5.06
+740,Setesdal,2000,10,grazed ,0,sheep/km^2,30,Moss,,,,Species Richness/plot,sterror,0.19
+740,Setesdal,2000,10,ungrazed,0.33,sheep/km^2,0,Moss,,,,Species Richness/plot,mean,5.66
+740,Setesdal,2000,10,ungrazed,0.33,sheep/km^2,0,Moss,,,,Species Richness/plot,sterror,0.2
+740,Setesdal,2004,10,grazed ,0,sheep/km^2,30,Moss,,,,Species Richness/plot,mean,5.53
+740,Setesdal,2004,10,grazed ,0,sheep/km^2,30,Moss,,,,Species Richness/plot,sterror,0.23
+740,Setesdal,2004,10,ungrazed,4,sheep/km^2,0,Moss,,,,Species Richness/plot,mean,6.3
+740,Setesdal,2004,10,ungrazed,4,sheep/km^2,0,Moss,,,,Species Richness/plot,sterror,0.22

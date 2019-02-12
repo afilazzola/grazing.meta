@@ -1,0 +1,11 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value,mm
+875,iMfolozi,2003,,Ungrazed,,,,Plants,,,,Vegetation height (cm),mean,20.069,94
+875,iMfolozi,2003,,Grazed,,,,plants,,,,Vegetation height (cm),mean,5.124,24
+875,iMfolozi,2003,,Ungrazed,,,,Plants,,,,Vegetation height (cm),se,1.4945,7
+875,iMfolozi,2003,,Grazed,,,,plants,,,,Vegetation height (cm),se,0.427,2
+875,Hluhluwe,2003,,Ungrazed,,,,Plants,,,,Vegetation height (cm),mean,15.372,72
+875,Hluhluwe,2003,,Grazed,,,,plants,,,,Vegetation height (cm),mean,6.405,30
+875,Hluhluwe,2003,,Ungrazed,,,,Plants,,,,Vegetation height (cm),se,3.6295,17
+875,Hluhluwe,2003,,Grazed,,,,plants,,,,Vegetation height (cm),se,2.88225,13.5
+875,,2002-2004,2,Ungrazed,,,,Mammals,Rodents,,,total number,count,216.087,111.5
+875,,2002-2004,2,Grazed,,,,Mammals,Rodents,,,total number,count,25.194,13

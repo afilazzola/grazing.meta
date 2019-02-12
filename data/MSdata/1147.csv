@@ -1,0 +1,19 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1147,,,20,ungrazed,>10,AUD/ha/yr,0,Reptile,,,,interval survival,mean,0.77
+1147,,,20,ungrazed,>10,AUD/ha/yr,0,Reptile,,,,interval survival,95% ci,0.2
+1147,,,43,moderately grazed,0,AUD/ha/yr,20,Reptile,,,,interval survival,mean,0.54
+1147,,,43,moderately grazed,0,AUD/ha/yr,20,Reptile,,,,interval survival,95% ci,0.19
+1147,,,44,heavily grazed,0,AUD/ha/yr,45,Reptile,,,,interval survival,mean,0.33
+1147,,,44,heavily grazed,0,AUD/ha/yr,45,Reptile,,,,interval survival,95% ci,0.27
+1147,,,20,ungrazed,>10,AUD/ha/yr,0,Plants,,,,% grass cover,mean,44.99
+1147,,,20,ungrazed,>10,AUD/ha/yr,0,Plants,,,,% grass cover,se,10.55
+1147,,,43,moderately grazed,0,AUD/ha/yr,20,Plants,,,,% grass cover,mean,36.88
+1147,,,43,moderately grazed,0,AUD/ha/yr,20,Plants,,,,% grass cover,se,6.37
+1147,,,44,heavily grazed,0,AUD/ha/yr,45,Plants,,,,% grass cover,mean,41.72
+1147,,,44,heavily grazed,0,AUD/ha/yr,45,Plants,,,,% grass cover,se,7.29
+1147,,,20,ungrazed,>10,AUD/ha/yr,0,Plants,,,,%forb cover,mean,12.83
+1147,,,20,ungrazed,>10,AUD/ha/yr,0,Plants,,,,%forb cover,se,1.61
+1147,,,43,moderately grazed,0,AUD/ha/yr,20,Plants,,,,%forb cover,mean,10.49
+1147,,,43,moderately grazed,0,AUD/ha/yr,20,Plants,,,,%forb cover,se,2.61
+1147,,,44,heavily grazed,0,AUD/ha/yr,45,Plants,,,,%forb cover,mean,16.55
+1147,,,44,heavily grazed,0,AUD/ha/yr,45,Plants,,,,%forb cover,se,1.68

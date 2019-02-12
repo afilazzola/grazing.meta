@@ -1,0 +1,8 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2263,1,2001,10,grazed,0,individual animals/ha,0.004,Arthropoda,,,,# plant species consumed by ants,Mean,10
+2263,2,2001,10,grazed,0,individual animals/ha,0.005,Arthropoda,,,,# plant species consumed by ants,Mean,9
+2263,3,2001,10,grazed,0,individual animals/ha,0.01,Arthropoda,,,,# plant species consumed by ants,Mean,8
+2263,4,2001,10,grazed,0,individual animals/ha,0.015,Arthropoda,,,,# plant species consumed by ants,Mean,8
+2263,5,2001,10,grazed,0,individual animals/ha,0.055,Arthropoda,,,,# plant species consumed by ants,Mean,6
+2263,6,2001,10,grazed,0,individual animals/ha,0.064,Arthropoda,,,,# plant species consumed by ants,Mean,7
+2263,7,2001,10,grazed,0,individual animals/ha,0.065,Arthropoda,,,,# plant species consumed by ants,Mean,6

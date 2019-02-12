@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+835,Whittington,1992,4,grazed,0,ha/animal,1.3,Birds,,,,species richness,mean,20.31
+835,Whittington,1992,4,grazed,0,ha/animal,1.3,Birds,,,,species richness,sterror,0.76
+835,Whittington,1992,4,ungrazed,20,ha/animal,0,Birds,,,,species richness,mean,19.06
+835,Whittington,1992,4,ungrazed,20,ha/animal,0,Birds,,,,species richness,sterror,0.6
+835,Whittington,1992,4,grazed,0,ha/animal,1.3,Birds,,,,abundance,mean,32.91
+835,Whittington,1992,4,grazed,0,ha/animal,1.3,Birds,,,,abundance,sterror,1.46
+835,Whittington,1992,4,ungrazed,20,ha/animal,0,Birds,,,,abundance,mean,34.88
+835,Whittington,1992,4,ungrazed,20,ha/animal,0,Birds,,,,abundance,sterror,1.45

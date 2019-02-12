@@ -1,0 +1,33 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2402,highsforage,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Plants,,,,Vegetation height (cm),mean,18.15222017
+2402,highsrandom,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Plants,,,,Vegetation height (cm),mean,23.63101149
+2402,lowsforage,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Plants,,,,Vegetation height (cm),mean,21.70591573
+2402,lowsrandom,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Plants,,,,Vegetation height (cm),mean,26.33494113
+2402,highsforage,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Plants,,,,Vegetation height (cm),standard error,0.998723223
+2402,highsrandom,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Plants,,,,Vegetation height (cm),standard error,1.14484324
+2402,lowsforage,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Plants,,,,Vegetation height (cm),standard error,1.564760959
+2402,lowsrandom,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Plants,,,,Vegetation height (cm),standard error,1.705206412
+2402,highsforage,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Plants,,,,Vegetation density (cm),mean,8.815007817
+2402,highsrandom,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Plants,,,,Vegetation density (cm),mean,10.69098489
+2402,lowsforage,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Plants,,,,Vegetation density (cm),mean,11.33159632
+2402,lowsrandom,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Plants,,,,Vegetation density (cm),mean,13.34792427
+2402,highsforage,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Plants,,,,Vegetation density (cm),standard error,0.697585548
+2402,highsrandom,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Plants,,,,Vegetation density (cm),standard error,0.628799722
+2402,lowsforage,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Plants,,,,Vegetation density (cm),standard error,0.630189335
+2402,lowsrandom,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Plants,,,,Vegetation density (cm),standard error,0.49122807
+2402,highsforage,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Arthropoda,,,,Total invertebrate abundance (# individuals),mean,79.73300971
+2402,highsrandom,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Arthropoda,,,,Total invertebrate abundance (# individuals),mean,89.85331363
+2402,lowsforage,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Arthropoda,,,,Total invertebrate abundance (# individuals),mean,102.0525538
+2402,lowsrandom,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Arthropoda,,,,Total invertebrate abundance (# individuals),mean,94.23279865
+2402,highsforage,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Arthropoda,,,,Total invertebrate abundance (# individuals),standard error,5.988813846
+2402,highsrandom,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Arthropoda,,,,Total invertebrate abundance (# individuals),standard error,7.081046855
+2402,lowsforage,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Arthropoda,,,,Total invertebrate abundance (# individuals),standard error,8.70620515
+2402,lowsrandom,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Arthropoda,,,,Total invertebrate abundance (# individuals),standard error,5.434782609
+2402,highsforage,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Arthropoda,,,,Total invertebrate biomass (mg),mean,76.38888889
+2402,highsrandom,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Arthropoda,,,,Total invertebrate biomass (mg),mean,79.86111111
+2402,lowsforage,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Arthropoda,,,,Total invertebrate biomass (mg),mean,128.4722222
+2402,lowsrandom,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Arthropoda,,,,Total invertebrate biomass (mg),mean,115.2777778
+2402,highsforage,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Arthropoda,,,,Total invertebrate biomass (mg),standard error,11.11111111
+2402,highsrandom,2007,20,gradient ,,Intensity (ewe/ha/year),2.72,Arthropoda,,,,Total invertebrate biomass (mg),standard error,9.027777778
+2402,lowsforage,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Arthropoda,,,,Total invertebrate biomass (mg),standard error,11.80555556
+2402,lowsrandom,2007,24,gradient ,,Intensity (ewe/ha/year),0.9,Arthropoda,,,,Total invertebrate biomass (mg),standard error,10.41666667

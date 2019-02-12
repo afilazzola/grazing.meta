@@ -1,0 +1,55 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2152,CashmereLow,2003,50,Grazed,0,goats/ha,6.7,plants,,,,% Cover shrubs,Mean,84.8
+2152,CashmereHigh,2003,50,Grazed,0,goats/ha,15,plants,,,,% Cover shrubs,Mean,69.8
+2152,LocalHigh,2003,50,Grazed,0,goats/ha,11.7,plants,,,,% Cover shrubs,Mean,58
+2152,CashmereLow,2003,50,Grazed,0,goats/ha,6.7,plants,,,,% Cover Herbaceous,Mean,12
+2152,CashmereHigh,2003,50,Grazed,0,goats/ha,15,plants,,,,% Cover Herbaceous,Mean,25.1
+2152,LocalHigh,2003,50,Grazed,0,goats/ha,11.7,plants,,,,% Cover Herbaceous,Mean,32.5
+2152,CashmereLow,2003,50,Grazed,0,goats/ha,6.7,plants,,,,% Cover Dead Matter,Mean,15
+2152,CashmereHigh,2003,50,Grazed,0,goats/ha,15,plants,,,,% Cover Dead Matter,Mean,26.9
+2152,LocalHigh,2003,50,Grazed,0,goats/ha,11.7,plants,,,,% Cover Dead Matter,Mean,36.5
+2152,CashmereLow,2003,50,Grazed,0,goats/ha,6.7,plants,,,,% Cover Bare Ground,Mean,2.1
+2152,CashmereHigh,2003,50,Grazed,0,goats/ha,15,plants,,,,% Cover Bare Ground,Mean,1.8
+2152,LocalHigh,2003,50,Grazed,0,goats/ha,11.7,plants,,,,% Cover Bare Ground,Mean,4.3
+2152,CashmereLow,2003,50,Grazed,0,goats/ha,6.7,plants,,,,Height,Mean,25.9
+2152,CashmereHigh,2003,50,Grazed,0,goats/ha,15,plants,,,,Height,Mean,18
+2152,LocalHigh,2003,50,Grazed,0,goats/ha,11.7,plants,,,,Height,Mean,15.1
+2152,CashmereLow,2003,50,Grazed,0,goats/ha,6.7,plants,,,,Sp. Richness,Mean,13.1
+2152,CashmereHigh,2003,50,Grazed,0,goats/ha,15,plants,,,,Sp. Richness,Mean,14.5
+2152,LocalHigh,2003,50,Grazed,0,goats/ha,11.7,plants,,,,Sp. Richness,Mean,15.8
+2152,CashmereLow,2003,50,Grazed,0,goats/ha,6.7,plants,,,,Diversity,Mean,1.77
+2152,CashmereHigh,2003,50,Grazed,0,goats/ha,15,plants,,,,Diversity,Mean,1.99
+2152,LocalHigh,2003,50,Grazed,0,goats/ha,11.7,plants,,,,Diversity,Mean,1.88
+2152,CashmereLow,2003,5,Grazed,0,goats/ha,6.7,plants,,,,Total Phytomass,Mean,14666
+2152,CashmereHigh,2003,5,Grazed,0,goats/ha,15,plants,,,,Total Phytomass,Mean,11127
+2152,LocalHigh,2003,5,Grazed,0,goats/ha,11.7,plants,,,,Total Phytomass,Mean,9336
+2152,CashmereLow,2003,5,Grazed,0,goats/ha,6.7,plants,,,,Total Heather Phytomass,Mean,69.3
+2152,CashmereHigh,2003,5,Grazed,0,goats/ha,15,plants,,,,Total Heather Phytomass,Mean,63.8
+2152,LocalHigh,2003,5,Grazed,0,goats/ha,11.7,plants,,,,Total Heather Phytomass,Mean,54.1
+2152,CashmereLow,2003,5,Grazed,0,goats/ha,6.7,plants,,,,Total Gorse Phytomass,Mean,19.4
+2152,CashmereHigh,2003,5,Grazed,0,goats/ha,15,plants,,,,Total Gorse Phytomass,Mean,20.1
+2152,LocalHigh,2003,5,Grazed,0,goats/ha,11.7,plants,,,,Total Gorse Phytomass,Mean,28
+2152,CashmereLow,2003,5,Grazed,0,goats/ha,6.7,plants,,,,Total Other Shrubs Phytomass,Mean,3.5
+2152,CashmereHigh,2003,5,Grazed,0,goats/ha,15,plants,,,,Total Other Shrubs Phytomass,Mean,4.1
+2152,LocalHigh,2003,5,Grazed,0,goats/ha,11.7,plants,,,,Total Other Shrubs Phytomass,Mean,0.7
+2152,CashmereLow,2003,5,Grazed,0,goats/ha,6.7,plants,,,,Total Herbaceous Phytomass,Mean,7.8
+2152,CashmereHigh,2003,5,Grazed,0,goats/ha,15,plants,,,,Total Herbaceous Phytomass,Mean,12.1
+2152,LocalHigh,2003,5,Grazed,0,goats/ha,11.7,plants,,,,Total Herbaceous Phytomass,Mean,17.2
+2152,CashmereLow,2003,2,Grazed,0,goats/ha,6.7,Arthropoda,,,,Individuals/100m²,Mean,1
+2152,CashmereHigh,2003,2,Grazed,0,goats/ha,15,Arthropoda,,,,Individuals/100m²,Mean,3
+2152,LocalHigh,2003,2,Grazed,0,goats/ha,11.7,Arthropoda,,,,Individuals/100m²,Mean,2
+2152,CashmereLow,2004,2,Grazed,0,goats/ha,6.7,Arthropoda,,,,Individuals/100m²,Mean,3
+2152,CashmereHigh,2004,2,Grazed,0,goats/ha,15,Arthropoda,,,,Individuals/100m²,Mean,6
+2152,LocalHigh,2004,2,Grazed,0,goats/ha,11.7,Arthropoda,,,,Individuals/100m²,Mean,8
+2152,CashmereLow,2005,2,Grazed,0,goats/ha,6.7,Arthropoda,,,,Individuals/100m²,Mean,14
+2152,CashmereHigh,2005,2,Grazed,0,goats/ha,15,Arthropoda,,,,Individuals/100m²,Mean,28
+2152,LocalHigh,2005,2,Grazed,0,goats/ha,11.7,Arthropoda,,,,Individuals/100m²,Mean,33
+2152,CashmereLow,2003,2,Grazed,0,goats/ha,6.7,Arthropoda,,,,Species richness,Mean,3.6
+2152,CashmereHigh,2003,2,Grazed,0,goats/ha,15,Arthropoda,,,,Species richness,Mean,3.4
+2152,LocalHigh,2003,2,Grazed,0,goats/ha,11.7,Arthropoda,,,,Species richness,Mean,2.8
+2152,CashmereLow,2004,2,Grazed,0,goats/ha,6.7,Arthropoda,,,,Species richness,Mean,4.5
+2152,CashmereHigh,2004,2,Grazed,0,goats/ha,15,Arthropoda,,,,Species richness,Mean,5.7
+2152,LocalHigh,2004,2,Grazed,0,goats/ha,11.7,Arthropoda,,,,Species richness,Mean,3.8
+2152,CashmereLow,2005,2,Grazed,0,goats/ha,6.7,Arthropoda,,,,Species richness,Mean,4.5
+2152,CashmereHigh,2005,2,Grazed,0,goats/ha,15,Arthropoda,,,,Species richness,Mean,4.5
+2152,LocalHigh,2005,2,Grazed,0,goats/ha,11.7,Arthropoda,,,,Species richness,Mean,4.5

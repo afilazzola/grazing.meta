@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+780,Konza,2001,61,grazed,0,ha/animal unit,2,Bird,Bartramia,longicauda,,daily nest survival,mean,0.958
+780,Konza,2001,61,grazed,0,ha/animal unit,2,Bird,Bartramia,longicauda,,daily nest survival,sterror,0.02
+780,Konza,2001,71,ungrazed,30,ha/animal unit,0,Bird,Bartramia,longicauda,,daily nest survival,mean,0.95
+780,Konza,2001,71,ungrazed,30,ha/animal unit,0,Bird,Bartramia,longicauda,,daily nest survival,sterror,0.02

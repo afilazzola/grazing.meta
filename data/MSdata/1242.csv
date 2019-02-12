@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1242,,2008,15,grazed,0,aum/acre,0.87,Aves,,,,Richness,mean,3.4
+1242,,2008,15,grazed,0,aum/acre,0.87,Aves,,,,Richness,se,1.2
+1242,,2009,15,grazed,0,aum/acre,0.87,Aves,,,,Richness,mean,2.8
+1242,,2009,15,grazed,0,aum/acre,0.87,Aves,,,,Richness,se,1.2
+1242,,2008,8,ungrazed,5,aum/acre,0,Aves,,,,Richness,mean,0.5
+1242,,2008,8,ungrazed,5,aum/acre,0,Aves,,,,Richness,se,0.6
+1242,,2009,8,ungrazed,5,aum/acre,0,Aves,,,,Richness,mean,1.1
+1242,,2009,8,ungrazed,5,aum/acre,0,Aves,,,,Richness,se,1
+1242,,2008,15,grazed,0,aum/acre,0.87,Aves,,,,Abundance,mean,4.6
+1242,,2008,15,grazed,0,aum/acre,0.87,Aves,,,,Abundance,se,2.8
+1242,,2009,15,grazed,0,aum/acre,0.87,Aves,,,,Abundance,mean,5.6
+1242,,2009,15,grazed,0,aum/acre,0.87,Aves,,,,Abundance,se,2.9
+1242,,2008,8,ungrazed,5,aum/acre,0,Aves,,,,Abundance,mean,1
+1242,,2008,8,ungrazed,5,aum/acre,0,Aves,,,,Abundance,se,1.4
+1242,,2009,8,ungrazed,5,aum/acre,0,Aves,,,,Abundance,mean,1.6
+1242,,2009,8,ungrazed,5,aum/acre,0,Aves,,,,Abundance,se,1.7

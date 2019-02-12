@@ -1,0 +1,33 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1722,Pallasjärvi,2004-2007,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,adjusted mean,19.1
+1722,Pallasjärvi,2004-2007,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,adjusted mean,17.7
+1722,Pallasjärvi,2004-2007,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,se,0.36
+1722,Pallasjärvi,2004-2007,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,se,0.38
+1722,Pallasjärvi,2004,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,mean,19.920
+1722,Pallasjärvi,2004,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,mean,17.990
+1722,Pallasjärvi,2005,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,mean,17.527
+1722,Pallasjärvi,2005,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,mean,16.711
+1722,Pallasjärvi,2006,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,mean,19.395
+1722,Pallasjärvi,2006,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,mean,19.073
+1722,Pallasjärvi,2007,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,mean,19.057
+1722,Pallasjärvi,2007,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,mean,17.221
+1722,Pallasjärvi,2004,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,se,0.848
+1722,Pallasjärvi,2004,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,se,1.452
+1722,Pallasjärvi,2005,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,se,0.981
+1722,Pallasjärvi,2005,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,se,0.902
+1722,Pallasjärvi,2006,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,se,0.227
+1722,Pallasjärvi,2006,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,se,0.855
+1722,Pallasjärvi,2007,36,ungrazed,18,indiv. km2,,mammalia,Myodes ,glareolus,,body mass,se,0.393
+1722,Pallasjärvi,2007,36,grazed,0,indiv. km3,,mammalia,Myodes ,glareolus,,body mass,se,0.424
+1722,Pallasjärvi,2004-2007,36,ungrazed,18,indiv. km2,,mammalia,shrew,,,abundance,mean,13.75
+1722,Pallasjärvi,2004-2007,36,grazed,0,indiv. km3,,mammalia,shrew,,,abundance,mean,8.63
+1722,Pallasjärvi,2004-2007,36,ungrazed,18,indiv. km2,,mammalia,shrew,,,abundance,se,2.6
+1722,Pallasjärvi,2004-2007,36,grazed,0,indiv. km3,,mammalia,shrew,,,abundance,se,2.6
+1722,Pallasjärvi,2005,3,ungrazed,18,indiv. km2,,plant,Vaccinium,myrtillus,,abundance,mean,80.037
+1722,Pallasjärvi,2005,3,grazed,0,indiv. km3,,plant,Vaccinium,myrtillus,,abundance,mean,66.139
+1722,Pallasjärvi,2005,3,ungrazed,18,indiv. km2,,plant,Vaccinium,myrtillus,,abundance,se,3.134
+1722,Pallasjärvi,2005,3,grazed,0,indiv. km3,,plant,Vaccinium,myrtillus,,abundance,se,3.109
+1722,Pallasjärvi,2005,3,ungrazed,18,indiv. km2,,plant,Vaccinium,myrtillus,,height,mean,29.568
+1722,Pallasjärvi,2005,3,grazed,0,indiv. km3,,plant,Vaccinium,myrtillus,,height,mean,21.442
+1722,Pallasjärvi,2005,3,ungrazed,18,indiv. km2,,plant,Vaccinium,myrtillus,,height,se,1.947
+1722,Pallasjärvi,2005,3,grazed,0,indiv. km3,,plant,Vaccinium,myrtillus,,height,se,1.947

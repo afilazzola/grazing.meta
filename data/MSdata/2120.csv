@@ -1,0 +1,99 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Theridion,impressum,,abundance,count,65
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Theridion,impressum,,abundance,count,106
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Xysticus,striatipes,,abundance,count,30
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Xysticus,striatipes,,abundance,count,65
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Mangora,acalypha,,abundance,count,28
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Mangora,acalypha,,abundance,count,215
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Argiope,bruennichi,,abundance,count,28
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Argiope,bruennichi,,abundance,count,446
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Neoscona ,adianta,,abundance,count,72
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Neoscona ,adianta,,abundance,count,810
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Evarcha ,arcuata,,abundance,count,0
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Evarcha ,arcuata,,abundance,count,33
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Tibellus ,oblongus,,abundance,count,0
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Tibellus ,oblongus,,abundance,count,49
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Dictyna ,arundinacea,,abundance,count,29
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Dictyna ,arundinacea,,abundance,count,284
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Misumena ,vatia,,abundance,count,5
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Misumena ,vatia,,abundance,count,56
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Thomisus ,onustus,,abundance,count,23
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Thomisus ,onustus,,abundance,count,412
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Philaeus ,chrysops,,abundance,count,1
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Philaeus ,chrysops,,abundance,count,141
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Heliophanus ,flavipes,,abundance,count,11
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Heliophanus ,flavipes,,abundance,count,86
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Xysticus ,sabulosus,,abundance,count,1
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Xysticus ,sabulosus,,abundance,count,58
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Oxyopes ,heterophthalmus,,abundance,count,0
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Oxyopes ,heterophthalmus,,abundance,count,106
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Xysticus ,cristatus,,abundance,count,0
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Xysticus ,cristatus,,abundance,count,28
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Agalenatea ,redii,,abundance,count,17
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Agalenatea ,redii,,abundance,count,225
+2120,,2001-2003,8,intensive,0,vegetation height,<10 cm,arthropoda,Xysticus ,ninnii,,abundance,count,0
+2120,,2001-2003,8,moderate,0,vegetation height,>10 cm,arthropoda,Xysticus ,ninnii,,abundance,count,19
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of total species,mean,5.552
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of total species,mean,17.337
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of total species,mean,8.952
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of total species,se,0.794
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of total species,se,6.119
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of total species,se,2.946
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,mean,25.156
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,mean,26.742
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,mean,29.802
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,mean,19.603
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,mean,27.989
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,se,0.113
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,se,11.332
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,se,8.272
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,se,4.08
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of total species,se,2.493
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetatioin dwelling species,mean,4.665
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetatioin dwelling species,mean,15.274
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetatioin dwelling species,mean,8.689
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetatioin dwelling species,se,1.463
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetatioin dwelling species,se,5.031
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetatioin dwelling species,se,2.744
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,mean,20.396
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,mean,21.677
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,mean,24.329
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,mean,16.463
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,mean,23.049
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,se,4.299
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,se,2.744
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,se,5.854
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,se,2.196
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetatioin dwelling species,se,0.914
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of species asscociated with sandy soils,mean,0.68
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of species asscociated with sandy soils,mean,2.011
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of species asscociated with sandy soils,mean,1.36
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of species asscociated with sandy soils,se,0.312
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of species asscociated with sandy soils,se,0.567
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of species asscociated with sandy soils,se,0.85
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,mean,2.663
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,mean,6.346
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,mean,8.074
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,mean,2.351
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,mean,8.045
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,se,0.651
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,se,0.34
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,se,0.963
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,se,0.652
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of species asscociated with sandy soils,se,0.539
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,mean,0.339
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,mean,1.672
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,mean,0.994
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,se,0.316
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,se,0.656
+2120,,2001-2003,400,intensive,0,vegetation height,<10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,se,0.543
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,mean,1.311
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,mean,3.322
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,mean,5.695
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,mean,2.011
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,mean,5.333
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,se,0.361
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,se,0.339
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,se,0.859
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,se,0.565
+2120,,2001-2003,400,moderate,0,vegetation height,>10 cm,arthropoda,,,,number of vegetation dwelling species asscociated with sandy soils,se,0.339

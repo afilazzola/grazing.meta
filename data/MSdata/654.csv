@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+654,HK,1998,5,grazed,,,,Barnacle,Tetraclita,squamosa,,number/10x10cm area,mean,13
+655,HK,1999,5,grazed,,,,Barnacle,Tetraclita,squamosa,,number/10x10cm area,sterror,4.3
+656,HK,2000,5,ungrazed,,,,Barnacle,Tetraclita,squamosa,,number/10x10cm area,mean,30
+657,HK,2001,5,ungrazed,,,,Barnacle,Tetraclita,squamosa,,number/10x10cm area,sterror,14.3
+658,HK,2002,5,grazed,,,,Barnacle,Tetraclita,japonica,,number/10x10cm area,mean,2.3
+659,HK,2003,5,grazed,,,,Barnacle,Tetraclita,japonica,,number/10x10cm area,sterror,1.8
+660,HK,2004,5,ungrazed,,,,Barnacle,Tetraclita,japonica,,number/10x10cm area,mean,3.3
+661,HK,2004,5,ungrazed,,,,Barnacle,Tetraclita,japonica,,number/10x10cm area,sterror,1

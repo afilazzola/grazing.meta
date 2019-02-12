@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+487,NewErringham,1995,12,grazed,0,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,numbers,mean,7.4
+487,NewErringham,1995,12,grazed,0,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,taxa,mean,3.3
+487,NewErringham,1995,12,grazed,0,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,numbers,sterror,1.1
+487,NewErringham,1995,12,grazed,0,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,taxa,sterror,0.5
+487,NewErringham,1995,12,ungrazed,1,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,numbers,mean,37.9
+487,NewErringham,1995,12,ungrazed,1,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,taxa,mean,11.3
+487,NewErringham,1995,12,ungrazed,1,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,numbers,sterror,3.2
+487,NewErringham,1995,12,ungrazed,1,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,taxa,sterror,0.8
+487,NewErringham,1996,14,grazed,0,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,numbers,mean,15.1
+487,NewErringham,1996,14,grazed,0,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,taxa,mean,5.3
+487,NewErringham,1996,14,grazed,0,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,numbers,sterror,1.4
+487,NewErringham,1996,14,grazed,0,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,taxa,sterror,0.5
+487,NewErringham,1996,14,ungrazed,1,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,numbers,mean,27.8
+487,NewErringham,1996,14,ungrazed,1,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,taxa,mean,9.4
+487,NewErringham,1996,14,ungrazed,1,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,numbers,sterror,3.3
+487,NewErringham,1996,14,ungrazed,1,,,"Invertebrates(Araneae, Coleoptera, Carabidae, Diptera, Hymenoptera)",,OTUs,,taxa,sterror,0.5

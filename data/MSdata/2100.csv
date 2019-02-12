@@ -1,0 +1,121 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2100,NP,1993,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,density/m2,count,2.6
+2100,NP,1993,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,density/m2,count,8.3
+2100,NP,1993,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,consumption/kg ha,count,37
+2100,NP,1993,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,consumption/kg ha,count,124.6
+2100,NP,1994,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,density/m2,count,1.4
+2100,NP,1994,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,density/m2,count,4.6
+2100,NP,1994,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,consumption/kg ha,count,21.9
+2100,NP,1994,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,consumption/kg ha,count,59.5
+2100,NP,1995,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,density/m2,count,3.3
+2100,NP,1995,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,density/m2,count,6.2
+2100,NP,1995,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,consumption/kg ha,count,55.8
+2100,NP,1995,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,consumption/kg ha,count,97
+2100,NP,1997,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,density/m2,count,2.1
+2100,NP,1997,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,density/m2,count,18.4
+2100,NP,1997,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,consumption/kg ha,count,32.6
+2100,NP,1997,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,consumption/kg ha,count,287.5
+2100,NP,1998,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,density/m2,count,5.6
+2100,NP,1998,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,density/m2,count,26.8
+2100,NP,1998,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,consumption/kg ha,count,83.6
+2100,NP,1998,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,consumption/kg ha,count,474.5
+2100,NP,1993,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,166.667
+2100,NP,1993,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,550
+2100,NP,1994,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,200
+2100,NP,1994,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,375
+2100,NP,1995,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,225
+2100,NP,1995,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,466.667
+2100,NP,1997,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,216.667
+2100,NP,1997,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,1258.333
+2100,NP,1998,4,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,350
+2100,NP,1998,4,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,2075
+2100,CW,1993,9,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,1408.333
+2100,CW,1993,9,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,1258.333
+2100,CW,1994,9,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,3191.667
+2100,CW,1994,9,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,2508.333
+2100,CW,1995,9,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,750
+2100,CW,1995,9,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,1570.833
+2100,CW,1997,9,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,1666.667
+2100,CW,1997,9,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,758.333
+2100,CW,1998,9,rotational,0,stocking rate,0.872 AUM,arthropoda,,,,grasshopper days for all species,count,2270.833
+2100,CW,1998,9,season-long,0,stocking rate,0.862 AUM,arthropoda,,,,grasshopper days for all species,count,2525
+2100,NP,1993,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,0.665
+2100,NP,1993,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,47.228
+2100,NP,1994,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,3.991
+2100,NP,1994,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,11.308
+2100,NP,1995,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,4.656
+2100,NP,1995,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,49.224
+2100,NP,1997,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,15.965
+2100,NP,1997,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,216.851
+2100,NP,1998,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,32.594
+2100,NP,1998,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,531.486
+2100,CW,1993,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,3.991
+2100,CW,1993,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,0
+2100,CW,1994,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,3.991
+2100,CW,1994,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,3.991
+2100,CW,1995,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,17.295
+2100,CW,1995,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,5.987
+2100,CW,1997,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,28.603
+2100,CW,1997,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,7.982
+2100,CW,1998,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,31.264
+2100,CW,1998,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Opeia,obscura,,grasshopper days,count,19.956
+2100,NP,1993,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,3.611
+2100,NP,1993,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,53.889
+2100,NP,1994,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,1.944
+2100,NP,1994,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,70
+2100,NP,1995,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,8.611
+2100,NP,1995,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,68.333
+2100,NP,1997,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,4.444
+2100,NP,1997,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,108.889
+2100,NP,1998,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,9.444
+2100,NP,1998,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,194.722
+2100,CW,1993,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,22.222
+2100,CW,1993,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,19.167
+2100,CW,1994,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,179.722
+2100,CW,1994,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,89.722
+2100,CW,1995,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,64.444
+2100,CW,1995,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,156.944
+2100,CW,1997,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,40
+2100,CW,1997,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,21.111
+2100,CW,1998,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,51.667
+2100,CW,1998,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,gladstoni,,grasshopper days,count,75.278
+2100,NP,1993,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,0
+2100,NP,1993,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,0
+2100,NP,1994,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,0.576
+2100,NP,1994,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,35.714
+2100,NP,1995,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,27.074
+2100,NP,1995,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,78.341
+2100,NP,1997,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,14.401
+2100,NP,1997,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,311.636
+2100,NP,1998,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,43.779
+2100,NP,1998,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,463.71
+2100,CW,1993,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,9.217
+2100,CW,1993,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,0
+2100,CW,1994,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,8.641
+2100,CW,1994,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,2.304
+2100,CW,1995,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,5.76
+2100,CW,1995,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,1.152
+2100,CW,1997,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,20.737
+2100,CW,1997,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,65.668
+2100,CW,1998,9,rotational,0,stocking rate,0.872 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,22.465
+2100,CW,1998,9,season-long,0,stocking rate,0.862 AUM,arthropoda,Encoptolophus,costalis,,grasshopper days,count,309.332
+2100,NP,1993,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.719
+2100,NP,1993,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.708
+2100,NP,1994,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.428
+2100,NP,1994,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.426
+2100,NP,1995,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.721
+2100,NP,1995,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.993
+2100,NP,1997,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.435
+2100,NP,1997,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.645
+2100,NP,1998,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.481
+2100,NP,1998,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,mean,0.715
+2100,NP,1993,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0.138
+2100,NP,1993,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0.355
+2100,NP,1994,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0.19
+2100,NP,1994,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0.053
+2100,NP,1995,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0
+2100,NP,1995,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0
+2100,NP,1997,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0.087
+2100,NP,1997,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0.371
+2100,NP,1998,4,rotational,0,stocking rate,0.872 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0.048
+2100,NP,1998,4,season-long,0,stocking rate,0.862 AUM,arthropoda,Melanoplus,sanguinipes,,stage-specific survival,sd,0.153

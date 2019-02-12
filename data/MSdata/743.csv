@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+743,horse,2002,8,grazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,mean,184.5
+743,horse,2002,8,grazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,stdev,122.2
+743,horse,2002,8,ungrazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,mean,404.3
+743,horse,2002,8,ungrazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,stdev,300.5
+743,cattle1,2002,8,grazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,mean,266.3
+743,cattle1,2002,8,grazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,stdev,180.6
+743,cattle1,2002,8,ungrazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,mean,589.8
+743,cattle1,2002,8,ungrazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,stdev,641.8
+743,cattle2,2002,8,grazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,mean,347.3
+743,cattle2,2002,8,grazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,stdev,172
+743,cattle2,2002,8,ungrazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,mean,533.5
+743,cattle2,2002,8,ungrazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,stdev,345.4
+743,donkey,2002,8,grazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,mean,312.5
+743,donkey,2002,8,grazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,stdev,99.9
+743,donkey,2002,8,ungrazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,mean,402.8
+743,donkey,2002,8,ungrazed,,Big Cattle Units (BCU),,Nematodes,,,,abundance/sample,stdev,267.7

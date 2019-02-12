@@ -1,0 +1,77 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1763,Alxa desert,2006 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,24.041
+1763,Alxa desert,2007 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,16.693
+1763,Alxa desert,2007 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,14.594
+1763,Alxa desert,2008 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,15.034
+1763,Alxa desert,2008 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,14.594
+1763,Alxa desert,2009 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,8.533
+1763,Alxa desert,2009 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,17.065
+1763,Alxa desert,2010 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,6.535
+1763,Alxa desert,2010 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,9.515
+1763,Alxa desert,2011 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,10.056
+1763,Alxa desert,2011 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,13.544
+1763,Alxa desert,2006 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,6.027
+1763,Alxa desert,2007 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,5.553
+1763,Alxa desert,2007 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,7.314
+1763,Alxa desert,2008 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,6.027
+1763,Alxa desert,2008 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,13.781
+1763,Alxa desert,2009 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,5.282
+1763,Alxa desert,2009 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,10.564
+1763,Alxa desert,2010 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,4.300
+1763,Alxa desert,2010 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,9.549
+1763,Alxa desert,2011 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,8.059
+1763,Alxa desert,2011 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,mean,8.804
+1763,Alxa desert,2006-2011,60,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,pre-hibernation abundance across years,mean,9.403
+1763,Alxa desert,2006-2011,60,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,pre-hibernation abundance across years,mean,4.672
+1763,Alxa desert,2006-2011,60,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,post-hibernation abundance across years,mean,7.334
+1763,Alxa desert,2006-2011,60,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,post-hibernation abundance across years,mean,2.894
+1763,Alxa desert,2006-2011,51,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,body mass g,mean,76.497
+1763,Alxa desert,2006-2011,51,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,body mass g,mean,73.222
+1763,Alxa desert,2006-2011,94,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,proportional body mass growth rate,mean,0.083
+1763,Alxa desert,2006-2011,94,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,proportional body mass growth rate,mean,0.024
+1763,Alxa desert,2006-2011,30,ungrazed,4,sheep per ha,3.75 - 4.23,plant,,,,total food pre-hibernation ,mean,6.855
+1763,Alxa desert,2006-2011,30,grazed,0,sheep per ha,3.75 - 4.23,plant,,,,total food pre-hibernation ,mean,2.223
+1763,Alxa desert,2006-2011,30,ungrazed,4,sheep per ha,3.75 - 4.23,plant,,,,preferred food pre-hibernation,mean,2.786
+1763,Alxa desert,2006-2011,30,grazed,0,sheep per ha,3.75 - 4.23,plant,,,,preferred food pre-hibernation,mean,2.099
+1763,Alxa desert,2006-2011,30,ungrazed,4,sheep per ha,3.75 - 4.23,plant,,,,total food post-hibernation ,mean,5.861
+1763,Alxa desert,2006-2011,30,grazed,0,sheep per ha,3.75 - 4.23,plant,,,,total food post-hibernation ,mean,1.738
+1763,Alxa desert,2006-2011,30,ungrazed,4,sheep per ha,3.75 - 4.23,plant,,,,preferred food post-hibernation,mean,1.738
+1763,Alxa desert,2006-2011,30,grazed,0,sheep per ha,3.75 - 4.23,plant,,,,preferred food post-hibernation,mean,1.352
+1763,Alxa desert,2006 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,0.953
+1763,Alxa desert,2007 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,3.295
+1763,Alxa desert,2007 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,9.392
+1763,Alxa desert,2008 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,6.310
+1763,Alxa desert,2008 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,10.400
+1763,Alxa desert,2009 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,3.112
+1763,Alxa desert,2009 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,0.907
+1763,Alxa desert,2010 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,0.417
+1763,Alxa desert,2010 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,0.462
+1763,Alxa desert,2011 Apr,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,0.964
+1763,Alxa desert,2011 Sep,66,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,0.465
+1763,Alxa desert,2006 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,3.463
+1763,Alxa desert,2007 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,2.720
+1763,Alxa desert,2007 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,4.088
+1763,Alxa desert,2008 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,2.107
+1763,Alxa desert,2008 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,2.592
+1763,Alxa desert,2009 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,1.080
+1763,Alxa desert,2009 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,3.341
+1763,Alxa desert,2010 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,1.471
+1763,Alxa desert,2010 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,2.687
+1763,Alxa desert,2011 Apr,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,4.004
+1763,Alxa desert,2011 Sep,66,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,abundance,se,4.162
+1763,Alxa desert,2006-2011,60,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,pre-hibernation abundance across years,se,1.455
+1763,Alxa desert,2006-2011,60,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,pre-hibernation abundance across years,se,1.264
+1763,Alxa desert,2006-2011,60,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,post-hibernation abundance across years,se,1.251
+1763,Alxa desert,2006-2011,60,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,post-hibernation abundance across years,se,1.057
+1763,Alxa desert,2006-2011,51,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,body mass g,se,1.747
+1763,Alxa desert,2006-2011,51,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,body mass g,se,2.111
+1763,Alxa desert,2006-2011,94,ungrazed,4,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,proportional body mass growth rate,se,0.036
+1763,Alxa desert,2006-2011,94,grazed,0,sheep per ha,3.75 - 4.23,Mammalia,Dipus,sagitta,native,proportional body mass growth rate,se,0.035
+1763,Alxa desert,2006-2011,30,ungrazed,4,sheep per ha,3.75 - 4.23,plant,,,,total food pre-hibernation ,se,5.822
+1763,Alxa desert,2006-2011,30,grazed,0,sheep per ha,3.75 - 4.23,plant,,,,total food pre-hibernation ,se,1.850
+1763,Alxa desert,2006-2011,30,ungrazed,4,sheep per ha,3.75 - 4.23,plant,,,,preferred food pre-hibernation,se,0.383
+1763,Alxa desert,2006-2011,30,grazed,0,sheep per ha,3.75 - 4.23,plant,,,,preferred food pre-hibernation,se,0.262
+1763,Alxa desert,2006-2011,30,ungrazed,4,sheep per ha,3.75 - 4.23,plant,,,,total food post-hibernation ,se,2.495
+1763,Alxa desert,2006-2011,30,grazed,0,sheep per ha,3.75 - 4.23,plant,,,,total food post-hibernation ,se,0.745
+1763,Alxa desert,2006-2011,30,ungrazed,4,sheep per ha,3.75 - 4.23,plant,,,,preferred food post-hibernation,se,0.745
+1763,Alxa desert,2006-2011,30,grazed,0,sheep per ha,3.75 - 4.23,plant,,,,preferred food post-hibernation,se,0.443

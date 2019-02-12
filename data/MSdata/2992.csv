@@ -1,0 +1,9 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value,Functional group,Unit
+2989,grazed,2006-2008,24,grazed,0,1.2,AUM/ha,aves,Pooecetes,gramineus,native,nestling condition,mean,-0.0328,NA,NA
+2989,grazed,2006-2008,24,grazed,0,1.2,AUM/ha,aves,Pooecetes,gramineus,native,nestling condition,se,0.98791,NA,NA
+2989,grazed,2006-2008,26,grazed,0,1.2,AUM/ha,aves,Pooecetes,gramineus,native,daily nest survival,mean,0.956,NA,NA
+2989,grazed,2006-2008,26,grazed,0,1.2,AUM/ha,aves,Pooecetes,gramineus,native,daily nest survival,se,0.013,NA,NA
+2989,ungrazed,2006-2008,24,ungrazed,15-30,0,AUM/ha,aves,Pooecetes,gramineus,native,nestling condition,mean,0.1496,NA,NA
+2989,ungrazed,2006-2008,24,ungrazed,15-30,0,AUM/ha,aves,Pooecetes,gramineus,native,nestling condition,se,0.8783,NA,NA
+2989,ungrazed,2006-2008,18,ungrazed,15-30,0,AUM/ha,aves,Pooecetes,gramineus,native,daily nest survival,mean,0.98,NA,NA
+2989,ungrazed,2006-2008,18,ungrazed,15-30,0,AUM/ha,aves,Pooecetes,gramineus,native,daily nest survival,se,0.0126,NA,NA

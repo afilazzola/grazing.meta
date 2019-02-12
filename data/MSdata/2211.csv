@@ -1,0 +1,49 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2211,MC,2002,3,,,stocking rate (standard livestock unit/day/ha),2.59,Arthropoda,,,,Species # grasshoppers,Mean,2
+2211,LC,2002,3,,,stocking rate (standard livestock unit/day/ha),1.37,Arthropoda,,,,Species # grasshoppers,Mean,3.5
+2211,MC,2003,3,,,stocking rate (standard livestock unit/day/ha),1.55,Arthropoda,,,,Species # grasshoppers,Mean,3
+2211,LC,2003,3,,,stocking rate (standard livestock unit/day/ha),0.62,Arthropoda,,,,Species # grasshoppers,Mean,3.7
+2211,MC,2004,3,,,stocking rate (standard livestock unit/day/ha),2.48,Arthropoda,,,,Species # grasshoppers,Mean,1.8
+2211,LC,2004,3,,,stocking rate (standard livestock unit/day/ha),1.4,Arthropoda,,,,Species # grasshoppers,Mean,3.1
+2211,MC,2010,3,,,stocking rate (standard livestock unit/day/ha),1.73,Arthropoda,,,,Species # grasshoppers,Mean,2
+2211,LC,2010,3,,,stocking rate (standard livestock unit/day/ha),1.26,Arthropoda,,,,Species # grasshoppers,Mean,4.5
+2211,VLC,2010,3,,,stocking rate (standard livestock unit/day/ha),0.7,Arthropoda,,,,Species # grasshoppers,Mean,4.3
+2211,MC,2011,3,,,stocking rate (standard livestock unit/day/ha),2.05,Arthropoda,,,,Species # grasshoppers,Mean,2.5
+2211,LC,2011,3,,,stocking rate (standard livestock unit/day/ha),1.07,Arthropoda,,,,Species # grasshoppers,Mean,4.7
+2211,VLC,2011,3,,,stocking rate (standard livestock unit/day/ha),0.76,Arthropoda,,,,Species # grasshoppers,Mean,4.9
+2211,MC,2002,3,,,stocking rate (standard livestock unit/day/ha),2.59,Arthropoda,,,,Species # butterflies,Mean,4.1
+2211,LC,2002,3,,,stocking rate (standard livestock unit/day/ha),1.37,Arthropoda,,,,Species # butterflies,Mean,4
+2211,MC,2003,3,,,stocking rate (standard livestock unit/day/ha),1.55,Arthropoda,,,,Species # butterflies,Mean,4.2
+2211,LC,2003,3,,,stocking rate (standard livestock unit/day/ha),0.62,Arthropoda,,,,Species # butterflies,Mean,5.1
+2211,MC,2004,3,,,stocking rate (standard livestock unit/day/ha),2.48,Arthropoda,,,,Species # butterflies,Mean,2.4
+2211,LC,2004,3,,,stocking rate (standard livestock unit/day/ha),1.4,Arthropoda,,,,Species # butterflies,Mean,3
+2211,MC,2010,3,,,stocking rate (standard livestock unit/day/ha),1.73,Arthropoda,,,,Species # butterflies,Mean,5.1
+2211,LC,2010,3,,,stocking rate (standard livestock unit/day/ha),1.26,Arthropoda,,,,Species # butterflies,Mean,7.9
+2211,VLC,2010,3,,,stocking rate (standard livestock unit/day/ha),0.7,Arthropoda,,,,Species # butterflies,Mean,7.6
+2211,MC,2011,3,,,stocking rate (standard livestock unit/day/ha),2.05,Arthropoda,,,,Species # butterflies,Mean,2.7
+2211,LC,2011,3,,,stocking rate (standard livestock unit/day/ha),1.07,Arthropoda,,,,Species # butterflies,Mean,6
+2211,VLC,2011,3,,,stocking rate (standard livestock unit/day/ha),0.76,Arthropoda,,,,Species # butterflies,Mean,4.3
+2211,MC,2002,3,,,stocking rate (standard livestock unit/day/ha),2.59,Arthropoda,,,,Abundance grasshopper ,Mean,8
+2211,LC,2002,3,,,stocking rate (standard livestock unit/day/ha),1.37,Arthropoda,,,,Abundance grasshopper ,Mean,25
+2211,MC,2003,3,,,stocking rate (standard livestock unit/day/ha),1.55,Arthropoda,,,,Abundance grasshopper ,Mean,11
+2211,LC,2003,3,,,stocking rate (standard livestock unit/day/ha),0.62,Arthropoda,,,,Abundance grasshopper ,Mean,30
+2211,MC,2004,3,,,stocking rate (standard livestock unit/day/ha),2.48,Arthropoda,,,,Abundance grasshopper ,Mean,5
+2211,LC,2004,3,,,stocking rate (standard livestock unit/day/ha),1.4,Arthropoda,,,,Abundance grasshopper ,Mean,28
+2211,MC,2010,3,,,stocking rate (standard livestock unit/day/ha),1.73,Arthropoda,,,,Abundance grasshopper ,Mean,12
+2211,LC,2010,3,,,stocking rate (standard livestock unit/day/ha),1.26,Arthropoda,,,,Abundance grasshopper ,Mean,45
+2211,VLC,2010,3,,,stocking rate (standard livestock unit/day/ha),0.7,Arthropoda,,,,Abundance grasshopper ,Mean,44
+2211,MC,2011,3,,,stocking rate (standard livestock unit/day/ha),2.05,Arthropoda,,,,Abundance grasshopper ,Mean,19
+2211,LC,2011,3,,,stocking rate (standard livestock unit/day/ha),1.07,Arthropoda,,,,Abundance grasshopper ,Mean,72
+2211,VLC,2011,3,,,stocking rate (standard livestock unit/day/ha),0.76,Arthropoda,,,,Abundance grasshopper ,Mean,71
+2211,MC,2002,3,,,stocking rate (standard livestock unit/day/ha),2.59,Arthropoda,,,,Abundance butterflies,Mean,34
+2211,LC,2002,3,,,stocking rate (standard livestock unit/day/ha),1.37,Arthropoda,,,,Abundance butterflies,Mean,33
+2211,MC,2003,3,,,stocking rate (standard livestock unit/day/ha),1.55,Arthropoda,,,,Abundance butterflies,Mean,21
+2211,LC,2003,3,,,stocking rate (standard livestock unit/day/ha),0.62,Arthropoda,,,,Abundance butterflies,Mean,22
+2211,MC,2004,3,,,stocking rate (standard livestock unit/day/ha),2.48,Arthropoda,,,,Abundance butterflies,Mean,7
+2211,LC,2004,3,,,stocking rate (standard livestock unit/day/ha),1.4,Arthropoda,,,,Abundance butterflies,Mean,15
+2211,MC,2010,3,,,stocking rate (standard livestock unit/day/ha),1.73,Arthropoda,,,,Abundance butterflies,Mean,20
+2211,LC,2010,3,,,stocking rate (standard livestock unit/day/ha),1.26,Arthropoda,,,,Abundance butterflies,Mean,31
+2211,VLC,2010,3,,,stocking rate (standard livestock unit/day/ha),0.7,Arthropoda,,,,Abundance butterflies,Mean,34
+2211,MC,2011,3,,,stocking rate (standard livestock unit/day/ha),2.05,Arthropoda,,,,Abundance butterflies,Mean,8
+2211,LC,2011,3,,,stocking rate (standard livestock unit/day/ha),1.07,Arthropoda,,,,Abundance butterflies,Mean,18
+2211,VLC,2011,3,,,stocking rate (standard livestock unit/day/ha),0.76,Arthropoda,,,,Abundance butterflies,Mean,16

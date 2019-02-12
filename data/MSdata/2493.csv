@@ -1,0 +1,73 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2493,1,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,722.0336084
+2493,2,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,479.232052
+2493,3,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,414.401163
+2493,4,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,310.1381109
+2493,5,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,528.875016
+2493,6,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,213.5459871
+2493,7,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,333.3817933
+2493,8,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,446.6241929
+2493,9,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,480.797024
+2493,1,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,263.761919
+2493,2,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,59.34065934
+2493,3,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,72.57878308
+2493,4,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,65.88275538
+2493,5,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,65.8571001
+2493,6,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,79.22350024
+2493,7,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,39.53478428
+2493,8,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,79.12087912
+2493,9,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,46.20515671
+2493,1,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,609.9970069
+2493,2,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,406.6532689
+2493,3,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,480.3608843
+2493,4,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,382.6142729
+2493,5,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,482.6698593
+2493,6,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,259.674178
+2493,7,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,379.5099842
+2493,8,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,473.0491299
+2493,9,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Mean,645.555223
+2493,1,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,105.5714713
+2493,2,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,65.88275538
+2493,3,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,65.90841066
+2493,4,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,59.31500406
+2493,5,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,79.19784496
+2493,6,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,72.52747253
+2493,7,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,72.50181725
+2493,8,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,45.99991448
+2493,9,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical N (mg N/kgSOM),Standard error,171.479882
+2493,1,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.067747916
+2493,2,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.035118473
+2493,3,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.049657013
+2493,4,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.054295378
+2493,5,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.047602018
+2493,6,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.035730949
+2493,7,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.051686412
+2493,8,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.046887158
+2493,9,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.055295451
+2493,1,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.008960436
+2493,2,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.005192336
+2493,3,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.005662206
+2493,4,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.005190508
+2493,5,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.004247111
+2493,6,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.004720638
+2493,7,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.005188679
+2493,8,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.003301887
+2493,9,2011,8,grazed,,grazing intensity score (oral interviews),light,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.010384672
+2493,1,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.086144142
+2493,2,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.051154381
+2493,3,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.059562674
+2493,4,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.050050095
+2493,5,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.059869826
+2493,6,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.039976232
+2493,7,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.057343133
+2493,8,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.050189045
+2493,9,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Mean,0.052931476
+2493,1,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.008496051
+2493,2,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.011313442
+2493,3,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.013690215
+2493,4,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.012735849
+2493,5,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.016030423
+2493,6,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.005186851
+2493,7,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.007080957
+2493,8,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.010370045
+2493,9,2011,8,grazed,,grazing intensity score (oral interviews),heavy,Soil microbes,,,,Microbical respiration (mg CO2/g/hSOM),Standard error,0.006130247

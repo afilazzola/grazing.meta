@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+523,GlenFinglas,2003,6,grazed,0,ewes/ha,2.72,Bird,Anthus,pratensis,,clutch size,mean,4.25
+523,GlenFinglas,2003,6,grazed,0,ewes/ha,0.91,Bird,Anthus,pratensis,,clutch size,mean,3.86
+523,GlenFinglas,2003,6,grazed,0,ewes/ha,0.61,Bird,Anthus,pratensis,,clutch size,mean,4.27
+523,GlenFinglas,2003,6,ungrazed,1,ewes/ha,0,Bird,Anthus,pratensis,,clutch size,mean,3.93
+523,GlenFinglas,2003,6,grazed,0,ewes/ha,2.72,Bird,Anthus,pratensis,,clutch size,sterror,0.14
+523,GlenFinglas,2003,6,grazed,0,ewes/ha,0.91,Bird,Anthus,pratensis,,clutch size,sterror,0.34
+523,GlenFinglas,2003,6,grazed,0,ewes/ha,0.61,Bird,Anthus,pratensis,,clutch size,sterror,0.14
+523,GlenFinglas,2003,6,ungrazed,1,ewes/ha,0,Bird,Anthus,pratensis,,clutch size,sterror,0.15

@@ -1,0 +1,25 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+883,,2004,,grazed,,,,Insect,Gomphocerinae,,,Count,mean,3.65
+883,,2004,,grazed,,,,Insect,Gomphocerinae,,,Count,se,1.21
+883,,2004,,ungrazed,,,,Insect,Gomphocerinae,,,Count,mean,5.01
+883,,2004,,ungrazed,,,,Insect,Gomphocerinae,,,Count,se,1.26
+883,,2004,,grazed,,,,Insect,Melanoplinae,,,Count,mean,7.57
+883,,2004,,grazed,,,,Insect,Melanoplinae,,,Count,se,1.58
+883,,2004,,ungrazed,,,,Insect,Melanoplinae,,,Count,mean,6.9
+883,,2004,,ungrazed,,,,Insect,Melanoplinae,,,Count,se,1.07
+883,,2004,,grazed,,,,Insect,Odeipodinae,,,Count,mean,1.89
+883,,2004,,grazed,,,,Insect,Odeipodinae,,,Count,se,0.41
+883,,2004,,ungrazed,,,,Insect,Odeipodinae,,,Count,mean,1.13
+883,,2004,,ungrazed,,,,Insect,Odeipodinae,,,Count,se,0.22
+883,,2004,,grazed,,,,Plants,,,,Height (cm),mean,15.49
+883,,2004,,grazed,,,,Plants,,,,Height (cm),se,1.83
+883,,2004,,ungrazed,,,,Plants,,,,Height (cm),mean,25.19
+883,,2004,,ungrazed,,,,Plants,,,,Height (cm),se,1.89
+883,,2004,,grazed,,,,Plants,Poaceae,,,Canopy %Cover,mean,76.31
+883,,2004,,grazed,,,,Plants,poaceae,,,,se,2.85
+883,,2004,,ungrazed,,,,Plants,Poaceae,,,Canopy %Cover,mean,81.23
+883,,2004,,ungrazed,,,,Plants,poaceae,,,,se,2.28
+883,,2004,,grazed,,,,Plants,Forbs,,,Canopy %Cover,mean,7.73
+883,,2004,,grazed,,,,Plants,Forbs,,,,se,1.56
+883,,2004,,ungrazed,,,,Plants,Forbs,,,Canopy %Cover,mean,13.13
+883,,2004,,ungrazed,,,,Plants,Forbs,,,,se,2.09

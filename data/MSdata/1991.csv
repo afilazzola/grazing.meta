@@ -1,0 +1,25 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1991,1,2000,23,currently grazed,0,,,Lepidoptera,,,,richness declining species,mean,3.304
+1991,2,2000,10,abandoned 1-9 years ago,1-9 years,,,Lepidoptera,,,,richness declining species,mean,5.4
+1991,3,2000,15,abandoned >10 years ago,>10,,,Lepidoptera,,,,richness declining species,mean,4.6
+1991,1,2000,23,currently grazed,0,,,Lepidoptera,,,,richness declining species,se,0.394
+1991,2,2000,10,abandoned 1-9 years ago,1-9 years,,,Lepidoptera,,,,richness declining species,se,0.7
+1991,3,2000,15,abandoned >10 years ago,>10,,,Lepidoptera,,,,richness declining species,se,0.434
+1991,1,2000,23,currently grazed,0,,,Lepidoptera,,,,richness non-declining species,mean,14.869
+1991,2,2000,10,abandoned 1-9 years ago,1-9 years,,,Lepidoptera,,,,richness non-declining species,mean,22.6
+1991,3,2000,15,abandoned >10 years ago,>10,,,Lepidoptera,,,,richness non-declining species,mean,19.4
+1991,1,2000,23,currently grazed,0,,,Lepidoptera,,,,richness non-declining species,se,1.06
+1991,2,2000,10,abandoned 1-9 years ago,1-9 years,,,Lepidoptera,,,,richness non-declining species,se,0.561
+1991,3,2000,15,abandoned >10 years ago,>10,,,Lepidoptera,,,,richness non-declining species,se,0.809
+1991,1,2000,23,currently grazed,0,,,Lepidoptera,,,,density declining species,mean,13.391
+1991,2,2000,10,abandoned 1-9 years ago,1-9 years,,,Lepidoptera,,,,density declining species,mean,30.8
+1991,3,2000,15,abandoned >10 years ago,>10,,,Lepidoptera,,,,density declining species,mean,25.2
+1991,1,2000,23,currently grazed,0,,,Lepidoptera,,,,density declining species,se,2.469
+1991,2,2000,10,abandoned 1-9 years ago,1-9 years,,,Lepidoptera,,,,density declining species,se,10.51
+1991,3,2000,15,abandoned >10 years ago,>10,,,Lepidoptera,,,,density declining species,se,4.687
+1991,1,2000,23,currently grazed,0,,,Lepidoptera,,,,density non-declining species,mean,172.13
+1991,2,2000,10,abandoned 1-9 years ago,1-9 years,,,Lepidoptera,,,,density non-declining species,mean,404.9
+1991,3,2000,15,abandoned >10 years ago,>10,,,Lepidoptera,,,,density non-declining species,mean,369.133
+1991,1,2000,23,currently grazed,0,,,Lepidoptera,,,,density non-declining species,se,27.287
+1991,2,2000,10,abandoned 1-9 years ago,1-9 years,,,Lepidoptera,,,,density non-declining species,se,40.022
+1991,3,2000,15,abandoned >10 years ago,>10,,,Lepidoptera,,,,density non-declining species,se,55.656

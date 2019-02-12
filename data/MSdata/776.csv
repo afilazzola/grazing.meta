@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+776,konzatick,1995,13,grazed,0,bison/ha,0.22,Arthropod,Amblyomma ,americanum,,larvae/1 km transect,mean,170.8
+776,konzatick,1995,13,grazed,0,bison/ha,0.22,Arthropod,Amblyomma ,americanum,,larvae/1 km transect,stdev,283.8
+776,konzatick,1995,11,ungrazed,14,bison/ha,0,Arthropod,Amblyomma ,americanum,,larvae/1 km transect,mean,243.5
+776,konzatick,1995,11,ungrazed,14,bison/ha,0,Arthropod,Amblyomma ,americanum,,larvae/1 km transect,stdev,466.2
+776,konzatick,1995,13,grazed,0,bison/ha,0.22,Arthropod,Amblyomma ,americanum,,nymphs/1 km transect,mean,5.9
+776,konzatick,1995,13,grazed,0,bison/ha,0.22,Arthropod,Amblyomma ,americanum,,nymphs/1 km transect,stdev,6.4
+776,konzatick,1995,11,ungrazed,14,bison/ha,0,Arthropod,Amblyomma ,americanum,,nymphs/1 km transect,mean,1.5
+776,konzatick,1995,11,ungrazed,14,bison/ha,0,Arthropod,Amblyomma ,americanum,,nymphs/1 km transect,stdev,2.8
+776,konzatick,1995,13,grazed,0,bison/ha,0.22,Arthropod,Amblyomma ,americanum,,adults/1 km transect,mean,2.2
+776,konzatick,1995,13,grazed,0,bison/ha,0.22,Arthropod,Amblyomma ,americanum,,adults/1 km transect,stdev,2.2
+776,konzatick,1995,11,ungrazed,14,bison/ha,0,Arthropod,Amblyomma ,americanum,,adults/1 km transect,mean,1.2
+776,konzatick,1995,11,ungrazed,14,bison/ha,0,Arthropod,Amblyomma ,americanum,,adults/1 km transect,stdev,2

@@ -1,0 +1,47 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value,,
+1783,,2015,3,heavy,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,2.797,Bar0,2.797
+1783,,2015,3,moderate,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,10.021,Bar1,10.021
+1783,,2015,3,no grazing,20,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,1.199,Bar2,1.199
+1783,,2015,3,heavy,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,se,1.055,Bar3,3.852
+1783,,2015,3,moderate,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,se,2.397,Bar4,12.418
+1783,,2015,3,no grazing,20,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,number of nests,se,0.271,Bar5,1.47
+1783,,2014,3,heavy,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,23.352,Bar0,23.352
+1783,,2014,3,moderate,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,32.032,Bar1,32.032
+1783,,2014,3,no grazing,20,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,13.949,Bar2,13.949
+1783,,2014,3,heavy,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,7.75,Bar3,31.102
+1783,,2014,3,moderate,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,8.99,Bar4,41.022
+1783,,2014,3,no grazing,20,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,1.55,Bar5,15.499
+1783,,2015,3,heavy,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,77.29,Bar6,77.29
+1783,,2015,3,moderate,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,36.165,Bar7,36.165
+1783,,2015,3,no grazing,20,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,5.89,Bar8,5.89
+1783,,2015,3,heavy,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,7.544,Bar9,84.834
+1783,,2015,3,moderate,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,4.96,Bar10,41.125
+1783,,2015,3,no grazing,20,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,1.55,Bar11,7.44
+1783,heavy intensity,2014,5,grazing ,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,2.028,Bar0,2.028
+1783,heavy intensity,2014,5,no grazing,10,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,0.472,Bar1,0.472
+1783,heavy intensity,2014,5,grazing ,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,se,0.555,Bar2,2.583
+1783,heavy intensity,2014,5,no grazing,10,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,se,0.306,Bar3,0.778
+1783,heavy intensity,2015,5,grazing ,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,8.5,Bar4,8.5
+1783,heavy intensity,2015,5,no grazing,10,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,2.5,Bar5,2.5
+1783,heavy intensity,2015,5,grazing ,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,se,1.833,Bar6,10.333
+1783,heavy intensity,2015,5,no grazing,10,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of nests,se,0.389,Bar7,2.889
+1783,moderate intensity,2014,5,grazing ,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,7.111,Bar8,7.111
+1783,moderate intensity,2014,5,no grazing,10,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,1.806,Bar9,1.806
+1783,moderate intensity,2014,5,grazing ,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,se,1.028,Bar10,8.139
+1783,moderate intensity,2014,5,no grazing,10,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,se,0.583,Bar11,2.389
+1783,moderate intensity,2015,5,grazing ,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,14.139,Bar12,14.139
+1783,moderate intensity,2015,5,no grazing,10,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,mean,6.111,Bar13,6.111
+1783,moderate intensity,2015,5,grazing ,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,se,2.111,Bar14,16.25
+1783,moderate intensity,2015,5,no grazing,10,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of nests,se,0.972,Bar15,7.083
+1783,heavy intensity,2015,3,grazing ,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,2.762,Bar0,2.762
+1783,heavy intensity,2015,3,no grazing,10,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,1.457,Bar1,1.457
+1783,heavy intensity,2015,3,grazing ,0,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,0.366,Bar2,3.128
+1783,heavy intensity,2015,3,no grazing,10,cattle per ha,1.1,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,0.256,Bar3,1.713
+1783,moderate intensity,2015,3,grazing ,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,3.018,Bar4,3.018
+1783,moderate intensity,2015,3,no grazing,10,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,mean,1.53,Bar5,1.53
+1783,moderate intensity,2015,3,grazing ,0,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,0.275,Bar6,3.293
+1783,moderate intensity,2015,3,no grazing,10,cattle per ha,0.55,Arthropoda,Ocnogyna,loewii,native,number of solitary caterpillars,se,0.281,Bar7,1.811
+1783,,2015,10,grazing ,0,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,growth rate,mean,0.118,,
+1783,,2015,10,no grazing,10,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,growth rate,mean,0.105,,
+1783,,2015,10,grazing ,0,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,growth rate,se,0.008,,
+1783,,2015,10,no grazing,10,cattle per ha,,Arthropoda,Ocnogyna,loewii,native,growth rate,se,0.006,,

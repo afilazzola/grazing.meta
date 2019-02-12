@@ -1,0 +1,37 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+892,,Early June 2006,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,13.03
+892,,Early June 2006,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,5.67
+892,,Early June 2006,4,ungrazed,1,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,8.13
+892,,Early June 2006,4,ungrazed,1,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,4.25
+892,,Late June 2006,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,4.87
+892,,Late June 2006,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,3.58
+892,,Late June 2006,4,ungrazed,1,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,7.05
+892,,Late June 2006,4,ungrazed,1,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,3.84
+892,,Jul-06,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,1.55
+892,,Jul-06,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,0.77
+892,,Jul-06,4,ungrazed,1,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,0.97
+892,,Jul-06,4,ungrazed,1,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,0.19
+892,,Early june 2007,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,13.77
+892,,Early june 2007,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,4.74
+892,,Early june 2007,4,ungrazed,2,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,7.22
+892,,Early june 2007,4,ungrazed,2,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,1.8
+892,,late june 2007,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,6.91
+892,,late june 2007,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,2.45
+892,,late june 2007,4,ungrazed,2,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,24.9
+892,,late june 2007,4,ungrazed,2,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,7.64
+892,,Jul-07,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,2.24
+892,,Jul-07,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,1.12
+892,,Jul-07,4,ungrazed,2,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,8.97
+892,,Jul-07,4,ungrazed,2,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,4.26
+892,,Early june 2007,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,3538.46
+892,,Early june 2007,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,1115.38
+892,,Early june 2007,4,ungrazed,2,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,2038.46
+892,,Early june 2007,4,ungrazed,2,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,692.3
+892,,late june 2007,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,5999.99
+892,,late june 2007,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,1230.77
+892,,late june 2007,4,ungrazed,2,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,5461.53
+892,,late june 2007,4,ungrazed,2,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,461.54
+892,,Jul-07,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,3083.33
+892,,Jul-07,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,916.67
+892,,Jul-07,4,ungrazed,2,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,2708.33
+892,,Jul-07,4,ungrazed,2,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,1500

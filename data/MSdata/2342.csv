@@ -1,0 +1,16 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2342,Moderatesummer,2007,3,grazed,,stocking rate (AUM/ha),0.6,Plants,,,,Height (cm),Mean,7.369649805
+2342,Intensivesummer,2007,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,5.26848249
+2342,Intensivespring,2007,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,4.754863813
+2342,Moderatesummer,2008,3,grazed,,stocking rate (AUM/ha),0.6,Plants,,,,Height (cm),Mean,7.182879377
+2342,Intensivesummer,2008,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,5.782101167
+2342,Intensivespring,2008,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,4.428015564
+2342,Moderatesummer,2009,3,grazed,,stocking rate (AUM/ha),0.6,Plants,,,,Height (cm),Mean,5.875486381
+2342,Intensivesummer,2009,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,4.754863813
+2342,Intensivespring,2009,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,4.894941634
+2342,Moderatesummer,2010,3,grazed,,stocking rate (AUM/ha),0.6,Plants,,,,Height (cm),Mean,11.85214008
+2342,Intensivesummer,2010,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,11.43190661
+2342,Intensivespring,2010,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,9.704280156
+2342,Moderatesummer,2007-2010,3,grazed,,stocking rate (AUM/ha),0.6,Plants,,,,Height (cm),Mean,7.976653696
+2342,Intensivesummer,2007-2011,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,6.856031128
+2342,Intensivespring,2007-2012,2,grazed,,stocking rate (AUM/ha),1.2,Plants,,,,Height (cm),Mean,5.922178988

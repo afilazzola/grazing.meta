@@ -1,0 +1,9 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2362,Fallow,2010,15,0,27 (1983),Categorical intensity estimate,None,Soil microbes,,,,Soil respiration (ul CO2 g/DW hour),Standard error,1.755102041
+2362,Fallow,2010,15,0,28 (1983),Categorical intensity estimate,None,Soil microbes,,,,Soil respiration (ul CO2 g/DW hour),Mean,3.183673469
+2362,Pasture,2010,15,1,,Categorical intensity estimate,Intense,Soil microbes,,,,Soil respiration (ul CO2 g/DW hour),Standard error,0.183673469
+2362,Pasture,2010,15,1,,Categorical intensity estimate,Intense,Soil microbes,,,,Soil respiration (ul CO2 g/DW hour),Mean,2.551020408
+2362,Fallow,2010,15,0,27 (1983),Categorical intensity estimate,None,Soil microbes,,,,Microbial biomass (ug biomass-C / g DW),Standard error,561.7834395
+2362,Fallow,2010,15,0,28 (1983),Categorical intensity estimate,None,Soil microbes,,,,Microbial biomass (ug biomass-C / g DW),Mean,1456.050955
+2362,Pasture,2010,15,1,,Categorical intensity estimate,Intense,Soil microbes,,,,Microbial biomass (ug biomass-C / g DW),Standard error,137.5796178
+2362,Pasture,2010,15,1,,Categorical intensity estimate,Intense,Soil microbes,,,,Microbial biomass (ug biomass-C / g DW),Mean,1347.133758

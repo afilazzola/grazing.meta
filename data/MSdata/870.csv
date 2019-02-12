@@ -1,0 +1,95 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+870,,2001,4,ungrazed,1997,,,Plants,2.0m+,,,percent occurance,mean ,0.17
+870,,2001,4,ungrazed,1997,,,Plants,1.5-2m,,,percent occurance,mean ,0.07
+870,,2001,4,ungrazed,1997,,,Plants,1.0-1.5m,,,percent occurance,mean ,0.09
+870,,2001,4,ungrazed,1997,,,Plants,0.7-1.0m,,,percent occurance,mean ,0.21
+870,,2001,4,ungrazed,1997,,,Plants,0.2-0.7m,,,percent occurance,mean ,0.18
+870,,2001,4,ungrazed,1997,,,Plants,0.1-0.2m,,,percent occurance,mean ,0.17
+870,,2001,4,ungrazed,1997,,,Plants,<0.1m,,,percent occurance,mean ,0.13
+870,,2001,4,grazed,,,,Plants,2.0m+,,,percent occurance,mean ,0.22
+870,,2001,4,grazed,,,,Plants,1.5-2m,,,percent occurance,mean ,0.04
+870,,2001,4,grazed,,,,Plants,1.0-1.5m,,,percent occurance,mean ,0.03
+870,,2001,4,grazed,,,,Plants,0.7-.01m,,,percent occurance,mean ,0.04
+870,,2001,4,grazed,,,,Plants,0.2-0.7m,,,percent occurance,mean ,0.15
+870,,2001,4,grazed,,,,Plants,0.1-0.2m,,,percent occurance,mean ,0.19
+870,,2001,4,grazed,,,,Plants,<0.1m,,,percent occurance,mean ,0.31
+870,,2001,4,ungrazed,1997,,,Plants,2.0m+,,,percent occurance,se,0.02
+870,,2001,4,ungrazed,1997,,,Plants,1.5-2m,,,percent occurance,se,0.01
+870,,2001,4,ungrazed,1997,,,Plants,1.0-1.5m,,,percent occurance,se,0.02
+870,,2001,4,ungrazed,1997,,,Plants,0.7-1.0m,,,percent occurance,se,0.01
+870,,2001,4,ungrazed,1997,,,Plants,0.2-0.7m,,,percent occurance,se,0.02
+870,,2001,4,ungrazed,1997,,,Plants,0.1-0.2m,,,percent occurance,se,0.04
+870,,2001,4,ungrazed,1997,,,Plants,<0.1m,,,percent occurance,se,0.04
+870,,2001,4,grazed,,,,Plants,2.0m+,,,percent occurance,se,0.05
+870,,2001,4,grazed,,,,Plants,1.5-2m,,,percent occurance,se,0.01
+870,,2001,4,grazed,,,,Plants,1.0-1.5m,,,percent occurance,se,0.02
+870,,2001,4,grazed,,,,Plants,0.7-.01m,,,percent occurance,se,0.01
+870,,2001,4,grazed,,,,Plants,0.2-0.7m,,,percent occurance,se,0.02
+870,,2001,4,grazed,,,,Plants,0.1-0.2m,,,percent occurance,se,0.04
+870,,2001,4,grazed,,,,Plants,<0.1m,,,percent occurance,se,0.04
+870,,2001,4,ungrazed,1997,,,Plants,Salix,caprea,,percent occurance,mean ,0.09
+870,,2001,4,ungrazed,1997,,,Plants,Pteridium,aqulinium,,percent occurance,mean ,0.21
+870,,2001,4,ungrazed,1997,,,Plants,Rubus,fruticosa,,percent occurance,mean ,0.22
+870,,2001,4,ungrazed,1997,,,Plants,Crategus,monogyna,,percent occurance,mean ,0.03
+870,,2001,4,ungrazed,1997,,,Plants,Urtica,diocia,,percent occurance,mean ,0.18
+870,,2001,4,ungrazed,1997,,,Plants,Brachypodium,sylvaticum,,percent occurance,mean ,0.09
+870,,2001,4,ungrazed,1997,,,Plants,Corylus,avellana,,percent occurance,mean ,0.10
+870,,2001,4,grazed,,,,Plants,Salix,caprea,,percent occurance,mean ,0.00
+870,,2001,4,grazed,,,,Plants,Pteridium,aqulinium,,percent occurance,mean ,0.00
+870,,2001,4,grazed,,,,Plants,Rubus,fruticosa,,percent occurance,mean ,0.04
+870,,2001,4,grazed,,,,Plants,Crategus,monogyna,,percent occurance,mean ,0.19
+870,,2001,4,grazed,,,,Plants,Urtica,diocia,,percent occurance,mean ,0.18
+870,,2001,4,grazed,,,,Plants,Brachypodium,sylvaticum,,percent occurance,mean ,0.23
+870,,2001,4,grazed,,,,Plants,Corylus,avellana,,percent occurance,mean ,0.31
+870,LAH,2001-06,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,2.0
+870,LAH,2001-08,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,4.0
+870,LAH,2001-09,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,2.0
+870,LAH,2001-10,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,10.0
+870,LAH,2001-12,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,6.0
+870,LAH,2001-06,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,19.0
+870,LAH,2001-08,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,22.0
+870,LAH,2001-09,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,45.0
+870,LAH,2001-10,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,39.0
+870,LAH,2001-12,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,22.0
+870,LAH,2001-06,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,6.4
+870,LAH,2001-08,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,7.8
+870,LAH,2001-09,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,17.0
+870,LAH,2001-10,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,23.9
+870,LAH,2001-12,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,9.7
+870,LAH,2001-06,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,1.8
+870,LAH,2001-08,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,1.8
+870,LAH,2001-09,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,22.1
+870,LAH,2001-10,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,32.7
+870,LAH,2001-12,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,5.1
+870,ML,2003-07,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,13.8
+870,ML,2003-07,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,21.5
+870,ML,2003-09,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,25.4
+870,ML,2003-09,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,40.0
+870,SF,2003-07,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,24.6
+870,SF,2003-07,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,43.1
+870,SF,2003-09,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,29.2
+870,SF,2003-09,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,36.9
+870,LAH,2003-07,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,10.0
+870,LAH,2003-07,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,24.6
+870,LAH,2003-09,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,43.1
+870,LAH,2003-09,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,78.4
+870,FB,2003-07,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,20.8
+870,FB,2003-07,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,110.0
+870,FB,2003-09,1,grazed,,,,Mammals,Myodes,glareolus,,population density,count,9.2
+870,FB,2003-09,1,ungrazed,1997,,,Mammals,Myodes,glareolus,,population density,count,60.0
+870,ML,2003-07,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,5.8
+870,ML,2003-07,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,4.2
+870,ML,2003-09,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,22.9
+870,ML,2003-09,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,13.1
+870,SF,2003-07,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,11.9
+870,SF,2003-07,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,7.3
+870,SF,2003-09,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,25.0
+870,SF,2003-09,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,6.2
+870,LAH,2003-07,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,7.7
+870,LAH,2003-07,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,1.2
+870,LAH,2003-09,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,17.7
+870,LAH,2003-09,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,5.0
+870,FB,2003-07,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,24.2
+870,FB,2003-07,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,3.8
+870,FB,2003-09,1,grazed,,,,Mammals,Apodemus,sylvaticus,,population density,count,15.8
+870,FB,2003-09,1,ungrazed,1997,,,Mammals,Apodemus,sylvaticus,,population density,count,8.1

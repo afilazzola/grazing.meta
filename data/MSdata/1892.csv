@@ -1,0 +1,55 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,extricata,native,mean step length,mean,0.03
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,extricata,native,mean step length,mean,0.03
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,extricata,native,mean step length,mean,0.02
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,extricata,native,mean step length,sd,0.04
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,extricata,native,mean step length,sd,0.05
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,extricata,native,mean step length,sd,0.04
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,obsoleta,native,mean step length,mean,0.06
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,obsoleta,native,mean step length,mean,0.03
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,obsoleta,native,mean step length,mean,0.03
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,obsoleta,native,mean step length,sd,0.05
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,obsoleta,native,mean step length,sd,0.04
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,obsoleta,native,mean step length,sd,0.04
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,hispilabris,native,mean step length,mean,0.06
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,hispilabris,native,mean step length,mean,0.06
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,hispilabris,native,mean step length,mean,0.07
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,hispilabris,native,mean step length,sd,0.08
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,hispilabris,native,mean step length,sd,0.07
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,hispilabris,native,mean step length,sd,0.06
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,extricata,native,"net displacement, m",mean,1.54
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,extricata,native,"net displacement, m",mean,1.679
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,extricata,native,"net displacement, m",mean,1.155
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,extricata,native,"net displacement, m",se,0.547
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,extricata,native,"net displacement, m",se,0.655
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,extricata,native,"net displacement, m",se,0.37
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,obsoleta,native,"net displacement, m",mean,4.406
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,obsoleta,native,"net displacement, m",mean,1.371
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,obsoleta,native,"net displacement, m",mean,1.363
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,obsoleta,native,"net displacement, m",se,1.001
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,obsoleta,native,"net displacement, m",se,0.246
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,obsoleta,native,"net displacement, m",se,0.331
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,hispilabris,native,"net displacement, m",mean,1.933
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,hispilabris,native,"net displacement, m",mean,3.582
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,hispilabris,native,"net displacement, m",mean,4.098
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,hispilabris,native,"net displacement, m",se,0.563
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,hispilabris,native,"net displacement, m",se,0.801
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,hispilabris,native,"net displacement, m",se,0.978
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,extricata,native,fractial dimension,mean,1.182
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,extricata,native,fractial dimension,mean,1.152
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,extricata,native,fractial dimension,mean,1.172
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,extricata,native,fractial dimension,se,0.025
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,extricata,native,fractial dimension,se,0.031
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,extricata,native,fractial dimension,se,0.034
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,obsoleta,native,fractial dimension,mean,1.132
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,obsoleta,native,fractial dimension,mean,1.159
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,obsoleta,native,fractial dimension,mean,1.182
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,obsoleta,native,fractial dimension,se,0.025
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,obsoleta,native,fractial dimension,se,0.024
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,obsoleta,native,fractial dimension,se,0.025
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,hispilabris,native,fractial dimension,mean,1.19
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,hispilabris,native,fractial dimension,mean,1.192
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,hispilabris,native,fractial dimension,mean,1.151
+1892,CPER,1990,9,heavy,,,,Arthropoda,Eleodes,hispilabris,native,fractial dimension,se,0.037
+1892,CPER,1990,9,moderate,,,,Arthropoda,Eleodes,hispilabris,native,fractial dimension,se,0.035
+1892,CPER,1990,9,light,,,,Arthropoda,Eleodes,hispilabris,native,fractial dimension,se,0.018

@@ -1,0 +1,53 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1914,,2004,12,continously grazed,,,,plant,,,,richness,mean,31.3
+1914,,2004,12,abandoned,3-5 years,,,plant,,,,richness,mean,26.4
+1914,,2004,12,continously grazed,,,,plant,,,,richness,se,2
+1914,,2004,12,abandoned,3-5 years,,,plant,,,,richness,se,2.5
+1914,,2004,12,continously grazed,,,,plant,,,,management dependent plant species richness,mean,5.5
+1914,,2004,12,abandoned,3-5 years,,,plant,,,,management dependent plant species richness,mean,3.2
+1914,,2004,12,continously grazed,,,,plant,,,,management dependent plant species richness,se,0.8
+1914,,2004,12,abandoned,3-5 years,,,plant,,,,management dependent plant species richness,se,0.8
+1914,,2004,12,continously grazed,,,,arthropoda,,,,butterfly richness,mean,12.6
+1914,,2004,12,abandoned,3-5 years,,,arthropoda,,,,butterfly richness,mean,11.2
+1914,,2004,12,continously grazed,,,,arthropoda,,,,butterfly richness,se,1.8
+1914,,2004,12,abandoned,3-5 years,,,arthropoda,,,,butterfly richness,se,1.5
+1914,,2004,12,continously grazed,,,,arthropoda,,,,red-listed butterfly species richness,mean,1
+1914,,2004,12,abandoned,3-5 years,,,arthropoda,,,,red-listed butterfly species richness,mean,1.1
+1914,,2004,12,continously grazed,,,,arthropoda,,,,red-listed butterfly species richness,se,0.5
+1914,,2004,12,abandoned,3-5 years,,,arthropoda,,,,red-listed butterfly species richness,se,0.5
+1914,,2004,12,continously grazed,,,,arthropoda,,,,abundance,mean,225
+1914,,2004,12,abandoned,3-5 years,,,arthropoda,,,,abundance,mean,216
+1914,,2004,12,continously grazed,,,,arthropoda,,,,abundance,se,65
+1914,,2004,12,abandoned,3-5 years,,,arthropoda,,,,abundance,se,67
+1914,,2004,12,cattle grazed,,,,plant,,,,richness,mean,34.845
+1914,,2004,6,horse grazed,,,,plant,,,,richness,mean,31.031
+1914,,2004,8,sheep grazed,,,,plant,,,,richness,mean,25.361
+1914,,2004,10,ungrazed,,,,plant,,,,richness,mean,24.948
+1914,,2004,12,cattle grazed,,,,plant,,,,richness,se,1.65
+1914,,2004,6,horse grazed,,,,plant,,,,richness,se,2.371
+1914,,2004,8,sheep grazed,,,,plant,,,,richness,se,3.093
+1914,,2004,10,ungrazed,,,,plant,,,,richness,se,2.681
+1914,,2004,12,cattle grazed,,,,plant,,,,management dependent plant species richness,mean,6.239
+1914,,2004,6,horse grazed,,,,plant,,,,management dependent plant species richness,mean,4.983
+1914,,2004,8,sheep grazed,,,,plant,,,,management dependent plant species richness,mean,3.11
+1914,,2004,10,ungrazed,,,,plant,,,,management dependent plant species richness,mean,2.771
+1914,,2004,12,cattle grazed,,,,plant,,,,management dependent plant species richness,se,0.778
+1914,,2004,6,horse grazed,,,,plant,,,,management dependent plant species richness,se,0.718
+1914,,2004,8,sheep grazed,,,,plant,,,,management dependent plant species richness,se,0.877
+1914,,2004,10,ungrazed,,,,plant,,,,management dependent plant species richness,se,1.056
+1914,,2004,12,cattle grazed,,,,arthropoda,,,,butterfly richness,mean,12
+1914,,2004,6,horse grazed,,,,arthropoda,,,,butterfly richness,mean,12.874
+1914,,2004,8,sheep grazed,,,,arthropoda,,,,butterfly richness,mean,6.993
+1914,,2004,10,ungrazed,,,,arthropoda,,,,butterfly richness,mean,12.477
+1914,,2004,12,cattle grazed,,,,arthropoda,,,,butterfly richness,se,1.589
+1914,,2004,6,horse grazed,,,,arthropoda,,,,butterfly richness,se,1.749
+1914,,2004,8,sheep grazed,,,,arthropoda,,,,butterfly richness,se,1.431
+1914,,2004,10,ungrazed,,,,arthropoda,,,,butterfly richness,se,1.708
+1914,,2004,12,cattle grazed,,,,arthropoda,,,,red-listed butterfly species richness,mean,1.155
+1914,,2004,6,horse grazed,,,,arthropoda,,,,red-listed butterfly species richness,mean,1.003
+1914,,2004,8,sheep grazed,,,,arthropoda,,,,red-listed butterfly species richness,mean,0.232
+1914,,2004,10,ungrazed,,,,arthropoda,,,,red-listed butterfly species richness,mean,1.117
+1914,,2004,12,cattle grazed,,,,arthropoda,,,,red-listed butterfly species richness,se,0.501
+1914,,2004,6,horse grazed,,,,arthropoda,,,,red-listed butterfly species richness,se,0.445
+1914,,2004,8,sheep grazed,,,,arthropoda,,,,red-listed butterfly species richness,se,0.142
+1914,,2004,10,ungrazed,,,,arthropoda,,,,red-listed butterfly species richness,se,0.577

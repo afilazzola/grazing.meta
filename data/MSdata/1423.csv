@@ -1,0 +1,33 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value,functional group
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,hyphal length,mean,1.655555556,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,spore density,mean,229.6666667,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,plant,NA,NA,NA,richness,mean,21.44444444,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,plant,NA,NA,NA,diversity,mean,1.812731112,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,plant,NA,NA,NA,eenness,mean,0.592723682,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,richness,mean,33.22222222,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,diversity,mean,2.284326225,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,evenness,mean,0.653208971,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,hyphal length,mean,2.55,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,spore density,mean,151.4444444,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,plant,NA,NA,NA,richness,mean,18.55555556,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,plant,NA,NA,NA,diversity,mean,1.349174314,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,plant,NA,NA,NA,eenness,mean,0.45845421,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,richness,mean,32.77777778,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,diversity,mean,2.324439805,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,evenness,mean,0.667510492,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,hyphal length,se,0.296211862,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,spore density,se,42.2409831,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,plant,NA,NA,NA,richness,se,0.68810835,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,plant,NA,NA,NA,diversity,se,0.153632805,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,plant,NA,NA,NA,eenness,se,0.051124969,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,richness,se,1.978827657,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,diversity,se,0.09882871,Arbuscular mycorrhizal (AM) fungi
+1423,grazed,2015,9,grazed,0,NA,NA,microbia,NA,NA,NA,evenness,se,0.021367747,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,hyphal length,se,0.370699745,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,spore density,se,32.11869779,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,plant,NA,NA,NA,richness,se,1.837240835,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,plant,NA,NA,NA,diversity,se,0.170120693,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,plant,NA,NA,NA,eenness,se,0.048284434,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,richness,se,1.838426279,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,diversity,se,0.105112749,Arbuscular mycorrhizal (AM) fungi
+1423,ungrazed,2015,9,ungrazed,17 to 85,NA,NA,microbia,NA,NA,NA,evenness,se,0.024614983,Arbuscular mycorrhizal (AM) fungi

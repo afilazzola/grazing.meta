@@ -1,0 +1,7 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1235,,,12,cattle,0,,,Arthropod,Colotis,,,abundance,LSmean,4.48496994
+1235,,,12,cattle,0,,,Arthropod,Colotis,,,abundance,2 se,0.697
+1235,,,12,ungrazed,8,,,Arthropod,Colotis,,,abundance,LSmean,3.4749499
+1235,,,12,ungrazed,8,,,Arthropod,Colotis,,,abundance,2 se,0.889
+1235,,,12,megaherbivores,0,,,Arthropod,Colotis,,,abundance,LSmean,2.056112224
+1235,,,12,megaherbivores,0,,,Arthropod,Colotis,,,abundance,2 se,0.721

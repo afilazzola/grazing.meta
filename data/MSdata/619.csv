@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+619,Tenn,2005,4,grazed,0,,,Amphibian,Bufo ,americanus,,,mean,0.033
+619,Tenn,2005,4,grazed,0,,,Amphibian,Bufo ,americanus,,,sttrror,0.025
+619,Tenn,2005,4,ungrazed,10,,,Amphibian,Bufo ,americanus,,,mean,0.001
+619,Tenn,2005,4,ungrazed,10,,,Amphibian,Bufo ,americanus,,,sttrror,0
+619,Tenn,2005,4,grazed,0,,,Amphibian,Rana,clamitans,,,mean,0.026
+619,Tenn,2005,4,grazed,0,,,Amphibian,Rana,clamitans,,,sttrror,0.016
+619,Tenn,2005,4,ungrazed,10,,,Amphibian,Rana,clamitans,,,mean,0.064
+619,Tenn,2005,4,ungrazed,10,,,Amphibian,Rana,clamitans,,,sttrror,0.018
+619,Tenn,2006,4,grazed,0,,,Amphibian,Bufo ,americanus,,,mean,0.006
+619,Tenn,2006,4,grazed,0,,,Amphibian,Bufo ,americanus,,,sttrror,0.002
+619,Tenn,2006,4,ungrazed,11,,,Amphibian,Bufo ,americanus,,,mean,0
+619,Tenn,2006,4,ungrazed,11,,,Amphibian,Bufo ,americanus,,,sttrror,0
+619,Tenn,2006,4,grazed,0,,,Amphibian,Rana,clamitans,,,mean,0.011
+619,Tenn,2006,4,grazed,0,,,Amphibian,Rana,clamitans,,,sttrror,0.006
+619,Tenn,2006,4,ungrazed,11,,,Amphibian,Rana,clamitans,,,mean,0.099
+619,Tenn,2006,4,ungrazed,11,,,Amphibian,Rana,clamitans,,,sttrror,0.002

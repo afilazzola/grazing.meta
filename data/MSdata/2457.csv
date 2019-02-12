@@ -1,0 +1,4 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2457,mod,1991,1,grazing,,stocking rate (AUM/ha),0.71,Mammalia,Deer,,,# Deer harvested,Count,1374
+2457,nu,1991,1,non-grazed,UNKN,stocking rate (AUM/ha),0,Mammalia,Deer,,,# Deer harvested,Count,1575
+2457,num,1991,1,grazing,,stocking rate (AUM/ha),1.33,Mammalia,Deer,,,# Deer harvested,Count,1475

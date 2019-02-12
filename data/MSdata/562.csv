@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+562,lichen dominated,,8,ungrazed,70,,,Lichen,,,,biomass (g/m^2),mean,541
+562,lichen dominated,,8,ungrazed,70,,,Lichen,,,,biomass (g/m^2),mean,117
+562,lichen dominated,,8,ungrazed,70,,,Moss,,,,biomass (g/m^2),sterror,3.6
+562,lichen dominated,,8,ungrazed,70,,,Moss,,,,biomass (g/m^2),sterror,2.3
+562,grazed,,14,grazed,,,,Lichen,,,,biomass (g/m^2),mean,58
+562,grazed,,14,grazed,,,,Lichen,,,,biomass (g/m^2),mean,35
+562,grazed,,14,grazed,,,,Moss,,,,biomass (g/m^2),sterror,8
+562,grazed,,14,grazed,,,,Moss,,,,biomass (g/m^2),sterror,6
+562,bryophyte dominated,,5,ungrazed,70,,,Lichen,,,,biomass (g/m^2),mean,52
+562,bryophyte dominated,,5,ungrazed,70,,,Lichen,,,,biomass (g/m^2),mean,51
+562,bryophyte dominated,,5,ungrazed,70,,,Moss,,,,biomass (g/m^2),sterror,25
+562,bryophyte dominated,,5,ungrazed,70,,,Moss,,,,biomass (g/m^2),sterror,15

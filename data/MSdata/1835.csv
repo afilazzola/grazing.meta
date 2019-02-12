@@ -1,0 +1,37 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Glomus,,,spore density,mean,13.7
+1835,,2015,36,grazed,0,,,AMF,Glomus,,,spore density,mean,8.4
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Glomus,,,spore density,se,0.48
+1835,,2015,36,grazed,0,,,AMF,Glomus,,,spore density,se,0.35
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Acaulospora,,,spore density,mean,6.8
+1835,,2015,36,grazed,0,,,AMF,Acaulospora,,,spore density,mean,4.2
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Acaulospora,,,spore density,se,0.28
+1835,,2015,36,grazed,0,,,AMF,Acaulospora,,,spore density,se,0.19
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Scutellospora,,,spore density,mean,3.3
+1835,,2015,36,grazed,0,,,AMF,Scutellospora,,,spore density,mean,2
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Scutellospora,,,spore density,se,0.14
+1835,,2015,36,grazed,0,,,AMF,Scutellospora,,,spore density,se,0.1
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Gigaspora,,,spore density,mean,1.2
+1835,,2015,36,grazed,0,,,AMF,Gigaspora,,,spore density,mean,0.7
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Gigaspora,,,spore density,se,0.08
+1835,,2015,36,grazed,0,,,AMF,Gigaspora,,,spore density,se,0.05
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Sclerocytis,,,spore density,mean,0.6
+1835,,2015,36,grazed,0,,,AMF,Sclerocytis,,,spore density,mean,0.3
+1835,,2015,36,ungrazed,5-20 year,,,AMF,Sclerocytis,,,spore density,se,0.71
+1835,,2015,36,grazed,0,,,AMF,Sclerocytis,,,spore density,se,0.62
+1835,,2015,36,ungrazed,5-20 year,,,AMF,,,,percentage of root colonization with hyphal,mean,77.4
+1835,,2015,36,grazed,0,,,AMF,,,,percentage of root colonization with hyphal,mean,75.9
+1835,,2015,36,ungrazed,5-20 year,,,AMF,,,,percentage of root colonization with hyphal,se,0.39
+1835,,2015,36,grazed,0,,,AMF,,,,percentage of root colonization with hyphal,se,0.44
+1835,,2015,36,ungrazed,5-20 year,,,AMF,,,,percentage of root colonization with mycorrhiza hyphal,mean,74.5
+1835,,2015,36,grazed,0,,,AMF,,,,percentage of root colonization with mycorrhiza hyphal,mean,73.3
+1835,,2015,36,ungrazed,5-20 year,,,AMF,,,,percentage of root colonization with mycorrhiza hyphal,se,0.41
+1835,,2015,36,grazed,0,,,AMF,,,,percentage of root colonization with mycorrhiza hyphal,se,0.46
+1835,,2015,36,ungrazed,5-20 year,,,AMF,,,,percentage of root colonization with vesicles,mean,36.7
+1835,,2015,36,grazed,0,,,AMF,,,,percentage of root colonization with vesicles,mean,36.6
+1835,,2015,36,ungrazed,5-20 year,,,AMF,,,,percentage of root colonization with vesicles,se,0.36
+1835,,2015,36,grazed,0,,,AMF,,,,percentage of root colonization with vesicles,se,0.37
+1835,,2015,36,ungrazed,5-20 year,,,AMF,,,,percentage of root with arbuscule colonization,mean,45.2
+1835,,2015,36,grazed,0,,,AMF,,,,percentage of root with arbuscule colonization,mean,43.9
+1835,,2015,36,ungrazed,5-20 year,,,AMF,,,,percentage of root with arbuscule colonization,se,0.42
+1835,,2015,36,grazed,0,,,AMF,,,,percentage of root with arbuscule colonization,se,0.46

@@ -1,0 +1,109 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,plant,,,,"vegetation height, cm",mean,37.4
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,plant,,,,"vegetation height, cm",mean,13.2
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,plant,,,,"vegetation height, cm",mean,21.8
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,plant,,,,"vegetation height, cm",sd,34.5
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,plant,,,,"vegetation height, cm",sd,7.6
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,plant,,,,"vegetation height, cm",sd,26.9
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,plant,,,,heterogeneith of vegetation height (CV percentage),mean,42
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,plant,,,,heterogeneith of vegetation height (CV percentage),mean,42.1
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,plant,,,,heterogeneith of vegetation height (CV percentage),mean,46.9
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,plant,,,,heterogeneith of vegetation height (CV percentage),sd,26.1
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,plant,,,,heterogeneith of vegetation height (CV percentage),sd,15.4
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,plant,,,,heterogeneith of vegetation height (CV percentage),sd,27.9
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,plant,,,,shrub cover,mean,34.4
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,plant,,,,shrub cover,mean,7.7
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,plant,,,,shrub cover,mean,1.41
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,plant,,,,shrub cover,sd,34.1
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,plant,,,,shrub cover,sd,14.9
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,plant,,,,shrub cover,sd,2.4
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,plant,,,,tree cover,mean,6.54
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,plant,,,,tree cover,mean,3.14
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,plant,,,,tree cover,mean,0.39
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,plant,,,,tree cover,sd,10
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,plant,,,,tree cover,sd,7.2
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,plant,,,,tree cover,sd,1.1
+1893,montane belt (below 1900 m),2001-2002,27,abandoned,,,,aves,,,,bird diversity,mean,1.25
+1893,montane belt (below 1900 m),2001-2002,46,low to moderate,,,,aves,,,,bird diversity,mean,0.91
+1893,montane belt (below 1900 m),2001-2002,21,high,,,,aves,,,,bird diversity,mean,0.77
+1893,montane belt (below 1900 m),2001-2002,27,abandoned,,,,aves,,,,bird diversity,sd,0.6
+1893,montane belt (below 1900 m),2001-2002,27,low to moderate,,,,aves,,,,bird diversity,sd,0.4
+1893,montane belt (below 1900 m),2001-2002,46,high,,,,aves,,,,bird diversity,sd,0.6
+1893,montane belt (below 1900 m),2001-2002,21,abandoned,,,,aves,,,,Abundance of grassland species,mean,1.17
+1893,montane belt (below 1900 m),2001-2002,27,low to moderate,,,,aves,,,,Abundance of grassland species,mean,1.62
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,aves,,,,Abundance of grassland species,mean,1.63
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,aves,,,,Abundance of grassland species,sd,1.8
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,aves,,,,Abundance of grassland species,sd,1.6
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,aves,,,,Abundance of grassland species,sd,1.7
+1893,montane belt (below 1900 m),2001-2002,27,abandoned,,,,aves,,,,Abundance of ecotone species,mean,0.59
+1893,montane belt (below 1900 m),2001-2002,46,low to moderate,,,,aves,,,,Abundance of ecotone species,mean,1
+1893,montane belt (below 1900 m),2001-2002,21,high,,,,aves,,,,Abundance of ecotone species,mean,1.41
+1893,montane belt (below 1900 m),2001-2002,27,abandoned,,,,aves,,,,Abundance of ecotone species,sd,1
+1893,montane belt (below 1900 m),2001-2002,27,low to moderate,,,,aves,,,,Abundance of ecotone species,sd,1.3
+1893,montane belt (below 1900 m),2001-2002,46,high,,,,aves,,,,Abundance of ecotone species,sd,1.6
+1893,montane belt (below 1900 m),2001-2002,21,abandoned,,,,aves,,,,Abundance of shrub species,mean,1.63
+1893,montane belt (below 1900 m),2001-2002,27,low to moderate,,,,aves,,,,Abundance of shrub species,mean,0.43
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,aves,,,,Abundance of shrub species,mean,0.04
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,aves,,,,Abundance of shrub species,sd,1.5
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,aves,,,,Abundance of shrub species,sd,0.9
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,aves,,,,Abundance of shrub species,sd,0.2
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,aves,,,,Abundance of woodland species,mean,2.85
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,aves,,,,Abundance of woodland species,mean,1.24
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,aves,,,,Abundance of woodland species,mean,0.74
+1893,montane belt (below 1900 m),2001-2002,46,abandoned,,,,aves,,,,Abundance of woodland species,sd,3.01
+1893,montane belt (below 1900 m),2001-2002,21,low to moderate,,,,aves,,,,Abundance of woodland species,sd,1.5
+1893,montane belt (below 1900 m),2001-2002,27,high,,,,aves,,,,Abundance of woodland species,sd,1.7
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,plant,,,,"vegetation height, cm",mean,16.5
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,plant,,,,"vegetation height, cm",mean,6.6
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,plant,,,,"vegetation height, cm",mean,5.9
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,plant,,,,"vegetation height, cm",sd,29.2
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,plant,,,,"vegetation height, cm",sd,4.3
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,plant,,,,"vegetation height, cm",sd,2.8
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,plant,,,,heterogeneith of vegetation height (CV percentage),mean,51.3
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,plant,,,,heterogeneith of vegetation height (CV percentage),mean,41
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,plant,,,,heterogeneith of vegetation height (CV percentage),mean,46.1
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,plant,,,,heterogeneith of vegetation height (CV percentage),sd,63.4
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,plant,,,,heterogeneith of vegetation height (CV percentage),sd,17.2
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,plant,,,,heterogeneith of vegetation height (CV percentage),sd,13.5
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,plant,,,,shrub cover,mean,21.4
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,plant,,,,shrub cover,mean,8.21
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,plant,,,,shrub cover,mean,2
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,plant,,,,shrub cover,sd,35.1
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,plant,,,,shrub cover,sd,19.7
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,plant,,,,shrub cover,sd,6.2
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,plant,,,,tree cover,mean,0.5
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,plant,,,,tree cover,mean,0.19
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,plant,,,,tree cover,mean,0.08
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,plant,,,,tree cover,sd,2.5
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,plant,,,,tree cover,sd,0.8
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,plant,,,,tree cover,sd,0.3
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,bird diversity,mean,0.98
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,bird diversity,mean,0.79
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,bird diversity,mean,0.79
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,bird diversity,sd,0.5
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,bird diversity,sd,0.6
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,bird diversity,sd,0.6
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,Abundance of grassland species,mean,3.7
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,Abundance of grassland species,mean,4.09
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,Abundance of grassland species,mean,4.72
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,Abundance of grassland species,sd,4.3
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,Abundance of grassland species,sd,6.1
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,Abundance of grassland species,sd,3.5
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,Abundance of ecotone species,mean,0.44
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,Abundance of ecotone species,mean,0.88
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,Abundance of ecotone species,mean,0.4
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,Abundance of ecotone species,sd,1.1
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,Abundance of ecotone species,sd,1.5
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,Abundance of ecotone species,sd,1
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,Abundance of shrub species,mean,0.57
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,Abundance of shrub species,mean,0.12
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,Abundance of shrub species,mean,0.16
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,Abundance of shrub species,sd,1.2
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,Abundance of shrub species,sd,0.4
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,Abundance of shrub species,sd,0.6
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,Abundance of woodland species,mean,0.75
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,Abundance of woodland species,mean,0.4
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,Abundance of woodland species,mean,0.2
+1893,subalpine and alpine belt (above 1900 m),2001-2002,119,abandoned,,,,aves,,,,Abundance of woodland species,sd,1.55
+1893,subalpine and alpine belt (above 1900 m),2001-2002,93,low to moderate,,,,aves,,,,Abundance of woodland species,sd,1
+1893,subalpine and alpine belt (above 1900 m),2001-2002,25,high,,,,aves,,,,Abundance of woodland species,sd,0.8

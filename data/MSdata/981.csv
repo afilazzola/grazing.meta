@@ -1,0 +1,222 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+981,,2004-01,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,16.45320197
+981,,2004-01,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,4.13
+981,,2004-01,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,9.852216749
+981,,2004-01,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,1.28
+981,,2004-02,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,1
+981,,2004-02,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2004-02,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,1
+981,,2004-02,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2004-03,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0.5
+981,,2004-03,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2004-03,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,2
+981,,2004-03,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,0.66
+981,,2004-06,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0.19
+981,,2004-06,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2004-06,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,4.72
+981,,2004-06,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,1.27
+981,,2004-07,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0.780487805
+981,,2004-07,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,1.17
+981,,2004-07,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,7.12195122
+981,,2004-07,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,3.6
+981,,2004-08,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,2.068965517
+981,,2004-08,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,1.28
+981,,2004-08,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,14.58128079
+981,,2004-08,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,4.72
+981,,2004-10,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0.591133005
+981,,2004-10,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2004-10,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,8.177339901
+981,,2004-10,3,ungrazed,15,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,4.43
+981,,2005-02,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0
+981,,2005-02,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2005-02,3,ungrazed,16,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,7.389162562
+981,,2005-02,3,ungrazed,16,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,4.827
+981,,2005-04,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0.295566502
+981,,2005-04,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2005-04,3,ungrazed,16,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,2.561576355
+981,,2005-04,3,ungrazed,16,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2005-07,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0.886699507
+981,,2005-07,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0.591
+981,,2005-07,3,ungrazed,16,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,1.57635468
+981,,2005-07,3,ungrazed,16,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,0.689
+981,,2005-10,,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,2.167487685
+981,,2005-10,,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0.689
+981,,2005-10,,ungrazed,16,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,4.236453202
+981,,2005-10,,ungrazed,16,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,1.477
+981,,2006-05,,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0
+981,,2006-05,,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2006-05,,ungrazed,17,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,0.985221675
+981,,2006-05,,ungrazed,17,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,0.985
+981,,2006-07,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0
+981,,2006-07,3,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2006-07,3,ungrazed,17,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,2.731707317
+981,,2006-07,3,ungrazed,17,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,1.27
+981,,2006-10,,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,mean,0
+981,,2006-10,,grazed,0,animal units,75,Mammal,Microtus,californicus,,captures/100 nights,se,0
+981,,2006-10,,ungrazed,17,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,mean,3.645320197
+981,,2006-10,,ungrazed,17,animal units,0,Mammal,Microtus,californicus,,captures/100 nights,se,1.28
+981,,2004-01,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,7.768421053
+981,,2004-01,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,3.9
+981,,2004-01,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,15.44210526
+981,,2004-01,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0.66
+981,,2004-02,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0.094736842
+981,,2004-02,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0.47
+981,,2004-02,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,13.73684211
+981,,2004-02,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,2.08
+981,,2004-03,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-03,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-03,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,10.32631579
+981,,2004-03,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,1.61
+981,,2004-06,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-06,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-06,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-06,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-07,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-07,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-07,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-07,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-08,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-08,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-08,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-08,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-10,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-10,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-10,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2004-10,3,ungrazed,15,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2005-02,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2005-02,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2005-02,3,ungrazed,16,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,1.989473684
+981,,2005-02,3,ungrazed,16,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0.57
+981,,2005-04,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2005-04,3,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2005-04,3,ungrazed,16,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,2.273684211
+981,,2005-04,3,ungrazed,16,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,1.23
+981,,2005-07,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2005-07,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2005-07,,ungrazed,16,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2005-07,,ungrazed,16,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2005-10,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,1.231578947
+981,,2005-10,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0.66
+981,,2005-10,,ungrazed,16,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,1.231578947
+981,,2005-10,,ungrazed,16,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0.75
+981,,2006-05,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2006-05,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2006-05,,ungrazed,17,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2006-05,,ungrazed,17,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2006-07,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2006-07,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2006-07,,ungrazed,17,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2006-07,,ungrazed,17,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2006-10,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2006-10,,grazed,0,animal units,75,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2006-10,,ungrazed,17,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,mean,0
+981,,2006-10,,ungrazed,17,animal units,0,Mammal,Reithrodontomys,megalotis,,captures/100 nights,se,0
+981,,2004-02,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0.179104478
+981,,2004-02,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0.238
+981,,2004-02,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,0
+981,,2004-02,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2004-03,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0.597014925
+981,,2004-03,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2004-03,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,0.23880597
+981,,2004-03,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2004-06,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,3.164179104
+981,,2004-06,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,1.373
+981,,2004-06,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,9.313432836
+981,,2004-06,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,1.432
+981,,2004-07,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,4
+981,,2004-07,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0.656
+981,,2004-07,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,6.447761194
+981,,2004-07,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0.656
+981,,2004-08,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,5.850746269
+981,,2004-08,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2004-08,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,5.014925373
+981,,2004-08,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2004-10,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,1.014925373
+981,,2004-10,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2004-10,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,1.014925373
+981,,2004-10,3,ungrazed,15,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2005-02,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0.1194
+981,,2005-02,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2005-02,3,ungrazed,16,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,0
+981,,2005-02,3,ungrazed,16,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2005-04,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0
+981,,2005-04,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2005-04,3,ungrazed,16,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,0.597
+981,,2005-04,3,ungrazed,16,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2005-07,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0
+981,,2005-07,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2005-07,3,ungrazed,16,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,0
+981,,2005-07,3,ungrazed,16,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2005-10,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0
+981,,2005-10,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2005-10,3,ungrazed,16,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,0
+981,,2005-10,3,ungrazed,16,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2006-05,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0.2388
+981,,2006-05,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2006-05,3,ungrazed,17,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,0.716
+981,,2006-05,3,ungrazed,17,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2006-07,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0.119
+981,,2006-07,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2006-07,3,ungrazed,17,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,2.62
+981,,2006-07,3,ungrazed,17,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2006-10,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,mean,0
+981,,2006-10,3,grazed,0,animal units,75,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+981,,2006-10,3,ungrazed,17,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,mean,2.14
+981,,2006-10,3,ungrazed,17,animal units,0,Mammal,Sorex,vagrans,,captures/100 nights,se,0
+,,,,,,,,,,,,,,
+981,,2004-01,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.154
+981,,2004-01,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0
+981,,2004-01,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,mean,2.044
+981,,2004-01,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,se,0.714
+981,,2004-02,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.392
+981,,2004-02,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.238
+981,,2004-02,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,mean,0.728
+981,,2004-02,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,se,0.182
+981,,2004-03,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.476
+981,,2004-03,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0
+981,,2004-03,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,mean,0.882
+981,,2004-03,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,se,0.56
+981,,2004-05,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.854
+981,,2004-05,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0
+981,,2004-05,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,mean,0.966
+981,,2004-05,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,se,0.252
+981,,2004-06,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,1.26
+981,,2004-06,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.392
+981,,2004-06,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,mean,0.756
+981,,2004-06,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,se,0.378
+981,,2004-07,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.336
+981,,2004-07,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.392
+981,,2004-07,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,mean,0.518
+981,,2004-07,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,se,0.28
+981,,2004-10,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,1.078
+981,,2004-10,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.462
+981,,2004-10,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,mean,2.17
+981,,2004-10,7,ungrazed,15,animal units,0,Aves,,,,counts/rep/hour,se,0.896
+981,,2005-01,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.154
+981,,2005-01,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0
+981,,2005-01,7,ungrazed,16,animal units,0,Aves,,,,counts/rep/hour,mean,1.918
+981,,2005-01,7,ungrazed,16,animal units,0,Aves,,,,counts/rep/hour,se,1.036
+981,,2005-03,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.392
+981,,2005-03,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.35
+981,,2005-03,7,ungrazed,16,animal units,0,Aves,,,,counts/rep/hour,mean,1.19
+981,,2005-03,7,ungrazed,16,animal units,0,Aves,,,,counts/rep/hour,se,0.574
+981,,2005-07,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.532
+981,,2005-07,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.238
+981,,2005-07,7,ungrazed,16,animal units,0,Aves,,,,counts/rep/hour,mean,1.568
+981,,2005-07,7,ungrazed,16,animal units,0,Aves,,,,counts/rep/hour,se,0.616
+981,,2005-10,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.784
+981,,2005-10,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.322
+981,,2005-10,7,ungrazed,16,animal units,0,Aves,,,,counts/rep/hour,mean,2.492
+981,,2005-10,7,ungrazed,16,animal units,0,Aves,,,,counts/rep/hour,se,1.022
+981,,2006-05,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.784
+981,,2006-05,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.28
+981,,2006-05,7,ungrazed,17,animal units,0,Aves,,,,counts/rep/hour,mean,1.232
+981,,2006-05,7,ungrazed,17,animal units,0,Aves,,,,counts/rep/hour,se,0.448
+981,,2006-07,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,0.448
+981,,2006-07,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.21
+981,,2006-07,7,ungrazed,17,animal units,0,Aves,,,,counts/rep/hour,mean,1.33
+981,,2006-07,7,ungrazed,17,animal units,0,Aves,,,,counts/rep/hour,se,0.392
+981,,2006-10,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,mean,1.008
+981,,2006-10,7,grazed,0,animal units,75,Aves,,,,counts/rep/hour,se,0.224
+981,,2006-10,7,ungrazed,17,animal units,0,Aves,,,,counts/rep/hour,mean,2.016
+981,,2006-10,7,ungrazed,17,animal units,0,Aves,,,,counts/rep/hour,se,0.294

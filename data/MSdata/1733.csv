@@ -1,0 +1,129 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of all species,mean,66.33
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of all species,mean,37.11
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of all species,se,6.65
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of all species,se,3.92
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of forest specialist,mean,39.22
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of forest specialist,mean,22.11
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of forest specialist,se,5.43
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of forest specialist,se,2.42
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of ground runners,mean,6.22
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of ground runners,mean,3
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of ground runners,se,2.97
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of ground runners,se,0.75
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of space web builders,mean,8
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of space web builders,mean,2
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of space web builders,se,1.59
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of space web builders,se,0.53
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of wandering sheet/tangle weavers,mean,50.44
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of wandering sheet/tangle weavers,mean,30.67
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,abundance of wandering sheet/tangle weavers,se,6.97
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,abundance of wandering sheet/tangle weavers,se,3.35
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of all species,mean,25.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of all species,mean,42
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of all species,se,3.84
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of all species,se,4.93
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of forest specialist,mean,13.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of forest specialist,mean,32.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of forest specialist,se,3.38
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of forest specialist,se,4.91
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of ground runners,mean,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of ground runners,mean,0.67
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of ground runners,se,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of ground runners,se,0.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of space web builders,mean,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of space web builders,mean,0.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of space web builders,se,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of space web builders,se,0.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of wandering sheet/tangle weavers,mean,22
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of wandering sheet/tangle weavers,mean,40
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,abundance of wandering sheet/tangle weavers,se,4.36
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,abundance of wandering sheet/tangle weavers,se,4.62
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of all species,mean,17.44
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of all species,mean,13.67
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of all species,se,1.48
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of all species,se,1.53
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of forest specialist,mean,8.44
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of forest specialist,mean,7.11
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of forest specialist,se,0.65
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of forest specialist,se,0.63
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of ground runners,mean,1.78
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of ground runners,mean,2.11
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of ground runners,se,0.28
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of ground runners,se,0.45
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of space web builders,mean,1.11
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of space web builders,mean,0.78
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of space web builders,se,0.11
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of space web builders,se,0.15
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of wandering sheet/tangle weavers,mean,13.44
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of wandering sheet/tangle weavers,mean,9.56
+1733,oak,2011,9,ungrazed,,,,Arthropoda,,,native,richness of wandering sheet/tangle weavers,se,1.22
+1733,oak,2011,9,grazed,,,,Arthropoda,,,native,richness of wandering sheet/tangle weavers,se,0.94
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of all species,mean,7
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of all species,mean,7
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of all species,se,0.58
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of all species,se,1
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of forest specialist,mean,3
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of forest specialist,mean,2.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of forest specialist,se,0
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of forest specialist,se,0.67
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of ground runners,mean,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of ground runners,mean,0.67
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of ground runners,se,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of ground runners,se,0.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of space web builders,mean,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of space web builders,mean,0.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of space web builders,se,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of space web builders,se,0.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of wandering sheet/tangle weavers,mean,4.67
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of wandering sheet/tangle weavers,mean,5.33
+1733,yew,2011,3,ungrazed,,,,Arthropoda,,,native,richness of wandering sheet/tangle weavers,se,0.33
+1733,yew,2011,3,grazed,,,,Arthropoda,,,native,richness of wandering sheet/tangle weavers,se,0.88
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,bareground,mean,28.33
+1733,oak,2011,9,grazed,,,,Plant,,,native,bareground,mean,45.28
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,bareground,se,7.11
+1733,oak,2011,9,grazed,,,,Plant,,,native,bareground,se,4.52
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,litter cover,mean,79.35
+1733,oak,2011,9,grazed,,,,Plant,,,native,litter cover,mean,65.93
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,litter cover,se,3.49
+1733,oak,2011,9,grazed,,,,Plant,,,native,litter cover,se,5.11
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,litter depth,mean,1.78
+1733,oak,2011,9,grazed,,,,Plant,,,native,litter depth,mean,1.53
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,litter depth,se,0.21
+1733,oak,2011,9,grazed,,,,Plant,,,native,litter depth,se,0.18
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,fine woody debris cover,mean,21.87
+1733,oak,2011,9,grazed,,,,Plant,,,native,fine woody debris cover,mean,29.98
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,fine woody debris cover,se,4.62
+1733,oak,2011,9,grazed,,,,Plant,,,native,fine woody debris cover,se,5.36
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,coarse woody debris cover m3,mean,1.48
+1733,oak,2011,9,grazed,,,,Plant,,,native,coarse woody debris cover m3,mean,1.38
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,coarse woody debris cover m3,se,1.42
+1733,oak,2011,9,grazed,,,,Plant,,,native,coarse woody debris cover m3,se,0.48
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,ground vegetation cover,mean,76.48
+1733,oak,2011,9,grazed,,,,Plant,,,native,ground vegetation cover,mean,62.69
+1733,oak,2011,9,ungrazed,,,,Plant,,,native,ground vegetation cover,se,5.23
+1733,oak,2011,9,grazed,,,,Plant,,,native,ground vegetation cover,se,4.66
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,bareground,mean,46.39
+1733,yew,2011,3,grazed,,,,Plant,,,native,bareground,mean,54.72
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,bareground,se,7.24
+1733,yew,2011,3,grazed,,,,Plant,,,native,bareground,se,1.21
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,litter cover,mean,54.17
+1733,yew,2011,3,grazed,,,,Plant,,,native,litter cover,mean,55.83
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,litter cover,se,17.22
+1733,yew,2011,3,grazed,,,,Plant,,,native,litter cover,se,16.07
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,litter depth,mean,0.5
+1733,yew,2011,3,grazed,,,,Plant,,,native,litter depth,mean,0.92
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,litter depth,se,0
+1733,yew,2011,3,grazed,,,,Plant,,,native,litter depth,se,0.21
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,fine woody debris cover,mean,43.67
+1733,yew,2011,3,grazed,,,,Plant,,,native,fine woody debris cover,mean,42.56
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,fine woody debris cover,se,12.61
+1733,yew,2011,3,grazed,,,,Plant,,,native,fine woody debris cover,se,16.5
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,coarse woody debris cover m3,mean,4.17
+1733,yew,2011,3,grazed,,,,Plant,,,native,coarse woody debris cover m3,mean,2.22
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,coarse woody debris cover m3,se,3.37
+1733,yew,2011,3,grazed,,,,Plant,,,native,coarse woody debris cover m3,se,1.11
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,ground vegetation cover,mean,92.22
+1733,yew,2011,3,grazed,,,,Plant,,,native,ground vegetation cover,mean,81.39
+1733,yew,2011,3,ungrazed,,,,Plant,,,native,ground vegetation cover,se,6.19
+1733,yew,2011,3,grazed,,,,Plant,,,native,ground vegetation cover,se,9.82

@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+931,,2007,2,ungrazed,0,stock unit/ha,12,annelid ,,,,count,mean,325.7142857
+931,,2007,2,ungrazed,0,stock unit/ha,12,annelid ,,,,count,se,40
+931,,2007,2,grazed,20,stock unit/ha,0,annelid ,,,,count,mean,942.8571429
+931,,2007,2,grazed,20,stock unit/ha,0,annelid ,,,,count,se,114.28
+931,,2007,2,ungrazed,0,stock unit/ha,12,orbatidia,,,,count,mean,51.14754098
+931,,2007,2,ungrazed,0,stock unit/ha,12,orbatidia,,,,count,se,20.98
+931,,2007,2,grazed,20,stock unit/ha,0,orbatidia,,,,count,mean,7.213114754
+931,,2007,2,grazed,20,stock unit/ha,0,orbatidia,,,,count,se,2.622
+931,,2007,2,ungrazed,0,stock unit/ha,12,nematode,,,,count,mean,670.7317073
+931,,2007,2,ungrazed,0,stock unit/ha,12,nematode,,,,count,se,40.6504065
+931,,2007,2,grazed,20,stock unit/ha,0,nematode,,,,count,mean,1321.138211
+931,,2007,2,grazed,20,stock unit/ha,0,nematode,,,,count,se,548.7804878

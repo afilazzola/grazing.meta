@@ -1,0 +1,85 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2200,S-Low,1997,8,,,stocking density,Low,Plants,,,,Total shrub % cover,Mean,39.8
+2200,S-High,1997,8,,,stocking density,High,Plants,,,,Total shrub % cover,Mean,32.4
+2200,K-Low,1997,8,,,stocking density,Low,Plants,,,,Total shrub % cover,Mean,40
+2200,K-High,1997,8,,,stocking density,High,Plants,,,,Total shrub % cover,Mean,19
+2200,Kl-Low,1997,8,,,stocking density,Low,Plants,,,,Total shrub % cover,Mean,41.4
+2200,Kl-High,1997,8,,,stocking density,High,Plants,,,,Total shrub % cover,Mean,17.6
+2200,S-Low,1997,8,,,stocking density,Low,Plants,,,,Total annual % cover,Mean,0.1
+2200,S-High,1997,8,,,stocking density,High,Plants,,,,Total annual % cover,Mean,0.9
+2200,K-Low,1997,8,,,stocking density,Low,Plants,,,,Total annual % cover,Mean,1.7
+2200,K-High,1997,8,,,stocking density,High,Plants,,,,Total annual % cover,Mean,2.7
+2200,Kl-Low,1997,8,,,stocking density,Low,Plants,,,,Total annual % cover,Mean,0
+2200,Kl-High,1997,8,,,stocking density,High,Plants,,,,Total annual % cover,Mean,4.9
+2200,S-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=5,Mean,39.5
+2200,S-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=6,Mean,29.8
+2200,K-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=7,Mean,37.5
+2200,K-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=8,Mean,13.1
+2200,Kl-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=9,Mean,39.5
+2200,Kl-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=10,Mean,9.6
+2200,S-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=10,Mean,38.9
+2200,S-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=11,Mean,29.4
+2200,K-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=12,Mean,37
+2200,K-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=13,Mean,12.7
+2200,Kl-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=14,Mean,28
+2200,Kl-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=15,Mean,8.5
+2200,S-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=15,Mean,37.8
+2200,S-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=16,Mean,28.4
+2200,K-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=17,Mean,35.9
+2200,K-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=18,Mean,12
+2200,Kl-Low,1997,8,,,stocking density,Low,Plants,,,,Plant canopy cover >=19,Mean,21.4
+2200,Kl-High,1997,8,,,stocking density,High,Plants,,,,Plant canopy cover >=20,Mean,7
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Gerbillurus paeba,Count,4
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,# Gerbillurus paeba,Count,3
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Gerbillurus paeba,Count,17
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,# Gerbillurus paeba,Count,25
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Gerbillurus paeba,Count,4
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,# Gerbillurus paeba,Count,5
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Rhabdomys pumilio,Count,31
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,# Rhabdomys pumilio,Count,13
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Rhabdomys pumilio,Count,18
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,# Rhabdomys pumilio,Count,0
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Rhabdomys pumilio,Count,0
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,# Rhabdomys pumilio,Count,0
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Aethomys namaquensis,Count,0
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,# Aethomys namaquensis,Count,0
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Aethomys namaquensis,Count,0
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,# Aethomys namaquensis,Count,0
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Aethomys namaquensis,Count,7
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,# Aethomys namaquensis,Count,0
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Otomys unisulcatus,Count,0
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,# Otomys unisulcatus,Count,0
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Otomys unisulcatus,Count,1
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,# Otomys unisulcatus,Count,0
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Otomys unisulcatus,Count,0
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,# Otomys unisulcatus,Count,0
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Macroscelides probiscideus,Count,8
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,# Macroscelides probiscideus,Count,4
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Macroscelides probiscideus,Count,12
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,# Macroscelides probiscideus,Count,2
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Macroscelides probiscideus,Count,3
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,# Macroscelides probiscideus,Count,0
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Suncus varilla,Count,1
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,# Suncus varilla,Count,0
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Suncus varilla,Count,0
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,# Suncus varilla,Count,0
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,# Suncus varilla,Count,0
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,# Suncus varilla,Count,0
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,Total small mammal individuals,Count,44
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,Total small mammal individuals,Count,20
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,Total small mammal individuals,Count,48
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,Total small mammal individuals,Count,27
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,Total small mammal individuals,Count,14
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,Total small mammal individuals,Count,5
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,Species richness,Count,4
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,Species richness,Count,3
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,Species richness,Count,4
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,Species richness,Count,2
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,Species richness,Count,3
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,Species richness,Count,1
+2200,S-Low,1997,8,,,stocking density,Low,Mammalia,,,,Diversity (Shannon's H),Mean,86
+2200,S-High,1997,8,,,stocking density,High,Mammalia,,,,Diversity (Shannon's H),Mean,89
+2200,K-Low,1997,8,,,stocking density,Low,Mammalia,,,,Diversity (Shannon's H),Mean,16
+2200,K-High,1997,8,,,stocking density,High,Mammalia,,,,Diversity (Shannon's H),Mean,27
+2200,Kl-Low,1997,8,,,stocking density,Low,Mammalia,,,,Diversity (Shannon's H),Mean,4
+2200,Kl-High,1997,8,,,stocking density,High,Mammalia,,,,Diversity (Shannon's H),Mean,0

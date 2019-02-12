@@ -1,0 +1,61 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value,Order
+1170,,2003,24,high,0,sheep/ha,3,Plants,,,,vegetation height,mean,33.42857143,
+1170,,2003,24,high,0,sheep/ha,3,Plants,,,,vegetation height,se,5.714285714,
+1170,,2003,24,low,0,sheep/ha,1,Plants,,,,vegetation height,mean,40.28571429,
+1170,,2003,24,low,0,sheep/ha,1,Plants,,,,vegetation height,se,8.285714286,
+1170,,2003,24,ungrazed,1,sheep/ha,0,Plants,,,,vegetation height,mean,48.57142857,
+1170,,2003,24,ungrazed,1,sheep/ha,0,Plants,,,,vegetation height,se,6.857142857,
+1170,,2004,24,high,0,sheep/ha,3,Plants,,,,vegetation height,mean,34.28571429,
+1170,,2004,24,high,0,sheep/ha,3,Plants,,,,vegetation height,se,9.428571429,
+1170,,2004,24,low,0,sheep/ha,1,Plants,,,,vegetation height,mean,40,
+1170,,2004,24,low,0,sheep/ha,1,Plants,,,,vegetation height,se,4.857142857,
+1170,,2004,24,ungrazed,1,sheep/ha,0,Plants,,,,vegetation height,mean,41.42857143,
+1170,,2004,24,ungrazed,1,sheep/ha,0,Plants,,,,vegetation height,se,8,
+1170,,2003,24,high,0,sheep/ha,3,Arthropod,,,,abundance,mean,40.60150376,Auchenorrhyncha
+1170,,2003,24,high,0,sheep/ha,3,Arthropod,,,,abundance,se,10.9962406,Auchenorrhyncha
+1170,,2003,24,low,0,sheep/ha,1,Arthropod,,,,abundance,mean,44.83082707,Auchenorrhyncha
+1170,,2003,24,low,0,sheep/ha,1,Arthropod,,,,abundance,se,7.612781955,Auchenorrhyncha
+1170,,2003,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,mean,52.44360902,Auchenorrhyncha
+1170,,2003,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,se,13.53383459,Auchenorrhyncha
+1170,,2004,24,high,0,sheep/ha,3,Arthropod,,,,abundance,mean,74.43609023,Auchenorrhyncha
+1170,,2004,24,high,0,sheep/ha,3,Arthropod,,,,abundance,se,29.60526316,Auchenorrhyncha
+1170,,2004,24,low,0,sheep/ha,1,Arthropod,,,,abundance,mean,103.1954887,Auchenorrhyncha
+1170,,2004,24,low,0,sheep/ha,1,Arthropod,,,,abundance,se,28.7593985,Auchenorrhyncha
+1170,,2004,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,mean,153.1015038,Auchenorrhyncha
+1170,,2004,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,se,49.90601504,Auchenorrhyncha
+1170,,2003,24,high,0,sheep/ha,3,Arthropod,,,,abundance,mean,6.641509434,Diptera
+1170,,2003,24,high,0,sheep/ha,3,Arthropod,,,,abundance,se,2.475471698,Diptera
+1170,,2003,24,low,0,sheep/ha,1,Arthropod,,,,abundance,mean,5.916981132,Diptera
+1170,,2003,24,low,0,sheep/ha,1,Arthropod,,,,abundance,se,1.871698113,Diptera
+1170,,2003,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,mean,6.4,Diptera
+1170,,2003,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,se,2.958490566,Diptera
+1170,,2004,24,high,0,sheep/ha,3,Arthropod,,,,abundance,mean,11.41132075,Diptera
+1170,,2004,24,high,0,sheep/ha,3,Arthropod,,,,abundance,se,2.656603774,Diptera
+1170,,2004,24,low,0,sheep/ha,1,Arthropod,,,,abundance,mean,9.298113208,Diptera
+1170,,2004,24,low,0,sheep/ha,1,Arthropod,,,,abundance,se,2.535849057,Diptera
+1170,,2004,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,mean,9.056603774,Diptera
+1170,,2004,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,se,3.562264151,Diptera
+1170,,2003,24,high,0,sheep/ha,3,Arthropod,,,,abundance,mean,5.813148789,Arachnid
+1170,,2003,24,high,0,sheep/ha,3,Arthropod,,,,abundance,se,1.349480969,Arachnid
+1170,,2003,24,low,0,sheep/ha,1,Arthropod,,,,abundance,mean,5.259515571,Arachnid
+1170,,2003,24,low,0,sheep/ha,1,Arthropod,,,,abundance,se,0.968858131,Arachnid
+1170,,2003,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,mean,6.574394464,Arachnid
+1170,,2003,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,se,1.314878893,Arachnid
+1170,,2004,24,high,0,sheep/ha,3,Arthropod,,,,abundance,mean,5.155709343,Arachnid
+1170,,2004,24,high,0,sheep/ha,3,Arthropod,,,,abundance,se,0.657439446,Arachnid
+1170,,2004,24,low,0,sheep/ha,1,Arthropod,,,,abundance,mean,5.916955017,Arachnid
+1170,,2004,24,low,0,sheep/ha,1,Arthropod,,,,abundance,se,0.692041522,Arachnid
+1170,,2004,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,mean,7.577854671,Arachnid
+1170,,2004,24,ungrazed,1,sheep/ha,0,Arthropod,,,,abundance,se,1.176470588,Arachnid
+1170,,2003,24,high,0,sheep/ha,3,Arthropod,,,,richness,mean,11.53846154,Arachnid
+1170,,2003,24,high,0,sheep/ha,3,Arthropod,,,,richness,se,3.776223776,Arachnid
+1170,,2003,24,low,0,sheep/ha,1,Arthropod,,,,richness,mean,10.90909091,Arachnid
+1170,,2003,24,low,0,sheep/ha,1,Arthropod,,,,richness,se,2.307692308,Arachnid
+1170,,2003,24,ungrazed,1,sheep/ha,0,Arthropod,,,,richness,mean,13.95104895,Arachnid
+1170,,2003,24,ungrazed,1,sheep/ha,0,Arthropod,,,,richness,se,3.146853147,Arachnid
+1170,,2004,24,high,0,sheep/ha,3,Arthropod,,,,richness,mean,10.48951049,Arachnid
+1170,,2004,24,high,0,sheep/ha,3,Arthropod,,,,richness,se,1.783216783,Arachnid
+1170,,2004,24,low,0,sheep/ha,1,Arthropod,,,,richness,mean,13.63636364,Arachnid
+1170,,2004,24,low,0,sheep/ha,1,Arthropod,,,,richness,se,2.202797203,Arachnid
+1170,,2004,24,ungrazed,1,sheep/ha,0,Arthropod,,,,richness,mean,21.08391608,Arachnid
+1170,,2004,24,ungrazed,1,sheep/ha,0,Arthropod,,,,richness,se,5.979020979,Arachnid

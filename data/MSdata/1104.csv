@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1104,grassland,,4,grazed,0,,,Mammal,Sylvilagus,,,numbers/count,mean,0.034363636
+1104,grassland,,4,grazed,0,,,Mammal,Sylvilagus,,,numbers/count,se,0.023454545
+1104,mesquite,,4,grazed,0,,,Mammal,Sylvilagus,,,numbers/count,mean,0.026181818
+1104,mesquite,,4,grazed,0,,,Mammal,Sylvilagus,,,numbers/count,se,0.016363636
+1104,oak,,4,grazed,0,,,Mammal,Sylvilagus,,,numbers/count,mean,0.009272727
+1104,oak,,4,grazed,0,,,Mammal,Sylvilagus,,,numbers/count,se,0.008727273
+1104,grassland,,4,ungrazed,>20,,,Mammal,Sylvilagus,,,numbers/count,mean,0.121090909
+1104,grassland,,4,ungrazed,>20,,,Mammal,Sylvilagus,,,numbers/count,se,0.051818182
+1104,mesquite,,4,ungrazed,>20,,,Mammal,Sylvilagus,,,numbers/count,mean,0.009272727
+1104,mesquite,,4,ungrazed,>20,,,Mammal,Sylvilagus,,,numbers/count,se,0.008181818
+1104,oak,,4,ungrazed,>20,,,Mammal,Sylvilagus,,,numbers/count,mean,0.016909091
+1104,oak,,4,ungrazed,>20,,,Mammal,Sylvilagus,,,numbers/count,se,0.010363636

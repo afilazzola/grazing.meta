@@ -1,0 +1,33 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+848,Lokern,2006,4,grazed,0,,,Lizard,Gambelia,sila,,abundance,mean,16.6
+848,Lokern,2006,4,grazed,0,,,Lizard,Gambelia,sila,,abundance,sterror,6
+848,Lokern,2006,4,ungrazed,10,,,Lizard,Gambelia,sila,,abundance,mean,2.8
+848,Lokern,2006,4,ungrazed,10,,,Lizard,Gambelia,sila,,abundance,sterror,2.5
+848,Lokern,2006,4,grazed,0,,,Lizard,Aspidoscelis,tigris,,abundance,mean,116.1
+848,Lokern,2006,4,grazed,0,,,Lizard,Aspidoscelis,tigris,,abundance,sterror,42.9
+848,Lokern,2006,4,ungrazed,10,,,Lizard,Aspidoscelis,tigris,,abundance,mean,98.2
+848,Lokern,2006,4,ungrazed,10,,,Lizard,Aspidoscelis,tigris,,abundance,sterror,18
+848,Lokern,2006,4,grazed,0,,,Lizard,Uta,stansburiana,,abundance,mean,420
+848,Lokern,2006,4,grazed,0,,,Lizard,Uta,stansburiana,,abundance,sterror,125.7
+848,Lokern,2006,4,ungrazed,10,,,Lizard,Uta,stansburiana,,abundance,mean,321.8
+848,Lokern,2006,4,ungrazed,10,,,Lizard,Uta,stansburiana,,abundance,sterror,76.6
+848,Lokern,2006,4,grazed,0,,,Mammals,Ammospermophilus,nelsoni,,abundance,mean,33.7
+848,Lokern,2006,4,grazed,0,,,Mammals,Ammospermophilus,nelsoni,,abundance,sterror,4.6
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Ammospermophilus,nelsoni,,abundance,mean,17.9
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Ammospermophilus,nelsoni,,abundance,sterror,3.5
+848,Lokern,2006,4,grazed,0,,,Mammals,Dipodomys, nitratoides,,abundance,mean,48.4
+848,Lokern,2006,4,grazed,0,,,Mammals,Dipodomys, nitratoides,,abundance,sterror,10
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Dipodomys, nitratoides,,abundance,mean,29.9
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Dipodomys, nitratoides,,abundance,sterror,5.5
+848,Lokern,2006,4,grazed,0,,,Mammals,Dipdomys ,heermanni,,abundance,mean,0.6
+848,Lokern,2006,4,grazed,0,,,Mammals,Dipdomys ,heermanni,,abundance,sterror,0.6
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Dipdomys ,heermanni,,abundance,mean,5
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Dipdomys ,heermanni,,abundance,sterror,2.6
+848,Lokern,2006,4,grazed,0,,,Mammals,Dipodomys ,ingens,,abundance,mean,3.4
+848,Lokern,2006,4,grazed,0,,,Mammals,Dipodomys ,ingens,,abundance,sterror,2.5
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Dipodomys ,ingens,,abundance,mean,0.28
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Dipodomys ,ingens,,abundance,sterror,0.18
+848,Lokern,2006,4,grazed,0,,,Mammals,Perognathus, inornatus,,abundance,mean,0.5
+848,Lokern,2006,4,grazed,0,,,Mammals,Perognathus, inornatus,,abundance,sterror,0.5
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Perognathus, inornatus,,abundance,mean,3.4
+848,Lokern,2006,4,ungrazed,10,,,Mammals,Perognathus, inornatus,,abundance,sterror,0.7

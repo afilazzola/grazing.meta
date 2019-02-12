@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+621,Cordoba,2002,8,grazed,0,AUM/ha,1,Avifauna,,,,density/transect,mean,12.42
+622,Cordoba,2002,8,grazed,0,AUM/ha,1,Avifauna,,,,density/transect,sterror,1.055
+623,Cordoba,2002,8,ungrazed,4,AUM/ha,0,Avifauna,,,,density/transect,mean,9.02
+624,Cordoba,2002,8,ungrazed,4,AUM/ha,0,Avifauna,,,,density/transect,sterror,0.82
+625,Cordoba,2002,8,grazed,0,AUM/ha,1,Avifauna,,,,richness/transect,mean,12.66
+626,Cordoba,2002,8,grazed,0,AUM/ha,1,Avifauna,,,,richness/transect,sterror,0.7
+627,Cordoba,2002,8,ungrazed,4,AUM/ha,0,Avifauna,,,,richness/transect,mean,9.8
+628,Cordoba,2002,8,ungrazed,4,AUM/ha,0,Avifauna,,,,richness/transect,sterror,1.06

@@ -1,0 +1,22 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1788,MWC,2012,45,wild large herbivores and cattle,0,,,AMF,,,,richness,mean,12.587
+1788,MW,2012,45,wild large herbivores,0,,,AMF,,,,richness,mean,13.217
+1788,O,2012,45,ungrazed,17,,,AMF,,,,richness,mean,12.755
+1788,MWC,2012,45,wild large herbivores and cattle,0,,,AMF,,,,percent root length colonization,mean,57.415
+1788,MW,2012,45,wild large herbivores,0,,,AMF,,,,percent root length colonization,mean,36.054
+1788,O,2012,45,ungrazed,17,,,AMF,,,,percent root length colonization,mean,46.122
+1788,MWC,2012,45,wild large herbivores and cattle,0,,,AMF,,,,percent root length colonization,se,2.449
+1788,MW,2012,45,wild large herbivores,0,,,AMF,,,,percent root length colonization,se,2.177
+1788,O,2012,45,ungrazed,17,,,AMF,,,,percent root length colonization,se,2.585
+1788,MWC,2012,45,wild large herbivores and cattle,0,,,AMF,,,,nutrient exchange site colonization,mean,28.438
+1788,MW,2012,45,wild large herbivores,0,,,AMF,,,,nutrient exchange site colonization,mean,41.656
+1788,O,2012,45,ungrazed,17,,,AMF,,,,nutrient exchange site colonization,mean,22.563
+1788,MWC,2012,45,wild large herbivores and cattle,0,,,AMF,,,,nutrient exchange site colonization,se,2.27
+1788,MW,2012,45,wild large herbivores,0,,,AMF,,,,nutrient exchange site colonization,se,2.136
+1788,O,2012,45,ungrazed,17,,,AMF,,,,nutrient exchange site colonization,se,2.537
+1788,MWC,2012,45,wild large herbivores and cattle,0,,,AMF,,,,vesicle colonization,mean,64.795
+1788,MW,2012,45,wild large herbivores,0,,,AMF,,,,vesicle colonization,mean,38.219
+1788,O,2012,45,ungrazed,17,,,AMF,,,,vesicle colonization,mean,62.466
+1788,MWC,2012,45,wild large herbivores and cattle,0,,,AMF,,,,vesicle colonization,se,2.876
+1788,MW,2012,45,wild large herbivores,0,,,AMF,,,,vesicle colonization,se,2.603
+1788,O,2012,45,ungrazed,17,,,AMF,,,,vesicle colonization,se,2.876

@@ -1,0 +1,33 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1190,,,6,grazed,5,,,Plants,,,,biomass,mean,229
+1190,,,6,grazed,5,,,Plants,,,,biomass,se,26
+1190,,,6,ungrazed,5,,,Plants,,,,biomass,mean,445
+1190,,,6,ungrazed,5,,,Plants,,,,biomass,se,61
+1190,,,6,grazed,5,,,bacteria,,,,10^9 cells/g,mean,8.9
+1190,,,6,grazed,5,,,bacteria,,,,10^9 cells/g,se,0.6
+1190,,,6,ungrazed,5,,,bacteria,,,,10^9 cells/g,mean,9.6
+1190,,,6,ungrazed,5,,,bacteria,,,,10^9 cells/g,se,1.1
+1190,,,6,grazed,5,,,nematodes,,,,individuals/g,mean,24.4
+1190,,,6,grazed,5,,,nematodes,,,,individuals/g,se,4
+1190,,,6,ungrazed,5,,,nematodes,,,,individuals/g,mean,32
+1190,,,6,ungrazed,5,,,nematodes,,,,individuals/g,se,5
+1190,,,6,grazed,5,,,Enchytraeids,,,,individuals/g,mean,1.2
+1190,,,6,grazed,5,,,Enchytraeids,,,,individuals/g,se,0.3
+1190,,,6,ungrazed,5,,,Enchytraeids,,,,individuals/g,mean,1.9
+1190,,,6,ungrazed,5,,,Enchytraeids,,,,individuals/g,se,0.7
+1190,,,6,grazed,15,,,Plants,,,,biomass,mean,223
+1190,,,6,grazed,15,,,Plants,,,,biomass,se,47
+1190,,,6,ungrazed,15,,,Plants,,,,biomass,mean,560
+1190,,,6,ungrazed,15,,,Plants,,,,biomass,se,79
+1190,,,6,grazed,15,,,bacteria,,,,10^9 cells/g,mean,13.2
+1190,,,6,grazed,15,,,bacteria,,,,10^9 cells/g,se,1.2
+1190,,,6,ungrazed,15,,,bacteria,,,,10^9 cells/g,mean,11.2
+1190,,,6,ungrazed,15,,,bacteria,,,,10^9 cells/g,se,1.3
+1190,,,6,grazed,15,,,nematodes,,,,individuals/g,mean,47
+1190,,,6,grazed,15,,,nematodes,,,,individuals/g,se,11
+1190,,,6,ungrazed,15,,,nematodes,,,,individuals/g,mean,30
+1190,,,6,ungrazed,15,,,nematodes,,,,individuals/g,se,4
+1190,,,6,grazed,15,,,Enchytraeids,,,,individuals/g,mean,1.4
+1190,,,6,grazed,15,,,Enchytraeids,,,,individuals/g,se,0.5
+1190,,,6,ungrazed,15,,,Enchytraeids,,,,individuals/g,mean,1.3
+1190,,,6,ungrazed,15,,,Enchytraeids,,,,individuals/g,se,0.4

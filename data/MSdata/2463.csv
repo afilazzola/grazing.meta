@@ -1,0 +1,61 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2463,1,2014,9,grazed,,grazing intensity (binned % utilization available forage),light,Aves,All ducks,,,Nest destruction by cattle ,Mean,151
+2463,2,2014,9,grazed,,grazing intensity (binned % utilization available forage),light,Aves,All ducks,,,% Nest destruction by cattle / nests surveyed,Mean,0
+2463,3,2014,9,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,All ducks,,,Nest destruction by cattle ,Mean,2545
+2463,4,2014,9,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,All ducks,,,% Nest destruction by cattle / nests surveyed,Mean,0.8
+2463,5,2014,9,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,All ducks,,,Nest destruction by cattle ,Mean,76
+2463,6,2014,9,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,All ducks,,,% Nest destruction by cattle / nests surveyed,Mean,15.8
+2463,7,2014,6,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Blue-winged teal,,,Nest destruction by cattle ,Mean,60
+2463,8,2014,6,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Blue-winged teal,,,% Nest destruction by cattle / nests surveyed,Mean,0
+2463,9,2014,6,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Blue-winged teal,,,Nest destruction by cattle ,Mean,425
+2463,10,2014,6,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Blue-winged teal,,,% Nest destruction by cattle / nests surveyed,Mean,0.7
+2463,11,2014,6,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Blue-winged teal,,,Nest destruction by cattle ,Mean,33
+2463,12,2014,6,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Blue-winged teal,,,% Nest destruction by cattle / nests surveyed,Mean,6.1
+2463,13,2014,5,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Northern shoveler,,,Nest destruction by cattle ,Mean,24
+2463,14,2014,5,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Northern shoveler,,,% Nest destruction by cattle / nests surveyed,Mean,0
+2463,15,2014,5,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Northern shoveler,,,Nest destruction by cattle ,Mean,446
+2463,16,2014,5,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Northern shoveler,,,% Nest destruction by cattle / nests surveyed,Mean,1.1
+2463,17,2014,5,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Northern shoveler,,,Nest destruction by cattle ,Mean,6
+2463,18,2014,5,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Northern shoveler,,,% Nest destruction by cattle / nests surveyed,Mean,33.3
+2463,19,2014,9,grazed,,grazing intensity (binned % utilization available forage),light,Aves,All passerines,,,Nest destruction by cattle ,Mean,1046
+2463,20,2014,9,grazed,,grazing intensity (binned % utilization available forage),light,Aves,All passerines,,,% Nest destruction by cattle / nests surveyed,Mean,0.9
+2463,21,2014,9,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,All passerines,,,Nest destruction by cattle ,Mean,1250
+2463,22,2014,9,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,All passerines,,,% Nest destruction by cattle / nests surveyed,Mean,1.7
+2463,23,2014,9,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,All passerines,,,Nest destruction by cattle ,Mean,211
+2463,24,2014,9,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,All passerines,,,% Nest destruction by cattle / nests surveyed,Mean,3.3
+2463,25,2014,7,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Sprague's pipit,,,Nest destruction by cattle ,Mean,269
+2463,26,2014,7,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Sprague's pipit,,,% Nest destruction by cattle / nests surveyed,Mean,0.7
+2463,27,2014,7,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Sprague's pipit,,,Nest destruction by cattle ,Mean,56
+2463,28,2014,7,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Sprague's pipit,,,% Nest destruction by cattle / nests surveyed,Mean,5.4
+2463,29,2014,7,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Sprague's pipit,,,Nest destruction by cattle ,Mean,4
+2463,30,2014,7,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Sprague's pipit,,,% Nest destruction by cattle / nests surveyed,Mean,25
+2463,31,2014,7,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Savannah sparrow,,,Nest destruction by cattle ,Mean,470
+2463,32,2014,7,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Savannah sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,0.4
+2463,33,2014,7,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Savannah sparrow,,,Nest destruction by cattle ,Mean,134
+2463,34,2014,7,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Savannah sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,1.5
+2463,35,2014,7,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Savannah sparrow,,,Nest destruction by cattle ,Mean,12
+2463,36,2014,7,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Savannah sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,8.3
+2463,37,2014,6,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Clay-colored sparrow,,,Nest destruction by cattle ,Mean,29
+2463,38,2014,6,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Clay-colored sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,3.4
+2463,39,2014,6,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Clay-colored sparrow,,,Nest destruction by cattle ,Mean,241
+2463,40,2014,6,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Clay-colored sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,2.9
+2463,41,2014,6,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Clay-colored sparrow,,,Nest destruction by cattle ,Mean,6
+2463,42,2014,6,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Clay-colored sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,0
+2463,43,2014,7,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Vesper sparrow,,,Nest destruction by cattle ,Mean,127
+2463,44,2014,7,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Vesper sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,2.4
+2463,45,2014,7,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Vesper sparrow,,,Nest destruction by cattle ,Mean,166
+2463,46,2014,7,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Vesper sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,1.2
+2463,47,2014,7,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Vesper sparrow,,,Nest destruction by cattle ,Mean,101
+2463,48,2014,7,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Vesper sparrow,,,% Nest destruction by cattle / nests surveyed,Mean,3
+2463,49,2014,5,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Chesnut-collared longspur,,,Nest destruction by cattle ,Mean,34
+2463,50,2014,5,grazed,,grazing intensity (binned % utilization available forage),light,Aves,Chesnut-collared longspur,,,% Nest destruction by cattle / nests surveyed,Mean,0
+2463,51,2014,5,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Chesnut-collared longspur,,,Nest destruction by cattle ,Mean,381
+2463,52,2014,5,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,Chesnut-collared longspur,,,% Nest destruction by cattle / nests surveyed,Mean,0.5
+2463,53,2014,5,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Chesnut-collared longspur,,,Nest destruction by cattle ,Mean,26
+2463,54,2014,5,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,Chesnut-collared longspur,,,% Nest destruction by cattle / nests surveyed,Mean,3.8
+2463,55,2014,6,grazed,,grazing intensity (binned % utilization available forage),light,Aves,All shorebirds,,,Nest destruction by cattle ,Mean,43
+2463,56,2014,6,grazed,,grazing intensity (binned % utilization available forage),light,Aves,All shorebirds,,,% Nest destruction by cattle / nests surveyed,Mean,0
+2463,57,2014,6,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,All shorebirds,,,Nest destruction by cattle ,Mean,538
+2463,58,2014,6,grazed,,grazing intensity (binned % utilization available forage),moderate,Aves,All shorebirds,,,% Nest destruction by cattle / nests surveyed,Mean,0.2
+2463,59,2014,6,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,All shorebirds,,,Nest destruction by cattle ,Mean,53
+2463,60,2014,6,grazed,,grazing intensity (binned % utilization available forage),heavy,Aves,All shorebirds,,,% Nest destruction by cattle / nests surveyed,Mean,3.8

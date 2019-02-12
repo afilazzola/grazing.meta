@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+391,multisite,1998,4,grazed,,,,Rodenta,Micotus,spp.,,Percent reproductive individuals,mean,86.75
+391,multisite,1998,4,grazed,,,,Rodenta,Micotus,spp.,,Percent reproductive individuals,se,10.25
+391,multisite,1998,4,ungrazed,,,,Rodenta,Micotus,spp.,,Percent reproductive individuals,mean,100
+391,multisite,1998,4,ungrazed,,,,Rodenta,Micotus,spp.,,Percent reproductive individuals,se,1
+391,multisite,1998,4,grazed,,,,Rodenta,Micotus,spp.,,litter size,mean,5.34
+391,multisite,1998,4,grazed,,,,Rodenta,Micotus,spp.,,litter size,se,0.3
+391,multisite,1998,4,ungrazed,,,,Rodenta,Micotus,spp.,,litter size,mean,4.54
+391,multisite,1998,4,ungrazed,,,,Rodenta,Micotus,spp.,,litter size,se,0.54
+391,multisite,1998,4,grazed,,,,Rodenta,Micotus,spp.,,productivity,mean,4.6
+391,multisite,1998,4,grazed,,,,Rodenta,Micotus,spp.,,productivity,se,0.22
+391,multisite,1998,4,ungrazed,,,,Rodenta,Micotus,spp.,,productivity,mean,4.55
+391,multisite,1998,4,ungrazed,,,,Rodenta,Micotus,spp.,,productivity,se,0.51

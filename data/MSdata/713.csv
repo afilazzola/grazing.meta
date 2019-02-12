@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+713,GoldTrout,2004,8,grazed,0,,,"Benthic invertebrates (Ephemeroptera, Plecoptera, Trichoptera)",,,,Total taxon richness,mean,31.5
+713,GoldTrout,2004,8,grazed,0,,,"Benthic invertebrates (Ephemeroptera, Plecoptera, Trichoptera)",,,,Total taxon richness,sterror,4.2
+713,GoldTrout,2004,8,ungrazed,10,,,"Benthic invertebrates (Ephemeroptera, Plecoptera, Trichoptera)",,,,Total taxon richness,mean,36.6
+713,GoldTrout,2004,8,ungrazed,10,,,"Benthic invertebrates (Ephemeroptera, Plecoptera, Trichoptera)",,,,Total taxon richness,sterror,5.3

@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+732,sardin,2005,10,grazed,0,sheep/ha,0.41,Microbe community (sugar substrate),,,,Avg. optical density (OD590),mean,1.39
+732,sardin,2005,10,grazed,0,sheep/ha,0.41,Microbe community (sugar substrate),,,,Avg. optical density (OD590),sterror,0.07
+732,sardin,2005,10,ungrazed,5,sheep/ha,0,Microbe community (sugar substrate),,,,Avg. optical density (OD590),mean,1.83
+732,sardin,2005,10,ungrazed,5,sheep/ha,0,Microbe community (sugar substrate),,,,Avg. optical density (OD590),sterror,0.11
+732,sardin,2005,10,grazed,0,sheep/ha,0.41,Microbe community (carboxylic acids),,,,Avg. optical density (OD590),mean,1.61
+732,sardin,2005,10,grazed,0,sheep/ha,0.41,Microbe community (carboxylic acids),,,,Avg. optical density (OD590),sterror,0.02
+732,sardin,2005,10,ungrazed,5,sheep/ha,0,Microbe community (carboxylic acids),,,,Avg. optical density (OD590),mean,1.63
+732,sardin,2005,10,ungrazed,5,sheep/ha,0,Microbe community (carboxylic acids),,,,Avg. optical density (OD590),sterror,0.02
+732,sardin,2005,10,grazed,0,sheep/ha,0.41,Microbe community (amino acids),,,,Avg. optical density (OD590),mean,1.47
+732,sardin,2005,10,grazed,0,sheep/ha,0.41,Microbe community (amino acids),,,,Avg. optical density (OD590),sterror,0.08
+732,sardin,2005,10,ungrazed,5,sheep/ha,0,Microbe community (amino acids),,,,Avg. optical density (OD590),mean,1.66
+732,sardin,2005,10,ungrazed,5,sheep/ha,0,Microbe community (amino acids),,,,Avg. optical density (OD590),sterror,0.13
+732,sardin,2005,10,grazed,0,sheep/ha,0.41,Microbe community (polymers),,,,Avg. optical density (OD590),mean,1.32
+732,sardin,2005,10,grazed,0,sheep/ha,0.41,Microbe community (polymers),,,,Avg. optical density (OD590),sterror,0.07
+732,sardin,2005,10,ungrazed,5,sheep/ha,0,Microbe community (polymers),,,,Avg. optical density (OD590),mean,1.78
+732,sardin,2005,10,ungrazed,5,sheep/ha,0,Microbe community (polymers),,,,Avg. optical density (OD590),sterror,0.27

@@ -1,0 +1,401 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2118,,2003,42,extensive,0,cattle per ha,0.5,plant,,,,richness,count,266
+2118,,2003,42,intensive,0,cattle per ha,>1,plant,,,,richness,count,256
+2118,,2003,42,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,richness,count,37
+2118,,2003,42,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,richness,count,38
+2118,,2003,42,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,richness,count,79
+2118,,2003,42,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,richness,count,69
+2118,,2003,42,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,richness,count,116
+2118,,2003,42,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,richness,count,104
+2118,,2003,42,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,richness,count,93
+2118,,2003,42,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,richness,count,85
+2118,,2003,42,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,richness,count,100
+2118,,2003,42,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,richness,count,97
+2118,,2003,42,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,richness,count,76
+2118,,2003,42,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,richness,count,64
+2118,,2003,42,extensive,0,cattle per ha,0.5,aves,bird,,,richness,count,35
+2118,,2003,42,intensive,0,cattle per ha,>1,aves,bird,,,richness,count,36
+2118,,2003,42,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,richness,count,77
+2118,,2003,42,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,richness,count,75
+2118,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,spider,,,richness,count,79
+2118,,2003,42,intensive,0,cattle per ha,>1,arthropoda,spider,,,richness,count,73
+2118,,2003,42,extensive,0,cattle per ha,0.5,plant,,,,richness,count,1709
+2118,,2003,42,intensive,0,cattle per ha,>1,plant,,,,richness,count,1626
+2118,,2003,42,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,richness,count,1868
+2118,,2003,42,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,richness,count,1441
+2118,,2003,42,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,richness,count,11968
+2118,,2003,42,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,richness,count,15299
+2118,,2003,42,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,richness,count,4250
+2118,,2003,42,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,richness,count,2425
+2118,,2003,42,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,richness,count,238
+2118,,2003,42,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,richness,count,245
+2118,,2003,42,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,richness,count,762
+2118,,2003,42,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,richness,count,737
+2118,,2003,42,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,richness,count,1882
+2118,,2003,42,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,richness,count,2321
+2118,,2003,42,extensive,0,cattle per ha,0.5,aves,bird,,,number of territory,count,463
+2118,,2003,42,intensive,0,cattle per ha,>1,aves,bird,,,number of territory,count,285
+2118,,2003,42,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,richness,count,1154
+2118,,2003,42,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,richness,count,1636
+2118,,2003,42,extensive,0,cattle per ha,0.5,arthropoda,spider,,,richness,count,2874
+2118,,2003,42,intensive,0,cattle per ha,>1,arthropoda,spider,,,richness,count,2783
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,plant,,,,alpha diversity,mean,41.937
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,plant,,,,alpha diversity,mean,39.434
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,plant,,,,alpha diversity,mean,81.371
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,plant,,,,alpha diversity,mean,62.176
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,plant,,,,alpha diversity,mean,32.966
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,plant,,,,alpha diversity,mean,37.973
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,plant,,,,alpha diversity,sd,17.109
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,plant,,,,alpha diversity,sd,17.943
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,plant,,,,alpha diversity,sd,5.425
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,plant,,,,alpha diversity,sd,10.641
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,plant,,,,alpha diversity,sd,7.302
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,plant,,,,alpha diversity,sd,10.224
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,plant,,,,beta diversity,mean,82.414
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,plant,,,,beta diversity,mean,83.666
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,plant,,,,beta diversity,mean,116.632
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,plant,,,,beta diversity,mean,109.121
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,plant,,,,beta diversity,mean,53.83
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,plant,,,,beta diversity,mean,70.73
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,plant,,,,beta diversity,sd,16.275
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,plant,,,,beta diversity,sd,17.944
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,plant,,,,beta diversity,sd,5.842
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,plant,,,,beta diversity,sd,10.015
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,plant,,,,beta diversity,sd,6.468
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,plant,,,,beta diversity,sd,10.432
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,plant,,,,cover,mean,87.841
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,plant,,,,cover,mean,88.576
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,plant,,,,cover,mean,97.397
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,plant,,,,cover,mean,90.046
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,plant,,,,cover,mean,88.025
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,plant,,,,cover,mean,81.409
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,plant,,,,cover,sd,6.799
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,plant,,,,cover,sd,4.41
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,plant,,,,cover,sd,1.837
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,plant,,,,cover,sd,7.167
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,plant,,,,cover,sd,6.248
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,plant,,,,cover,sd,12.68
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,alpha diversity,mean,22.927
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,alpha diversity,mean,17.587
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,alpha diversity,mean,31.329
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,alpha diversity,mean,26.06
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,alpha diversity,mean,12.888
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,alpha diversity,mean,15.807
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,alpha diversity,sd,6.978
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,alpha diversity,sd,7.69
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,alpha diversity,sd,3.774
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,alpha diversity,sd,3.774
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,alpha diversity,sd,5.909
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,alpha diversity,sd,4.201
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,beta diversity,mean,28.196
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,beta diversity,mean,25.704
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,beta diversity,mean,35.957
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,beta diversity,mean,29.122
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,beta diversity,mean,16.448
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,beta diversity,mean,19.438
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,beta diversity,sd,6.907
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,beta diversity,sd,7.405
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,beta diversity,sd,3.774
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,beta diversity,sd,4.13
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,beta diversity,sd,5.91
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,beta diversity,sd,4.13
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,abundance,mean,788.937
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,abundance,mean,1295.488
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,abundance,mean,605.531
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,abundance,mean,576.419
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,abundance,mean,320.233
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,abundance,mean,311.499
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,abundance,sd,608.443
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,abundance,sd,579.33
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,abundance,sd,593.887
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,abundance,sd,360.99
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,leafhoppers,,,abundance,sd,317.322
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,leafhoppers,,,abundance,sd,244.542
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,alpha diversity,mean,16.941
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,alpha diversity,mean,16.235
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,alpha diversity,mean,26.941
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,alpha diversity,mean,21.176
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,alpha diversity,mean,11.529
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,alpha diversity,mean,10.706
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,alpha diversity,sd,10.118
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,alpha diversity,sd,8.941
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,alpha diversity,sd,13.53
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,alpha diversity,sd,9.177
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,alpha diversity,sd,7.059
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,alpha diversity,sd,6.235
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,beta diversity,mean,40.471
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,beta diversity,mean,46.353
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,beta diversity,mean,40.706
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,beta diversity,mean,61.647
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,beta diversity,mean,31.059
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,beta diversity,mean,34.824
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,beta diversity,sd,10
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,beta diversity,sd,8.941
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,beta diversity,sd,14.235
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,beta diversity,sd,9.294
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,beta diversity,sd,7.176
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,beta diversity,sd,6.352
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,abundance,mean,267.293
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,abundance,mean,199.374
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,abundance,mean,224.57
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,abundance,mean,81.064
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,abundance,mean,119.405
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,abundance,mean,66.823
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,abundance,sd,307.824
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,abundance,sd,322.066
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,abundance,sd,192.801
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,abundance,sd,32.864
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hemiptera,true bag,,,abundance,sd,181.847
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hemiptera,true bag,,,abundance,sd,70.11
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,alpha diversity,mean,12.481
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,alpha diversity,mean,9.94
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,alpha diversity,mean,15.359
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,alpha diversity,mean,15.658
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,alpha diversity,mean,13.154
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,alpha diversity,mean,13.789
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,alpha diversity,sd,3.625
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,alpha diversity,sd,1.869
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,alpha diversity,sd,3.774
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,alpha diversity,sd,3.139
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,alpha diversity,sd,2.466
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,alpha diversity,sd,2.766
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,beta diversity,mean,8.931
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,beta diversity,mean,5.717
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,beta diversity,mean,16.143
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,beta diversity,mean,16.256
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,beta diversity,mean,8.333
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,beta diversity,mean,10.538
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,beta diversity,sd,2.766
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,beta diversity,sd,1.533
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,beta diversity,sd,3.588
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,beta diversity,sd,3.213
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,beta diversity,sd,2.654
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,beta diversity,sd,2.466
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,abundance,mean,18.195
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,abundance,mean,6.213
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,abundance,mean,97.189
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,abundance,mean,33.284
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,abundance,mean,148.669
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,abundance,mean,170.858
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,abundance,sd,16.864
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,abundance,sd,3.994
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,abundance,sd,52.367
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,abundance,sd,31.953
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Orthoptera,Orthopterans,,,abundance,sd,113.609
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Orthoptera,Orthopterans,,,abundance,sd,82.544
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,alpha diversity,mean,12.297
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,alpha diversity,mean,11.419
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,alpha diversity,mean,15.068
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,alpha diversity,mean,8.919
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,alpha diversity,mean,9.932
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,alpha diversity,mean,10.878
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,alpha diversity,sd,2.703
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,alpha diversity,sd,4.797
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,alpha diversity,sd,3.851
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,alpha diversity,sd,2.703
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,alpha diversity,sd,2.703
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,alpha diversity,sd,2.23
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,beta diversity,mean,27.973
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,beta diversity,mean,28.784
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,beta diversity,mean,38.243
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,beta diversity,mean,22.365
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,beta diversity,mean,21.284
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,beta diversity,mean,23.581
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,beta diversity,sd,2.635
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,beta diversity,sd,5
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,beta diversity,sd,3.919
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,beta diversity,sd,2.838
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,beta diversity,sd,2.635
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,beta diversity,sd,2.23
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,abundance,mean,144.578
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,abundance,mean,104.217
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,abundance,mean,56.024
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,abundance,mean,85.542
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,abundance,mean,68.675
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,abundance,mean,143.373
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,abundance,sd,187.35
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,abundance,sd,111.446
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,abundance,sd,25.904
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,abundance,sd,63.253
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,leaf-beetles,,,abundance,sd,74.096
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,leaf-beetles,,,abundance,sd,167.47
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,alpha diversity,mean,10.341
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,alpha diversity,mean,11.236
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,alpha diversity,mean,12.628
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,alpha diversity,mean,11.832
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,alpha diversity,mean,7.955
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,alpha diversity,mean,7.358
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,alpha diversity,sd,2.883
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,alpha diversity,sd,6.562
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,alpha diversity,sd,6.363
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,alpha diversity,sd,4.276
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,alpha diversity,sd,4.872
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,alpha diversity,sd,2.585
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,beta diversity,mean,27.244
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,beta diversity,mean,43.253
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,beta diversity,mean,51.009
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,beta diversity,mean,41.563
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,beta diversity,mean,28.239
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,beta diversity,mean,23.963
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,beta diversity,sd,2.884
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,beta diversity,sd,6.065
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,beta diversity,sd,6.562
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,beta diversity,sd,4.275
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,beta diversity,sd,4.872
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,beta diversity,sd,2.287
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,abundance,mean,46.793
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,abundance,mean,37.989
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,abundance,mean,37.989
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,abundance,mean,49.565
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,abundance,mean,25.272
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,abundance,mean,18.098
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,abundance,sd,40.924
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,abundance,sd,57.881
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,abundance,sd,45.326
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,abundance,sd,40.761
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,weevils,,,abundance,sd,34.728
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,weevils,,,abundance,sd,31.467
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,alpha diversity,mean,9.231
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,alpha diversity,mean,7.054
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,alpha diversity,mean,6.183
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,alpha diversity,mean,5.399
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,alpha diversity,mean,7.925
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,alpha diversity,mean,9.057
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,alpha diversity,sd,8.36
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,alpha diversity,sd,4.963
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,alpha diversity,sd,3.919
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,alpha diversity,sd,5.835
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,alpha diversity,sd,4.441
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,alpha diversity,sd,4.963
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,beta diversity,mean,40.929
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,beta diversity,mean,35.007
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,beta diversity,mean,32.221
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,beta diversity,mean,22.816
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,beta diversity,mean,24.383
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,beta diversity,mean,36.226
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,beta diversity,sd,8.011
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,beta diversity,sd,5.051
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,beta diversity,sd,3.831
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,beta diversity,sd,5.399
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,beta diversity,sd,4.18
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,beta diversity,sd,4.877
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,abundance,mean,12.839
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,abundance,mean,11.161
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,abundance,mean,7.301
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,abundance,mean,10.07
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,abundance,mean,14.056
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,abundance,mean,13.93
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,abundance,sd,13.385
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,abundance,sd,7.678
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,abundance,sd,4.657
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,abundance,sd,10.447
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Hymenoptera,bees,,,abundance,sd,9.566
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Hymenoptera,bees,,,abundance,sd,7.972
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,alpha diversity,mean,11.895
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,alpha diversity,mean,14.299
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,alpha diversity,mean,13.374
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,alpha diversity,mean,10.909
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,alpha diversity,mean,7.211
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,alpha diversity,mean,10.354
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,alpha diversity,sd,4.746
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,alpha diversity,sd,3.205
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,alpha diversity,sd,5.732
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,alpha diversity,sd,6.348
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,alpha diversity,sd,3.883
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,alpha diversity,sd,4.315
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,beta diversity,mean,23.359
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,beta diversity,mean,31.926
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,beta diversity,mean,31.063
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,beta diversity,mean,31.371
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,beta diversity,mean,24.16
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,beta diversity,mean,26.009
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,beta diversity,sd,4.869
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,beta diversity,sd,3.205
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,beta diversity,sd,5.67
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,beta diversity,sd,6.533
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,beta diversity,sd,3.822
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,beta diversity,sd,4.253
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,abundance,mean,51.576
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,abundance,mean,73.782
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,abundance,mean,83.811
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,abundance,mean,68.768
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,abundance,mean,32.235
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,abundance,mean,93.481
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,abundance,sd,28.653
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,abundance,sd,33.31
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,abundance,sd,76.647
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,abundance,sd,49.427
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,Coleoptera,carabid,,,abundance,sd,31.877
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,Coleoptera,carabid,,,abundance,sd,106.376
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,alpha diversity,mean,20.4
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,alpha diversity,mean,19.2
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,alpha diversity,mean,21.667
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,alpha diversity,mean,21.933
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,alpha diversity,mean,21.933
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,alpha diversity,mean,20.467
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,alpha diversity,sd,2.467
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,alpha diversity,sd,4.733
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,alpha diversity,sd,2.333
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,alpha diversity,sd,5
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,alpha diversity,sd,4.534
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,alpha diversity,sd,2.266
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,beta diversity,mean,28.8
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,beta diversity,mean,29
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,beta diversity,mean,31.467
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,beta diversity,mean,35.333
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,beta diversity,mean,25.4
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,beta diversity,mean,23.867
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,beta diversity,sd,2.667
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,beta diversity,sd,4.6
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,beta diversity,sd,2.4
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,beta diversity,sd,4.734
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,beta diversity,sd,4.667
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,beta diversity,sd,2.2
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,abundance,mean,155.107
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,abundance,mean,144.436
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,abundance,mean,157.393
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,abundance,mean,138.72
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,abundance,mean,98.704
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,abundance,mean,113.567
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,abundance,sd,41.158
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,abundance,sd,59.07
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,abundance,sd,45.732
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,abundance,sd,41.539
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,abundance,sd,34.68
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,arthropoda,spider,,,abundance,sd,32.012
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,arthropoda,spider,,,abundance,mean,6.904
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,alpha diversity,mean,7.644
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,alpha diversity,mean,7.192
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,alpha diversity,mean,5.918
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,alpha diversity,mean,6.082
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,alpha diversity,mean,5.959
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,alpha diversity,sd,3.041
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,alpha diversity,sd,3.452
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,alpha diversity,sd,1.109
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,alpha diversity,sd,2.219
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,alpha diversity,sd,1.808
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,alpha diversity,sd,2.63
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,beta diversity,mean,14.137
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,beta diversity,mean,20.507
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,beta diversity,mean,10.973
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,beta diversity,mean,13.233
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,beta diversity,mean,15.123
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,beta diversity,mean,13.192
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,beta diversity,sd,3.082
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,beta diversity,sd,3.411
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,beta diversity,sd,1.109
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,beta diversity,sd,2.137
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,beta diversity,sd,1.891
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,beta diversity,sd,2.63
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,number of territory,mean,25.62
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,number of territory,mean,16.694
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,number of territory,mean,22.094
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,number of territory,mean,12.287
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,number of territory,mean,25.675
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,number of territory,mean,16.033
+2118,Alkali,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,number of territory,sd,9.311
+2118,Alkali,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,number of territory,sd,4.077
+2118,Meadow,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,number of territory,sd,13.443
+2118,Meadow,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,number of territory,sd,6.611
+2118,Heves,2003,14,extensive,0,cattle per ha,0.5,aves,bird,,,number of territory,sd,5.234
+2118,Heves,2003,14,intensive,0,cattle per ha,>1,aves,bird,,,number of territory,sd,2.7

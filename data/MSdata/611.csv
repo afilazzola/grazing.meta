@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+611,Canyon,1990,4,grazed,0,,,Rodents,,,,species rich,mean,1
+611,Canyon,1990,4,grazed,0,,,Rodents,,,,species rich,sterror,0.25
+611,Canyon,1990,4,ungrazed,30,,,Rodents,,,,species rich,mean,1.5
+611,Canyon,1990,4,ungrazed,30,,,Rodents,,,,species rich,sterror,0.29
+611,Canyon,1990,4,grazed,0,,,Rodents,,,,abundance/100 trap days,mean,0.98
+611,Canyon,1990,4,grazed,0,,,Rodents,,,,abundance/100 trap days,sterror,0.12
+611,Canyon,1990,4,ungrazed,30,,,Rodents,,,,abundance/100 trap days,mean,1.76
+611,Canyon,1990,4,ungrazed,30,,,Rodents,,,,abundance/100 trap days,sterror,0.47

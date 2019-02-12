@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+509,KLEE,2002,3,grazed,0,,,Insects,,,,Biomass(g),mean,1.33
+509,KLEE,2002,3,grazed,0,,,Insects,,,,Biomass(g),sterror,0.19
+509,KLEE,2002,3,ungrazed,7,,,Insects,,,,Biomass(g),mean,1.14
+509,KLEE,2002,3,ungrazed,7,,,Insects,,,,Biomass(g),sterror,0.09

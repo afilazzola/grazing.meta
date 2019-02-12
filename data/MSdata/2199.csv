@@ -1,0 +1,86 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2199,Continuous-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,Soil microbe,,,,ug C/gram soil (Soil microbial biomass C content),Mean,612
+2199,Continuous-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,456
+2199,Continuous-Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,534
+2199,Rotational-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,557
+2199,Rotational-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,525
+2199,Rotational-Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,541
+2199,Mean-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,585
+2199,Mean-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,491
+2199,Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,538
+2199,Continuous-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,629
+2199,Continuous-Heavy- May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,475
+2199,Continuous-Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,552
+2199,Rotational-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,576
+2199,Rotational-Heavy-May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,530
+2199,Rotational-Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,553
+2199,Mean-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,603
+2199,Mean-Heavy-May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,503
+2199,Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,553
+2199,Continuous-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,350
+2199,Continuous-Heavy- July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,209
+2199,Continuous-Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,280
+2199,Rotational-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,288
+2199,Rotational-Heavy-July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,318
+2199,Rotational-Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,303
+2199,Mean-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,319
+2199,Mean-Heavy-July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,264
+2199,Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug C/gram soil (Soil microbial biomass C content),Mean,292
+2199,Continuous-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,Soil microbe,,,,ug /gram soil (Soil microbial biomass N content),Mean,63.8
+2199,Continuous-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,66.2
+2199,Continuous-Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,65
+2199,Rotational-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,99.6
+2199,Rotational-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,67.8
+2199,Rotational-Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,83.7
+2199,Mean-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,81.6
+2199,Mean-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,67
+2199,Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,74.3
+2199,Continuous-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,70.7
+2199,Continuous-Heavy- May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,52.1
+2199,Continuous-Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,61.4
+2199,Rotational-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,51.1
+2199,Rotational-Heavy-May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,38.3
+2199,Rotational-Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,44.7
+2199,Mean-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,60.9
+2199,Mean-Heavy-May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,45.2
+2199,Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,53.1
+2199,Continuous-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,28.2
+2199,Continuous-Heavy- July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,19.3
+2199,Continuous-Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,23.8
+2199,Rotational-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,15.7
+2199,Rotational-Heavy-July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,27.2
+2199,Rotational-Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,21.5
+2199,Mean-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,22
+2199,Mean-Heavy-July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,23.3
+2199,Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug /gram soil (Soil microbial biomass N content),Mean,22.7
+2199,Continuous-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,Soil microbe,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,42.8
+2199,Continuous-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,31.9
+2199,Continuous-Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,37.4
+2199,Rotational-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,47.7
+2199,Rotational-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,51.9
+2199,Rotational-Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,49.8
+2199,Mean-Light-1994,1994,24,,,stocking rate,1.1 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,45.4
+2199,Mean-Heavy-1994,1994,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,41.9
+2199,Mean-1994,1994,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,43.7
+2199,Continuous-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,90.5
+2199,Continuous-Heavy- May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,72.5
+2199,Continuous-Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,81.5
+2199,Rotational-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,89.1
+2199,Rotational-Heavy-May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,69.4
+2199,Rotational-Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,79.3
+2199,Mean-Light-May 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,89.9
+2199,Mean-Heavy-May 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,71
+2199,Mean-May 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,80.4
+2199,Continuous-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,44.4
+2199,Continuous-Heavy- July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,43.4
+2199,Continuous-Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,43.9
+2199,Rotational-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,44.1
+2199,Rotational-Heavy-July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,58.7
+2199,Rotational-Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,51.4
+2199,Mean-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,44.3
+2199,Mean-Heavy-July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,51.1
+2199,Mean-July 1995,1995,24,,,stocking rate,1.65 steers/ha,,,,,ug p-nitrophenol/gram soil/ h (Soil arylsulfatase activity),Mean,47.7
+2199,Continuous-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug /g (N mineralization rate),Mean,63
+2199,Continuous-Heavy- July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug /g (N mineralization rate),Mean,58
+2199,Rotational-Light-July 1995,1995,24,,,stocking rate,1.1 steers/ha,,,,,ug /g (N mineralization rate),Mean,49
+2199,Rotational-Heavy-July 1995,1995,24,,,stocking rate,2.2 steers/ha,,,,,ug /g (N mineralization rate),Mean,37

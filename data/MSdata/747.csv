@@ -1,0 +1,9 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+747,NRA-Whit,1995,16,grazed,0,,,Bird,Molothrus,ater,,home range (ha),mean,634
+747,NRA-Whit,1995,16,grazed,0,,,Bird,Molothrus,ater,,home range (ha),sterror,91.5
+747,NRA-Whit,1995,4,ungrazed,20,,,Bird,Molothrus,ater,,home range (ha),mean,1184
+747,NRA-Whit,1995,4,ungrazed,20,,,Bird,Molothrus,ater,,home range (ha),sterror,273.9
+747,NRA-Whit,1995,16,grazed,0,,,Bird,Molothrus,ater,,core area (ha),mean,180.3
+747,NRA-Whit,1995,16,grazed,0,,,Bird,Molothrus,ater,,core area (ha),sterror,30.4
+747,NRA-Whit,1995,4,ungrazed,20,,,Bird,Molothrus,ater,,core area (ha),mean,401.8
+747,NRA-Whit,1995,4,ungrazed,20,,,Bird,Molothrus,ater,,core area (ha),sterror,122

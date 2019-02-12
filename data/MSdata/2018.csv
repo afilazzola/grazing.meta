@@ -1,0 +1,66 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Acrida ,hungarica,,abundance,count,9.94
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Acrida ,hungarica,,abundance,count,11.96
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Acrida ,hungarica,,abundance,count,9.01
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Acrida ,hungarica,,abundance,count,3.96
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Acrida ,hungarica,,abundance,count,2.95
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Chortippus ,mollis,,abundance,count,2.94
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Chortippus ,mollis,,abundance,count,13.98
+2018,intermediate,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Chortippus ,mollis,,abundance,count,11.96
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Chortippus ,mollis,,abundance,count,0.93
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Chortippus ,mollis,,abundance,count,5
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Euchorthippus ,declivus,,abundance,count,405.24
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Euchorthippus ,declivus,,abundance,count,465.71
+2018,intermediate,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Euchorthippus ,declivus,,abundance,count,33.04
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Euchorthippus ,declivus,,abundance,count,9.98
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Euchorthippus ,declivus,,abundance,count,180.8
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Euchorthippus ,declivus,,abundance,count,62.97
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Omocestus,haemorrhoidalis,,abundance,count,11.95
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Omocestus,haemorrhoidalis,,abundance,count,15.07
+2018,intermediate,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Omocestus,haemorrhoidalis,,abundance,count,8.98
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Omocestus,haemorrhoidalis,,abundance,count,0.86
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Omocestus,haemorrhoidalis,,abundance,count,11.95
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Omocestus,haemorrhoidalis,,abundance,count,7.97
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Stenobothrus ,crassipes,,abundance,count,46.17
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Stenobothrus ,crassipes,,abundance,count,18.26
+2018,intermediate,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Stenobothrus ,crassipes,,abundance,count,42.17
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Stenobothrus ,crassipes,,abundance,count,1.06
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Stenobothrus ,crassipes,,abundance,count,13.96
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Stenobothrus ,crassipes,,abundance,count,16.9
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Aiolopus,thalassinus,,abundance,count,10.66
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Aiolopus,thalassinus,,abundance,count,55.1
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Aiolopus,thalassinus,,abundance,count,0.94
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Aiolopus,thalassinus,,abundance,count,1.08
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Aiolopus,thalassinus,,abundance,count,4.9
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Dociostaurus,brevicollis,,abundance,count,13.53
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Dociostaurus,brevicollis,,abundance,count,108.65
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Dociostaurus,brevicollis,,abundance,count,10.9
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Dociostaurus,brevicollis,,abundance,count,3.38
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Omocestus ,petraeus,,abundance,count,76.84
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Omocestus ,petraeus,,abundance,count,138.6
+2018,intermediate,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Omocestus ,petraeus,,abundance,count,6.49
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Omocestus ,petraeus,,abundance,count,0.53
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Omocestus ,petraeus,,abundance,count,0.7
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Omocestus ,petraeus,,abundance,count,4.21
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Chorthippus,oschei,,abundance,count,416.87
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Chorthippus,oschei,,abundance,count,293.4
+2018,intermediate,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Chorthippus,oschei,,abundance,count,7.33
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Chorthippus,oschei,,abundance,count,14.67
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Chorthippus,oschei,,abundance,count,6.72
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Chorthippus,oschei,,abundance,count,23.23
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Chorthippus ,parallelus,,abundance,count,60.51
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Chorthippus ,parallelus,,abundance,count,23.23
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,Chorthippus ,parallelus,,abundance,count,391.81
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,Chorthippus ,parallelus,,abundance,count,64.18
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,,,,richness,mean,12.96
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,,,,richness,mean,13.69
+2018,intermediate,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,,,,richness,mean,12.43
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,,,,richness,mean,9.9
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,,,,richness,mean,15.27
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,,,,richness,mean,15.59
+2018,simple,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,,,,richness,se,2.06
+2018,simple,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,,,,richness,se,2.1
+2018,intermediate,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,,,,richness,se,2.93
+2018,intermediate,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,,,,richness,se,1.48
+2018,complex,2003,42,extensive,0,cattle per ha,0.5,Orthoptera ,,,,richness,se,2.7
+2018,complex,2003,42,intensive,0,cattle per ha,>1,Orthoptera ,,,,richness,se,2.65

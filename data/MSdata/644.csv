@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+644,Geba,2004,5,ungrazed,10,,,Aves,,,,species richness,mean,45.2
+645,Geba,2004,5,ungrazed,10,,,Aves,,,,species richness,stdev,6.1
+646,Geba,2004,3,grazed,0,,,Aves,,,,species richness,mean ,42.7
+647,Geba,2004,3,grazed,0,,,Aves,,,,species richness,stdev,5

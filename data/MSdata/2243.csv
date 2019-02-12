@@ -1,0 +1,17 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2243,1sandy,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Log abundance,Mean,18
+2243,1calcareous,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Log abundance,Mean,17
+2243,4sandy,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Log abundance,Mean,16
+2243,4calcareous,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Log abundance,Mean,16
+2243,7sandy,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Log abundance,Mean,16
+2243,7calcareous,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Log abundance,Mean,17
+2243,10sandy,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Log abundance,Mean,18
+2243,10calcareous,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Log abundance,Mean,16
+2243,1sandy,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Species richness,Mean,23
+2243,1calcareous,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Species richness,Mean,25
+2243,4sandy,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Species richness,Mean,23
+2243,4calcareous,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Species richness,Mean,26
+2243,7sandy,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Species richness,Mean,20
+2243,7calcareous,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Species richness,Mean,23
+2243,10sandy,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Species richness,Mean,21
+2243,10calcareous,1998,20,gradient,0,Grazing intensity,Distance to water (km),Arthropoda,,,,Species richness,Mean,21

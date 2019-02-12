@@ -1,0 +1,75 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1712,Grootfontein,2015,23,ungrazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound density,mean,186
+1712,Grootfontein,2015,23,grazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound density,mean,468
+1712,Grootfontein,2015,10,ungrazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound volume,mean,14.6
+1712,Grootfontein,2015,10,grazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound volume,mean,16.8
+1712,Grootfontein,2015,23,ungrazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound density,se,30
+1712,Grootfontein,2015,23,grazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound density,se,48
+1712,Grootfontein,2015,10,ungrazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound volume,se,3
+1712,Grootfontein,2015,10,grazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound volume,se,3.2
+1712,Grootfontein,2015,23,ungrazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound basal area,mean,312.334
+1712,Grootfontein,2015,23,grazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound basal area,mean,375.995
+1712,Grootfontein,2015,23,ungrazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound size,mean,0.08
+1712,Grootfontein,2015,23,grazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound size,mean,0.04
+1712,Grootfontein,2015,23,ungrazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound size,se,0.01
+1712,Grootfontein,2015,23,grazed,81,animal per ha,2.35,Arthropoda,Trinervitermes,trinervoides,native,mound size,se,0.01
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,richness,,25
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,richness,,15
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,Shannon-Wiener diversity index,,2.27
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,Shannon-Wiener diversity index,,2.17
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,Simpson's evenness index,,0.09
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,Simpson's evenness index,,0.14
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,total plant basal cover (%),,8.2
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,total plant basal cover (%),,6.2
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,graminoid (%),,74
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,graminoid (%),,69
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,woody shrub (%),,25
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,woody shrub (%),,31
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,forb (%),,0
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,forb (%),,0
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,succulent shrub (%),,1
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,succulent shrub (%),,0
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,perennial (%),,96
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,perennial (%),,73
+1712,Grootfontein,1960,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,annual (%),,4
+1712,Grootfontein,1960,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,annual (%),,27
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,richness,,21
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,richness,,18
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,Shannon-Wiener diversity index,,1.99
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,Shannon-Wiener diversity index,,1.62
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,Simpson's evenness index,,0.1
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,Simpson's evenness index,,0.14
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,total plant basal cover (%),,23
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,total plant basal cover (%),,19
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,graminoid (%),,95
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,graminoid (%),,98
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,woody shrub (%),,5
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,woody shrub (%),,2
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,forb (%),,0
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,forb (%),,0
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,succulent shrub (%),,0
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,succulent shrub (%),,0
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,perennial (%),,95
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,perennial (%),,80
+1712,Grootfontein,2011,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,annual (%),,5
+1712,Grootfontein,2011,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,annual (%),,20
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,richness,,7
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,richness,,9
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,Shannon-Wiener diversity index,,1.79
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,Shannon-Wiener diversity index,,1.59
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,Simpson's evenness index,,0.29
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,Simpson's evenness index,,0.32
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,total plant basal cover (%),,1.9
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,total plant basal cover (%),,3.5
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,graminoid (%),,100
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,graminoid (%),,99
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,woody shrub (%),,0
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,woody shrub (%),,0
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,forb (%),,0
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,forb (%),,1
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,succulent shrub (%),,0
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,succulent shrub (%),,0
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,perennial (%),,100
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,perennial (%),,90
+1712,Grootfontein,2015,2000 wheel point,ungrazed,81,animal per ha,2.35,plant,,,,annual (%),,0
+1712,Grootfontein,2015,2000 wheel point,grazed,81,animal per ha,2.35,plant,,,,annual (%),,10

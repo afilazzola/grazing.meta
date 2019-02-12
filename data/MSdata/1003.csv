@@ -1,0 +1,21 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1003,1,,10,grazed,0,,,Isoptera,,,,termite abundance index,mean,1.127348643
+1003,1,,10,grazed,0,,,Isoptera,,,,termite abundance index,se,0.6367
+1003,1,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,mean,2.379958246
+1003,1,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,se,0.5949
+1003,2,,10,grazed,0,,,Isoptera,,,,termite abundance index,mean,2.64091858
+1003,2,,10,grazed,0,,,Isoptera,,,,termite abundance index,se,0.5532
+1003,2,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,mean,3.110647182
+1003,2,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,se,0.5949
+1003,3,,10,grazed,0,,,Isoptera,,,,termite abundance index,mean,1.837160752
+1003,3,,10,grazed,0,,,Isoptera,,,,termite abundance index,se,0.2505
+1003,3,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,mean,2.045929019
+1003,3,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,se,0.5114
+1003,4,,10,grazed,0,,,Isoptera,,,,termite abundance index,mean,2.505219207
+1003,4,,10,grazed,0,,,Isoptera,,,,termite abundance index,se,0.5114
+1003,4,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,mean,2.129436326
+1003,4,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,se,0.3549
+1003,5,,10,grazed,0,,,Isoptera,,,,termite abundance index,mean,0.897703549
+1003,5,,10,grazed,0,,,Isoptera,,,,termite abundance index,se,0.1878
+1003,5,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,mean,0.647181628
+1003,5,,10,ungrazed,>100,,,Isoptera,,,,termite abundance index,se,0.2401

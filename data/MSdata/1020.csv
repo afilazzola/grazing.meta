@@ -1,0 +1,17 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1020,,2005,3,ungrazed,1,,,Arthropod,,,,Shannon diversity,mean,1.718372093
+1020,,2005,3,ungrazed,1,,,Arthropod,,,,Shannon diversity,se,0.079767442
+1020,,2005,3,grazed,0,,,Arthropod,,,,Shannon diversity,mean,1.772093023
+1020,,2005,3,grazed,0,,,Arthropod,,,,Shannon diversity,se,0.071627907
+1020,,2006,3,ungrazed,1,,,Arthropod,,,,Shannon diversity,mean,1.770852018
+1020,,2006,3,ungrazed,1,,,Arthropod,,,,Shannon diversity,se,0.134977578
+1020,,2006,3,grazed,0,,,Arthropod,,,,Shannon diversity,mean,1.858744395
+1020,,2006,3,grazed,0,,,Arthropod,,,,Shannon diversity,se,0.09103139
+1020,,2005,3,ungrazed,1,,,Arthropod,,,,Arthropods/m2,mean,1029.96633
+1020,,2005,3,ungrazed,1,,,Arthropod,,,,Arthropods/m3,se,29.46127946
+1020,,2005,3,grazed,0,,,Arthropod,,,,Arthropods/m4,mean,954.2087542
+1020,,2005,3,grazed,0,,,Arthropod,,,,Arthropods/m5,se,42.08754209
+1020,,2006,3,ungrazed,1,,,Arthropod,,,,Arthropods/m6,mean,1445.87156
+1020,,2006,3,ungrazed,1,,,Arthropod,,,,Arthropods/m7,se,95.41284404
+1020,,2006,3,grazed,0,,,Arthropod,,,,Arthropods/m8,mean,939.4495413
+1020,,2006,3,grazed,0,,,Arthropod,,,,Arthropods/m9,se,29.35779817

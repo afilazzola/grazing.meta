@@ -1,0 +1,29 @@
+﻿uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+2267,Weeting,1973,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.4
+2267,Weeting,1974,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.4
+2267,Weeting,1975,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.2
+2267,Weeting,1976,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.9
+2267,Weeting,1977,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.5
+2267,Weeting,1978,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.1
+2267,Weeting,1979,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.2
+2267,Weeting,1980,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.8
+2267,Weeting,1981,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.7
+2267,Weeting,1982,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.6
+2267,Weeting,1983,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.2
+2267,Weeting,1984,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1
+2267,Weeting,1985,10,grazed,0,intensity,heavy,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.8
+2267,Lakenheath,1973,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.3
+2267,Lakenheath,1974,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.2
+2267,Lakenheath,1975,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.5
+2267,Lakenheath,1976,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.8
+2267,Lakenheath,1977,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.5
+2267,Lakenheath,1978,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.9
+2267,Lakenheath,1979,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2
+2267,Lakenheath,1980,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.9
+2267,Lakenheath,1981,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.9
+2267,Lakenheath,1982,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,1.9
+2267,Lakenheath,1983,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.1
+2267,Lakenheath,1984,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.2
+2267,Lakenheath,1985,10,grazed,0,intensity,light,Arthropda,Armadillium,vulgare,,Density (Log count individuals/m²),Mean,2.1
+2267,Weeting,1984,10,grazed,0,intensity,heavy,Plants,,,,Biomass green (g dry weight/m²),Mean,44
+2267,Lakenheath,1984,10,grazed,0,intensity,light,Plants,,,,Biomass green (g dry weight/m²),Mean,29

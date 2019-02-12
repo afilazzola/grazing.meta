@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+512,Yellowstone,2001,2,grazed ,0,,,AM fungi,,,,spores/g soil,mean,24.9
+512,Yellowstone,2001,2,grazed ,0,,,AM fungi,,,,spores/g soil,sterror,4.33
+512,Yellowstone,2001,2,ungrazed,40,,,AM fungi,,,,spores/g soil,mean,9.28
+512,Yellowstone,2001,2,ungrazed,40,,,AM fungi,,,,spores/g soil,sterror,1.82

@@ -1,0 +1,5 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+702,Murray,2000,7,grazed,0,,,Ants,25% Pheidole,,,abundance/pitfall trap,mean,156.6
+702,Murray,2000,7,grazed,0,,,Ants,25% Pheidole,,,abundance/pitfall trap,sterror,89.3
+702,Murray,2000,7,ungrazed,10,,,Ants,25% Pheidole,,,abundance/pitfall trap,mean,12.96
+702,Murray,2000,7,ungrazed,10,,,Ants,25% Pheidole,,,abundance/pitfall trap,sterror,3

@@ -1,0 +1,321 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,total biomass,mean,1.024
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,total biomass,mean,2
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,total biomass,mean,2.146
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,total biomass,mean,2.488
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,total biomass,mean,5.268
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,total biomass,mean,5.122
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,total biomass,mean,7.854
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,total biomass,mean,5.659
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,abundance,mean,54.148
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,abundance,mean,60.437
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,abundance,mean,58.865
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,abundance,mean,64.629
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,abundance,mean,89.258
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,abundance,mean,86.114
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,abundance,mean,122.795
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,abundance,mean,104.978
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,short-winged abundance,mean,6.911
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,short-winged abundance,mean,11.789
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,short-winged abundance,mean,14.634
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,short-winged abundance,mean,17.48
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,short-winged abundance,mean,36.585
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,short-winged abundance,mean,41.057
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,short-winged abundance,mean,65.041
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,short-winged abundance,mean,36.179
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,dimorphic abundance,mean,20.366
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,dimorphic abundance,mean,19.634
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,dimorphic abundance,mean,11.585
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,dimorphic abundance,mean,12.073
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,dimorphic abundance,mean,6.829
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,dimorphic abundance,mean,10.976
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,dimorphic abundance,mean,13.049
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,dimorphic abundance,mean,12.317
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,long-winged abundance,mean,19.306
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,long-winged abundance,mean,22
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,long-winged abundance,mean,23.959
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,long-winged abundance,mean,26.653
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,long-winged abundance,mean,38.653
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,long-winged abundance,mean,28.122
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,long-winged abundance,mean,41.837
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,long-winged abundance,mean,52.122
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,small-eye abundance,mean,14.634
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,small-eye abundance,mean,26.22
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,small-eye abundance,mean,31.707
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,small-eye abundance,mean,34.756
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,small-eye abundance,mean,66.463
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,small-eye abundance,mean,60.366
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,small-eye abundance,mean,101.22
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,small-eye abundance,mean,80.488
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,large-eye abundance,mean,24.521
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,large-eye abundance,mean,21.233
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,large-eye abundance,mean,15.023
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,large-eye abundance,mean,18.311
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,large-eye abundance,mean,15.297
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,large-eye abundance,mean,17.854
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,large-eye abundance,mean,19.772
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,large-eye abundance,mean,19.68
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,herbivores abundance,mean,19.268
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,herbivores abundance,mean,25.122
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,herbivores abundance,mean,27.561
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,herbivores abundance,mean,27.317
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,herbivores abundance,mean,38.537
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,herbivores abundance,mean,28.78
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,herbivores abundance,mean,41.951
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,herbivores abundance,mean,52.195
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,carnivores abundance,mean,34.8
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,carnivores abundance,mean,35.2
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,carnivores abundance,mean,31.6
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,carnivores abundance,mean,37.6
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,carnivores abundance,mean,51.2
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,carnivores abundance,mean,58
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,carnivores abundance,mean,82
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,carnivores abundance,mean,54.4
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,richness,mean,8.11
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,richness,mean,8.11
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,richness,mean,9.219
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,richness,mean,8.658
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,richness,mean,8.548
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,richness,mean,8.11
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,richness,mean,9.233
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,richness,mean,8.781
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,short-winged richness,mean,2.22
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,short-winged richness,mean,2.556
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,short-winged richness,mean,2.446
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,short-winged richness,mean,3.002
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,short-winged richness,mean,2.556
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,short-winged richness,mean,2.893
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,short-winged richness,mean,3.112
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,short-winged richness,mean,2.893
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,dimorphic richness,mean,2.558
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,dimorphic richness,mean,1.884
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,dimorphic richness,mean,2.116
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,dimorphic richness,mean,1.775
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,dimorphic richness,mean,2.225
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,dimorphic richness,mean,1.442
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,dimorphic richness,mean,1.775
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,dimorphic richness,mean,1.667
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,long-winged richness,mean,3.33
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,long-winged richness,mean,3.659
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,long-winged richness,mean,4.67
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,long-winged richness,mean,3.886
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,long-winged richness,mean,3.784
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,long-winged richness,mean,3.784
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,long-winged richness,mean,4.33
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,long-winged richness,mean,4.216
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,small-eye richness,mean,5
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,small-eye richness,mean,5.559
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,small-eye richness,mean,6.664
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,small-eye richness,mean,6.105
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,small-eye richness,mean,5.671
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,small-eye richness,mean,6.329
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,small-eye richness,mean,6.552
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,small-eye richness,mean,6.441
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,large-eye richness,mean,3.114
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,large-eye richness,mean,2.561
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,large-eye richness,mean,2.561
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,large-eye richness,mean,2.561
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,large-eye richness,mean,2.895
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,large-eye richness,mean,1.781
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,large-eye richness,mean,2.667
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,large-eye richness,mean,2.333
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,herbivores richness,mean,3.224
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,herbivores richness,mean,3.333
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,herbivores richness,mean,4.55
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,herbivores richness,mean,3.772
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,herbivores richness,mean,3.454
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,herbivores richness,mean,3.783
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,herbivores richness,mean,4.112
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,herbivores richness,mean,4.112
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,carnivores richness,mean,4.883
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,carnivores richness,mean,4.775
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,carnivores richness,mean,4.66
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,carnivores richness,mean,4.89
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,carnivores richness,mean,5.105
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,carnivores richness,mean,4.33
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,carnivores richness,mean,5.105
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,carnivores richness,mean,4.667
+1767,short grass,2009-2013,9,L/M/S/I,,,,plant,,,,biomass,mean,243.664
+1767,short grass,2009-2013,9,M/S/I,,,,plant,,,,biomass,mean,397.24
+1767,short grass,2009-2013,9,S/I,,,,plant,,,,biomass,mean,467.503
+1767,short grass,2009-2013,9,I,,,,plant,,,,biomass,mean,441.405
+1767,tall grass,2009-2013,9,L/M/S/I,,,,plant,,,,biomass,mean,423.839
+1767,tall grass,2009-2013,9,M/S/I,,,,plant,,,,biomass,mean,510.163
+1767,tall grass,2009-2013,9,S/I,,,,plant,,,,biomass,mean,540.778
+1767,tall grass,2009-2013,9,I,,,,plant,,,,biomass,mean,520.703
+1767,short grass,2009-2013,9,L/M/S/I,,,,plant,,,,structural heterogeneity,mean,7.936
+1767,short grass,2009-2013,9,M/S/I,,,,plant,,,,structural heterogeneity,mean,10.351
+1767,short grass,2009-2013,9,S/I,,,,plant,,,,structural heterogeneity,mean,7.661
+1767,short grass,2009-2013,9,I,,,,plant,,,,structural heterogeneity,mean,7.838
+1767,tall grass,2009-2013,9,L/M/S/I,,,,plant,,,,structural heterogeneity,mean,5.521
+1767,tall grass,2009-2013,9,M/S/I,,,,plant,,,,structural heterogeneity,mean,6.503
+1767,tall grass,2009-2013,9,S/I,,,,plant,,,,structural heterogeneity,mean,6.915
+1767,tall grass,2009-2013,9,I,,,,plant,,,,structural heterogeneity,mean,8.82
+1767,short grass,2009-2013,9,L/M/S/I,,,,plant,,,,diversity,mean,2.162
+1767,short grass,2009-2013,9,M/S/I,,,,plant,,,,diversity,mean,2.08
+1767,short grass,2009-2013,9,S/I,,,,plant,,,,diversity,mean,2.036
+1767,short grass,2009-2013,9,I,,,,plant,,,,diversity,mean,2.011
+1767,tall grass,2009-2013,9,L/M/S/I,,,,plant,,,,diversity,mean,2.033
+1767,tall grass,2009-2013,9,M/S/I,,,,plant,,,,diversity,mean,2.183
+1767,tall grass,2009-2013,9,S/I,,,,plant,,,,diversity,mean,2.092
+1767,tall grass,2009-2013,9,I,,,,plant,,,,diversity,mean,2.18
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,total biomass,se,0.579
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,total biomass,se,0.672
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,total biomass,se,0.915
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,total biomass,se,0.573
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,total biomass,se,2.36
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,total biomass,se,2.068
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,total biomass,se,3.66
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,total biomass,se,2.211
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,abundance,se,9.957
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,abundance,se,8.908
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,abundance,se,12.052
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,abundance,se,7.86
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,abundance,se,21.484
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,abundance,se,20.436
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,abundance,se,38.777
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,abundance,se,25.153
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,short-winged abundance,se,4.83
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,short-winged abundance,se,5.215
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,short-winged abundance,se,6.419
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,short-winged abundance,se,5.597
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,short-winged abundance,se,15.642
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,short-winged abundance,se,12.789
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,short-winged abundance,se,30.506
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,short-winged abundance,se,12.404
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,dimorphic abundance,se,8.845
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,dimorphic abundance,se,8.436
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,dimorphic abundance,se,12.626
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,dimorphic abundance,se,7.927
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,dimorphic abundance,se,9.487
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,dimorphic abundance,se,11.042
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,dimorphic abundance,se,12.214
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,dimorphic abundance,se,10.051
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,long-winged abundance,se,7.035
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,long-winged abundance,se,4.098
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,long-winged abundance,se,4.09
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,long-winged abundance,se,7.249
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,long-winged abundance,se,10.859
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,long-winged abundance,se,8.463
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,long-winged abundance,se,13.285
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,long-winged abundance,se,15.683
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,small-eye abundance,se,8.631
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,small-eye abundance,se,8.678
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,small-eye abundance,se,9.313
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,small-eye abundance,se,8.713
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,small-eye abundance,se,22.313
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,small-eye abundance,se,18.614
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,small-eye abundance,se,43.27
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,small-eye abundance,se,22.981
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,large-eye abundance,se,6.575
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,large-eye abundance,se,4.475
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,large-eye abundance,se,4.749
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,large-eye abundance,se,3.105
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,large-eye abundance,se,3.379
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,large-eye abundance,se,6.575
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,large-eye abundance,se,7.397
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,large-eye abundance,se,5.845
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,herbivores abundance,se,6.58
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,herbivores abundance,se,4.001
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,herbivores abundance,se,3.199
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,herbivores abundance,se,6.484
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,herbivores abundance,se,9.299
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,herbivores abundance,se,7.828
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,herbivores abundance,se,11.733
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,herbivores abundance,se,13.653
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,carnivores abundance,se,8.683
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,carnivores abundance,se,5.497
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,carnivores abundance,se,9.893
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,carnivores abundance,se,4.291
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,carnivores abundance,se,15.367
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,carnivores abundance,se,14.935
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,carnivores abundance,se,29.94
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,carnivores abundance,se,13.361
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,richness,se,1.106
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,richness,se,0.844
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,richness,se,0.905
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,richness,se,0.668
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,richness,se,0.516
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,richness,se,0.665
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,richness,se,0.684
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,richness,se,0.889
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,short-winged richness,se,0.468
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,short-winged richness,se,0.41
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,short-winged richness,se,0.476
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,short-winged richness,se,0.403
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,short-winged richness,se,0.337
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,short-winged richness,se,0.3
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,short-winged richness,se,0.308
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,short-winged richness,se,0.387
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,dimorphic richness,se,0.29
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,dimorphic richness,se,0.261
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,dimorphic richness,se,0.348
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,dimorphic richness,se,0.225
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,dimorphic richness,se,0.282
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,dimorphic richness,se,0.246
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,dimorphic richness,se,0.29
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,dimorphic richness,se,0.282
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,long-winged richness,se,0.784
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,long-winged richness,se,0.761
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,long-winged richness,se,0.466
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,long-winged richness,se,0.694
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,long-winged richness,se,0.489
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,long-winged richness,se,0.398
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,long-winged richness,se,0.522
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,long-winged richness,se,0.648
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,small-eye richness,se,0.825
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,small-eye richness,se,0.7
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,small-eye richness,se,0.7
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,small-eye richness,se,0.755
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,small-eye richness,se,0.434
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,small-eye richness,se,0.587
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,small-eye richness,se,0.616
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,small-eye richness,se,0.727
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,large-eye richness,se,0.377
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,large-eye richness,se,0.325
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,large-eye richness,se,0.325
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,large-eye richness,se,0.29
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,large-eye richness,se,0.263
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,large-eye richness,se,0.272
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,large-eye richness,se,0.438
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,large-eye richness,se,0.369
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,herbivores richness,se,0.723
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,herbivores richness,se,0.702
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,herbivores richness,se,0.45
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,herbivores richness,se,0.647
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,herbivores richness,se,0.285
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,herbivores richness,se,0.395
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,herbivores richness,se,0.559
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,herbivores richness,se,0.592
+1767,short grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,carnivores richness,se,0.674
+1767,short grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,carnivores richness,se,0.402
+1767,short grass,2009-2013,9,S/I,,,,Arthropoda,,,,carnivores richness,se,0.668
+1767,short grass,2009-2013,9,I,,,,Arthropoda,,,,carnivores richness,se,0.344
+1767,tall grass,2009-2013,9,L/M/S/I,,,,Arthropoda,,,,carnivores richness,se,0.352
+1767,tall grass,2009-2013,9,M/S/I,,,,Arthropoda,,,,carnivores richness,se,0.366
+1767,tall grass,2009-2013,9,S/I,,,,Arthropoda,,,,carnivores richness,se,0.488
+1767,tall grass,2009-2013,9,I,,,,Arthropoda,,,,carnivores richness,se,0.402
+1767,short grass,2009-2013,9,L/M/S/I,,,,plant,,,,biomass,se,44.882
+1767,short grass,2009-2013,9,M/S/I,,,,plant,,,,biomass,se,42.408
+1767,short grass,2009-2013,9,S/I,,,,plant,,,,biomass,se,32.056
+1767,short grass,2009-2013,9,I,,,,plant,,,,biomass,se,52.428
+1767,tall grass,2009-2013,9,L/M/S/I,,,,plant,,,,biomass,se,45.324
+1767,tall grass,2009-2013,9,M/S/I,,,,plant,,,,biomass,se,32.128
+1767,tall grass,2009-2013,9,S/I,,,,plant,,,,biomass,se,21.777
+1767,tall grass,2009-2013,9,I,,,,plant,,,,biomass,se,42.733
+1767,short grass,2009-2013,9,L/M/S/I,,,,plant,,,,structural heterogeneity,se,1.045
+1767,short grass,2009-2013,9,M/S/I,,,,plant,,,,structural heterogeneity,se,0.786
+1767,short grass,2009-2013,9,S/I,,,,plant,,,,structural heterogeneity,se,1.211
+1767,short grass,2009-2013,9,I,,,,plant,,,,structural heterogeneity,se,1.707
+1767,tall grass,2009-2013,9,L/M/S/I,,,,plant,,,,structural heterogeneity,se,1.523
+1767,tall grass,2009-2013,9,M/S/I,,,,plant,,,,structural heterogeneity,se,1.139
+1767,tall grass,2009-2013,9,S/I,,,,plant,,,,structural heterogeneity,se,1.216
+1767,tall grass,2009-2013,9,I,,,,plant,,,,structural heterogeneity,se,0.675
+1767,short grass,2009-2013,9,L/M/S/I,,,,plant,,,,diversity,se,0.076
+1767,short grass,2009-2013,9,M/S/I,,,,plant,,,,diversity,se,0.125
+1767,short grass,2009-2013,9,S/I,,,,plant,,,,diversity,se,0.067
+1767,short grass,2009-2013,9,I,,,,plant,,,,diversity,se,0.162
+1767,tall grass,2009-2013,9,L/M/S/I,,,,plant,,,,diversity,se,0.117
+1767,tall grass,2009-2013,9,M/S/I,,,,plant,,,,diversity,se,0.083
+1767,tall grass,2009-2013,9,S/I,,,,plant,,,,diversity,se,0.116
+1767,tall grass,2009-2013,9,I,,,,plant,,,,diversity,se,0.119

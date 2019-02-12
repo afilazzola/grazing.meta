@@ -1,0 +1,13 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+603,JunnerKoeland,1998,5,grazed,0,heifers/ha,0.4,Rodent,Microtus,arvalis,,number caught ,mean,4.13
+603,JunnerKoeland,1998,5,grazed,0,heifers/ha,0.4,Rodent,Microtus,arvalis,,number caught ,sterror,1.51
+603,JunnerKoeland,1998,5,ungrazed,4,heifers/ha,0,Rodent,Microtus,arvalis,,number caught ,mean,8.175
+603,JunnerKoeland,1998,5,ungrazed,4,heifers/ha,0,Rodent,Microtus,arvalis,,number caught ,sterror,1.667
+603,JunnerKoeland,1999,5,grazed,0,heifers/ha,0.4,Rodent,Microtus,arvalis,,number caught ,mean,0
+603,JunnerKoeland,1999,5,grazed,0,heifers/ha,0.4,Rodent,Microtus,arvalis,,number caught ,sterror,0
+603,JunnerKoeland,1999,5,ungrazed,5,heifers/ha,0,Rodent,Microtus,arvalis,,number caught ,mean,12.78
+603,JunnerKoeland,1999,5,ungrazed,5,heifers/ha,0,Rodent,Microtus,arvalis,,number caught ,sterror,2.46
+603,JunnerKoeland,2000,5,grazed,0,heifers/ha,0.4,Rodent,Microtus,arvalis,,number caught ,mean,0
+603,JunnerKoeland,2000,5,grazed,0,heifers/ha,0.4,Rodent,Microtus,arvalis,,number caught ,sterror,0
+603,JunnerKoeland,2000,5,ungrazed,6,heifers/ha,0,Rodent,Microtus,arvalis,,number caught ,mean,12.94
+603,JunnerKoeland,2000,5,ungrazed,6,heifers/ha,0,Rodent,Microtus,arvalis,,number caught ,sterror,0.56

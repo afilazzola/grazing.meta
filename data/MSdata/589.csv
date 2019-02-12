@@ -1,0 +1,45 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Perognathus,flavus,,captures/plot/100 trap nights,mean,1.37
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Perognathus,flavus,,captures/plot/100 trap nights,sterror,0.6
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Perognathus,flavus,,captures/plot/100 trap nights,mean,0.881
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Perognathus,flavus,,captures/plot/100 trap nights,sterror,0.278
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Chaetodipus,hispidus,,captures/plot/100 trap nights,mean,1.6
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Chaetodipus,hispidus,,captures/plot/100 trap nights,sterror,0.55
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Chaetodipus,hispidus,,captures/plot/100 trap nights,mean,1.252
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Chaetodipus,hispidus,,captures/plot/100 trap nights,sterror,0.348
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Peromyscus,maniculatus,,captures/plot/100 trap nights,mean,4.846
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Peromyscus,maniculatus,,captures/plot/100 trap nights,sterror,1.994
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Peromyscus,maniculatus,,captures/plot/100 trap nights,mean,3.664
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Peromyscus,maniculatus,,captures/plot/100 trap nights,sterror,0.812
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Permyscus,eremicus,,captures/plot/100 trap nights,mean,0.719
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Permyscus,eremicus,,captures/plot/100 trap nights,sterror,0.51
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Permyscus,eremicus,,captures/plot/100 trap nights,mean,0.301
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Permyscus,eremicus,,captures/plot/100 trap nights,sterror,0.209
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Neotoma ,albigula,,captures/plot/100 trap nights,mean,0.649
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Neotoma ,albigula,,captures/plot/100 trap nights,sterror,0.557
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Neotoma ,albigula,,captures/plot/100 trap nights,mean,0.672
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Neotoma ,albigula,,captures/plot/100 trap nights,sterror,0.487
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Onychomus,torridus,,captures/plot/100 trap nights,mean,0.487
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Onychomus,torridus,,captures/plot/100 trap nights,sterror,0.255
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Onychomus,torridus,,captures/plot/100 trap nights,mean,0.649
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Onychomus,torridus,,captures/plot/100 trap nights,sterror,0.255
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Reithrodontomys ,megalotis,,captures/plot/100 trap nights,mean,2.597
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Reithrodontomys ,megalotis,,captures/plot/100 trap nights,sterror,0.696
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Reithrodontomys ,megalotis,,captures/plot/100 trap nights,mean,3.478
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Reithrodontomys ,megalotis,,captures/plot/100 trap nights,sterror,0.719
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Reithrodontomys ,fulvescens,,captures/plot/100 trap nights,mean,0.533
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Reithrodontomys ,fulvescens,,captures/plot/100 trap nights,sterror,0.255
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Reithrodontomys ,fulvescens,,captures/plot/100 trap nights,mean,2.133
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Reithrodontomys ,fulvescens,,captures/plot/100 trap nights,sterror,0.51
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Baiomys,taylori,,captures/plot/100 trap nights,mean,0.186
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Baiomys,taylori,,captures/plot/100 trap nights,sterror,0.139
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Baiomys,taylori,,captures/plot/100 trap nights,mean,1.646
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Baiomys,taylori,,captures/plot/100 trap nights,sterror,0.672
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Sigmodon,ochrognathus,,captures/plot/100 trap nights,mean,0
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Sigmodon,ochrognathus,,captures/plot/100 trap nights,sterror,0
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Sigmodon,ochrognathus,,captures/plot/100 trap nights,mean,0.58
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Sigmodon,ochrognathus,,captures/plot/100 trap nights,sterror,0.417
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Sigmodon,fulviventer,,captures/plot/100 trap nights,mean,0.487
+589,AppletonWhittell,2001,4,grazed,0,animal/ha,0.04,Rodent,Sigmodon,fulviventer,,captures/plot/100 trap nights,sterror,0.209
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Sigmodon,fulviventer,,captures/plot/100 trap nights,mean,2.899
+589,AppletonWhittell,2001,4,ungrazed,51,animal/ha,1,Rodent,Sigmodon,fulviventer,,captures/plot/100 trap nights,sterror,1.067

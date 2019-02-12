@@ -1,0 +1,45 @@
+uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,grazing.value,Taxa,Genus,Species,Status,Estimate,Stat,Value
+1958,grassland species,2003,42,extensive,0,cattle per ha,0.5,aves,,,,number of territories,mean ,19.371
+1958,grassland species,2003,42,intensive,0,cattle per ha,>1,aves,,,,number of territories,mean ,10.2
+1958,grassland species,2003,42,extensive,0,cattle per ha,0.5,aves,,,,number of territories,se,6.943
+1958,grassland species,2003,42,intensive,0,cattle per ha,>1,aves,,,,number of territories,se,3.514
+1958,non-grassland species,2003,42,extensive,0,cattle per ha,0.5,aves,,,,number of territories,mean ,2.743
+1958,non-grassland species,2003,42,intensive,0,cattle per ha,>1,aves,,,,number of territories,mean ,3.514
+1958,non-grassland species,2003,42,extensive,0,cattle per ha,0.5,aves,,,,number of territories,se,1.628
+1958,non-grassland species,2003,42,intensive,0,cattle per ha,>1,aves,,,,number of territories,se,1.929
+1958,simple,2003,42,extensive,0,cattle per ha,0.5,aves,Alauda,arvensis,,abundance,mean ,12.92
+1958,simple,2003,42,intensive,0,cattle per ha,>1,aves,Alauda,arvensis,,abundance,mean ,11.28
+1958,simple,2003,42,extensive,0,cattle per ha,0.5,aves,Alauda,arvensis,,abundance,se,5.52
+1958,simple,2003,42,intensive,0,cattle per ha,>1,aves,Alauda,arvensis,,abundance,se,4.12
+1958,intermediate,2003,42,extensive,0,cattle per ha,0.5,aves,Alauda,arvensis,,abundance,mean ,15.12
+1958,intermediate,2003,42,intensive,0,cattle per ha,>1,aves,Alauda,arvensis,,abundance,mean ,11.08
+1958,intermediate,2003,42,extensive,0,cattle per ha,0.5,aves,Alauda,arvensis,,abundance,se,9.04
+1958,intermediate,2003,42,intensive,0,cattle per ha,>1,aves,Alauda,arvensis,,abundance,se,3.4
+1958,complex,2003,42,extensive,0,cattle per ha,0.5,aves,Alauda,arvensis,,abundance,mean ,5.48
+1958,complex,2003,42,intensive,0,cattle per ha,>1,aves,Alauda,arvensis,,abundance,mean ,1.28
+1958,complex,2003,42,extensive,0,cattle per ha,0.5,aves,Alauda,arvensis,,abundance,se,3.48
+1958,complex,2003,42,intensive,0,cattle per ha,>1,aves,Alauda,arvensis,,abundance,se,1.52
+1958,simple,2003,42,extensive,0,cattle per ha,0.5,aves,Motacilla,flava,,abundance,mean ,3.424
+1958,simple,2003,42,intensive,0,cattle per ha,>1,aves,Motacilla,flava,,abundance,mean ,1.244
+1958,simple,2003,42,extensive,0,cattle per ha,0.5,aves,Motacilla,flava,,abundance,se,2.746
+1958,simple,2003,42,intensive,0,cattle per ha,>1,aves,Motacilla,flava,,abundance,se,1.179
+1958,intermediate,2003,42,extensive,0,cattle per ha,0.5,aves,Motacilla,flava,,abundance,mean ,0.42
+1958,intermediate,2003,42,intensive,0,cattle per ha,>1,aves,Motacilla,flava,,abundance,mean ,0
+1958,intermediate,2003,42,extensive,0,cattle per ha,0.5,aves,Motacilla,flava,,abundance,se,0.678
+1958,intermediate,2003,42,intensive,0,cattle per ha,>1,aves,Motacilla,flava,,abundance,se,0
+1958,complex,2003,42,extensive,0,cattle per ha,0.5,aves,Motacilla,flava,,abundance,mean ,5.297
+1958,complex,2003,42,intensive,0,cattle per ha,>1,aves,Motacilla,flava,,abundance,mean ,3.262
+1958,complex,2003,42,extensive,0,cattle per ha,0.5,aves,Motacilla,flava,,abundance,se,4.62
+1958,complex,2003,42,intensive,0,cattle per ha,>1,aves,Motacilla,flava,,abundance,se,1.196
+1958,simple,2003,42,extensive,0,cattle per ha,0.5,aves,Miliaria,calandra,,abundance,mean ,0
+1958,simple,2003,42,intensive,0,cattle per ha,>1,aves,Miliaria,calandra,,abundance,mean ,0.136
+1958,simple,2003,42,extensive,0,cattle per ha,0.5,aves,Miliaria,calandra,,abundance,se,0
+1958,simple,2003,42,intensive,0,cattle per ha,>1,aves,Miliaria,calandra,,abundance,se,0.252
+1958,intermediate,2003,42,extensive,0,cattle per ha,0.5,aves,Miliaria,calandra,,abundance,mean ,1.714
+1958,intermediate,2003,42,intensive,0,cattle per ha,>1,aves,Miliaria,calandra,,abundance,mean ,0.86
+1958,intermediate,2003,42,extensive,0,cattle per ha,0.5,aves,Miliaria,calandra,,abundance,se,1.888
+1958,intermediate,2003,42,intensive,0,cattle per ha,>1,aves,Miliaria,calandra,,abundance,se,1.462
+1958,complex,2003,42,extensive,0,cattle per ha,0.5,aves,Miliaria,calandra,,abundance,mean ,1.72
+1958,complex,2003,42,intensive,0,cattle per ha,>1,aves,Miliaria,calandra,,abundance,mean ,1.567
+1958,complex,2003,42,extensive,0,cattle per ha,0.5,aves,Miliaria,calandra,,abundance,se,0.393
+1958,complex,2003,42,intensive,0,cattle per ha,>1,aves,Miliaria,calandra,,abundance,se,1.51
