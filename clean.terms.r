@@ -58,4 +58,13 @@ data[data$Stat=="2 se","Stat"] <- "se" ## relabel as se
 ## Compare estimates
 unique(data$Estimate)
 
-write.csv(unique(data$Estimate), "Unique.Estimates.Column.csv")
+## write.csv(unique(data$Estimate), "Unique.Estimates.Column.csv")
+
+## Read in Functional Group summary column
+fg <- read.csv("functional.groups.csv")
+
+
+data.fg <- merge(data, fg, by=c("uniqueID","Taxa","Genus","Species","Estimate"))
+
+write.csv(data.fg, "data//binary.simplified.csv")
+
