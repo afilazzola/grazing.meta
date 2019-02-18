@@ -36,17 +36,6 @@ Conduct a meta-analysis of the literature testing the indirect effects of grazin
 1. 
 2. 
 
-### Search Terms
-
-A systematic literature search was conducted using Web of Science for all emperical research articles.  The review will include all studies globally. The intended purpose of this search is to capture all articles that have documented grazing either along a gradient (e.g. different frequencies or intensity) or presence/absence (e.g. excluded, ungrazed, or retired ranch lands). We condcuted two separate searches to capture studies that tested gradients and studies that compared grazing to ungrazed treatments. Duplicate articles between the searches were removed. We also intentionally excluded terms that  resulted in articles not relevant to the purpose of this study including: review, synthesis, policy, social, carbon, and fish. The search terms that used were: 
-
-**Search A**
-`graz* OR livestock` **AND**  `exclosure* OR exclusion OR exclude* OR ungrazed OR retire* OR fallow*`
-
-**Search B**
-`grazing intensity OR grazing gradient OR stocking rate OR rotation* grazing`
-
-
 ### Timeline
 
 date    | task
@@ -64,23 +53,16 @@ April 2 | Complete revisions and submit to journal
 
 ### Literature Review - 1. Search
 
+#### Search Terms
 
-### Revise list
-```{r warning=FALSE, message=FALSE, eval=FALSE}
-search1.1 <- read.csv("data/WOS-lit.csv")
-search1.2 <- read.csv("data/WoSPart3-July_4_2018.csv")
-net.difference <- anti_join(search1.2, search1.1, by = "DOI")
-net.difference <- net.difference %>% select(Title, DOI) #to simplify for a look
-nrow(net.difference) #count of number of differences from consecutive search
+A systematic literature search was conducted using Web of Science for all emperical research articles.  The review will include all studies globally. The intended purpose of this search is to capture all articles that have documented grazing either along a gradient (e.g. different frequencies or intensity) or presence/absence (e.g. excluded, ungrazed, or retired ranch lands). We condcuted two separate searches to capture studies that tested gradients and studies that compared grazing to ungrazed treatments. Duplicate articles between the searches were removed. We also intentionally excluded terms that  resulted in articles not relevant to the purpose of this study including: review, synthesis, policy, social, carbon, and fish. The search terms that used were: 
 
-## 182 papers to be added by including revised terms
-## Select those articles and join with other dataset
-net.difference <- anti_join(search1.2, search1.1, by = "DOI")
+**Search A**
+`graz* OR livestock` **AND**  `exclosure* OR exclusion OR exclude* OR ungrazed OR retire* OR fallow*`
 
-updated.search <- rbind(search1.1, net.difference)
+**Search B**
+`grazing intensity OR grazing gradient OR stocking rate OR rotation* grazing`
 
-#write.csv(updated.search, "data/WOS-lit.updated.csv")
-```
 
 ### Literature Review - 2. Sort
 
@@ -89,6 +71,59 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 - Not emperical study (e.g. review, book chapter)
 - Irrelevant categories (e.g. political science, law, sports tourism, art)
 
+#### Reasons for exclusion
+```{r, warning=FALSE, message=FALSE}
+evidence <- read.csv("data//synthesisdata//evidence.csv")
+### Identify studies that were excluded
+excludes <- evidence %>% group_by(reason.simplified) %>% count(exclude) %>% filter(reason.simplified!="")
+ggplot(excludes, aes(x=reason.simplified, y=n)) + geom_bar(stat="identity") + coord_flip()
+
+## frequency of study
+year.rate <- evidence %>% group_by(Publication.Year) %>% summarize(n=length(Publication.Year))
+
+ggplot(tail(year.rate,30)) + geom_bar(aes(x=Publication.Year, y=n), stat="identity") + ylab("number of published studies") +xlab("year published") +theme(text = element_text(size=16))
+```
 
 
+#### Prisma report
+
+```{r}
+## total number of papers found
+nrow(evidence)
+
+## number of papers found outside of WoS
+other <- read.csv("data/synthesisdata//other.sources.csv")
+nrow(other)
+
+## number of articles excluded
+excludes <- evidence %>% filter(exclude=="yes")
+nrow(excludes)
+
+## relevant papers
+review <- evidence %>% filter(exclude!="yes")
+nrow(review)
+
+## papers for meta
+datasets <- read.csv("data//binary.simplified.csv")
+meta <- length(unique(datasets$uniqueID))
+meta
+
+prisma(found = 2989,
+       found_other = 1,
+       no_dupes = 2989,
+       screened = 2989,
+       screen_exclusions = 2675,
+       full_text = 315,
+       full_text_exclusions = 0,
+       qualitative = 315, 
+       quantitative = 216,
+       width = 800, height = 800)
+```
+
+
+
+### 3. Synthesis
+
+```{r}
+data <- read.csv("data//binary.simplified.csv")
 
