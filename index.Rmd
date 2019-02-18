@@ -149,5 +149,92 @@ mp
 ### 3. Synthesis
 
 ```{r}
-data <- read.csv("data//binary.simplified.csv")
+meta <- read.csv("data//binary.simplified.csv")
+
+
+## Load packages and functions
+library(reshape2)
+library(metafor)
+source("meta.eval.r") ## Multiple aggregate
+
+
+## Simplify the estimates column
+meta2 <- meta
+est <- read.csv("data//Unique.Estimates.Column.csv")
+meta2 <- merge(meta2, est, by="Estimate")
+
+## Create Unique identifier column
+meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Taxa.1, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
+
+## convert se to sd
+meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
+meta2[meta2$Stat=="se","Stat"] <- "sd"
+
+## drop comparisons that are not pairwise
+meta2 <-  meta2 %>% filter(grazing.compare.simple == "ungrazed" | grazing.compare.simple == "grazed")
+meta2 <- meta2 %>% filter(uniqueID != "30") ## drop study 30 because anomalous 
+
+## Drop plants
+meta2 <- meta2 %>% filter(Taxa.1 != "Plants") ## examine animals only
+
+
+## Use function to extract summary statistics for comparisons
+## meta.eval  arguments are (meta.data, compare, ids , stats)
+grazed.compare <- meta.eval(meta2, grazing.compare.simple, UniqueSite, Stat)
+
+## Combine the lists into same dataframe
+## Rename Columns in second dataframe
+grazed.stat <- grazed.compare [[2]] ## extracted statistics 
+names(grazed.stat) <- c("UniqueSite","grazed_mean","grazed_sd","ungrazed_mean","ungrazed_sd","grazed_n","ungrazed_n") ## rename columns to match
+grazed.raw <- grazed.compare[[1]] ## calculated statistics from raw values
+
+## Join two dataframes
+meta.stat <- rbind(grazed.raw, grazed.stat[, names(grazed.raw)])
+
+
+meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "SMD", append = TRUE)
+
+## clean up meta.ready
+meta.ready <- na.omit(meta.ready) ## drop NAs
+meta.ready <- meta.ready[meta.ready$grazed_mean<80,] ## Drop extreme high variance
+
+
+## separate out the identifiers
+siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=4, byrow=TRUE)
+siteID <- data.frame(siteID) ## recreate as dataframe
+colnames(siteID) <- c("Study","taxa","FG","measure") ## add column names
+meta.ready <- cbind(data.frame(meta.ready), siteID)
+
+#random-effects meta-analysis for grazed vs ungrazed plots
+m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
+summary(m1) 
+
+#mixed-effects meta-analysis for grazed vs ungrazed plots
+m2 <- rma(yi=yi, vi=vi, mods=~FG-1,  data = meta.ready)
+summary(m2) 
+
+## compare inclusion of moderators
+(.9539-.9352)/.9352 ## explains an additional 2%
+
+## Produce a forest plot to determine the effect sizes for each study
+forest(m1)
+confint(m1)
+
+
+## Check for publication bias
+## The symetrical distriubtion suggests there is no publication bias
+funnel(m1)
+
+## Calculate rosenthals Failsafe number
+fsn(yi, vi, data=meta.ready)
+
+# ## generate plot with spaces inbetween
+# forest(m1, atransf=exp, cex=0.75, ylim=c(-1, 24),
+#        order=order(meta.ready$GI.compare,meta.ready$taxa), rows=c(3:4,7,10:16,19:21),
+# #         mlab="RE model for all studies", psize=1, slab= paste(meta.ready$Study, meta.ready$taxa, meta.ready$measure))
+# 
+# addpoly(res.w, row=18, cex=0.75, atransf=exp, mlab="RE model for green wall")
+# addpoly(res.r, row= 9, cex=0.75, atransf=exp, mlab="RE model for green roof")
+# addpoly(res.rd, row= 6, cex=0.75, atransf=exp, mlab="RE model for roadsides")
+# addpoly(res.p, row= 2, cex=0.75, atransf=exp, mlab="RE model for retention ponds")
 

@@ -1,0 +1,72 @@
+grazing.compare,grazing.compare.simplified
+ungrazed,ungrazed
+grazed,grazed
+both,grazed
+cattle,grazed
+megaherbivores,
+moderately grazed,medium
+heavily grazed,high
+grazed-sheep,grazed
+grazed-sheep and cattle,grazed
+high,high
+medium,medium
+low,low
+grazed (sheep),grazed
+grazed (cattle),grazed
+M/S/I,other
+L/M/S/I,other
+S/I,other
+I,other
+ungazed,ungrazed
+no grazing,ungrazed
+grazing ,grazed
+heavy,high
+moderate,medium
+wild large herbivores and cattle,grazed
+wild large herbivores,ungrazed
+light,low
+abandoned,ungrazed
+low to moderate,low
+lightly grazed,low
+late stage abandoned,ungrazed
+early stage abandoned,grazed
+extensively grazed,grazed
+continously grazed,grazed
+cattle grazed,grazed
+sheep grazed,grazed
+horse grazed,grazed
+low intense,low
+intensive,high
+extensive,medium
+re-established pasture,ungrazed
+abandoned pasture,ungrazed
+old pasture,ungrazed
+currently grazed,grazed
+abandoned 1-9 years ago,ungrazed
+abandoned >10 years ago,ungrazed
+instensively grazed,high
+moderately/ungrazed,medium
+high to moderate,medium
+no change,other
+moderate to high,medium
+moderate to low,low
+late,grazed
+continuous,grazed
+intermediate,medium
+rotatiol,grazed
+season-long,grazed
+0,ungrazed
+1,grazed
+non-grazed,ungrazed
+recently grazed,grazed
+long-term grazing,grazed
+gradient,gradient
+low sheep,low
+high cattle,high
+high grazing,high
+low grazing,low
+none,ungrazed
+grazed ,grazed
+grazed spring,grazed
+grazed summer,grazed
+grazed winter,grazed
