@@ -121,6 +121,30 @@ prisma(found = 2989,
 ```
 
 
+#### Patterns of GI Studies Globally
+```{r warning=FALSE, message=FALSE, fig.width=12, fig.height=10}
+require(ggmap)
+###  Start with base map of world
+mp <- NULL
+mapWorld <- borders("world", colour="gray50", fill="gray50") # create a layer of borders
+mp <- ggplot() +   mapWorld
+
+## colorblind-friendly palette
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#000000")
+
+meta <- read.csv("data//synthesisdata//evidence.csv")
+meta <- meta %>% filter(lat != "") ## remove blanks for lat and lon
+meta <- meta[!grepl(";", meta$lat),] ## remove multiple entries
+meta$lat <- as.numeric(levels(meta$lat))[meta$lat] ## convert from factor to number
+meta$lon <- as.numeric(levels(meta$lon))[meta$lon] ## convert from factor to number
+
+
+## plot points on top
+mp <- mp+ geom_point(data=meta , aes(x=lon, y=lat), size=2) 
+mp
+
+```
+
 
 ### 3. Synthesis
 
