@@ -1,0 +1,78 @@
+grazer.spp,grazer.simplified
+cattle,cattle
+sheep,sheep
+deer,indigenous
+reindeer,domestic
+sheep; cattle,both
+deer; boar,indigenous
+cattle; sheep,both
+sheep; goats,sheep and domestic
+cattle; ponies,cattle and domestic
+cattle; horse,cattle and domestic
+feral horses,domestic
+"elk, bison, pronghorn",indigenous
+sheep goat,sheep and domestic
+bison elk,indigenous
+cattle goats sheep horses,domestic
+livestock,domestic
+grazing mollusc,indigenous
+horse cattle donkey,domestic
+bison,indigenous
+cattle bison,cattle and indigenous
+elephant,indigenous
+"cattle, sheep, horse",domestic
+"rhino,buffalo,zebra, warthog,impala,nyala,duiker,hare",indigenous
+cattle horses,cattle and domestic
+"cattle, bison",cattle and indigenous
+"cows, rabbits",cattle and indigenous
+"cattle, giraffe, elephant",cattle and indigenous
+raindeer,domestic
+"cattle, native wildlife",cattle and indigenous
+white-tailed deer,indigenous
+white rhino (Ceratotherium simum ); all ungulates larger than scrub hares (Lepus saxatilis),indigenous
+"Impala, African buffalo, Burchell?s zebra, bushbuck, and warthogs",indigenous
+elk; deer,indigenous
+cattle/sheep,both
+cattle/horses,cattle and domestic
+livestock (assuming sheep),sheep
+"Heck cattle (Bos taurus), konik horses (Equus ferus caballus) and red deer (Cervus elaphus",indigenous
+"elk, moose, mule deer, bison, pronghorn, bighorn sheep",indigenous
+rabbits,indigenous
+"large herbivores, mostly reindeer and moose",indigenous
+"cattle, horses",cattle and domestic
+mixture of wild herbivores,indigenous
+"cattle, proghorn, various species of rodents and lagomorphs",cattle and indigenous
+red deer,indigenous
+"cattle, sheep, goat, camel",both
+"cattle, rodents",cattle and indigenous
+"cattle, various wild ungulates",cattle and indigenous
+"sheep, goat, rabbit, kangaroos",sheep and domestic
+"cattle, horse, bighorn sheep",cattle and domestic
+"goat, cattle",cattle and domestic
+"sheep, cattle",both
+"sheep, cattle, horse",both
+"cattle, horse",cattle and domestic
+horse,domestic
+"sheep, red deer, grouse moor",sheep and indigenous
+"cattle, goat, sheep, horse, camels",both
+"sheep, goat, cattle, ponies, horses",both
+goat,domestic
+"cattle, horses, sheep",both
+cattle and sheep,both
+"horse, cattle, sheep",both
+"Goats, sheep, feral donkeys",sheep and domestic
+"goats, cattle, horses",cattle and domestic
+cattle and horses,cattle and domestic
+"""Mixed""",domestic
+Antipodeans and ostriches,indigenous
+cattle and bison,cattle and domestic
+UNKN,domestic
+sheep and cattle,both
+"sheep, cattle, horse, goats, donkey",both
+"cattle, sheep, goats",both
+sheep and goat,sheep and domestic
+yaks,domestic
+sheep and goats,sheep and domestic
+"yak, sheep, goat, horse",sheep and domestic
+"cattle, donkey, sheep",both
+"rabbits, cattle, deer",cattle and domestic

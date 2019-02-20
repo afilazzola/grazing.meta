@@ -146,25 +146,33 @@ mp
 ```
 
 
-### 3. Synthesis
+### 3. Synthesis - Abundance
 
 ```{r}
 meta <- read.csv("data//binary.simplified.csv")
-
-
+  
+  
 ## Load packages and functions
 library(reshape2)
 library(metafor)
 source("meta.eval.r") ## Multiple aggregate
-
-
+  
+  
 ## Simplify the estimates column
 meta2 <- meta
 est <- read.csv("data//Unique.Estimates.Column.csv")
 meta2 <- merge(meta2, est, by="Estimate")
+  
+  
+## join manuscript data
+ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
+meta2 <- merge(meta2, ms.data, by="uniqueID")
+  ## subset for abundance only
+  meta2 <- meta2 %>% filter(est.reduced == "abundance")
+  
 
 ## Create Unique identifier column
-meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Taxa.1, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
+meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$grazer.simplified, meta2$Taxa.1, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
 
 ## convert se to sd
 meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
@@ -200,30 +208,36 @@ meta.ready <- meta.ready[meta.ready$grazed_mean<80,] ## Drop extreme high varian
 
 
 ## separate out the identifiers
-siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=4, byrow=TRUE)
+siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=5, byrow=TRUE)
 siteID <- data.frame(siteID) ## recreate as dataframe
-colnames(siteID) <- c("Study","taxa","FG","measure") ## add column names
+colnames(siteID) <- c("Study","grazer","taxa","FG","measure") ## add column names
 meta.ready <- cbind(data.frame(meta.ready), siteID)
 
 #random-effects meta-analysis for grazed vs ungrazed plots
 m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
 summary(m1) 
 
+## get last year grazed as covariate
+yr.grazed <- meta2 %>% group_by(uniqueID) %>% summarize(yr=max(yr.grazed))
+colnames(yr.grazed)[1] <- "Study"
+site.yr <- merge(siteID, yr.grazed, by="Study")
+meta.ready[,"yr.grazed"] <- site.yr$yr
+
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m2 <- rma(yi=yi, vi=vi, mods=~FG-1,  data = meta.ready)
+m2 <- rma(yi=yi, vi=vi, mods=~FG+grazer-1,  data = meta.ready)
 summary(m2) 
 
 ## compare inclusion of moderators
 (.9539-.9352)/.9352 ## explains an additional 2%
 
 ## Produce a forest plot to determine the effect sizes for each study
-forest(m1)
+forest(m2)
 confint(m1)
 
 
 ## Check for publication bias
 ## The symetrical distriubtion suggests there is no publication bias
-funnel(m1)
+funnel(m2)
 
 ## Calculate rosenthals Failsafe number
 fsn(yi, vi, data=meta.ready)
