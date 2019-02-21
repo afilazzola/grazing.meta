@@ -1,72 +1,463 @@
-grazing.compare,grazing.compare.simplified
-ungrazed,ungrazed
-grazed,grazed
-both,grazed
-cattle,grazed
-megaherbivores,
-moderately grazed,medium
-heavily grazed,high
-grazed-sheep,grazed
-grazed-sheep and cattle,grazed
-high,high
-medium,medium
-low,low
-grazed (sheep),grazed
-grazed (cattle),grazed
-M/S/I,other
-L/M/S/I,other
-S/I,other
-I,other
-ungazed,ungrazed
-no grazing,ungrazed
-grazing ,grazed
-heavy,high
-moderate,medium
-wild large herbivores and cattle,grazed
-wild large herbivores,ungrazed
-light,low
-abandoned,ungrazed
-low to moderate,low
-lightly grazed,low
-late stage abandoned,ungrazed
-early stage abandoned,grazed
-extensively grazed,grazed
-continously grazed,grazed
-cattle grazed,grazed
-sheep grazed,grazed
-horse grazed,grazed
-low intense,low
-intensive,high
-extensive,medium
-re-established pasture,ungrazed
-abandoned pasture,ungrazed
-old pasture,ungrazed
-currently grazed,grazed
-abandoned 1-9 years ago,ungrazed
-abandoned >10 years ago,ungrazed
-instensively grazed,high
-moderately/ungrazed,medium
-high to moderate,medium
-no change,other
-moderate to high,medium
-moderate to low,low
-late,grazed
-continuous,grazed
-intermediate,medium
-rotatiol,grazed
-season-long,grazed
-0,ungrazed
-1,grazed
-non-grazed,ungrazed
-recently grazed,grazed
-long-term grazing,grazed
-gradient,gradient
-low sheep,low
-high cattle,high
-high grazing,high
-low grazing,low
-none,ungrazed
-grazed ,grazed
-grazed spring,grazed
-grazed summer,grazed
-grazed winter,grazed
+grazing.compare,grazing.compare.simplified,,ID,grazing.compare,grazing.reduced
+ungrazed,ungrazed,,1003,ungrazed,ungrazed
+grazed,grazed,,1003,grazed,grazed
+both,grazed,,1020,ungrazed,ungrazed
+cattle,grazed,,1020,grazed,grazed
+megaherbivores,,,1033,ungrazed,ungrazed
+moderately grazed,medium,,1033,grazed,grazed
+heavily grazed,high,,1040,ungrazed,ungrazed
+grazed-sheep,grazed,,1040,grazed,grazed
+grazed-sheep and cattle,grazed,,106,grazed,grazed
+high,high,,106,ungrazed,ungrazed
+medium,medium,,1095,ungrazed,ungrazed
+low,low,,1095,both,both
+grazed (sheep),grazed,,1095,cattle,grazed
+grazed (cattle),grazed,,1095,megaherbivores,grazed
+M/S/I,other,,1099,grazed,grazed
+L/M/S/I,other,,1099,ungrazed,ungrazed
+S/I,other,,1104,grazed,ga
+I,other,,1104,ungrazed,ungrazed
+ungazed,ungrazed,,1108,ungrazed,ungrazed
+no grazing,ungrazed,,1108,grazed,grazed
+grazing ,grazed,,111,grazed,grazed
+heavy,high,,111,ungrazed,ungrazed
+moderate,medium,,1139,grazed,grazed
+wild large herbivores and cattle,grazed,,1139,ungrazed,ungrazed
+wild large herbivores,ungrazed,,1147,moderately grazed,medium
+light,low,,1147,heavily grazed,grazed
+abandoned,ungrazed,,1147,ungrazed,ungrazed
+low to moderate,low,,115,grazed-sheep,grazed
+lightly grazed,low,,115,grazed-sheep and cattle,grazed
+late stage abandoned,ungrazed,,115,ungrazed,ungrazed
+early stage abandoned,grazed,,1187,ungrazed,ungrazed
+extensively grazed,grazed,,1187,grazed,grazed
+continously grazed,grazed,,1190,ungrazed,ungrazed
+cattle grazed,grazed,,1190,grazed,grazed
+sheep grazed,grazed,,121,grazed,grazed
+horse grazed,grazed,,121,ungrazed,ungrazed
+low intense,low,,1235,megaherbivores,grazed
+intensive,high,,1235,cattle,grazed
+extensive,medium,,1235,ungrazed,ungrazed
+re-established pasture,ungrazed,,1242,grazed,grazed
+abandoned pasture,ungrazed,,1242,ungrazed,ungrazed
+old pasture,ungrazed,,1274,grazed,grazed
+currently grazed,grazed,,1274,ungrazed,ungrazed
+abandoned 1-9 years ago,ungrazed,,1302,ungrazed,ungrazed
+abandoned >10 years ago,ungrazed,,1302,grazed,grazed
+instensively grazed,high,,1304,grazed,grazed
+moderately/ungrazed,medium,,1304,ungrazed,ungrazed
+high to moderate,medium,,1316,ungrazed,ungrazed
+no change,other,,1316,grazed,grazed
+moderate to high,medium,,1318,ungrazed,ungrazed
+moderate to low,low,,1318,grazed,grazed
+late,grazed,,1321,ungrazed,ungrazed
+continuous,grazed,,1321,grazed,grazed
+intermediate,medium,,1354,grazed,grazed
+rotatiol,grazed,,1354,ungrazed,ungrazed
+season-long,grazed,,1370,ungrazed,ungrazed
+0,ungrazed,,1370,grazed,grazed
+1,grazed,,1373,grazed,grazed
+non-grazed,ungrazed,,1373,ungrazed,ungrazed
+recently grazed,grazed,,1380,grazed,grazed
+long-term grazing,grazed,,1380,ungrazed,ungrazed
+gradient,gradient,,1387,grazed,grazed
+low sheep,low,,1387,ungrazed,ungrazed
+high cattle,high,,1397,grazed,grazed
+high grazing,high,,1397,ungrazed,ungrazed
+low grazing,low,,1398,ungrazed,ungrazed
+none,ungrazed,,1398,grazed,grazed
+grazed ,grazed,,1399,grazed,grazed
+grazed spring,grazed,,1399,ungrazed,ungrazed
+grazed summer,grazed,,1404,ungrazed,ungrazed
+grazed winter,grazed,,1404,grazed,grazed
+,,,1414,grazed,grazed
+,,,1414,ungrazed,ungrazed
+,,,142,high,high
+,,,142,medium,medium
+,,,142,ungrazed,ungrazed
+,,,142,low,low
+,,,1423,grazed,grazed
+,,,1423,ungrazed,ungrazed
+,,,1445,ungrazed,ungrazed
+,,,1445,grazed,grazed
+,,,1466,grazed,grazed
+,,,1466,ungrazed,ungrazed
+,,,1486,ungrazed,ungrazed
+,,,1486,grazed,grazed
+,,,149,ungrazed,ungrazed
+,,,149,grazed,grazed
+,,,1501,ungrazed,ungrazed
+,,,1501,grazed,grazed
+,,,1502,grazed,grazed
+,,,1502,ungrazed,ungrazed
+,,,1510,grazed,grazed
+,,,1510,ungrazed,ungrazed
+,,,1528,ungrazed,ungrazed
+,,,1528,grazed,grazed
+,,,1529,grazed,grazed
+,,,1529,ungrazed,ungrazed
+,,,1553,grazed,grazed
+,,,1553,ungrazed,ungrazed
+,,,1572,grazed,grazed
+,,,1572,ungrazed,ungrazed
+,,,1586,grazed,grazed
+,,,1586,ungrazed,ungrazed
+,,,159,ungrazed,ungrazed
+,,,159,grazed,grazed
+,,,1613,ungrazed,ungrazed
+,,,1613,grazed,grazed
+,,,1618,grazed (sheep),grazed
+,,,1618,grazed (cattle),grazed
+,,,1618,ungrazed,ungrazed
+,,,1649,grazed,grazed
+,,,1649,ungrazed,ungrazed
+,,,1656,ungrazed,ungrazed
+,,,1656,grazed,grazed
+,,,1657,ungrazed,ungrazed
+,,,1657,grazed,grazed
+,,,1660,grazed,grazed
+,,,1660,ungrazed,ungrazed
+,,,1689,grazed,grazed
+,,,1689,ungrazed,ungrazed
+,,,1697,grazed,grazed
+,,,1697,ungrazed,ungrazed
+,,,1710,grazed,grazed
+,,,1710,ungrazed,ungrazed
+,,,1712,ungrazed,ungrazed
+,,,1720,grazed,grazed
+,,,1720,ungrazed,ungrazed
+,,,1722,ungrazed,ungrazed
+,,,1722,grazed,grazed
+,,,1733,grazed,grazed
+,,,1733,ungrazed,ungrazed
+,,,1757,ungrazed,ungrazed
+,,,1757,grazed,grazed
+,,,1763,grazed,grazed
+,,,1763,ungrazed,ungrazed
+,,,1767,M/S/I,ungrazed
+,,,1767,L/M/S/I,grazed
+,,,1767,S/I,S/I
+,,,1767,I,I
+,,,1770,grazed,grazed
+,,,1770,ungrazed,ungrazed
+,,,1774,grazed,grazed
+,,,1774,ungrazed,ungrazed
+,,,1774,ungazed,ungazed
+,,,1775,grazed,grazed
+,,,1775,ungrazed,ungrazed
+,,,1777,ungrazed,ungrazed
+,,,1777,grazed,grazed
+,,,1783,no grazing,ungrazed
+,,,1783,grazing ,grazed
+,,,1783,heavy,high
+,,,1783,moderate,medium
+,,,1788,wild large herbivores and cattle,grazed
+,,,1788,ungrazed,ungrazed
+,,,1788,wild large herbivores,grazed
+,,,1808,grazed,grazed
+,,,1808,ungrazed,ungrazed
+,,,1835,grazed,grazed
+,,,1835,ungrazed,ungrazed
+,,,184,ungrazed,ungrazed
+,,,184,grazed,grazed
+,,,1859,grazed,grazed
+,,,1859,ungrazed,ungrazed
+,,,1860,ungrazed,ungrazed
+,,,1860,grazed,grazed
+,,,188,grazed,grazed
+,,,188,ungrazed,ungrazed
+,,,1892,light,low
+,,,1892,heavy,high
+,,,1892,moderate,medium
+,,,1893,abandoned,ungrazed
+,,,1893,high,grazed
+,,,1893,low to moderate,low
+,,,1895,heavily grazed,grazed
+,,,1895,lightly grazed,low
+,,,1895,moderately grazed,medium
+,,,1895,ungrazed,ungrazed
+,,,1901,late stage abandoned,ungrazed
+,,,1901,early stage abandoned,ungrazed
+,,,1901,extensively grazed,grazed
+,,,1914,continously grazed,grazed
+,,,1914,abandoned,abandoned
+,,,1914,cattle grazed,cattle grazed
+,,,1914,sheep grazed,sheep grazed
+,,,1914,horse grazed,horse grazed
+,,,1914,ungrazed,ungrazed
+,,,1926,low intense,low
+,,,1926,abandoned,ungrazed
+,,,1926,intensive,grazed
+,,,1942,extensive,extensive
+,,,1942,intensive,intensive
+,,,1956,intensive,intensive
+,,,1956,extensive,extensive
+,,,1958,extensive,extensive
+,,,1958,intensive,intensive
+,,,197,ungrazed,ungrazed
+,,,197,grazed,grazed
+,,,1975,re-established pasture,re-established pasture
+,,,1975,abandoned pasture,abandoned pasture
+,,,1975,old pasture,ungrazed
+,,,1991,currently grazed,grazed
+,,,1991,abandoned 1-9 years ago,ungrazed
+,,,1991,abandoned >10 years ago,ungrazed
+,,,2002,ungrazed,ungrazed
+,,,2002,instensively grazed,grazed
+,,,2002,moderately grazed,medium
+,,,2002,moderately/ungrazed,low
+,,,2004,heavily grazed,high
+,,,2004,lightly grazed,low
+,,,2012,moderate,medium
+,,,2012,heavy,high
+,,,2012,light,low
+,,,2018,intensive,intensive
+,,,2018,extensive,extensive
+,,,202,ungrazed,ungrazed
+,,,202,high,grazed
+,,,202,low,low
+,,,202,medium,medium
+,,,2020,heavy,high
+,,,2020,light,low
+,,,2020,moderate,medium
+,,,2060,high to moderate,medium
+,,,2060,no change,no change
+,,,2060,low to moderate,low to moderate
+,,,2060,moderate to high,moderate to high
+,,,2060,moderate to low,moderate to low
+,,,2073,late,late
+,,,2073,continuous,continuous
+,,,2076,light,low
+,,,2076,intermediate,medium
+,,,2076,heavy,high
+,,,2100,rotatiol,rotational
+,,,2100,season-long,seasonal
+,,,2117,abandoned,ungrazed
+,,,2117,grazed,grazed
+,,,2118,extensive,extensive
+,,,2118,intensive,intensive
+,,,2120,moderate,moderate
+,,,2120,intensive,intensive
+,,,213,ungrazed,ungrazed
+,,,213,grazed,grazed
+,,,226,ungrazed,ungrazed
+,,,226,grazed,grazed
+,,,228,high,high
+,,,228,low,low
+,,,2362,0,ungrazed
+,,,2362,1,grazed
+,,,237,ungrazed,ungrazed
+,,,237,grazed,grazed
+,,,239,grazed,grazed
+,,,239,ungrazed,ungrazed
+,,,2409,grazed,grazed
+,,,2409,ungrazed,ungrazed
+,,,2433,non-grazed,ungrazed
+,,,2433,grazed,grazed
+,,,246,ungrazed,ungrazed
+,,,246,moderate,medium
+,,,246,high,high
+,,,2464,grazed,grazed
+,,,2464,non-grazed,ungrazed
+,,,252,ungrazed,ungrazed
+,,,252,grazed,grazed
+,,,2522,grazed,grazed
+,,,2595,grazed,grazed
+,,,2595,ungrazed,grazed
+,,,2617,low,low
+,,,2617,high,high
+,,,2662,ungrazed,ungrazed
+,,,2662,grazed,grazed
+,,,2715,ungrazed,ungrazed
+,,,2715,grazed,grazed
+,,,2728,grazed,grazed
+,,,2728,ungrazed,ungrazed
+,,,2741,grazed,grazed
+,,,2741,ungrazed,ungrazed
+,,,2752,grazed,grazed
+,,,2752,ungrazed,ungrazed
+,,,2757,Grazed,grazed
+,,,2757,Ungrazed,ungrazed
+,,,277,grazed,grazed
+,,,277,ungrazed,ungrazed
+,,,2789,grazed,grazed
+,,,2789,ungrazed,ungrazed
+,,,2790,grazed,grazed
+,,,2790,ungrazed,ungrazed
+,,,2804,low,low
+,,,2804,high,high
+,,,2804,medium,medium
+,,,2805,medium,medium
+,,,2810,grazed,grazed
+,,,2810,no grazing,ungrazed
+,,,2815,grazed,grazed
+,,,2815,ungrazed,ungrazed
+,,,285,recently grazed,grazed
+,,,285,long-term grazing,grazed
+,,,285,ungrazed,ungrazed
+,,,2881,ungrazed,ungrazed
+,,,2881,grazed,grazed
+,,,2908,gradient,gradient
+,,,2908,ungrazed,ungrazed
+,,,2947,grazed,gra
+,,,2965,grazed,grazed
+,,,2989,ungrazed,ungrazed
+,,,2989,grazed,grazed
+,,,30,ungrazed,ungrazed
+,,,30,grazed,grazed
+,,,311,grazed,grazed
+,,,311,ungrazed,ungrazed
+,,,348,ungrazed,ungrazed
+,,,348,grazed,grazed
+,,,349,ungrazed,ungrazed
+,,,349,grazed,grazed
+,,,351,ungrazed,ungrazed
+,,,351,grazed,grazed
+,,,355,ungrazed,ungrazed
+,,,355,grazed,grazed
+,,,36,ungrazed,ungrazed
+,,,36,grazed,grazed
+,,,363,grazed,grazed
+,,,363,ungrazed,ungrazed
+,,,367,ungrazed,ungrazed
+,,,367,grazed,grazed
+,,,373,grazed,grazed
+,,,373,ungrazed,ungrazed
+,,,374,ungrazed,ungrazed
+,,,374,grazed,grazed
+,,,391,ungrazed,ungrazed
+,,,391,grazed,grazed
+,,,393,grazed,grazed
+,,,393,ungrazed,ungrazed
+,,,397,grazed,grazed
+,,,397,ungrazed,ungrazed
+,,,402,grazed,grazed
+,,,402,ungrazed,ungrazed
+,,,403,low sheep,low
+,,,403,ungrazed,ungrazed
+,,,403,high cattle,gra
+,,,405,grazed,gra
+,,,405,ungrazed,ungrazed
+,,,407,ungrazed,un
+,,,407,high grazing,high
+,,,407,low grazing,low
+,,,409,low,low
+,,,409,medium,medium
+,,,409,none,ungrazed
+,,,409,high,grazed
+,,,416,ungrazed,ungrazed
+,,,416,grazed,grazed
+,,,422,grazed,grazed
+,,,422,ungrazed,ungrazed
+,,,444,ungrazed,ungrazed
+,,,444,grazed,grazed
+,,,46,grazed,grazed
+,,,46,ungrazed,ungrazed
+,,,487,grazed,grazed
+,,,487,ungrazed,ungrazed
+,,,5,ungrazed,ungrazed
+,,,5,grazed,grazed
+,,,509,grazed,grazed
+,,,509,ungrazed,ungrazed
+,,,512,grazed ,grazed 
+,,,512,ungrazed,ungrazed
+,,,523,grazed,grazed
+,,,523,ungrazed,ungrazed
+,,,533,ungrazed,ungrazed
+,,,533,grazed,grazed
+,,,55,grazed,grazed
+,,,55,ungrazed,ungrazed
+,,,562,ungrazed,ungrazed
+,,,562,grazed,grazed
+,,,585,ungrazed,ungrazed
+,,,585,grazed,grazed
+,,,589,grazed,grazed
+,,,589,ungrazed,ungrazed
+,,,60,ungrazed,ungrazed
+,,,60,grazed,grazed
+,,,603,grazed,grazed
+,,,603,ungrazed,ungrazed
+,,,606,ungrazed,ungrazed
+,,,606,grazed,grazed
+,,,611,grazed,grazed
+,,,611,ungrazed,ungrazed
+,,,618,grazed,grazed
+,,,618,ungrazed,ungrazed
+,,,619,ungrazed,ungrazed
+,,,619,grazed,grazed
+,,,621,grazed,grazed
+,,,621,ungrazed,ungrazed
+,,,644,ungrazed,ungrazed
+,,,644,grazed,grazed
+,,,654,grazed,grazed
+,,,654,ungrazed,ungrazed
+,,,702,grazed,grazed
+,,,702,ungrazed,ungrazed
+,,,713,ungrazed,ungrazed
+,,,713,grazed,grazed
+,,,718,ungrazed,ungrazed
+,,,718,grazed,grazed
+,,,73,grazed,grazed
+,,,73,ungrazed,ungrazed
+,,,732,grazed,grazed
+,,,732,ungrazed,ungrazed
+,,,740,grazed ,grazed 
+,,,740,ungrazed,ungrazed
+,,,741,ungrazed,ungrazed
+,,,741,grazed,grazed
+,,,743,grazed,grazed
+,,,743,ungrazed,ungrazed
+,,,747,grazed,grazed
+,,,747,ungrazed,ungrazed
+,,,769,ungrazed,ungrazed
+,,,769,grazed,grazed
+,,,770,grazed,grazed
+,,,770,ungrazed,ungrazed
+,,,776,grazed,grazed
+,,,776,ungrazed,ungrazed
+,,,780,grazed,grazed
+,,,780,ungrazed,ungrazed
+,,,799,grazed,grazed
+,,,799,ungrazed,ungrazed
+,,,8,grazed,grazed
+,,,8,ungrazed,ungrazed
+,,,801,grazed spring,grazed
+,,,802,grazed spring,grazed
+,,,803,grazed summer,grazed
+,,,804,grazed summer,grazed
+,,,805,grazed winter,grazed
+,,,806,grazed winter,grazed
+,,,807,ungrazed,ungrazed
+,,,808,ungrazed,ungrazed
+,,,830,grazed,grazed
+,,,830,ungrazed,ungrazed
+,,,835,ungrazed,ungrazed
+,,,835,grazed,grazed
+,,,848,ungrazed,ungrazed
+,,,848,grazed,grazed
+,,,857,ungrazed,ungrazed
+,,,857,grazed,grazed
+,,,870,ungrazed,ungrazed
+,,,870,grazed,grazed
+,,,874,ungrazed,ungrazed
+,,,874,grazed,grazed
+,,,875,Grazed,grazed
+,,,875,Ungrazed,ungrazed
+,,,879,grazed,grazed
+,,,879,ungrazed,ungrazed
+,,,883,ungrazed,ungrazed
+,,,883,grazed,grazed
+,,,892,ungrazed,ungrazed
+,,,892,grazed,grazed
+,,,929,grazed,grazed
+,,,929,ungrazed,ungrazed
+,,,931,ungrazed,ungrazed
+,,,931,grazed,grazed
+,,,94,grazed,grazed
+,,,94,ungrazed,ungrazed
+,,,962,ungrazed,ungrazed
+,,,962,grazed,grazed
+,,,977,ungrazed,ungrazed
+,,,977,grazed,grazed
+,,,981,ungrazed,ungrazed
+,,,981,grazed,grazed

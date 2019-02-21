@@ -171,7 +171,7 @@ meta2 <- merge(meta2, ms.data, by="uniqueID")
 meta2 <- meta2 %>% filter(est.reduced == "diversity")
   
 ## Select domestic grazers only
-meta2 <- meta2 %>% filter(grazer.simplified == "domestic")
+meta2 <- meta2 %>% filter(grazer.simplified == "indigenous")
  
 
   
@@ -183,7 +183,7 @@ meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
 meta2[meta2$Stat=="se","Stat"] <- "sd"
 
 ## drop comparisons that are not pairwise
-meta2 <-  meta2 %>% filter(grazing.compare.simple == "ungrazed" | grazing.compare.simple == "grazed")
+meta2 <-  meta2 %>% filter(grazing.reduced == "ungrazed" | grazing.reduced == "grazed")
 meta2 <- meta2 %>% filter(uniqueID != "30") ## drop study 30 because anomalous 
 
 
@@ -194,7 +194,7 @@ meta2 <- meta2 %>% filter(Taxa.1 != "Plants") ## examine animals only
 
 ## Use function to extract summary statistics for comparisons
 ## meta.eval  arguments are (meta.data, compare, ids , stats)
-grazed.compare <- meta.eval(meta2, grazing.compare.simple, UniqueSite, Stat)
+grazed.compare <- meta.eval(meta2, grazing.reduced, UniqueSite, Stat)
 
 ## Combine the lists into same dataframe
 ## Rename Columns in second dataframe
