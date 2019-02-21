@@ -157,81 +157,81 @@ library(reshape2)
 library(metafor)
 source("meta.eval.r") ## Multiple aggregate
   
+    
+  ## Simplify the estimates column
+  meta2 <- meta
+  est <- read.csv("data//Unique.Estimates.Column.csv")
+  meta2 <- merge(meta2, est, by="Estimate")
   
-## Simplify the estimates column
-meta2 <- meta
-est <- read.csv("data//Unique.Estimates.Column.csv")
-meta2 <- merge(meta2, est, by="Estimate")
-
- 
-## join manuscript data
-ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
-meta2 <- merge(meta2, ms.data, by="uniqueID")
-## subset for abundance only
-meta2 <- meta2 %>% filter(est.reduced == "diversity")
+   
+  ## join manuscript data
+  ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
+  meta2 <- merge(meta2, ms.data, by="uniqueID")
+  ## subset for abundance only
+  meta2 <- meta2 %>% filter(est.reduced == "diversity")
+    
+  ## Select domestic grazers only
+  meta2 <- meta2 %>% filter(grazer.simplified == "indigenous")
+   
   
-## Select domestic grazers only
-meta2 <- meta2 %>% filter(grazer.simplified == "indigenous")
- 
-
+    
+  ## Create Unique identifier column
+  meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa.1, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
   
-## Create Unique identifier column
-meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa.1, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
-
-## convert se to sd
-meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
-meta2[meta2$Stat=="se","Stat"] <- "sd"
-
-## drop comparisons that are not pairwise
-meta2 <-  meta2 %>% filter(grazing.reduced == "ungrazed" | grazing.reduced == "grazed")
-meta2 <- meta2 %>% filter(uniqueID != "30") ## drop study 30 because anomalous 
-
-
-
-## Drop plants
-meta2 <- meta2 %>% filter(Taxa.1 != "Plants") ## examine animals only
-
-
-## Use function to extract summary statistics for comparisons
-## meta.eval  arguments are (meta.data, compare, ids , stats)
-grazed.compare <- meta.eval(meta2, grazing.reduced, UniqueSite, Stat)
-
-## Combine the lists into same dataframe
-## Rename Columns in second dataframe
-grazed.stat <- grazed.compare [[2]] ## extracted statistics 
-names(grazed.stat) <- c("UniqueSite","grazed_mean","grazed_sd","ungrazed_mean","ungrazed_sd","grazed_n","ungrazed_n") ## rename columns to match
-grazed.raw <- grazed.compare[[1]] ## calculated statistics from raw values
-
-## Join two dataframes
-meta.stat <- rbind(grazed.raw, grazed.stat[, names(grazed.raw)])
-
-
-meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "SMD", append = TRUE)
-
-## clean up meta.ready
-meta.ready <- na.omit(meta.ready) ## drop NAs
-meta.ready <- meta.ready[meta.ready$grazed_mean<80,] ## Drop extreme high variance
-
-
-## separate out the identifiers
-siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=5, byrow=TRUE)
-siteID <- data.frame(siteID) ## recreate as dataframe
-colnames(siteID) <- c("Study","higher.taxa","taxa","FG","measure") ## add column names
-meta.ready <- cbind(data.frame(meta.ready), siteID)
-
-#random-effects meta-analysis for grazed vs ungrazed plots
-m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
-summary(m1) 
-
-## get last year grazed as covariate
-yr.grazed <- meta2 %>% group_by(uniqueID) %>% summarize(yr=max(yr.grazed))
-colnames(yr.grazed)[1] <- "Study"
-site.yr <- merge(siteID, yr.grazed, by="Study")
-meta.ready[,"yr.grazed"] <- site.yr$yr
-
-#mixed-effects meta-analysis for grazed vs ungrazed plots
-m2 <- rma(yi=yi, vi=vi, mods=~FG+higher.taxa-1,  data = meta.ready)
-summary(m2) 
+  ## convert se to sd
+  meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
+  meta2[meta2$Stat=="se","Stat"] <- "sd"
+  
+  ## drop comparisons that are not pairwise
+  meta2 <-  meta2 %>% filter(grazing.reduced == "ungrazed" | grazing.reduced == "grazed")
+  meta2 <- meta2 %>% filter(uniqueID != "30") ## drop study 30 because anomalous 
+  
+  
+  
+  ## Drop plants
+  meta2 <- meta2 %>% filter(Taxa.1 != "Plants") ## examine animals only
+  
+  
+  ## Use function to extract summary statistics for comparisons
+  ## meta.eval  arguments are (meta.data, compare, ids , stats)
+  grazed.compare <- meta.eval(meta2, grazing.reduced, UniqueSite, Stat)
+  
+  ## Combine the lists into same dataframe
+  ## Rename Columns in second dataframe
+  grazed.stat <- grazed.compare [[2]] ## extracted statistics 
+  names(grazed.stat) <- c("UniqueSite","grazed_mean","grazed_sd","ungrazed_mean","ungrazed_sd","grazed_n","ungrazed_n") ## rename columns to match
+  grazed.raw <- grazed.compare[[1]] ## calculated statistics from raw values
+  
+  ## Join two dataframes
+  meta.stat <- rbind(grazed.raw, grazed.stat[, names(grazed.raw)])
+  
+  
+  meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "SMD", append = TRUE)
+  
+  ## clean up meta.ready
+  meta.ready <- na.omit(meta.ready) ## drop NAs
+  meta.ready <- meta.ready[meta.ready$grazed_mean<80,] ## Drop extreme high variance
+  
+  
+  ## separate out the identifiers
+  siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=5, byrow=TRUE)
+  siteID <- data.frame(siteID) ## recreate as dataframe
+  colnames(siteID) <- c("Study","higher.taxa","taxa","FG","measure") ## add column names
+  meta.ready <- cbind(data.frame(meta.ready), siteID)
+  
+  #random-effects meta-analysis for grazed vs ungrazed plots
+  m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
+  summary(m1) 
+  
+  ## get last year grazed as covariate
+  yr.grazed <- meta2 %>% group_by(uniqueID) %>% summarize(yr=max(yr.grazed))
+  colnames(yr.grazed)[1] <- "Study"
+  site.yr <- merge(siteID, yr.grazed, by="Study")
+  meta.ready[,"yr.grazed"] <- site.yr$yr
+  
+  #mixed-effects meta-analysis for grazed vs ungrazed plots
+  m2 <- rma(yi=yi, vi=vi, mods=~FG+higher.taxa-1,  data = meta.ready)
+  summary(m2) 
 
 
 ## compare inclusion of moderators
