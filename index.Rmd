@@ -171,8 +171,10 @@ source("meta.eval.r") ## Multiple aggregate
   meta2 <- meta2 %>% filter(est.reduced == "diversity")
     
   ## Select domestic grazers only
-  meta2 <- meta2 %>% filter(grazer.simplified == "indigenous")
+  meta2 <- meta2 %>% filter(grazer.simplified == "wild")
    
+    ## Compare verts vs inverts grazers only
+  meta2 <- meta2 %>% filter(Higher.Taxa == "Invertebrate")
   
     
   ## Create Unique identifier column
@@ -186,7 +188,8 @@ source("meta.eval.r") ## Multiple aggregate
   meta2 <-  meta2 %>% filter(grazing.reduced == "ungrazed" | grazing.reduced == "grazed")
   meta2 <- meta2 %>% filter(uniqueID != "30") ## drop study 30 because anomalous 
   
-  
+  ## Drop anomalous studies
+  meta2 <- meta2 <- meta2 %>% filter(!uniqueID %in% c("654", "1660")) ## native grazer not ungulate
   
   ## Drop plants
   meta2 <- meta2 %>% filter(Taxa.1 != "Plants") ## examine animals only
@@ -230,7 +233,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta.ready[,"yr.grazed"] <- site.yr$yr
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~FG+higher.taxa-1,  data = meta.ready)
+  m2 <- rma(yi=yi, vi=vi, mods=~FG-1,  data = meta.ready)
   summary(m2) 
 
 
