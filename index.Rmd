@@ -163,22 +163,17 @@ source("meta.eval.r") ## Multiple aggregate
   est <- read.csv("data//Unique.Estimates.Column.csv")
   meta2 <- merge(meta2, est, by="Estimate")
   
+  ## drop Lichen, Microbes and fungi
+    meta2 <- meta2 %>% filter(Taxa != "Plants" & Higher.Taxa != "Lichen" & Higher.Taxa != "Microbial") ## examine animals only
    
   ## join manuscript data
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
   ## subset for abundance only
-  meta2 <- meta2 %>% filter(est.reduced == "diversity")
-    
-  ## Select domestic grazers only
-  meta2 <- meta2 %>% filter(grazer.simplified == "wild")
-   
-    ## Compare verts vs inverts grazers only
-  meta2 <- meta2 %>% filter(Higher.Taxa == "Invertebrate")
-  
+  meta2 <- meta2 %>% filter(est.reduced == "abundance")
     
   ## Create Unique identifier column
-  meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa.1, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
+  meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
   
   ## convert se to sd
   meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
@@ -191,11 +186,10 @@ source("meta.eval.r") ## Multiple aggregate
   ## Drop anomalous studies
   meta2 <- meta2 <- meta2 %>% filter(!uniqueID %in% c("654", "1660")) ## native grazer not ungulate
   
-  ## Drop plants
-  meta2 <- meta2 %>% filter(Taxa.1 != "Plants") ## examine animals only
-  
-  
-  ## Use function to extract summary statistics for comparisons
+  ## Test one higher taxa at a time
+  meta2 <- meta2 %>% filter(Functional.Group != "Other")
+
+    ## Use function to extract summary statistics for comparisons
   ## meta.eval  arguments are (meta.data, compare, ids , stats)
   grazed.compare <- meta.eval(meta2, grazing.reduced, UniqueSite, Stat)
   
