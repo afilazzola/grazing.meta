@@ -491,3 +491,4 @@ Daily survival rate incubation,survival,fitness
 Daily survival rate chick,survival,fitness
 % abundance,omit,omit
 % total abundance,omit,omit
+colony abundance,colony abundance,abundance

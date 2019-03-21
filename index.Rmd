@@ -164,13 +164,13 @@ source("meta.eval.r") ## Multiple aggregate
   meta2 <- merge(meta2, est, by="Estimate")
   
   ## drop Lichen, Microbes and fungi
-    meta2 <- meta2 %>% filter(Taxa != "Plants" & Higher.Taxa != "Lichen" & Higher.Taxa != "Microbial") ## examine animals only
-   
+    meta2 <- meta2 %>% filter(Functional.Group != "Producer") ## examine animals only
+  
   ## join manuscript data
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
   ## subset for abundance only
-  meta2 <- meta2 %>% filter(est.reduced == "abundance")
+  meta2 <- meta2 %>% filter(est.reduced == "diversity")
     
   ## Create Unique identifier column
   meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
@@ -188,6 +188,9 @@ source("meta.eval.r") ## Multiple aggregate
   
   ## Test one higher taxa at a time
   meta2 <- meta2 %>% filter(Functional.Group != "Other")
+  
+  ## Test domestic grazers only
+  meta2 <- meta2 %>% filter(grazer.simplified == "domestic")
 
     ## Use function to extract summary statistics for comparisons
   ## meta.eval  arguments are (meta.data, compare, ids , stats)
