@@ -127,60 +127,60 @@ uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,graz
 36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,richness,mean,42.9
 36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,abundance,sd,143
 36,multisite,1997,14,ungrazed,20,,,Lepidoptera,,,,abundance,mean,421
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Aimophila,cassinii,,abundance,count,0
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Ammodramus,savannarum,,abundance,count,0
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Tyrannus,verticalis,,abundance,count,2
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Lanius,ludovicianus,,abundance,count,2
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Guiraca,caerulea,,abundance,count,2
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Amphispiza,bilineata,,abundance,count,2
-46,1,1982,60,grazed,0,cattle per ha,1,rodent,Reithrodontomys,megalotis,,abundance,count,4
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Spizella,breweri,,abundance,count,4
-46,1,1982,60,grazed,0,cattle per ha,1,rodent,Perognathus,flavus,,abundance,count,5
-46,1,1982,60,grazed,0,cattle per ha,1,rodent,Dipodomys,merriami,,abundance,count,5
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Colaptes,auratus,,abundance,count,5
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Spizella,passerina,,abundance,count,7
-46,1,1982,22,grazed,0,cattle per ha,1,plants,,,,abundance,sd,7
-46,1,1982,60,grazed,0,cattle per ha,1,rodent,Onychomys,torridus,,abundance,count,8
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Tyrannus,vociferans,,abundance,count,8
-46,1,1982,22,grazed,0,cattle per ha,1,plants,,,,abundance,mean,9.5
-46,1,1982,60,grazed,0,cattle per ha,1,rodent,Perognathus,hispidus,,abundance,count,16
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Sturnella,magna,,abundance,count,18
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Zenaida,macroura,,abundance,count,20
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Mimus,polyglottos,,abundance,count,22
-46,1,1982,60,grazed,0,cattle per ha,1,rodent,Peromyscus,leucopus,,abundance,count,24
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Chondestes,grammacus,,abundance,count,40
-46,1,1982,60,grazed,0,cattle per ha,1,rodent,Sigmodon,hispidus,,abundance,count,46
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Callipepla,squamata,,abundance,count,48
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Eremophila,alpestris,,abundance,count,101
-46,1,1982,22,grazed,0,cattle per ha,1,aves,Pooecetes,gramineus,,abundance,count,103
-46,1,1982,60,grazed,0,cattle per ha,1,rodent,Peromyscus,maniculatus,,abundance,count,130
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Colaptes,auratus,,abundance,count,0
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Tyrannus,verticalis,,abundance,count,1
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Guiraca,caerulea,,abundance,count,2
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Amphispiza,bilineata,,abundance,count,2
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Tyrannus,vociferans,,abundance,count,3
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Lanius,ludovicianus,,abundance,count,4
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Chondestes,grammacus,,abundance,count,4
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Callipepla,squamata,,abundance,count,5
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Zenaida,macroura,,abundance,count,7
-46,1,1982,60,ungrazed,13,cattle per ha,0,rodent,Perognathus,flavus,,abundance,count,8
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Mimus,polyglottos,,abundance,count,9
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Sturnella,magna,,abundance,count,13
-46,1,1982,22,ungrazed,13,cattle per ha,0,plants,,,,abundance,sd,15.6
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Spizella,passerina,,abundance,count,21
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Eremophila,alpestris,,abundance,count,24
-46,1,1982,60,ungrazed,13,cattle per ha,0,rodent,Reithrodontomys,megalotis,,abundance,count,26
-46,1,1982,22,ungrazed,13,cattle per ha,0,plants,,,,abundance,mean,37.6
-46,1,1982,60,ungrazed,13,cattle per ha,0,rodent,Perognathus,hispidus,,abundance,count,38
-46,1,1982,60,ungrazed,13,cattle per ha,0,rodent,Onychomys,torridus,,abundance,count,42
-46,1,1982,60,ungrazed,13,cattle per ha,0,rodent,Peromyscus,leucopus,,abundance,count,45
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Ammodramus,savannarum,,abundance,count,53
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Aimophila,cassinii,,abundance,count,66
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Spizella,breweri,,abundance,count,82
-46,1,1982,22,ungrazed,13,cattle per ha,0,aves,Pooecetes,gramineus,,abundance,count,90
-46,1,1982,60,ungrazed,13,cattle per ha,0,rodent,Dipodomys,merriami,,abundance,count,92
-46,1,1982,60,ungrazed,13,cattle per ha,0,rodent,Sigmodon,hispidus,,abundance,count,118
-46,1,1982,60,ungrazed,13,cattle per ha,0,rodent,Peromyscus,maniculatus,,abundance,count,146
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Aimophila,cassinii,,abundance,count,0
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Ammodramus,savannarum,,abundance,count,0
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Tyrannus,verticalis,,abundance,count,2
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Lanius,ludovicianus,,abundance,count,2
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Guiraca,caerulea,,abundance,count,2
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Amphispiza,bilineata,,abundance,count,2
+46,1,1982,2,grazed,0,cattle per ha,1,rodent,Reithrodontomys,megalotis,,abundance,count,4
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Spizella,breweri,,abundance,count,4
+46,1,1982,2,grazed,0,cattle per ha,1,rodent,Perognathus,flavus,,abundance,count,5
+46,1,1982,2,grazed,0,cattle per ha,1,rodent,Dipodomys,merriami,,abundance,count,5
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Colaptes,auratus,,abundance,count,5
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Spizella,passerina,,abundance,count,7
+46,1,1982,2,grazed,0,cattle per ha,1,plants,,,,abundance,sd,7
+46,1,1982,2,grazed,0,cattle per ha,1,rodent,Onychomys,torridus,,abundance,count,8
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Tyrannus,vociferans,,abundance,count,8
+46,1,1982,2,grazed,0,cattle per ha,1,plants,,,,abundance,mean,9.5
+46,1,1982,2,grazed,0,cattle per ha,1,rodent,Perognathus,hispidus,,abundance,count,16
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Sturnella,magna,,abundance,count,18
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Zenaida,macroura,,abundance,count,20
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Mimus,polyglottos,,abundance,count,22
+46,1,1982,2,grazed,0,cattle per ha,1,rodent,Peromyscus,leucopus,,abundance,count,24
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Chondestes,grammacus,,abundance,count,40
+46,1,1982,2,grazed,0,cattle per ha,1,rodent,Sigmodon,hispidus,,abundance,count,46
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Callipepla,squamata,,abundance,count,48
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Eremophila,alpestris,,abundance,count,101
+46,1,1982,2,grazed,0,cattle per ha,1,aves,Pooecetes,gramineus,,abundance,count,103
+46,1,1982,2,grazed,0,cattle per ha,1,rodent,Peromyscus,maniculatus,,abundance,count,130
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Colaptes,auratus,,abundance,count,0
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Tyrannus,verticalis,,abundance,count,1
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Guiraca,caerulea,,abundance,count,2
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Amphispiza,bilineata,,abundance,count,2
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Tyrannus,vociferans,,abundance,count,3
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Lanius,ludovicianus,,abundance,count,4
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Chondestes,grammacus,,abundance,count,4
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Callipepla,squamata,,abundance,count,5
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Zenaida,macroura,,abundance,count,7
+46,1,1982,2,ungrazed,13,cattle per ha,0,rodent,Perognathus,flavus,,abundance,count,8
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Mimus,polyglottos,,abundance,count,9
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Sturnella,magna,,abundance,count,13
+46,1,1982,2,ungrazed,13,cattle per ha,0,plants,,,,abundance,sd,15.6
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Spizella,passerina,,abundance,count,21
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Eremophila,alpestris,,abundance,count,24
+46,1,1982,2,ungrazed,13,cattle per ha,0,rodent,Reithrodontomys,megalotis,,abundance,count,26
+46,1,1982,2,ungrazed,13,cattle per ha,0,plants,,,,abundance,mean,37.6
+46,1,1982,2,ungrazed,13,cattle per ha,0,rodent,Perognathus,hispidus,,abundance,count,38
+46,1,1982,2,ungrazed,13,cattle per ha,0,rodent,Onychomys,torridus,,abundance,count,42
+46,1,1982,2,ungrazed,13,cattle per ha,0,rodent,Peromyscus,leucopus,,abundance,count,45
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Ammodramus,savannarum,,abundance,count,53
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Aimophila,cassinii,,abundance,count,66
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Spizella,breweri,,abundance,count,82
+46,1,1982,2,ungrazed,13,cattle per ha,0,aves,Pooecetes,gramineus,,abundance,count,90
+46,1,1982,2,ungrazed,13,cattle per ha,0,rodent,Dipodomys,merriami,,abundance,count,92
+46,1,1982,2,ungrazed,13,cattle per ha,0,rodent,Sigmodon,hispidus,,abundance,count,118
+46,1,1982,2,ungrazed,13,cattle per ha,0,rodent,Peromyscus,maniculatus,,abundance,count,146
 55, MpalaResearchCentre,1995,12,grazed,0,cattle per ha,4,rodents,,,,shannon.diversity,se,0.08
 55, MpalaResearchCentre,1995,12,grazed,0,cattle per ha,4,rodents,,,,shannon.diversity,mean,0.4
 55, MpalaResearchCentre,1995,12,ungrazed,3,cattle per ha,4,rodents,,,,shannon.diversity,se,0.046
@@ -3241,18 +3241,18 @@ uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,graz
 883,,2004,,ungrazed,,,,Plants,Forbs,,,Canopy %Cover,mean,13.13
 883,,2004,,ungrazed,,,,Plants,,,,Height (cm),mean,25.19
 883,,2004,,ungrazed,,,,Plants,Poaceae,,,Canopy %Cover,mean,81.23
-892,,6-Jul,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,0.77
-892,,6-Jul,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,1.55
-892,,6-Jul,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,0.19
-892,,6-Jul,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,0.97
-892,,7-Jul,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,1.12
-892,,7-Jul,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,2.24
-892,,7-Jul,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,916.67
-892,,7-Jul,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,3083.33
-892,,7-Jul,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,4.26
-892,,7-Jul,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,8.97
-892,,7-Jul,4,ungrazed,,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,1500
-892,,7-Jul,4,ungrazed,,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,2708.33
+892,,06-Jul,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,0.77
+892,,06-Jul,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,1.55
+892,,06-Jul,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,0.19
+892,,06-Jul,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,0.97
+892,,07-Jul,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,1.12
+892,,07-Jul,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,2.24
+892,,07-Jul,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,916.67
+892,,07-Jul,4,grazed,0,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,3083.33
+892,,07-Jul,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,4.26
+892,,07-Jul,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,8.97
+892,,07-Jul,4,ungrazed,,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,se,1500
+892,,07-Jul,4,ungrazed,,ha/animal unit,2.2,Plants,,,,flowering.stem.density/ha,mean,2708.33
 892,,Early June 2006,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,5.67
 892,,Early June 2006,4,grazed,0,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,mean,13.03
 892,,Early June 2006,4,ungrazed,,ha/animal unit,2.2,Insects,Speyeria,idalia,,individuals/ha,se,4.25
@@ -14231,42 +14231,42 @@ uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,graz
 2804,Esquineau,2006,3,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,tive,population size,SE,27.54098361
 2804,Esquineau,2006,3,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,tive,population size,estimate,137.0242215
 2804,Esquineau,2006,3,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,tive,population size,estimate,167.2131148
-2804,Esquineau,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,14.53287197
-2804,Esquineau,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,21.3559322
-2804,Esquineau,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,27.54098361
-2804,Esquineau,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,58.13559322
-2804,Esquineau,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,132.8719723
-2804,Esquineau,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,190.8196721
-2804,Esquineau,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,49.82698962
-2804,Esquineau,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,123.3898305
-2804,Esquineau,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,129.8360656
-2804,Esquineau,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,200.5084746
-2804,Esquineau,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,236.6782007
-2804,Esquineau,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,438.6885246
-2804,Esquineau,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,23.72881356
-2804,Esquineau,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,24.91349481
-2804,Esquineau,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,35.40983607
-2804,Esquineau,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,112.7118644
-2804,Esquineau,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,191.0034602
-2804,Esquineau,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,300.9836066
-2804,Esquineau,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,35.29411765
-2804,Esquineau,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,49.83050847
-2804,Esquineau,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,62.95081967
-2804,Esquineau,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,167.2881356
-2804,Esquineau,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,234.6020761
-2804,Esquineau,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,399.3442623
-2804,Esquineau,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,9.491525424
-2804,Esquineau,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,14.53287197
-2804,Esquineau,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,15.73770492
-2804,Esquineau,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,72.37288136
-2804,Esquineau,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,143.2525952
-2804,Esquineau,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,218.3606557
-2804,Esquineau,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,20.76124567
-2804,Esquineau,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,23.72881356
-2804,Esquineau,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,27.54098361
-2804,Esquineau,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,100.8474576
-2804,Esquineau,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,170.2422145
-2804,Esquineau,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,273.442623
+2804,Esquineau,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,14.53287197
+2804,Esquineau,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,21.3559322
+2804,Esquineau,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,27.54098361
+2804,Esquineau,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,58.13559322
+2804,Esquineau,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,132.8719723
+2804,Esquineau,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,190.8196721
+2804,Esquineau,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,49.82698962
+2804,Esquineau,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,123.3898305
+2804,Esquineau,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,129.8360656
+2804,Esquineau,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,200.5084746
+2804,Esquineau,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,236.6782007
+2804,Esquineau,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,438.6885246
+2804,Esquineau,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,23.72881356
+2804,Esquineau,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,24.91349481
+2804,Esquineau,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,35.40983607
+2804,Esquineau,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,112.7118644
+2804,Esquineau,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,191.0034602
+2804,Esquineau,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,300.9836066
+2804,Esquineau,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,35.29411765
+2804,Esquineau,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,49.83050847
+2804,Esquineau,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,62.95081967
+2804,Esquineau,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,167.2881356
+2804,Esquineau,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,234.6020761
+2804,Esquineau,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,399.3442623
+2804,Esquineau,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,9.491525424
+2804,Esquineau,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,14.53287197
+2804,Esquineau,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,15.73770492
+2804,Esquineau,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,72.37288136
+2804,Esquineau,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,143.2525952
+2804,Esquineau,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,218.3606557
+2804,Esquineau,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,20.76124567
+2804,Esquineau,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,23.72881356
+2804,Esquineau,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,27.54098361
+2804,Esquineau,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,100.8474576
+2804,Esquineau,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,170.2422145
+2804,Esquineau,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,273.442623
 2804,Faisses,1997,3,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,tive,population size,SE,4.745762712
 2804,Faisses,1997,3,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,tive,population size,estimate,13.05084746
 2804,Faisses,1997,3,low,,n adult livestock * months / area,<2,Reptilia,Emys,orbicularis,tive,population size,SE,27.54098361
@@ -14327,54 +14327,54 @@ uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,graz
 2804,Faisses,2006,3,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,tive,population size,SE,24.91349481
 2804,Faisses,2006,3,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,tive,population size,estimate,99.65397924
 2804,Faisses,2006,3,high,,n adult livestock * months / area,>5,Reptilia,Emys,orbicularis,tive,population size,estimate,116.0655738
-2804,Faisses,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,4.745762712
-2804,Faisses,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,8.305084746
-2804,Faisses,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,19.67213115
-2804,Faisses,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,22.83737024
-2804,Faisses,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,72.66435986
-2804,Faisses,2007,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,76.72131148
-2804,Faisses,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,9.491525424
-2804,Faisses,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,15.42372881
-2804,Faisses,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,27.54098361
-2804,Faisses,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,31.14186851
-2804,Faisses,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,89.2733564
-2804,Faisses,2008,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,104.2622951
-2804,Faisses,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,4.745762712
-2804,Faisses,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,8.305084746
-2804,Faisses,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,10.38062284
-2804,Faisses,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,11.80327869
-2804,Faisses,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,45.67474048
-2804,Faisses,2009,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,57.04918033
-2804,Faisses,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,4.745762712
-2804,Faisses,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,7.868852459
-2804,Faisses,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,8.30449827
-2804,Faisses,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,10.6779661
-2804,Faisses,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,68.51211073
-2804,Faisses,2010,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,80.6557377
-2804,Faisses,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,7.118644068
-2804,Faisses,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,15.73770492
-2804,Faisses,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,16.60899654
-2804,Faisses,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,27.28813559
-2804,Faisses,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,93.42560554
-2804,Faisses,2011,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,120
-2804,Faisses,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,26.10169492
-2804,Faisses,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,31.14186851
-2804,Faisses,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,43.27868852
-2804,Faisses,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,46.27118644
-2804,Faisses,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,74.74048443
-2804,Faisses,2012,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,123.9344262
-2805,Esquineau,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,14.53287197
-2805,Esquineau,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,35.59322034
-2805,Esquineau,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,39.3442623
-2805,Esquineau,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,117.4576271
-2805,Esquineau,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,176.4705882
-2805,Esquineau,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,293.1147541
-2805,Faisses,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,26.10169492
-2805,Faisses,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,36.77966102
-2805,Faisses,2013,3,medium,3,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,56.05536332
-2805,Faisses,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,SE,62.95081967
-2805,Faisses,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,116.2629758
-2805,Faisses,2013,3,medium,,n adult livestock * months / area,2-May,Reptilia,Emys,orbicularis,tive,population size,estimate,151.4754098
+2804,Faisses,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,4.745762712
+2804,Faisses,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,8.305084746
+2804,Faisses,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,19.67213115
+2804,Faisses,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,22.83737024
+2804,Faisses,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,72.66435986
+2804,Faisses,2007,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,76.72131148
+2804,Faisses,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,9.491525424
+2804,Faisses,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,15.42372881
+2804,Faisses,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,27.54098361
+2804,Faisses,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,31.14186851
+2804,Faisses,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,89.2733564
+2804,Faisses,2008,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,104.2622951
+2804,Faisses,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,4.745762712
+2804,Faisses,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,8.305084746
+2804,Faisses,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,10.38062284
+2804,Faisses,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,11.80327869
+2804,Faisses,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,45.67474048
+2804,Faisses,2009,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,57.04918033
+2804,Faisses,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,4.745762712
+2804,Faisses,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,7.868852459
+2804,Faisses,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,8.30449827
+2804,Faisses,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,10.6779661
+2804,Faisses,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,68.51211073
+2804,Faisses,2010,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,80.6557377
+2804,Faisses,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,7.118644068
+2804,Faisses,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,15.73770492
+2804,Faisses,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,16.60899654
+2804,Faisses,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,27.28813559
+2804,Faisses,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,93.42560554
+2804,Faisses,2011,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,120
+2804,Faisses,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,26.10169492
+2804,Faisses,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,31.14186851
+2804,Faisses,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,43.27868852
+2804,Faisses,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,46.27118644
+2804,Faisses,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,74.74048443
+2804,Faisses,2012,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,123.9344262
+2805,Esquineau,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,14.53287197
+2805,Esquineau,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,35.59322034
+2805,Esquineau,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,39.3442623
+2805,Esquineau,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,117.4576271
+2805,Esquineau,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,176.4705882
+2805,Esquineau,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,293.1147541
+2805,Faisses,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,26.10169492
+2805,Faisses,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,36.77966102
+2805,Faisses,2013,3,medium,3,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,56.05536332
+2805,Faisses,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,SE,62.95081967
+2805,Faisses,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,116.2629758
+2805,Faisses,2013,3,medium,,n adult livestock * months / area,02-May,Reptilia,Emys,orbicularis,tive,population size,estimate,151.4754098
 2810,,,3,grazed,0,sheep/ha,39,Mammalia,,,,Shannon diversity,mean,0
 2810,,,3,grazed,0,sheep/ha,39,Mammalia,,,,Shannon diversity,SD,0
 2810,,,3,grazed,0,sheep/ha,39,Mammalia,,,,Shannon diversity,mean,0
@@ -14597,14 +14597,14 @@ uniqueID,siteID,year,replicate,grazing.compare,last.grazed,grazing.estimate,graz
 2908,31,2012,18,gradient,,Livestock units /ha * days grazed,7.72,Mamallia,Lepus,europaeus,,hare count,mean,4.72
 2908,31,2012,18,gradient,,Livestock units /ha * days grazed,7.72,Mamallia,Oryctolagus,cuniculus,,rabbit count,SD,9.02
 2908,31,2012,18,gradient,,Livestock units /ha * days grazed,7.72,Mamallia,Oryctolagus,cuniculus,,rabbit count,mean,12.39
-2947,Moderate,,6,grazed,0,ha/Adult Equivalent,4-Jun,Reptilia,,,,richness,se,0.153061224
-2947,Heavy,,6,grazed,0,ha/Adult Equivalent,8-Oct,Reptilia,,,,richness,se,0.397959184
-2947,Heavy,,6,grazed,0,ha/Adult Equivalent,8-Oct,Reptilia,,,,abundance,se,1.537117904
-2947,Moderate,,6,grazed,0,ha/Adult Equivalent,4-Jun,Reptilia,,,,abundance,se,1.873362445
-2947,Heavy,,6,grazed,0,ha/Adult Equivalent,8-Oct,Reptilia,,,,richness,mean,3.704081633
-2947,Moderate,,6,grazed,0,ha/Adult Equivalent,4-Jun,Reptilia,,,,richness,mean,4.010204082
-2947,Heavy,,6,grazed,0,ha/Adult Equivalent,8-Oct,Reptilia,,,,abundance,mean,14.10917031
-2947,Moderate,,6,grazed,0,ha/Adult Equivalent,4-Jun,Reptilia,,,,abundance,mean,14.63755459
+2947,Moderate,,6,grazed,0,ha/Adult Equivalent,04-Jun,Reptilia,,,,richness,se,0.153061224
+2947,Heavy,,6,grazed,0,ha/Adult Equivalent,08-Oct,Reptilia,,,,richness,se,0.397959184
+2947,Heavy,,6,grazed,0,ha/Adult Equivalent,08-Oct,Reptilia,,,,abundance,se,1.537117904
+2947,Moderate,,6,grazed,0,ha/Adult Equivalent,04-Jun,Reptilia,,,,abundance,se,1.873362445
+2947,Heavy,,6,grazed,0,ha/Adult Equivalent,08-Oct,Reptilia,,,,richness,mean,3.704081633
+2947,Moderate,,6,grazed,0,ha/Adult Equivalent,04-Jun,Reptilia,,,,richness,mean,4.010204082
+2947,Heavy,,6,grazed,0,ha/Adult Equivalent,08-Oct,Reptilia,,,,abundance,mean,14.10917031
+2947,Moderate,,6,grazed,0,ha/Adult Equivalent,04-Jun,Reptilia,,,,abundance,mean,14.63755459
 2965,Grazed4,2007,,grazed,0,Cow Unit/ha/day,2.14,Arthropoda,Nebrida,brevicollis,,% abundance,count,0
 2965,Grazed1,2007,,grazed,0,Cow Unit/ha/day,-36.44,Arthropoda,Amara,consularis,,% abundance,count,0
 2965,Grazed4,2007,,grazed,0,Cow Unit/ha/day,-49.3,Arthropoda,Amara,consularis,,% abundance,count,0

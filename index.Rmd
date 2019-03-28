@@ -164,16 +164,17 @@ source("meta.eval.r") ## Multiple aggregate
   meta2 <- merge(meta2, est, by="Estimate")
   
   ## drop Lichen, Microbes and fungi
-    meta2 <- meta2 %>% filter(Functional.Group != "Producer") ## examine animals only
+    meta2 <- meta2 %>% filter(Functional.Group != "Producer") %>% filter(Higher.Taxa != "Microbial") ## examine animals only
   
   ## join manuscript data
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
   ## subset for abundance only
   meta2 <- meta2 %>% filter(est.reduced == "diversity")
+  meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
     
   ## Create Unique identifier column
-  meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa, meta2$Functional.Group, meta2$estimate.simplified, sep="-")
+  meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa, meta2$functional.taxa, meta2$estimate.simplified, sep="-")
   
   ## convert se to sd
   meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
@@ -228,11 +229,13 @@ source("meta.eval.r") ## Multiple aggregate
   colnames(yr.grazed)[1] <- "Study"
   site.yr <- merge(siteID, yr.grazed, by="Study")
   meta.ready[,"yr.grazed"] <- site.yr$yr
+  meta.ready[,"previously.grazed"] <- as.factor(ifelse(is.na(meta.ready$yr.grazed),0,1))
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~FG-1,  data = meta.ready)
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG ,  data = meta.ready)
   summary(m2) 
 
+  #write.csv(meta.ready, "data//effectSize//div.animal.csv", row.names=FALSE)
 
 ## compare inclusion of moderators
 (.9539-.9352)/.9352 ## explains an additional 2%
@@ -262,17 +265,112 @@ fsn(yi, vi, data=meta.ready)
 
 ```
 
-### Compare regional habitats
+### Testing the effects of grazing on producers
 ```{r}
 
-meta3 <- meta
-est <- read.csv("data//Unique.Estimates.Column.csv")
-meta3 <- merge(meta3, est, by="Estimate")
+meta <- read.csv("data//binary.simplified.csv")
+  
+  
+## Load packages and functions
+library(reshape2)
+library(metafor)
+source("meta.eval.r") ## Multiple aggregate
+  
+    
+  ## Simplify the estimates column
+  meta2 <- meta
+  est <- read.csv("data//Unique.Estimates.Column.csv")
+  meta2 <- merge(meta2, est, by="Estimate")
+  
+  ## Select only the producers
+  meta2 <- meta2 %>% filter(Functional.Group == "Producer") ##  plants, fungi and mychoriza 
+    
+  ## join manuscript data
+  ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
+  meta2 <- merge(meta2, ms.data, by="uniqueID")
+  ## subset for abundance only
+  meta2 <- meta2 %>% filter(est.reduced == "abundance")
+  meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
+    
+  ## Create Unique identifier column
+  meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa, meta2$functional.taxa, meta2$estimate.simplified, sep="-")
+  
+  ## convert se to sd
+  meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
+  meta2[meta2$Stat=="se","Stat"] <- "sd"
+  
+  ## drop comparisons that are not pairwise
+  meta2 <-  meta2 %>% filter(grazing.reduced == "ungrazed" | grazing.reduced == "grazed")
+  meta2 <- meta2 %>% filter(uniqueID != "30") ## drop study 30 because anomalous 
+  
+  ## Drop anomalous studies
+  meta2 <- meta2 <- meta2 %>% filter(!uniqueID %in% c("654", "1660")) ## native grazer not ungulate
+  
+  ## Test one higher taxa at a time
+  meta2 <- meta2 %>% filter(Functional.Group != "Other")
+  
+  ## Test domestic grazers only
+  meta2 <- meta2 %>% filter(grazer.simplified == "domestic")
 
+
+    ## Use function to extract summary statistics for comparisons
+  ## meta.eval  arguments are (meta.data, compare, ids , stats)
+  grazed.compare <- meta.eval(meta2, grazing.reduced, UniqueSite, Stat)
+  
+  ## Combine the lists into same dataframe
+  ## Rename Columns in second dataframe
+  grazed.stat <- grazed.compare [[2]] ## extracted statistics 
+  names(grazed.stat) <- c("UniqueSite","grazed_mean","grazed_sd","ungrazed_mean","ungrazed_sd","grazed_n","ungrazed_n") ## rename columns to match
+  grazed.raw <- grazed.compare[[1]] ## calculated statistics from raw values
+  
+  ## Join two dataframes
+  meta.stat <- rbind(grazed.raw, grazed.stat[, names(grazed.raw)])
+  
+  
+  meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "SMD", append = TRUE)
+  
+  ## clean up meta.ready
+  meta.ready <- na.omit(meta.ready) ## drop NAs
+  meta.ready <- meta.ready[meta.ready$grazed_mean<80,] ## Drop extreme high variance
+  
+  
+  ## separate out the identifiers
+  siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=5, byrow=TRUE)
+  siteID <- data.frame(siteID) ## recreate as dataframe
+  colnames(siteID) <- c("Study","higher.taxa","taxa","FG","measure") ## add column names
+  meta.ready <- cbind(data.frame(meta.ready), siteID)
+  
+  #random-effects meta-analysis for grazed vs ungrazed plots
+  m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
+  summary(m1) 
+  
+  ## get last year grazed as covariate
+  yr.grazed <- meta2 %>% group_by(uniqueID) %>% summarize(yr=max(yr.grazed))
+  colnames(yr.grazed)[1] <- "Study"
+  site.yr <- merge(siteID, yr.grazed, by="Study")
+  meta.ready[,"yr.grazed"] <- site.yr$yr
+  meta.ready[,"previously.grazed"] <- as.factor(ifelse(is.na(meta.ready$yr.grazed),0,1))
+  
+  #mixed-effects meta-analysis for grazed vs ungrazed plots
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG ,  data = meta.ready)
+  summary(m2) 
+  
+  
+  ##write.csv(meta.ready, "data//effectSize//abd.plant.csv", row.names=FALSE)
+```
+
+
+### Compare regional patterns
+```{r}
+
+## Load in effect sizes
+occurdat<-list.files("data//effectSize",pattern=".csv$",full=T)
+animal.abd <- read.csv(occurdat[1])
+colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
 ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
-meta3 <- merge(meta3, ms.data, by="uniqueID")
+meta3 <- merge(animal.abd, ms.data, by="uniqueID")
 
 library(raster)
 
@@ -293,35 +391,104 @@ coordinates(gps) <- ~lon+lat
 proj4string(gps) <- crs.world
 
 ## load rasters
-temp <- raster("C:\\Users\\Fitz\\Downloads\\wc2.0_30s_bio\\bio1.tif")
-prec <- raster("C:\\Users\\Fitz\\Downloads\\wc2.0_30s_bio\\bio12.tif")
+temp <- raster("L:\\Climaterasters\\bio1.tif")
+prec <- raster("L:\\Climaterasters\\bio12.tif")
 
 clim <- stack(temp,prec)
 
 
 ## extract temperature and preciptiation
 gps.clim <- data.frame(extract(clim, gps))
-gps.clim["Study"] <- gps$uniqueID
+gps.clim["uniqueID"] <- gps$uniqueID
 
 
 ## compare climate & grazing duration variables against effect size
 
 ## get last year grazed as covariate
-yr.grazed <- meta2 %>% group_by(uniqueID) %>% summarize(yr=max(yr.grazed))
-colnames(yr.grazed)[1] <- "Study"
-site.yr <- merge(siteID, yr.grazed, by="Study")
-meta.ready[,"yr.grazed"] <- site.yr$yr
+meta.ready <- merge(meta3, gps.clim, by="uniqueID")
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~yr.grazed,  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~ -1 + yr.grazed ,  data = meta.ready)
 summary(m3) 
 
-## merge climate with dataset
-site.clim <- merge(siteID, gps.clim, by.x="Study", all.x=TRUE)
-meta.ready[,"temp"] <- site.clim$bio1
-meta.ready[,"prec"] <- site.clim$bio12
+## Temperature
+### calculate predicted risk ratios for full temperature gradient
+preds <- predict(m3, newmods=c(-5:40), transf=exp)
+
+### radius of points will be proportional to the inverse standard errors
+### hence the area of the points will be proportional to inverse variances
+size <- 1 / sqrt(meta.ready$vi)
+size <- size / max(size)
+
+### set up plot (risk ratios on y-axis, absolute temperature on x-axis)
+plot(NA, NA, xlim=c(-5,30), ylim=c(0.2,10),
+     xlab="Temperature (°C)", ylab="Risk Ratio",
+     las=1, bty="l", log="y")
+
+### add points
+symbols(meta.ready$bio1, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg="black")
+                   
+### add predicted values (and corresponding CI bounds)
+lines(-5:40, preds$pred)
+lines(-5:40, preds$ci.lb, lty="dashed")
+lines(-5:40, preds$ci.ub, lty="dashed") 
+
+
+
+### Precipitation
+
+### calculate predicted risk ratios for full temperature gradient
+preds <- predict(m3, newmods=c(400:1200), transf=exp)
+
+### radius of points will be proportional to the inverse standard errors
+### hence the area of the points will be proportional to inverse variances
+size <- 1 / sqrt(meta.ready$vi)
+size <- size / max(size)*10
+
+### set up plot (risk ratios on y-axis, absolute temperature on x-axis)
+plot(NA, NA, xlim=c(400,1200), ylim=c(0.2,10),
+     xlab="Precipitation (mm)", ylab="Risk Ratio",
+     las=1, bty="l", log="y")
+
+### add points
+symbols(meta.ready$bio12, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg="black")
+                   
+### add predicted values (and corresponding CI bounds)
+lines(400:1200, preds$pred)
+lines(400:1200, preds$ci.lb, lty="dashed")
+lines(400:1200, preds$ci.ub, lty="dashed") 
+
+
+
+## Time since grazed Grazed
+
+## compare climate & grazing duration variables against effect size
+
+## get last year grazed as covariate
+meta.ready <- subset(meta3, yr.grazed>0)
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m4 <- rma(yi=yi, vi=vi, mods=~temp+prec-1,  data = meta.ready)
-summary(m4) 
+m3 <- rma(yi=yi, vi=vi, mods=~ -1 + yr.grazed ,  data = meta.ready)
+summary(m3) 
 
+## Temperature
+### calculate predicted risk ratios for full temperature gradient
+preds <- predict(m3, newmods=c(0:100), transf=exp)
+
+### radius of points will be proportional to the inverse standard errors
+### hence the area of the points will be proportional to inverse variances
+size <- 1 / sqrt(meta.ready$vi)
+size <- size / max(size)
+
+### set up plot (risk ratios on y-axis, absolute temperature on x-axis)
+plot(NA, NA, xlim=c(0,100), ylim=c(0.2,10),
+     xlab="Year since last grazed", ylab="Risk Ratio",
+     las=1, bty="l", log="y")
+
+### add points
+symbols(meta.ready$yr.grazed, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg="black")
+                   
+### add predicted values (and corresponding CI bounds)
+lines(0:100, preds$pred)
+lines(0:100, preds$ci.lb, lty="dashed")
+lines(0:100, preds$ci.ub, lty="dashed") 
