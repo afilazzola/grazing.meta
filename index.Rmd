@@ -182,7 +182,8 @@ source("meta.eval.r") ## Multiple aggregate
   
   ## drop comparisons that are not pairwise
   meta2 <-  meta2 %>% filter(grazing.reduced == "ungrazed" | grazing.reduced == "grazed")
-  meta2 <- meta2 %>% filter(uniqueID != "30") ## drop study 30 because anomalous 
+  meta2 <- meta2 %>% filter(uniqueID != "30") %>% ## drop study 30 because anomalous 
+  filter(uniqueID != "111") ## data is missing in study 111
   
   ## Drop anomalous studies
   meta2 <- meta2 <- meta2 %>% filter(!uniqueID %in% c("654", "1660")) ## native grazer not ungulate
@@ -191,7 +192,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta2 <- meta2 %>% filter(Functional.Group != "Other")
   
   ## Test domestic grazers only
-  meta2 <- meta2 %>% filter(grazer.simplified == "domestic")
+  meta2 <- meta2 %>% filter(grazer.simplified %in% c("domestic","both"))
 
     ## Use function to extract summary statistics for comparisons
   ## meta.eval  arguments are (meta.data, compare, ids , stats)
@@ -232,7 +233,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta.ready[,"previously.grazed"] <- as.factor(ifelse(is.na(meta.ready$yr.grazed),0,1))
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + previously.grazed,  data = meta.ready)
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = meta.ready)
   summary(m2) 
 
   #write.csv(meta.ready, "data//effectSize//div.animal.csv", row.names=FALSE)
@@ -265,35 +266,28 @@ fsn(yi, vi, data=meta.ready)
 
 ```
 
+
 ### Testing the effects of grazing on producers
 ```{r}
-
-meta <- read.csv("data//binary.simplified.csv")
-  
+meta <- read.csv("data//plantAnalysis.csv")
+meta2 <- meta
   
 ## Load packages and functions
 library(reshape2)
 library(metafor)
 source("meta.eval.r") ## Multiple aggregate
   
-    
-  ## Simplify the estimates column
-  meta2 <- meta
-  est <- read.csv("data//Unique.Estimates.Column.csv")
-  meta2 <- merge(meta2, est, by="Estimate")
   
-  ## Select only the producers
-  meta2 <- meta2 %>% filter(Functional.Group == "Producer") ##  plants, fungi and mychoriza 
-    
+  
   ## join manuscript data
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
-  ## subset for abundance only
-  meta2 <- meta2 %>% filter(est.reduced == "abundance")
-  meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
-    
-  ## Create Unique identifier column
-  meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Higher.Taxa, meta2$Taxa, meta2$functional.taxa, meta2$estimate.simplified, sep="-")
+
+  ## Drop mychoriza because only two studies
+  
+    ## Create Unique identifier column
+  meta2 <- meta2 %>% filter(estimate.simplified != "omit")
+  meta2[,"UniqueSite"] <- paste(meta2$uniqueID, meta2$Taxa, meta2$estimate.simplified, sep="-")
   
   ## convert se to sd
   meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * 1.96
@@ -306,11 +300,9 @@ source("meta.eval.r") ## Multiple aggregate
   ## Drop anomalous studies
   meta2 <- meta2 <- meta2 %>% filter(!uniqueID %in% c("654", "1660")) ## native grazer not ungulate
   
-  ## Test one higher taxa at a time
-  meta2 <- meta2 %>% filter(Functional.Group != "Other")
-  
+
   ## Test domestic grazers only
-  meta2 <- meta2 %>% filter(grazer.simplified == "domestic")
+  meta2 <- meta2 %>% filter(grazer.simplified %in% c("domestic","both"))
 
 
     ## Use function to extract summary statistics for comparisons
@@ -335,9 +327,9 @@ source("meta.eval.r") ## Multiple aggregate
   
   
   ## separate out the identifiers
-  siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=5, byrow=TRUE)
+  siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=3, byrow=TRUE)
   siteID <- data.frame(siteID) ## recreate as dataframe
-  colnames(siteID) <- c("Study","higher.taxa","taxa","FG","measure") ## add column names
+  colnames(siteID) <- c("Study","taxa","measure") ## add column names
   meta.ready <- cbind(data.frame(meta.ready), siteID)
   
   #random-effects meta-analysis for grazed vs ungrazed plots
@@ -352,12 +344,13 @@ source("meta.eval.r") ## Multiple aggregate
   meta.ready[,"previously.grazed"] <- as.factor(ifelse(is.na(meta.ready$yr.grazed),0,1))
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG ,  data = meta.ready)
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + measure ,  data = meta.ready)
   summary(m2) 
   
-  
-  ##write.csv(meta.ready, "data//effectSize//abd.plant.csv", row.names=FALSE)
+
+
 ```
+
 
 
 ### Compare regional patterns
