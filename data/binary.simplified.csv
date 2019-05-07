@@ -1,52 +1,52 @@
 uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,siteID,year,replicate,grazing.compare,grazing.reduced,last.grazed,yr.grazed,grazing.estimate,grazing.value,Status,Stat,Value
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,22.8
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,2.4
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,14.5
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,0.9
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,11.2
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,3.1
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,6.3
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,1.3
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,3.3
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,44.8
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,22.2
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,1.4
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,9
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,1.9
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,7.7
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,1.3
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,4.5
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,1.2
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,0.5
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,3.2
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,28
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,5.7
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,2.7
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,14.5
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,43.2
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,12.3
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,15.8
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,0.7
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,17.3
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,2.3
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,8.3
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,1.7
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,64.2
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,8.3
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,1.6
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,28.8
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,26.3
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,3.7
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,1
-5,Invertebrate,Arthropoda,Coleoptera,,,Other,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,14.8
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,1.2
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,12.7
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,6.5
-5,Invertebrate,Arthropoda,Hemiptera,,,Other,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,0.7
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,6.1
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,53.7
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,23.7
-5,Invertebrate,Arthropoda,Hymenoptera,,,Pollinator,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,1.8
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,138.2
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,36.2
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,24
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,2.9
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,52.7
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,3.8
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,27
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,1.4
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,44.8
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,abundance,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,3.3
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,22.2
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,1.4
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,95.8
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,46.6
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,15.8
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,1.4
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,31.2
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,5.9
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,17.5
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,3
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,28
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,abundance,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,5.7
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,14.5
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,se,2.7
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,249.7
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,49.3
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,33
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,2.5
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,77.8
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,7.9
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,36
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,1.5
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,64.2
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,abundance,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,8.3
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,mean,28.8
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,richness,L,,18,ungrazed,ungrazed,3,3,cattle/ha,0,,se,1.6
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,174.3
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,23.1
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,26.2
+5,Invertebrate,Arthropoda,Arthropoda,,,Herbivorous,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,2
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,65
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,7.3
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,30.8
+5,Invertebrate,Arthropoda,Arthropoda,,,Predator,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,2.6
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,53.7
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,abundance,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,6.1
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,mean,23.7
+5,Invertebrate,Arthropoda,Hymenoptera,,,Parasitic,richness,S,,12,ungrazed,ungrazed,5,5,cattle/ha,0,,se,1.8
 5,Plant,Plants,,,,Producer,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,se,1.1
 5,Plant,Plants,,,,Producer,richness,E,,18,grazed,grazed,0,0,cattle/ha,1.4,,mean,13.5
 5,Plant,Plants,,,,Producer,richness,I,,18,grazed,grazed,0,0,cattle/ha,5.5,,mean,11
@@ -717,38 +717,38 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 121,Plant,Plants,,,,Producer,biomass (g/m2),JunnerKoeland,2000,5,ungrazed,ungrazed,6,6,cattle per ha,0.4,,se,115
 121,Plant,Plants,,,,Producer,biomass (g/m2),JunnerKoeland,2000,5,ungrazed,ungrazed,6,6,cattle per ha,0.4,,mean,718
 121,Plant,Plants,,,,Producer,biomass (g/m2),JunnerKoeland,2000,5,grazed,grazed,0,0,cattle per ha,0.4,,mean,734
-142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2002,6,high,high,0,0,ewes per ha,2.7,,mean,8.3
-142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2002,6,high,high,0,0,ewes per ha,2.7,,sd,2.96
-142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2002,6,high,high,0,0,ewes per ha,2.7,,sd,1.19
-142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2002,6,high,high,0,0,ewes per ha,2.7,,mean,4.99
-142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2002,6,high,high,0,0,ewes per ha,2.7,,mean,21.1
-142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2002,6,high,high,0,0,ewes per ha,2.7,,sd,8.61
-142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2002,6,high,high,0,0,ewes per ha,2.7,,mean,31
-142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2002,6,high,high,0,0,ewes per ha,2.7,,sd,12.41
-142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2003,6,high,high,0,0,ewes per ha,2.7,,sd,3.12
-142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2003,6,high,high,0,0,ewes per ha,2.7,,mean,8.5
-142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2003,6,high,high,0,0,ewes per ha,2.7,,sd,5.62
-142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2003,6,high,high,0,0,ewes per ha,2.7,,mean,7.37
-142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2003,6,high,high,0,0,ewes per ha,2.7,,mean,40
-142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2003,6,high,high,0,0,ewes per ha,2.7,,sd,13.07
-142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2003,6,high,high,0,0,ewes per ha,2.7,,sd,13.74
-142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2003,6,high,high,0,0,ewes per ha,2.7,,mean,27.9
-142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2004,6,high,high,0,0,ewes per ha,2.7,,mean,5.9
-142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2004,6,high,high,0,0,ewes per ha,2.7,,sd,2.5
-142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2004,6,high,high,0,0,ewes per ha,2.7,,mean,7.64
-142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2004,6,high,high,0,0,ewes per ha,2.7,,sd,2.21
-142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2004,6,high,high,0,0,ewes per ha,2.7,,sd,32.36
-142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2004,6,high,high,0,0,ewes per ha,2.7,,mean,72.8
-142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2004,6,high,high,0,0,ewes per ha,2.7,,mean,24
-142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2004,6,high,high,0,0,ewes per ha,2.7,,sd,4.77
-142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2005,6,high,high,0,0,ewes per ha,2.7,,mean,4.8
-142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2005,6,high,high,0,0,ewes per ha,2.7,,sd,5.09
-142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2005,6,high,high,0,0,ewes per ha,2.7,,mean,6.47
-142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2005,6,high,high,0,0,ewes per ha,2.7,,sd,6.82
-142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2005,6,high,high,0,0,ewes per ha,2.7,,mean,51.5
-142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2005,6,high,high,0,0,ewes per ha,2.7,,sd,31.03
-142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2005,6,high,high,0,0,ewes per ha,2.7,,sd,6.18
-142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2005,6,high,high,0,0,ewes per ha,2.7,,mean,15.3
+142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2002,6,high,grazed,0,0,ewes per ha,2.7,,mean,8.3
+142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2002,6,high,grazed,0,0,ewes per ha,2.7,,sd,2.96
+142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2002,6,high,grazed,0,0,ewes per ha,2.7,,sd,1.19
+142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2002,6,high,grazed,0,0,ewes per ha,2.7,,mean,4.99
+142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2002,6,high,grazed,0,0,ewes per ha,2.7,,mean,21.1
+142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2002,6,high,grazed,0,0,ewes per ha,2.7,,sd,8.61
+142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2002,6,high,grazed,0,0,ewes per ha,2.7,,mean,31
+142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2002,6,high,grazed,0,0,ewes per ha,2.7,,sd,12.41
+142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2003,6,high,grazed,0,0,ewes per ha,2.7,,sd,3.12
+142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2003,6,high,grazed,0,0,ewes per ha,2.7,,mean,8.5
+142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2003,6,high,grazed,0,0,ewes per ha,2.7,,sd,5.62
+142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2003,6,high,grazed,0,0,ewes per ha,2.7,,mean,7.37
+142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2003,6,high,grazed,0,0,ewes per ha,2.7,,mean,40
+142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2003,6,high,grazed,0,0,ewes per ha,2.7,,sd,13.07
+142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2003,6,high,grazed,0,0,ewes per ha,2.7,,sd,13.74
+142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2003,6,high,grazed,0,0,ewes per ha,2.7,,mean,27.9
+142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2004,6,high,grazed,0,0,ewes per ha,2.7,,mean,5.9
+142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2004,6,high,grazed,0,0,ewes per ha,2.7,,sd,2.5
+142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2004,6,high,grazed,0,0,ewes per ha,2.7,,mean,7.64
+142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2004,6,high,grazed,0,0,ewes per ha,2.7,,sd,2.21
+142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2004,6,high,grazed,0,0,ewes per ha,2.7,,sd,32.36
+142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2004,6,high,grazed,0,0,ewes per ha,2.7,,mean,72.8
+142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2004,6,high,grazed,0,0,ewes per ha,2.7,,mean,24
+142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2004,6,high,grazed,0,0,ewes per ha,2.7,,sd,4.77
+142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2005,6,high,grazed,0,0,ewes per ha,2.7,,mean,4.8
+142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,1,2005,6,high,grazed,0,0,ewes per ha,2.7,,sd,5.09
+142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2005,6,high,grazed,0,0,ewes per ha,2.7,,mean,6.47
+142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,1,2005,6,high,grazed,0,0,ewes per ha,2.7,,sd,6.82
+142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2005,6,high,grazed,0,0,ewes per ha,2.7,,mean,51.5
+142,Invertebrate,Arthropoda,Hemiptera,,,Other,abundance,1,2005,6,high,grazed,0,0,ewes per ha,2.7,,sd,31.03
+142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2005,6,high,grazed,0,0,ewes per ha,2.7,,sd,6.18
+142,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,1,2005,6,high,grazed,0,0,ewes per ha,2.7,,mean,15.3
 142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,2,2002,6,medium,medium,0,0,ewes per ha,0.9,,mean,6.7
 142,Invertebrate,Arthropoda,Coleoptera,,,Other,abundance,2,2002,6,medium,medium,0,0,ewes per ha,0.9,,sd,1.66
 142,Invertebrate,Arthropoda,Diptera,,,Other,abundance,2,2002,6,medium,medium,0,0,ewes per ha,0.9,,sd,1.95

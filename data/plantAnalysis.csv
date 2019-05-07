@@ -1984,3 +1984,27 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,siteID,ye
 2810,Plant,Plants,,,,Producer,,,3,grazed,grazed,0,0,sheep/ha,39,,Grass height,abundance,sd,2.9
 2810,Plant,Plants,,,,Producer,,,3,no grazing,ungrazed,,NA,sheep/ha,0,,Grass height,abundance,sd,9.9
 2810,Plant,Plants,,,,Producer,,,3,no grazing,ungrazed,,NA,sheep/ha,0,,Grass height (cm),abundance,mean,45.3
+769,Plant,Plants,,,,Producer,,1998,12,ungrazed,ungrazed,2,2,AU/50ha/year,0,,grass richness,diversity,mean,8.2
+769,Plant,Plants,,,,Producer,,1998,12,ungrazed,ungrazed,2,2,AU/50ha/year,0,,grass richness,diversity,se,0.4
+769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,grass richness,diversity,mean,7.9
+769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,grass richness,diversity,se,0.3
+769,Plant,Plants,,,,Producer,,1998,12,ungrazed,ungrazed,2,2,AU/50ha/year,0,,Grass cover (%),abundance,mean,36.8
+769,Plant,Plants,,,,Producer,,1998,12,ungrazed,ungrazed,2,2,AU/50ha/year,0,,Grass cover (%),abundance,se,0.01
+769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,Grass cover (%),abundance,mean,37.8
+769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,Grass cover (%),abundance,se,0.01
+611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,annual cover,abundance,mean,0.11
+611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,annual cover,abundance,mean,0.16
+611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,annual cover,abundance,se,0.03
+611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,annual cover,abundance,se,0.04
+611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,perennial cover,abundance,mean,0.44
+611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,perennial cover,abundance,mean,0.22
+611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,perennial cover,abundance,se,0.19
+611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,perennial cover,abundance,se,0.06
+611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,perennial grass cover,abundance,mean,9.35
+611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,perennial grass cover,abundance,mean,1.45
+611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,perennial grass cover,abundance,se,0.68
+611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,perennial grass cover,abundance,se,0.23
+611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,shrub cover,abundance,mean,8.06
+611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,shrub cover,abundance,mean,6.89
+611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,shrub cover,abundance,se,1.59
+611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,shrub cover,abundance,se,1.03
