@@ -1989,9 +1989,9 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,siteID,ye
 769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,grass richness,diversity,mean,7.9
 769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,grass richness,diversity,se,0.3
 769,Plant,Plants,,,,Producer,,1998,12,ungrazed,ungrazed,2,2,AU/50ha/year,0,,Grass cover (%),abundance,mean,36.8
-769,Plant,Plants,,,,Producer,,1998,12,ungrazed,ungrazed,2,2,AU/50ha/year,0,,Grass cover (%),abundance,se,0.01
+769,Plant,Plants,,,,Producer,,1998,12,ungrazed,ungrazed,2,2,AU/50ha/year,0,,Grass cover (%),abundance,se,1
 769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,Grass cover (%),abundance,mean,37.8
-769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,Grass cover (%),abundance,se,0.01
+769,Plant,Plants,,,,Producer,,1998,12,grazed,grazed,0,0,AU/50ha/year,1,,Grass cover (%),abundance,se,1
 611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,annual cover,abundance,mean,0.11
 611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,annual cover,abundance,mean,0.16
 611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,annual cover,abundance,se,0.03

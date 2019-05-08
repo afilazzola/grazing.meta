@@ -294,6 +294,7 @@ source("meta.eval.r") ## Multiple aggregate
   
   ## convert se to sd
    meta2[meta2$Stat=="se","Value"] <- meta2[meta2$Stat=="se","Value"] * sqrt(meta2[meta2$Stat=="se","replicate"] )
+   meta2[meta2$Stat=="se","Stat"] <- "sd"
   
   ## drop comparisons that are not pairwise
   meta2 <-  meta2 %>% filter(grazing.reduced == "ungrazed" | grazing.reduced == "grazed")
@@ -349,6 +350,11 @@ source("meta.eval.r") ## Multiple aggregate
   m2 <- rma(yi=yi, vi=vi, mods=~ -1 + measure ,  data = meta.ready)
   summary(m2) 
   
+  
+  ## number of studies
+  meta.ready %>% group_by(measure) %>% summarize(n=length(measure))
+  
+  fsn(yi, vi, data=meta.ready)
 
 
 ```
