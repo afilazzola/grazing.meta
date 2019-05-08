@@ -170,7 +170,7 @@ source("meta.eval.r") ## Multiple aggregate
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
   ## subset for abundance only
-  meta2 <- meta2 %>% filter(est.reduced == "abundance")
+  meta2 <- meta2 %>% filter(est.reduced == "diversity")
   meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
     
   ## Create Unique identifier column
@@ -359,6 +359,37 @@ source("meta.eval.r") ## Multiple aggregate
 
 ```
 
+
+### Trends among studies
+```{r}
+## load metadata of manuscripts
+ ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
+ms.data[is.na(ms.data)] <- 0
+
+## load effect sizes from each model 
+div <- read.csv("diversityEff.csv")
+abd <- read.csv("abundanceEff.csv")
+plt <- read.csv("plantEffect.csv")
+
+## list unique studies
+studies <- c(div$Study, abd$Study, plt$Study)
+studies <- studies[!duplicated(studies)]
+
+## select only used studies
+msUsed <- ms.data[ms.data$uniqueID %in% studies,]
+
+
+## Taxa that was examined
+apply(msUsed[,21:29], 2, sum)
+
+## Which grazer
+ msUsed %>% group_by(grazer.spp.reduced) %>% summarize(n=length(grazer.spp.reduced))
+ 
+ ##indigenous grazers
+ msUsed %>% group_by(indigenous.simplified
+) %>% summarize(n=length(indigenous.simplified))
+ 
+```
 
 
 ### Compare regional patterns
