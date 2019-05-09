@@ -3113,14 +3113,14 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 883,Plant,Plants,,poaceae,,Producer,,,2004,,grazed,grazed,,NA,,,,se,2.85
 883,Plant,Plants,,Poaceae,,Producer,Canopy %Cover,,2004,,grazed,grazed,,NA,,,,mean,76.31
 883,Plant,Plants,,Poaceae,,Producer,Canopy %Cover,,2004,,ungrazed,ungrazed,,NA,,,,mean,81.23
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,06-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,0.97
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,06-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,0.77
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,06-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,0.19
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,06-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,1.55
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,07-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,1.12
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,07-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,2.24
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,07-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,4.26
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,07-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,8.97
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,6-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,0.97
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,6-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,0.77
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,6-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,0.19
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,6-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,1.55
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,7-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,1.12
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,7-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,2.24
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,7-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,4.26
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,7-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,8.97
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,Early June 2006,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,13.03
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,Early June 2006,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,5.67
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,Early June 2006,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,4.25
@@ -3137,10 +3137,10 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,late june 2007,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,24.9
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,late june 2007,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,6.91
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,late june 2007,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,2.45
-892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,07-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,1500
-892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,07-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,3083.33
-892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,07-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,2708.33
-892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,07-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,916.67
+892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,7-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,1500
+892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,7-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,3083.33
+892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,7-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,2708.33
+892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,7-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,916.67
 892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,Early june 2007,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,692.3
 892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,Early june 2007,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,1115.38
 892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,Early june 2007,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,2038.46
@@ -3692,13 +3692,11 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,riparian,,2,ungrazed,ungrazed,,NA,,,,mean,21.3
 1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,riparian,,2,grazed,grazed,0,0,,,,se,2.9
 1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,riparian,,2,ungrazed,ungrazed,,NA,,,,se,2.4
-1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,riparian,,2,ungrazed,ungrazed,,NA,,,,mean,7.7
 1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,riparian,,2,grazed,grazed,0,0,,,,mean,15.5
-1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,riparian,,2,ungrazed,ungrazed,,NA,,,,se,2.1
-1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,woodland,,3,ungrazed,ungrazed,,NA,,,,mean,10.8
 1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,woodland,,4,grazed,grazed,0,0,,,,mean,13.5
 1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,woodland,,4,grazed,grazed,0,0,,,,se,2.7
-1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,woodland,,3,ungrazed,ungrazed,,NA,,,,se,2.1
+1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,woodland,,4,ungrazed,ungrazed,0,0,,,,mean,15.3
+1033,Vertebrate,Mammalia,Rodenta,,,Herbivorous,small mammal abundance/100 trap nights,woodland,,4,ungrazed,ungrazed,,NA,,,,se,2.7
 1040,Vertebrate,Aves,,Agelaius,phoeniceus,Omnivorous,change in birds/ha from beginning of experiment,1,1987,100,ungrazed,ungrazed,,NA,animal units/ha,0,,mean,-0.7
 1040,Vertebrate,Aves,,Agelaius,phoeniceus,Omnivorous,change in birds/ha from beginning of experiment,1,1987,100,ungrazed,ungrazed,,NA,animal units/ha,0,,se,0.28
 1040,Vertebrate,Aves,,Empidox,traillii,Omnivorous,change in birds/ha from beginning of experiment,1,1987,100,ungrazed,ungrazed,,NA,animal units/ha,0,,se,0.13
@@ -5544,14 +5542,14 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 1404,Plant,Plants,,NA,NA,Producer,Vegetation cover,Sinlahekin,2003,3,ungrazed,ungrazed,55,55,0,#/100km2,NA,se,6.9
 1404,Plant,Plants,,NA,NA,Producer,Vegetation cover,Sinlahekin,2003,3,ungrazed,ungrazed,55,55,0,#/100km2,NA,mean,72.7
 1404,Plant,Plants,,NA,NA,Producer,Vegetation cover,Sinlahekin,2003,3,grazed,grazed,0,0,1920,#/100km2,NA,mean,53.7
-1414,Vertebrate,Aves,,Megadyptes,antipodes,Predator,abundance,Catlins,1992;1993,7,grazed,grazed,0,0,NA,NA,NA,mean,0.23030303
-1414,Vertebrate,Aves,,Megadyptes,antipodes,Predator,abundance,Catlins,1992;1993,4,ungrazed,ungrazed,NA,NA,0,NA,NA,se,0.478787879
-1414,Vertebrate,Aves,,Megadyptes,antipodes,Predator,abundance,Catlins,1992;1993,4,ungrazed,ungrazed,NA,NA,0,NA,NA,mean,0.309090909
-1414,Vertebrate,Aves,,Megadyptes,antipodes,Predator,abundance,Catlins,1992;1993,7,grazed,grazed,0,0,NA,NA,NA,se,0.327272727
-1414,Vertebrate,Aves,,Megadyptes,antipodes,Predator,abundance,Otago/Moeraki,1992;1993,13,grazed,grazed,0,0,NA,NA,NA,se,1.266666667
-1414,Vertebrate,Aves,,Megadyptes,antipodes,Predator,abundance,Otago/Moeraki,1992;1993,6,ungrazed,ungrazed,NA,NA,0,NA,NA,se,2.793939394
-1414,Vertebrate,Aves,,Megadyptes,antipodes,Predator,abundance,Otago/Moeraki,1992;1993,6,ungrazed,ungrazed,NA,NA,0,NA,NA,mean,1.115151515
-1414,Vertebrate,Aves,,Megadyptes,antipodes,Predator,abundance,Otago/Moeraki,1992;1993,13,grazed,grazed,0,0,NA,NA,NA,mean,0.872727273
+1414,Vertebrate,Mammalia,,Lagomorph,,Herbivorous,abundance,Catlins,1992;1993,7,grazed,grazed,0,0,NA,NA,NA,mean,0.23030303
+1414,Vertebrate,Mammalia,,Lagomorph,,Herbivorous,abundance,Catlins,1992;1993,4,ungrazed,ungrazed,NA,NA,0,NA,NA,se,0.478787879
+1414,Vertebrate,Mammalia,,Lagomorph,,Herbivorous,abundance,Catlins,1992;1993,4,ungrazed,ungrazed,NA,NA,0,NA,NA,mean,0.309090909
+1414,Vertebrate,Mammalia,,Lagomorph,,Herbivorous,abundance,Catlins,1992;1993,7,grazed,grazed,0,0,NA,NA,NA,se,0.327272727
+1414,Vertebrate,Mammalia,,Lagomorph,,Herbivorous,abundance,Otago/Moeraki,1992;1993,13,grazed,grazed,0,0,NA,NA,NA,se,1.266666667
+1414,Vertebrate,Mammalia,,Lagomorph,,Herbivorous,abundance,Otago/Moeraki,1992;1993,6,ungrazed,ungrazed,NA,NA,0,NA,NA,se,2.793939394
+1414,Vertebrate,Mammalia,,Lagomorph,,Herbivorous,abundance,Otago/Moeraki,1992;1993,6,ungrazed,ungrazed,NA,NA,0,NA,NA,mean,1.115151515
+1414,Vertebrate,Mammalia,,Lagomorph,,Herbivorous,abundance,Otago/Moeraki,1992;1993,13,grazed,grazed,0,0,NA,NA,NA,mean,0.872727273
 1423,Microbial,Microbes,,NA,NA,Detrivorous,diversity,grazed,2015,9,grazed,grazed,0,0,NA,NA,NA,se,0.09882871
 1423,Microbial,Microbes,,NA,NA,Detrivorous,diversity,grazed,2015,9,grazed,grazed,0,0,NA,NA,NA,mean,2.284326225
 1423,Microbial,Microbes,,NA,NA,Detrivorous,evenness,grazed,2015,9,grazed,grazed,0,0,NA,NA,NA,mean,0.653208971
@@ -6074,26 +6072,30 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 1656,Invertebrate,Arthropoda,,NA,NA,Other,density,upland,2013 (spring),2,ungrazed,ungrazed,11,11,0,AUM/ha,NA,mean,59493.67089
 1656,Invertebrate,Arthropoda,,NA,NA,Other,density,upland,2013 (spring),2,ungrazed,ungrazed,11,11,0,AUM/ha,NA,se,15189.87342
 1656,Invertebrate,Arthropoda,,NA,NA,Other,density,upland,2013 (spring),2,grazed,grazed,,NA,0.5 (2001-2003); .4 (2003-2007,AUM/ha,NA,mean,127848.1013
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1993,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.04
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1993,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.11
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1994,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,5.48
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1994,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,1.44
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1995,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,6.96
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1995,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,2.1
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1996,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.97
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1996,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.88
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1997,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.46
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1997,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.27
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1998,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,2.11
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1998,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.87
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1999,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.16
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1999,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.56
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,2000,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.33
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,2000,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.13
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,2001,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.31
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,2001,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.6
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,2002,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.24
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,2002,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.14
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1993-2002,4,ungrazed,ungrazed,15,15,NA,NA,NA,mean,44.5
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1993-2002,4,ungrazed,ungrazed,15,15,NA,NA,NA,se,6.4
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1993-2002,4,grazed,grazed,15,15,NA,NA,NA,mean,49.7
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Kelowna study area,1993-2002,4,grazed,grazed,15,15,NA,NA,NA,se,9
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1993,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.04
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1993,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.11
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1994,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,5.48
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1994,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,1.44
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1995,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,6.96
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1995,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,2.1
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1996,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.97
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1996,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.88
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1997,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.46
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1997,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.27
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1998,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,2.11
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1998,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.87
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1999,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.16
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,1999,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.56
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,2000,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.33
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,2000,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.13
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,2001,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.31
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,2001,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.6
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,2002,8,ungrazed,ungrazed,15,15,NA,NA,NA,mean,0.24
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Kelowna study area,2002,8,ungrazed,ungrazed,15,15,NA,NA,NA,se,0.14
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,mean pregnancies,Kelowna study area,1995-1998,8,ungrazed,ungrazed,15,15,NA,NA,NA,count,10.4516129
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,mean pregnancies,Kelowna study area,1995-1998,8,ungrazed,ungrazed,15,15,NA,NA,NA,count,4.289940828
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,juvenile survival,Kelowna study area,1995-1998,8,ungrazed,ungrazed,15,15,NA,NA,NA,count,1.676300578
@@ -6104,26 +6106,26 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,juvenile survival,Kelowna study area,1999-2002,8,ungrazed,ungrazed,15,15,NA,NA,NA,count,0.260115607
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,summer survival,Kelowna study area,1999-2002,8,ungrazed,ungrazed,15,15,NA,NA,NA,count,0.756972112
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,winter survival,Kelowna study area,1999-2002,8,ungrazed,ungrazed,15,15,NA,NA,NA,count,0.864
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1993,8,grazed,grazed,0,0,NA,NA,NA,se,0.05
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1993,8,grazed,grazed,0,0,NA,NA,NA,mean,0.05
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1994,8,grazed,grazed,0,0,NA,NA,NA,mean,3.26
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1994,8,grazed,grazed,0,0,NA,NA,NA,se,1.22
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1995,8,grazed,grazed,0,0,NA,NA,NA,mean,4.68
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1995,8,grazed,grazed,0,0,NA,NA,NA,se,2.2
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1996,8,grazed,grazed,0,0,NA,NA,NA,mean,3.62
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1996,8,grazed,grazed,0,0,NA,NA,NA,se,2.04
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1997,8,grazed,grazed,0,0,NA,NA,NA,se,2.66
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1997,8,grazed,grazed,0,0,NA,NA,NA,mean,5.43
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1998,8,grazed,grazed,0,0,NA,NA,NA,se,2.42
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1998,8,grazed,grazed,0,0,NA,NA,NA,mean,8.02
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1999,8,grazed,grazed,0,0,NA,NA,NA,se,0.74
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,1999,8,grazed,grazed,0,0,NA,NA,NA,mean,1.13
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,2000,8,grazed,grazed,0,0,NA,NA,NA,mean,1.11
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,2000,8,grazed,grazed,0,0,NA,NA,NA,se,0.64
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,2001,8,grazed,grazed,0,0,NA,NA,NA,mean,0.83
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,2001,8,grazed,grazed,0,0,NA,NA,NA,se,0.48
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,2002,8,grazed,grazed,0,0,NA,NA,NA,se,0.56
-1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,abundance,Summerland study area,2002,8,grazed,grazed,0,0,NA,NA,NA,mean,0.76
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1993,8,grazed,grazed,0,0,NA,NA,NA,se,0.05
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1993,8,grazed,grazed,0,0,NA,NA,NA,mean,0.05
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1994,8,grazed,grazed,0,0,NA,NA,NA,mean,3.26
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1994,8,grazed,grazed,0,0,NA,NA,NA,se,1.22
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1995,8,grazed,grazed,0,0,NA,NA,NA,mean,4.68
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1995,8,grazed,grazed,0,0,NA,NA,NA,se,2.2
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1996,8,grazed,grazed,0,0,NA,NA,NA,mean,3.62
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1996,8,grazed,grazed,0,0,NA,NA,NA,se,2.04
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1997,8,grazed,grazed,0,0,NA,NA,NA,se,2.66
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1997,8,grazed,grazed,0,0,NA,NA,NA,mean,5.43
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1998,8,grazed,grazed,0,0,NA,NA,NA,se,2.42
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1998,8,grazed,grazed,0,0,NA,NA,NA,mean,8.02
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1999,8,grazed,grazed,0,0,NA,NA,NA,se,0.74
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,1999,8,grazed,grazed,0,0,NA,NA,NA,mean,1.13
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,2000,8,grazed,grazed,0,0,NA,NA,NA,mean,1.11
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,2000,8,grazed,grazed,0,0,NA,NA,NA,se,0.64
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,2001,8,grazed,grazed,0,0,NA,NA,NA,mean,0.83
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,2001,8,grazed,grazed,0,0,NA,NA,NA,se,0.48
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,2002,8,grazed,grazed,0,0,NA,NA,NA,se,0.56
+1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,omit,Summerland study area,2002,8,grazed,grazed,0,0,NA,NA,NA,mean,0.76
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,mean pregnancies,Summerland study area,1995-1998,8,grazed,grazed,0,0,NA,NA,NA,count,5.029585799
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,mean pregnancies,Summerland study area,1995-1998,8,grazed,grazed,0,0,NA,NA,NA,count,25.5483871
 1657,Vertebrate,Mammalia,Rodenta,Microtus,pennsylvanicus,Herbivorous,juvenile survival,Summerland study area,1995-1998,8,grazed,grazed,0,0,NA,NA,NA,count,2.341040462
@@ -8199,18 +8201,18 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 1775,Plant,Plants,,Sclerocarya,birrea,Producer,percentage of woody species cover,,2014,8,ungrazed,ungrazed,,NA,,,,count,0.978
 1775,Plant,Plants,,Ziziphus,mauritia,Producer,percentage of woody species cover,,2014,17,grazed,grazed,0,0,,,,count,0.01
 1775,Plant,Plants,,Ziziphus,mauritia,Producer,percentage of woody species cover,,2014,8,ungrazed,ungrazed,,NA,,,,count,0
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, August 2013,114,grazed,grazed,0,0,number of cattle ,30-35,,se,1.9
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, August 2013,114,ungrazed,ungrazed,,NA,number of cattle ,30-35,,mean,36
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, August 2013,114,grazed,grazed,0,0,number of cattle ,30-35,,mean,6
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, August 2013,114,ungrazed,ungrazed,,NA,number of cattle ,30-35,,se,4.3
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, July 2013,114,ungrazed,ungrazed,,NA,number of cattle ,30-35,,mean,9
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, July 2013,114,grazed,grazed,0,0,number of cattle ,30-35,,se,2.7
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, July 2013,114,grazed,grazed,0,0,number of cattle ,30-35,,mean,14
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, July 2013,114,ungrazed,ungrazed,,NA,number of cattle ,30-35,,se,2.3
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, June 2013,114,ungrazed,ungrazed,,NA,number of cattle ,30-35,,mean,5
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, June 2013,114,grazed,grazed,0,0,number of cattle ,30-35,,mean,3
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, June 2013,114,ungrazed,ungrazed,,NA,number of cattle ,30-35,,se,1.7
-1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, June 2013,114,grazed,grazed,0,0,number of cattle ,30-35,,se,1.5
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, August 2013,36,grazed,grazed,0,0,number of cattle ,30-35,,se,1.9
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, August 2013,36,ungrazed,ungrazed,,NA,number of cattle ,30-35,,mean,36
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, August 2013,36,grazed,grazed,0,0,number of cattle ,30-35,,mean,6
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, August 2013,36,ungrazed,ungrazed,,NA,number of cattle ,30-35,,se,4.3
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, July 2013,36,ungrazed,ungrazed,,NA,number of cattle ,30-35,,mean,9
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, July 2013,36,grazed,grazed,0,0,number of cattle ,30-35,,se,2.7
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, July 2013,36,grazed,grazed,0,0,number of cattle ,30-35,,mean,14
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, July 2013,36,ungrazed,ungrazed,,NA,number of cattle ,30-35,,se,2.3
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, June 2013,36,ungrazed,ungrazed,,NA,number of cattle ,30-35,,mean,5
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, June 2013,36,grazed,grazed,0,0,number of cattle ,30-35,,mean,3
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, June 2013,36,ungrazed,ungrazed,,NA,number of cattle ,30-35,,se,1.7
+1777,Vertebrate,Mammalia,Rodenta,Peromyscus,maniculatus,Herbivorous,density per ha,TNC preserve, June 2013,36,grazed,grazed,0,0,number of cattle ,30-35,,se,1.5
 1777,Plant,Plants,,,,Producer,bareground,Carex, August 2013,20,ungrazed,ungrazed,,NA,number of cattle ,30-35,,mean,4.12
 1777,Plant,Plants,,,,Producer,bareground,Carex, August 2013,20,ungrazed,ungrazed,,NA,number of cattle ,30-35,,se,1.288
 1777,Plant,Plants,,,,Producer,bareground,Carex, August 2013,20,grazed,grazed,0,0,number of cattle ,30-35,,mean,22.146
@@ -13452,42 +13454,42 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,se,27.54098361
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,mean,137.0242215
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,mean,167.2131148
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,14.53287197
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,21.3559322
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,27.54098361
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,58.13559322
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,132.8719723
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,190.8196721
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,49.82698962
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,123.3898305
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,129.8360656
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,200.5084746
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,236.6782007
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,438.6885246
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,23.72881356
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,24.91349481
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,35.40983607
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,112.7118644
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,191.0034602
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,300.9836066
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,35.29411765
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,49.83050847
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,62.95081967
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,167.2881356
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,234.6020761
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,399.3442623
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,9.491525424
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,14.53287197
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,15.73770492
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,72.37288136
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,143.2525952
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,218.3606557
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,20.76124567
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,23.72881356
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,27.54098361
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,100.8474576
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,170.2422145
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,273.442623
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,14.53287197
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,21.3559322
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,27.54098361
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,58.13559322
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,132.8719723
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,190.8196721
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,49.82698962
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,123.3898305
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,129.8360656
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,200.5084746
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,236.6782007
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,438.6885246
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,23.72881356
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,24.91349481
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,35.40983607
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,112.7118644
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,191.0034602
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,300.9836066
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,35.29411765
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,49.83050847
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,62.95081967
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,167.2881356
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,234.6020761
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,399.3442623
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,9.491525424
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,14.53287197
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,15.73770492
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,72.37288136
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,143.2525952
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,218.3606557
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,20.76124567
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,23.72881356
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,27.54098361
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,100.8474576
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,170.2422145
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,273.442623
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,1997,3,low,low,,NA,n adult livestock * months / area,<2,tive,se,4.745762712
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,1997,3,low,low,,NA,n adult livestock * months / area,<2,tive,mean,13.05084746
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,1997,3,low,low,,NA,n adult livestock * months / area,<2,tive,se,27.54098361
@@ -13548,54 +13550,54 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,se,24.91349481
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,mean,99.65397924
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,mean,116.0655738
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,4.745762712
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,8.305084746
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,19.67213115
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,22.83737024
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,72.66435986
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,76.72131148
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,9.491525424
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,15.42372881
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,27.54098361
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,31.14186851
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,89.2733564
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,104.2622951
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,4.745762712
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,8.305084746
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,10.38062284
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,11.80327869
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,45.67474048
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,57.04918033
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,4.745762712
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,7.868852459
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,8.30449827
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,10.6779661
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,68.51211073
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,80.6557377
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,7.118644068
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,15.73770492
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,16.60899654
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,27.28813559
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,93.42560554
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,120
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,26.10169492
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,31.14186851
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,43.27868852
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,46.27118644
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,74.74048443
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,123.9344262
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,14.53287197
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,35.59322034
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,39.3442623
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,117.4576271
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,176.4705882
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,293.1147541
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,26.10169492
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,36.77966102
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,3,3,n adult livestock * months / area,02-May,tive,se,56.05536332
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,62.95081967
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,116.2629758
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,151.4754098
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,4.745762712
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,8.305084746
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,19.67213115
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,22.83737024
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,72.66435986
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,76.72131148
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,9.491525424
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,15.42372881
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,27.54098361
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,31.14186851
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,89.2733564
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,104.2622951
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,4.745762712
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,8.305084746
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,10.38062284
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,11.80327869
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,45.67474048
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,57.04918033
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,4.745762712
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,7.868852459
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,8.30449827
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,10.6779661
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,68.51211073
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,80.6557377
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,7.118644068
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,15.73770492
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,16.60899654
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,27.28813559
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,93.42560554
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,120
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,26.10169492
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,31.14186851
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,43.27868852
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,46.27118644
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,74.74048443
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,123.9344262
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,14.53287197
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,35.59322034
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,39.3442623
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,117.4576271
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,176.4705882
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,293.1147541
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,26.10169492
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,36.77966102
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,3,3,n adult livestock * months / area,2-May,tive,se,56.05536332
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,62.95081967
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,116.2629758
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,151.4754098
 2810,Vertebrate,Mammalia,,,,Herbivorous,Richness,,,3,grazed,grazed,0,0,sheep/ha,39,,sd,0.58
 2810,Vertebrate,Mammalia,,,,Herbivorous,Richness,,,3,no grazing,ungrazed,,NA,sheep/ha,0,,mean,4
 2810,Vertebrate,Mammalia,,,,Herbivorous,Richness,,,3,grazed,grazed,0,0,sheep/ha,22,,sd,1.53
@@ -13816,14 +13818,14 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 2908,Vertebrate,Mammalia,Lagomorpha,Lepus,europaeus,Herbivorous,hare count,31,2012,18,gradient,gradient,,NA,Livestock units /ha * days grazed,7.72,,sd,1.39
 2908,Vertebrate,Mammalia,Lagomorpha,Oryctolagus,cuniculus,Herbivorous,rabbit count,31,2012,18,gradient,gradient,,NA,Livestock units /ha * days grazed,7.72,,sd,9.02
 2908,Vertebrate,Mammalia,Lagomorpha,Oryctolagus,cuniculus,Herbivorous,rabbit count,31,2012,18,gradient,gradient,,NA,Livestock units /ha * days grazed,7.72,,mean,12.39
-2947,Vertebrate,Reptilia,,,,Other,abundance,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,08-Oct,,se,1.537117904
-2947,Vertebrate,Reptilia,,,,Other,abundance,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,08-Oct,,mean,14.10917031
-2947,Vertebrate,Reptilia,,,,Other,richness,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,08-Oct,,se,0.397959184
-2947,Vertebrate,Reptilia,,,,Other,richness,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,08-Oct,,mean,3.704081633
-2947,Vertebrate,Reptilia,,,,Other,abundance,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,04-Jun,,se,1.873362445
-2947,Vertebrate,Reptilia,,,,Other,abundance,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,04-Jun,,mean,14.63755459
-2947,Vertebrate,Reptilia,,,,Other,richness,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,04-Jun,,se,0.153061224
-2947,Vertebrate,Reptilia,,,,Other,richness,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,04-Jun,,mean,4.010204082
+2947,Vertebrate,Reptilia,,,,Other,abundance,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,8-Oct,,se,1.537117904
+2947,Vertebrate,Reptilia,,,,Other,abundance,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,8-Oct,,mean,14.10917031
+2947,Vertebrate,Reptilia,,,,Other,richness,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,8-Oct,,se,0.397959184
+2947,Vertebrate,Reptilia,,,,Other,richness,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,8-Oct,,mean,3.704081633
+2947,Vertebrate,Reptilia,,,,Other,abundance,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,4-Jun,,se,1.873362445
+2947,Vertebrate,Reptilia,,,,Other,abundance,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,4-Jun,,mean,14.63755459
+2947,Vertebrate,Reptilia,,,,Other,richness,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,4-Jun,,se,0.153061224
+2947,Vertebrate,Reptilia,,,,Other,richness,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,4-Jun,,mean,4.010204082
 2965,Invertebrate,Arthropoda,Coleoptera,Abax,parallelpipedus,Predator,% abundance,Grazed1,2007,,grazed,grazed,0,0,Cow Unit/ha/day,-653.72,,count,4
 2965,Invertebrate,Arthropoda,Coleoptera,Amara,aenea,Predator,% abundance,Grazed1,2007,,grazed,grazed,0,0,Cow Unit/ha/day,-190.76,,count,1
 2965,Invertebrate,Arthropoda,Coleoptera,Amara,apricaria,Predator,% abundance,Grazed1,2007,,grazed,grazed,0,0,Cow Unit/ha/day,-10.72,,count,26

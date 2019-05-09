@@ -121,30 +121,6 @@ prisma(found = 2989,
 ```
 
 
-#### Patterns of GI Studies Globally
-```{r warning=FALSE, message=FALSE, fig.width=12, fig.height=10}
-require(ggmap)
-###  Start with base map of world
-mp <- NULL
-mapWorld <- borders("world", colour="gray50", fill="gray50") # create a layer of borders
-mp <- ggplot() +   mapWorld
-
-## colorblind-friendly palette
-cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#000000")
-
-meta <- read.csv("data//synthesisdata//evidence.csv")
-meta <- meta %>% filter(lat != "") ## remove blanks for lat and lon
-meta <- meta[!grepl(";", meta$lat),] ## remove multiple entries
-meta$lat <- as.numeric(levels(meta$lat))[meta$lat] ## convert from factor to number
-meta$lon <- as.numeric(levels(meta$lon))[meta$lon] ## convert from factor to number
-
-
-## plot points on top
-mp <- mp+ geom_point(data=meta , aes(x=lon, y=lat), size=2) 
-mp
-
-```
-
 
 ### 3. Synthesis - Abundance
 
@@ -170,7 +146,7 @@ source("meta.eval.r") ## Multiple aggregate
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
   ## subset for abundance only
-  meta2 <- meta2 %>% filter(est.reduced == "diversity")
+  meta2 <- meta2 %>% filter(est.reduced == "abundance")
   meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
     
   ## Create Unique identifier column
@@ -192,7 +168,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta2 <- meta2 %>% filter(Functional.Group != "Other")
   
   ## Test domestic grazers only
-  meta2 <- meta2 %>% filter(grazer.simplified %in% c("domestic","both"))
+  meta2 <- meta2 %>% filter(grazer.simplified %in% c("domestic","both")) %>% filter(!grazer.spp.reduced == "domestic")
 
     ## Use function to extract summary statistics for comparisons
   ## meta.eval  arguments are (meta.data, compare, ids , stats)
@@ -208,7 +184,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta.stat <- rbind(grazed.raw, grazed.stat[, names(grazed.raw)])
   
   
-  meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "SMD", append = TRUE)
+  meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "SMDH", append = TRUE)
   
   ## clean up meta.ready
   meta.ready <- na.omit(meta.ready) ## drop NAs
@@ -235,6 +211,9 @@ source("meta.eval.r") ## Multiple aggregate
   #mixed-effects meta-analysis for grazed vs ungrazed plots
   m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = meta.ready)
   summary(m2) 
+  
+  #The benchmark values for I2 are 25, 50 and 75% for low, moderate and high heterogeneity, respectively (Higgins et al. 2003).
+  
   
   ## number of studies per comparison
   nstudies <- meta.ready %>% group_by(FG) %>% summarise(n=length(FG))
@@ -268,6 +247,7 @@ fsn(yi, vi, data=meta.ready)
 # addpoly(res.p, row= 2, cex=0.75, atransf=exp, mlab="RE model for retention ponds")
 
 ```
+
 
 
 ### Testing the effects of grazing on producers
@@ -305,7 +285,8 @@ source("meta.eval.r") ## Multiple aggregate
   
 
   ## Test domestic grazers only
-  meta2 <- meta2 %>% filter(grazer.simplified %in% c("domestic","both"))
+  meta2 <- meta2 %>% filter(grazer.simplified %in% c("domestic","both")) %>% 
+    filter(grazer.spp.reduced != "domestic") ## select only sheep and cattle comparisons
 
 
     ## Use function to extract summary statistics for comparisons
@@ -389,6 +370,34 @@ apply(msUsed[,21:29], 2, sum)
  msUsed %>% group_by(indigenous.simplified
 ) %>% summarize(n=length(indigenous.simplified))
  
+```
+
+
+#### Patterns of Grazing Studies Globally
+```{r warning=FALSE, message=FALSE, fig.width=12, fig.height=10}
+require(ggmap)
+###  Start with base map of world
+mp <- NULL
+mapWorld <- borders("world", colour="gray50", fill="gray50") # create a layer of borders
+mp <- ggplot() +   mapWorld
+
+## colorblind-friendly palette
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#000000")
+
+
+msUsed <- msUsed %>% filter(lat != "") ## remove blanks for lat and lon
+msUsed$lat <- as.numeric(levels(msUsed$lat))[msUsed$lat] ## convert from factor to number
+msUsed$lon <- as.numeric(levels(msUsed$lon))[msUsed$lon] ## convert from factor to number
+
+
+## plot points on top
+mp <- mp+ geom_point(data=msUsed , aes(x=lon, y=lat), size=2) 
+mp
+
+unique(msUsed$grazer.spp.reduced)
+
+msUsed[msUsed$grazer.spp.reduced=="domestic",]
+
 ```
 
 
