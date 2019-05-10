@@ -158,7 +158,7 @@ source("meta.eval.r") ## Multiple aggregate
   
   ## drop comparisons that are not pairwise
   meta2 <-  meta2 %>% filter(grazing.reduced == "ungrazed" | grazing.reduced == "grazed")
-  meta2 <- meta2 %>% filter(uniqueID != "30") %>% ## drop study 30 because anomalous 
+  meta2 <- meta2 %>% filter(!uniqueID %in% c("30","416")) %>% ## drop study 30 and 416 because anomalous 
   filter(uniqueID != "111") ## data is missing in study 111
   
   ## Drop anomalous studies
@@ -168,7 +168,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta2 <- meta2 %>% filter(Functional.Group != "Other")
   
   ## Test domestic grazers only
-  meta2 <- meta2 %>% filter(grazer.simplified %in% c("domestic","both")) %>% filter(!grazer.spp.reduced == "domestic")
+  meta2 <- meta2 %>%  filter(grazer.simplified %in% c("domestic","both")) %>% filter(!grazer.spp.reduced == "domestic")
 
     ## Use function to extract summary statistics for comparisons
   ## meta.eval  arguments are (meta.data, compare, ids , stats)
@@ -184,12 +184,11 @@ source("meta.eval.r") ## Multiple aggregate
   meta.stat <- rbind(grazed.raw, grazed.stat[, names(grazed.raw)])
   
   
-  meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "SMDH", append = TRUE)
+  meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "ROM", append = TRUE)
   
   ## clean up meta.ready
   meta.ready <- na.omit(meta.ready) ## drop NAs
-  meta.ready <- meta.ready[meta.ready$grazed_mean<80,] ## Drop extreme high variance
-  
+
   
   ## separate out the identifiers
   siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=5, byrow=TRUE)
@@ -209,7 +208,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta.ready[,"previously.grazed"] <- as.factor(ifelse(is.na(meta.ready$yr.grazed),0,1))
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = meta.ready)
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = meta.ready, digits=4 )
   summary(m2) 
   
   #The benchmark values for I2 are 25, 50 and 75% for low, moderate and high heterogeneity, respectively (Higgins et al. 2003).
@@ -282,7 +281,7 @@ source("meta.eval.r") ## Multiple aggregate
   
   ## Drop anomalous studies
   meta2 <- meta2 <- meta2 %>% filter(!uniqueID %in% c("654", "1660")) ## native grazer not ungulate
-  
+  meta2 <- meta2 %>% filter(estimate.simplified != "fitness") ## drop fitness because only study 
 
   ## Test domestic grazers only
   meta2 <- meta2 %>% filter(grazer.simplified %in% c("domestic","both")) %>% 
@@ -303,12 +302,11 @@ source("meta.eval.r") ## Multiple aggregate
   meta.stat <- rbind(grazed.raw, grazed.stat[, names(grazed.raw)])
   
   
-  meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "SMD", append = TRUE)
+  meta.ready <- escalc(n1i = ungrazed_n, n2i = grazed_n, m1i = ungrazed_mean, m2i = grazed_mean, sd1i = ungrazed_sd, sd2i = grazed_sd, data = meta.stat, measure = "ROM", append = TRUE)
   
   ## clean up meta.ready
   meta.ready <- na.omit(meta.ready) ## drop NAs
-  meta.ready <- meta.ready[meta.ready$grazed_mean<80,] ## Drop extreme high variance
-  
+
   
   ## separate out the identifiers
   siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=3, byrow=TRUE)
@@ -350,7 +348,7 @@ ms.data[is.na(ms.data)] <- 0
 ## load effect sizes from each model 
 div <- read.csv("diversityEff.csv")
 abd <- read.csv("abundanceEff.csv")
-plt <- read.csv("plantEffect.csv")
+plt <- read.csv("plantEff.csv")
 
 ## list unique studies
 studies <- c(div$Study, abd$Study, plt$Study)
@@ -370,6 +368,20 @@ apply(msUsed[,21:29], 2, sum)
  msUsed %>% group_by(indigenous.simplified
 ) %>% summarize(n=length(indigenous.simplified))
  
+ 
+ 
+ ### compare effect sizes by joining studies together
+ effdata <- rbind(data.frame(uniqueID=div$Study, yi=div$yi),data.frame(uniqueID=abd$Study, yi=abd$yi),data.frame(uniqueID=plt$Study, yi=plt$yi))
+ 
+ effdata <- merge(effdata, msUsed, by="uniqueID")
+ 
+ ## compare grazer spp to eff size
+ kruskal.test(yi ~ grazer.spp.reduced, data = effdata)
+ 
+ ## compare grazer to history
+ hist <- effdata %>% filter(indigenous.simplified %in% c("none","co-occurring","historic"))
+ 
+kruskal.test(yi ~ indigenous.simplified, data = hist)
 ```
 
 
@@ -397,6 +409,40 @@ mp
 unique(msUsed$grazer.spp.reduced)
 
 msUsed[msUsed$grazer.spp.reduced=="domestic",]
+
+
+## figure out country from GPS
+
+names <- map.where(database="world", msUsed$lon, msUsed$lat)
+## separate subcountry identifiers
+country <- gsub("?:.*", "", names)
+length(unique(country))
+
+## extract climate
+
+koppen <- read.table("data//KoppenClimate.txt", header=T)
+koppen[,"location"] <- paste(koppen$Lat, koppen$Lon, sep="-")
+msUsed[,"location"] <- paste(msUsed$lat, msUsed$lon, sep="-")
+
+ClosestMatch2 = function(string, stringVector){
+
+  stringVector[amatch(string, stringVector, maxDist=Inf)]
+
+}
+
+climID <- ClosestMatch2(msUsed$location, koppen$location)
+climNames <- merge(data.frame(location=climID), koppen, by.x="location")
+
+## list climates
+climNames %>% group_by(Cls) %>% summarize(n=length(Cls))
+climNames[,"location"] <- as.character(climNames[,"location"] ) 
+
+msClim <- cbind(msUsed, climNames)
+
+## map with climate
+ mp+ geom_point(data=msClim , aes(x=lon, y=lat, col=Cls), size=2) 
+mp
+
 
 ```
 

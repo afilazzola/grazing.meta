@@ -2008,3 +2008,41 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,siteID,ye
 611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,shrub cover,abundance,mean,6.89
 611,Plant,Plants,,,,Producer,Canyon,1990,4,ungrazed,ungrazed,30,30,,,,shrub cover,abundance,se,1.59
 611,Plant,Plants,,,,Producer,Canyon,1990,4,grazed,grazed,0,0,,,,shrub cover,abundance,se,1.03
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,spring,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,5.362903226
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,spring,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,58.14516129
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,spring,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,7.620967742
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,spring,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,42.90322581
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,summer,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,27.09677419
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,summer,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,2.540322581
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,summer,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,4.516129032
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,summer,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,31.61290323
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,winter,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,4.233870968
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,winter,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,3.669354839
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,winter,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,45.44354839
+1108,Fungi,AMF,Mycorrhiza,,,Producer,lowland,winter,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,53.91129032
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,spring,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,6.491935484
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,spring,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,44.87903226
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,spring,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,36.41129032
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,spring,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,6.774193548
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,summer,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,32.17741935
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,summer,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,2.822580645
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,summer,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,29.07258065
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,summer,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,4.233870968
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,winter,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,5.64516129
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,winter,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,se,2.822580645
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,winter,5,grazed,grazed,0,0,animals/ha,0.55,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,49.39516129
+1108,Fungi,AMF,Mycorrhiza,,,Producer,upland,winter,5,ungrazed,ungrazed,,NA,animals/ha,0,,percentage of root with arbuscule colonization,MycorrhizaColonize,mean,33.58870968
+60,Fungi,AMF,Mycorrhiza,,,Producer,HG,1990,15,grazed,grazed,0,0,sheep per ha,7,,density,MycorrhizaColonize,mean,682
+60,Fungi,AMF,Mycorrhiza,,,Producer,HG,1990,15,grazed,grazed,0,0,sheep per ha,7,,density,MycorrhizaColonize,se,37
+60,Fungi,AMF,Mycorrhiza,,,Producer,LG,1990,15,grazed,grazed,0,0,sheep per ha,1,,density,MycorrhizaColonize,se,74
+60,Fungi,AMF,Mycorrhiza,,,Producer,LG,1990,15,grazed,grazed,0,0,sheep per ha,1,,density,MycorrhizaColonize,mean,1727
+60,Fungi,AMF,Mycorrhiza,,,Producer,MG,1990,15,grazed,grazed,0,0,sheep per ha,4,,density,MycorrhizaColonize,se,52
+60,Fungi,AMF,Mycorrhiza,,,Producer,MG,1990,15,grazed,grazed,0,0,sheep per ha,4,,density,MycorrhizaColonize,mean,1015
+60,Fungi,AMF,Mycorrhiza,,,Producer,UG1,1990,15,ungrazed,ungrazed,2,2,sheep per ha,0,,density,MycorrhizaColonize,mean,949
+60,Fungi,AMF,Mycorrhiza,,,Producer,UG1,1990,15,ungrazed,ungrazed,2,2,sheep per ha,0,,density,MycorrhizaColonize,se,52
+60,Fungi,AMF,Mycorrhiza,,,Producer,UG2,1990,15,ungrazed,ungrazed,2,2,sheep per ha,0,,density,MycorrhizaColonize,mean,1141
+60,Fungi,AMF,Mycorrhiza,,,Producer,UG2,1990,15,ungrazed,ungrazed,2,2,sheep per ha,0,,density,MycorrhizaColonize,se,67
+60,Fungi,AMF,Mycorrhiza,,,Producer,UG3,1990,15,ungrazed,ungrazed,2,2,sheep per ha,0,,density,MycorrhizaColonize,se,97
+60,Fungi,AMF,Mycorrhiza,,,Producer,UG3,1990,15,ungrazed,ungrazed,2,2,sheep per ha,0,,density,MycorrhizaColonize,mean,1816
+60,Fungi,AMF,Mycorrhiza,,,Producer,UG4,1990,15,ungrazed,ungrazed,2,2,sheep per ha,0,,density,MycorrhizaColonize,mean,3003
+60,Fungi,AMF,Mycorrhiza,,,Producer,UG4,1990,15,ungrazed,ungrazed,2,2,sheep per ha,0,,density,MycorrhizaColonize,se,103
