@@ -76,7 +76,7 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 evidence <- read.csv("data//synthesisdata//evidence.csv")
 ### Identify studies that were excluded
 excludes <- evidence %>% group_by(reason.simplified) %>% count(exclude) %>% filter(reason.simplified!="")
-ggplot(excludes, aes(x=reason.simplified, y=n)) + geom_bar(stat="identity") + coord_flip()
+ggplot(excludes, aes(x=reason.simplified, y=n)) + geom_bar(stat="identity") + coord_flip() + xlab("Reason for exclusion")
 
 ## frequency of study
 year.rate <- evidence %>% group_by(Publication.Year) %>% summarize(n=length(Publication.Year))
@@ -108,15 +108,15 @@ datasets <- read.csv("data//binary.simplified.csv")
 meta <- length(unique(datasets$uniqueID))
 meta
 
-prisma(found = 2989,
-       found_other = 1,
-       no_dupes = 2989,
-       screened = 2989,
-       screen_exclusions = 2675,
-       full_text = 315,
+prisma(found = 2992,
+       found_other = 4,
+       no_dupes = 2992,
+       screened = 2992,
+       screen_exclusions = 2681,
+       full_text = 311,
        full_text_exclusions = 0,
-       qualitative = 315, 
-       quantitative = 216,
+       qualitative = 311, 
+       quantitative = 92,
        width = 800, height = 800)
 ```
 
@@ -146,7 +146,7 @@ source("meta.eval.r") ## Multiple aggregate
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
   ## subset for abundance only
-  meta2 <- meta2 %>% filter(est.reduced == "abundance")
+  meta2 <- meta2 %>% filter(est.reduced == "diversity")
   meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
     
   ## Create Unique identifier column
@@ -426,7 +426,7 @@ msUsed[,"location"] <- paste(msUsed$lat, msUsed$lon, sep="-")
 
 ClosestMatch2 = function(string, stringVector){
 
-  stringVector[amatch(string, stringVector, maxDist=Inf)]
+  stringVector[stringdist::amatch(string, stringVector, maxDist=Inf)]
 
 }
 
@@ -436,12 +436,23 @@ climNames <- merge(data.frame(location=climID), koppen, by.x="location")
 ## list climates
 climNames %>% group_by(Cls) %>% summarize(n=length(Cls))
 climNames[,"location"] <- as.character(climNames[,"location"] ) 
+names(climNames)[2:3] <- c("lat","lon")
 
-msClim <- cbind(msUsed, climNames)
+## Drop anomalous point
+climNames <- subset(climNames, lat > -80)
+
+## More broad groupings
+climNames["group"] <- substr(climNames$Cls, 1, 1)
+climgroups <- data.frame(group=c("A","B","C","D"), climate=c("Tropical","Arid/Semi-arid","Temperate","Continental"))
+climNames <- merge(climNames, climgroups, by="group")
+
+
+
+cbPalette <- c( "#D55E00", "#56B4E9", "#0072B2", "#009E73", "#F0E442", "#E69F00", "#CC79A7","#000000","#999999")
 
 ## map with climate
- mp+ geom_point(data=msClim , aes(x=lon, y=lat, col=Cls), size=2) 
-mp
+mp + geom_point(data=msUsed , aes(x=lon, y=lat, col=grazer.spp.reduced ), size=2)  + xlab("Longitude") + ylab("Latitude") + xlim(-180, 180) + ylim(-90,90)+  scale_color_manual(values = cbPalette, name = "Grazer composition")
+
 
 
 ```
@@ -451,8 +462,8 @@ mp
 ```{r}
 
 ## Load in effect sizes
-occurdat<-list.files("data//effectSize",pattern=".csv$",full=T)
-animal.abd <- read.csv(occurdat[1])
+occurdat<-list.files( pattern="Eff.csv$",full=T)
+animal.abd <- read.csv(occurdat[2])
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
@@ -478,14 +489,14 @@ coordinates(gps) <- ~lon+lat
 proj4string(gps) <- crs.world
 
 ## load rasters
-temp <- raster("L:\\Climaterasters\\bio1.tif")
-prec <- raster("L:\\Climaterasters\\bio12.tif")
+temp <- raster("E:\\worldclim2\\bioclim\\bio1.tif")
+prec <- raster("E:\\worldclim2\\bioclim\\bio12.tif")
 
 clim <- stack(temp,prec)
 
 
 ## extract temperature and preciptiation
-gps.clim <- data.frame(extract(clim, gps))
+gps.clim <- data.frame(raster::extract(clim, gps))
 gps.clim["uniqueID"] <- gps$uniqueID
 
 
@@ -496,7 +507,7 @@ meta.ready <- merge(meta3, gps.clim, by="uniqueID")
 meta.ready[,"aridity"] <- (meta.ready$bio12)/(meta.ready$bio1+10)
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~ -1 + aridity ,  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~ bio1 * bio12,  data = meta.ready)
 summary(m3) 
 
 ## Temperature
@@ -550,10 +561,21 @@ lines(400:1200, preds$ci.ub, lty="dashed")
 
 ## Time since grazed Grazed
 
+## Load in effect sizes
+occurdat<-list.files( pattern="Eff.csv$",full=T)
+animal.abd <- read.csv(occurdat[3])
+colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
+ 
+## join manuscript data
+ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
+meta3 <- merge(animal.abd, ms.data, by="uniqueID")
+meta3$last.grazing.event <- as.numeric(meta3$last.grazing.event)
+
+
 ## compare climate & grazing duration variables against effect size
 
 ## get last year grazed as covariate
-meta.ready <- subset(meta3, yr.grazed>0& yr.grazed < 100)
+meta.ready <- subset(meta3, yr.grazed>0& yr.grazed < 49)
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
 m3 <- rma(yi=yi, vi=vi, mods=~ -1 + yr.grazed ,  data = meta.ready)
@@ -561,22 +583,25 @@ summary(m3)
 
 ## Temperature
 ### calculate predicted risk ratios for full temperature gradient
-preds <- predict(m3, newmods=c(0:60), transf=exp)
+preds <- predict(m3, newmods=c(0:35), transf=exp)
 
 ### radius of points will be proportional to the inverse standard errors
 ### hence the area of the points will be proportional to inverse variances
 size <- 1 / sqrt(meta.ready$vi)
-size <- size / max(size)
+size <- size / max(size) *0.95
 
 ### set up plot (risk ratios on y-axis, absolute temperature on x-axis)
-plot(NA, NA, xlim=c(0,60), ylim=c(0.2,10),
-     xlab="Year since last grazed", ylab="Risk Ratio",
-     las=1, bty="l", log="y")
+plot(NA, NA, xlim=c(0,35), ylim=c(0.5,5),
+     xlab="Year since control was last grazed", ylab="Effect of grazing relative to control (LRR)",
+     las=1, bty="l", log="y", cex.lab=1.5, cex.axis=1.2)
 
 ### add points
-symbols(meta.ready$yr.grazed, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg="black")
+col <- data.frame(FG=unique(meta.ready$FG), colors= c( "#D55E00", "#56B4E9", "#0072B2", "#009E73", "#F0E442", "#E69F00", "#CC79A7"))
+meta.ready <- merge(meta.ready, col, by="FG")
+symbols(meta.ready$yr.grazed, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg=as.character(meta.ready$colors))
+legend(0,5.5, legend=col$FG, col=as.character(col$colors), pch=19, cex=0.8)
                    
 ### add predicted values (and corresponding CI bounds)
-lines(0:60, preds$pred)
-lines(0:60, preds$ci.lb, lty="dashed")
-lines(0:60, preds$ci.ub, lty="dashed") 
+lines(0:35, preds$pred, lwd=2)
+lines(0:35, preds$ci.lb, lty="dashed")
+lines(0:35, preds$ci.ub, lty="dashed") 
