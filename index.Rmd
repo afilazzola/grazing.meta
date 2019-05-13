@@ -146,7 +146,7 @@ source("meta.eval.r") ## Multiple aggregate
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
   ## subset for abundance only
-  meta2 <- meta2 %>% filter(est.reduced == "diversity")
+  meta2 <- meta2 %>% filter(est.reduced == "abundance")
   meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
     
   ## Create Unique identifier column
@@ -326,7 +326,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta.ready[,"previously.grazed"] <- as.factor(ifelse(is.na(meta.ready$yr.grazed),0,1))
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + measure ,  data = meta.ready)
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + measure ,  data = subset(meta.ready, vi!=0))
   summary(m2) 
   
   
