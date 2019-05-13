@@ -208,7 +208,7 @@ source("meta.eval.r") ## Multiple aggregate
   meta.ready[,"previously.grazed"] <- as.factor(ifelse(is.na(meta.ready$yr.grazed),0,1))
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = meta.ready, digits=4 )
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<10), digits=4 )
   summary(m2) 
   
   #The benchmark values for I2 are 25, 50 and 75% for low, moderate and high heterogeneity, respectively (Higgins et al. 2003).
@@ -230,7 +230,7 @@ confint(m1)
 
 ## Check for publication bias
 ## The symetrical distriubtion suggests there is no publication bias
-funnel(m2)
+funnel(m2, ylim=c(3,0))
 
 ## Calculate rosenthals Failsafe number
 fsn(yi, vi, data=meta.ready)
@@ -335,6 +335,11 @@ source("meta.eval.r") ## Multiple aggregate
   
   fsn(yi, vi, data=meta.ready)
 
+
+## Check for publication bias
+## The symetrical distriubtion suggests there is no publication bias
+funnel(m2)
+regtest(m2)
 
 ```
 
