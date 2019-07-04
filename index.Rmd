@@ -146,7 +146,7 @@ source("meta.eval.r") ## Multiple aggregate
   ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
   meta2 <- merge(meta2, ms.data, by="uniqueID")
   ## subset for abundance only
-  meta2 <- meta2 %>% filter(est.reduced == "abundance")
+  meta2 <- meta2 %>% filter(est.reduced == "diversity")
   meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
     
   ## Create Unique identifier column
@@ -568,7 +568,7 @@ lines(400:1200, preds$ci.ub, lty="dashed")
 
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
-animal.abd <- read.csv(occurdat[3])
+animal.abd <- read.csv(occurdat[2])
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
@@ -601,10 +601,28 @@ plot(NA, NA, xlim=c(0,35), ylim=c(0.5,5),
      las=1, bty="l", log="y", cex.lab=1.5, cex.axis=1.2)
 
 ### add points
-col <- data.frame(FG=unique(meta.ready$FG), colors= c( "#D55E00", "#56B4E9", "#0072B2", "#009E73", "#F0E442", "#E69F00", "#CC79A7"))
+col <- data.frame(FG=unique(meta.ready$FG), colors= c("#999999","#E69F00", "#56B4E9", "#D55E00","#0072B2","#E69F00","#0072B2"))
+ptshape <- data.frame(FG=unique(meta.ready$FG), shape= c(21,21,21,21,21,23,23))
 meta.ready <- merge(meta.ready, col, by="FG")
-symbols(meta.ready$yr.grazed, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg=as.character(meta.ready$colors))
-legend(0,5.5, legend=col$FG, col=as.character(col$colors), pch=19, cex=0.8)
+meta.ready <- merge(meta.ready, ptshape, by="FG")
+points(meta.ready$yr.grazed, exp(meta.ready$yi), pch=meta.ready$shape, bg=as.character(meta.ready$colors), cex=2)
+arrows(meta.ready$yr.grazed, exp(meta.ready$yi)-meta.ready$vi, ## lower
+       meta.ready$yr.grazed, exp(meta.ready$yi)+meta.ready$vi, ## upper
+       length=0.05, angle=90, code=3)
+
+
+meta.ready$FG
+
+meta.ready[,"trophic"] <- c("Detrivore","Detrivore","Herbivore","Herbivore","Herbivore","Parasite","Pollinator","Pollinator","Pollinator","Predator","Herbivore","Herbivore","Herbivore","Predator")
+
+ggplot(meta.ready, aes(x=yr.grazed, y=yi, color=trophic, shape=higher.taxa)) +geom_point(size=3) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) + xlab("Year since control was last grazed") + ylab("Effect of grazing relative to control (LRR)")
+
+
+
+
+# symbols(meta.ready$yr.grazed, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg=as.character(meta.ready$colors))
+
+legend(0,5.5, legend=col$FG, pt.bg=as.character(col$colors), pch=meta.ready$shape, cex=0.8)
                    
 ### add predicted values (and corresponding CI bounds)
 lines(0:35, preds$pred, lwd=2)
