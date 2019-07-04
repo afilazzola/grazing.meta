@@ -615,7 +615,11 @@ meta.ready$FG
 
 meta.ready[,"trophic"] <- c("Detrivore","Detrivore","Herbivore","Herbivore","Herbivore","Parasite","Pollinator","Pollinator","Pollinator","Predator","Herbivore","Herbivore","Herbivore","Predator")
 
-ggplot(meta.ready, aes(x=yr.grazed, y=yi, color=trophic, shape=higher.taxa)) +geom_point(size=3) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) + xlab("Year since control was last grazed") + ylab("Effect of grazing relative to control (LRR)")
+## line
+preds <- predict(m3, newmods=0:35)
+
+
+ggplot(meta.ready, aes(x=yr.grazed, y=yi)) +geom_point(aes(color=trophic, shape=higher.taxa), size=3) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) + xlab("Year since control was last grazed") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=0:35, y=pred), lwd=2) + geom_errorbar(aes(x=yr.grazed, ymin=yi-vi, ymax=yi+vi))
 
 
 
