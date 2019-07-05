@@ -4529,7 +4529,7 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 1321,Invertebrate,Arthropoda,Hymenoptera,Formicidae,NA,Detrivorous,abundance,Sequoia National Park,2008,10,ungrazed,ungrazed,18,18,NA,NA,NA,mean,1.95
 1321,Invertebrate,Arthropoda,Hymenoptera,Formicidae,NA,Detrivorous,abundance,Sequoia National Park,2008,10,grazed,grazed,0,0,Mean stock nights/ha/yr,14.5,NA,se,1.82
 1321,Invertebrate,Arthropoda,Hymenoptera,Formicidae,NA,Detrivorous,abundance,Sequoia National Park,2008,10,ungrazed,ungrazed,18,18,NA,NA,NA,se,0.95
-1321,Invertebrate,Arthropoda,Hymenoptera,Formicidae,NA,Detrivorous,richness,Sequoia National Park,2008,10,grazed,grazed,0,0,Mean stock nights/ha/yr,14.5,NA,mean,0.2
+1321,Invertebrate,Arthropoda,Hymenoptera,Formicidae,NA,Detrivorous,richness,Sequoia National Park,2008,10,grazed,grazed,0,0,Mean stock nights/ha/yr,14.5,NA,mean,0.55
 1321,Invertebrate,Arthropoda,Hymenoptera,Formicidae,NA,Detrivorous,richness,Sequoia National Park,2008,10,ungrazed,ungrazed,18,18,NA,NA,NA,mean,0.55
 1321,Invertebrate,Arthropoda,Hymenoptera,Formicidae,NA,Detrivorous,richness,Sequoia National Park,2008,10,ungrazed,ungrazed,18,18,NA,NA,NA,se,0.19
 1321,Invertebrate,Arthropoda,Hymenoptera,Formicidae,NA,Detrivorous,richness,Sequoia National Park,2008,10,grazed,grazed,0,0,Mean stock nights/ha/yr,14.5,NA,se,0.34

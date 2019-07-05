@@ -230,7 +230,7 @@ confint(m1)
 
 ## Check for publication bias
 ## The symetrical distriubtion suggests there is no publication bias
-funnel(m2, ylim=c(3,0))
+funnel(m2, ylim=c(1.2,0))
 
 ## Calculate rosenthals Failsafe number
 fsn(yi, vi, data=meta.ready)
@@ -494,8 +494,8 @@ coordinates(gps) <- ~lon+lat
 proj4string(gps) <- crs.world
 
 ## load rasters
-temp <- raster("E:\\worldclim2\\bioclim\\bio1.tif")
-prec <- raster("E:\\worldclim2\\bioclim\\bio12.tif")
+temp <- raster("L:\\worldclim\\bioclim\\bio1.bil")
+prec <- raster("L:\\worldclim\\bioclim\\bio12.bil")
 
 clim <- stack(temp,prec)
 
@@ -503,64 +503,57 @@ clim <- stack(temp,prec)
 ## extract temperature and preciptiation
 gps.clim <- data.frame(raster::extract(clim, gps))
 gps.clim["uniqueID"] <- gps$uniqueID
+gps.clim$bio1 <- gps.clim$bio1/10
 
 
 ## compare climate & grazing duration variables against effect size
+
+m1 <- lm(yi~ poly(bio1,2), data=meta.ready)
+summary(m1)
+
 
 ## get last year grazed as covariate
 meta.ready <- merge(meta3, gps.clim, by="uniqueID")
 meta.ready[,"aridity"] <- (meta.ready$bio12)/(meta.ready$bio1+10)
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~ bio1 * bio12,  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~ poly(bio1,2),  data = meta.ready)
 summary(m3) 
 
-## Temperature
-### calculate predicted risk ratios for full temperature gradient
-preds <- predict(m3, newmods=c(0:110), transf=exp)
+meta.ready <- meta.ready[!is.na(meta.ready$bio1),] ## drop NA temperatures
 
-### radius of points will be proportional to the inverse standard errors
-### hence the area of the points will be proportional to inverse variances
-size <- 1 / sqrt(meta.ready$vi)
-size <- size / max(size)
+## line
+preds <- predict(m3, bio1=meta.ready$bio1)
 
-### set up plot (risk ratios on y-axis, absolute temperature on x-axis)
-plot(NA, NA, xlim=c(0,110), ylim=c(0.2,10),
-     xlab="Aridity", ylab="Risk Ratio",
-     las=1, bty="l", log="y")
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
 
-### add points
-symbols(meta.ready$aridity, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg="black")
-                   
-### add predicted values (and corresponding CI bounds)
-lines(0:110, preds$pred)
-lines(0:110, preds$ci.lb, lty="dashed")
-lines(0:110, preds$ci.ub, lty="dashed") 
+## generate column for FG
+meta.ready[,"trophic"] <- gsub("^.*?ertebrate","",meta.ready$FG)
+
+### Plot against temperature
+ggplot(meta.ready, aes(x=bio1, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Temperature (°C)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$bio1, y=pred), lwd=2) +
+geom_ribbon(data=data.frame(preds), aes(x=meta.ready$bio1, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+xlim(2,20)
 
 
+### Preciptiation
 
-### Precipitation
+#mixed-effects meta-analysis for grazed vs ungrazed plots
+m4 <- rma(yi=yi, vi=vi, mods=~ poly(bio12,2),  data = meta.ready)
+summary(m4) 
 
-### calculate predicted risk ratios for full temperature gradient
-preds <- predict(m3, newmods=c(400:1200), transf=exp)
+meta.ready <- meta.ready[!is.na(meta.ready$bio12),] ## drop NA preciptiations
 
-### radius of points will be proportional to the inverse standard errors
-### hence the area of the points will be proportional to inverse variances
-size <- 1 / sqrt(meta.ready$vi)
-size <- size / max(size)*10
 
-### set up plot (risk ratios on y-axis, absolute temperature on x-axis)
-plot(NA, NA, xlim=c(400,1200), ylim=c(0.2,10),
-     xlab="Precipitation (mm)", ylab="Risk Ratio",
-     las=1, bty="l", log="y")
 
-### add points
-symbols(meta.ready$bio12, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg="black")
-                   
-### add predicted values (and corresponding CI bounds)
-lines(400:1200, preds$pred)
-lines(400:1200, preds$ci.lb, lty="dashed")
-lines(400:1200, preds$ci.ub, lty="dashed") 
+## line
+preds <- predict(m4, bio12=meta.ready$bio12)
+
+
+### Plot against temperature
+ggplot(meta.ready, aes(x=bio12, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa),size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Mean annual preciptiation (mm)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$bio12, y=pred), lwd=2) +
+geom_ribbon(data=data.frame(preds), aes(x=meta.ready$bio12, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)
+
+
 
 
 
@@ -586,49 +579,51 @@ meta.ready <- subset(meta3, yr.grazed>0& yr.grazed < 49)
 m3 <- rma(yi=yi, vi=vi, mods=~ -1 + yr.grazed ,  data = meta.ready)
 summary(m3) 
 
-## Temperature
-### calculate predicted risk ratios for full temperature gradient
-preds <- predict(m3, newmods=c(0:35), transf=exp)
-
-### radius of points will be proportional to the inverse standard errors
-### hence the area of the points will be proportional to inverse variances
-size <- 1 / sqrt(meta.ready$vi)
-size <- size / max(size) *0.95
-
-### set up plot (risk ratios on y-axis, absolute temperature on x-axis)
-plot(NA, NA, xlim=c(0,35), ylim=c(0.5,5),
-     xlab="Year since control was last grazed", ylab="Effect of grazing relative to control (LRR)",
-     las=1, bty="l", log="y", cex.lab=1.5, cex.axis=1.2)
-
-### add points
-col <- data.frame(FG=unique(meta.ready$FG), colors= c("#999999","#E69F00", "#56B4E9", "#D55E00","#0072B2","#E69F00","#0072B2"))
-ptshape <- data.frame(FG=unique(meta.ready$FG), shape= c(21,21,21,21,21,23,23))
-meta.ready <- merge(meta.ready, col, by="FG")
-meta.ready <- merge(meta.ready, ptshape, by="FG")
-points(meta.ready$yr.grazed, exp(meta.ready$yi), pch=meta.ready$shape, bg=as.character(meta.ready$colors), cex=2)
-arrows(meta.ready$yr.grazed, exp(meta.ready$yi)-meta.ready$vi, ## lower
-       meta.ready$yr.grazed, exp(meta.ready$yi)+meta.ready$vi, ## upper
-       length=0.05, angle=90, code=3)
-
 
 meta.ready$FG
 
 meta.ready[,"trophic"] <- c("Detrivore","Detrivore","Herbivore","Herbivore","Herbivore","Parasite","Pollinator","Pollinator","Pollinator","Predator","Herbivore","Herbivore","Herbivore","Predator")
 
 ## line
-preds <- predict(m3, newmods=0:35)
+preds <- predict(m3, newmods=1:35)
+
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2")
+
+ggplot(meta.ready, aes(x=log(yr.grazed), y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since control was last grazed (log-years)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=log(1:35), y=pred), lwd=1) +
+geom_ribbon(data=data.frame(preds), aes(x=log(1:35), y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)
 
 
-ggplot(meta.ready, aes(x=yr.grazed, y=yi)) +geom_point(aes(color=trophic, shape=higher.taxa), size=3) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) + xlab("Year since control was last grazed") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=0:35, y=pred), lwd=2) + geom_errorbar(aes(x=yr.grazed, ymin=yi-vi, ymax=yi+vi))
+### Old figure
+# ### calculate predicted risk ratios for full grazing time gradient
+# preds <- predict(m3, newmods=c(0:35), transf=exp)
+# 
+# ### radius of points will be proportional to the inverse standard errors
+# ### hence the area of the points will be proportional to inverse variances
+# size <- 1 / sqrt(meta.ready$vi)
+# size <- size / max(size) *0.95
+# 
+# ### set up plot (risk ratios on y-axis, absolute temperature on x-axis)
+# plot(NA, NA, xlim=c(0,35), ylim=c(0.5,5),
+#      xlab="Year since control was last grazed", ylab="Effect of grazing relative to control (LRR)",
+#      las=1, bty="l", log="y", cex.lab=1.5, cex.axis=1.2)
+# 
+# ### add points
+# col <- data.frame(FG=unique(meta.ready$FG), colors= c("#999999","#E69F00", "#56B4E9", "#D55E00","#0072B2","#E69F00","#0072B2"))
+# ptshape <- data.frame(FG=unique(meta.ready$FG), shape= c(21,21,21,21,21,23,23))
+# meta.ready <- merge(meta.ready, col, by="FG")
+# meta.ready <- merge(meta.ready, ptshape, by="FG")
+# points(meta.ready$yr.grazed, exp(meta.ready$yi), pch=meta.ready$shape, bg=as.character(meta.ready$colors), cex=2)
+# arrows(meta.ready$yr.grazed, exp(meta.ready$yi)-meta.ready$vi, ## lower
+#        meta.ready$yr.grazed, exp(meta.ready$yi)+meta.ready$vi, ## upper
+#        length=0.05, angle=90, code=3)
+# 
+# # symbols(meta.ready$yr.grazed, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg=as.character(meta.ready$colors))
+# 
+# legend(0,5.5, legend=col$FG, pt.bg=as.character(col$colors), pch=meta.ready$shape, cex=0.8)
+#                    
+# ### add predicted values (and corresponding CI bounds)
+# lines(0:35, preds$pred, lwd=2)
+# lines(0:35, preds$ci.lb, lty="dashed")
+# lines(0:35, preds$ci.ub, lty="dashed") 
 
 
-
-
-# symbols(meta.ready$yr.grazed, exp(meta.ready$yi), circles=size, inches=FALSE, add=TRUE, bg=as.character(meta.ready$colors))
-
-legend(0,5.5, legend=col$FG, pt.bg=as.character(col$colors), pch=meta.ready$shape, cex=0.8)
-                   
-### add predicted values (and corresponding CI bounds)
-lines(0:35, preds$pred, lwd=2)
-lines(0:35, preds$ci.lb, lty="dashed")
-lines(0:35, preds$ci.ub, lty="dashed") 
