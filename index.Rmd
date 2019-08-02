@@ -343,6 +343,37 @@ regtest(m2)
 
 ```
 
+### Separated Plant responses
+```{r}
+plt <- read.csv("plantEff.csv")
+
+## abundance
+m1 <- rma(yi=yi, vi=vi, data = subset(plt, measure == "abundance" & vi!=0))
+summary(m1) 
+
+## time-since-grazed
+m1.tsg <- rma(yi=yi, vi=vi,  mods=~ -1 + yr.grazed, data = subset(plt, measure == "abundance" & vi!=0))
+summary(m1.tsg) 
+
+## richness
+m2 <- rma(yi=yi, vi=vi, data = subset(plt, measure == "diversity"& vi!=0))
+summary(m2) 
+
+## time-since-grazed
+m2.tsg <- rma(yi=yi, vi=vi, mods=~ -1 + yr.grazed , data = subset(plt, measure == "diversity" & vi!=0))
+summary(m2.tsg)
+
+## Mycorrhiza
+m3 <- rma(yi=yi, vi=vi, data = subset(plt, measure == "MycorrhizaColonize"))
+summary(m3) 
+
+## debris
+m4 <- rma(yi=yi, vi=vi, data = subset(plt, measure == "debris"))
+summary(m4) 
+
+
+```
+
 
 ### Trends among studies
 ```{r}
@@ -376,12 +407,17 @@ apply(msUsed[,21:29], 2, sum)
  
  
  ### compare effect sizes by joining studies together
- effdata <- rbind(data.frame(uniqueID=div$Study, yi=div$yi),data.frame(uniqueID=abd$Study, yi=abd$yi),data.frame(uniqueID=plt$Study, yi=plt$yi))
+ effdata <- rbind(data.frame(uniqueID=div$Study, yi=div$yi, vi=div$vi),data.frame(uniqueID=abd$Study, yi=abd$yi, vi=abd$vi),data.frame(uniqueID=plt$Study, yi=plt$yi, vi=plt$vi))
  
  effdata <- merge(effdata, msUsed, by="uniqueID")
  
  ## compare grazer spp to eff size
  kruskal.test(yi ~ grazer.spp.reduced, data = effdata)
+ 
+ 
+
+  m2 <- rma(yi=yi, vi=vi, mods=~  grazer.spp.reduced ,  data = subset(effdata, vi!=0))
+  summary(m2) 
  
  ## compare grazer to history
  hist <- effdata %>% filter(indigenous.simplified %in% c("none","co-occurring","historic"))
@@ -468,7 +504,8 @@ mp + geom_point(data=msUsed , aes(x=lon, y=lat, col=grazer.spp.reduced ), size=2
 
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
-animal.abd <- read.csv(occurdat[2])
+animal.abd <- read.csv(occurdat[3])
+animal.abd <- subset(animal.abd, measure=="diversity" & vi!=0) ## one measure at a time for plants
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
@@ -494,8 +531,8 @@ coordinates(gps) <- ~lon+lat
 proj4string(gps) <- crs.world
 
 ## load rasters
-temp <- raster("L:\\worldclim\\bioclim\\bio1.bil")
-prec <- raster("L:\\worldclim\\bioclim\\bio12.bil")
+temp <- raster("F:\\worldclim2\\bioclim\\bio1.tif")
+prec <- raster("F:\\worldclim2\\bioclim\\bio12.tif")
 
 clim <- stack(temp,prec)
 
@@ -503,7 +540,7 @@ clim <- stack(temp,prec)
 ## extract temperature and preciptiation
 gps.clim <- data.frame(raster::extract(clim, gps))
 gps.clim["uniqueID"] <- gps$uniqueID
-gps.clim$bio1 <- gps.clim$bio1/10
+gps.clim$bio1 <- gps.clim$bio1 ## divide by 10 when worldclim 1
 
 
 ## compare climate & grazing duration variables against effect size
@@ -515,12 +552,14 @@ summary(m1)
 ## get last year grazed as covariate
 meta.ready <- merge(meta3, gps.clim, by="uniqueID")
 meta.ready[,"aridity"] <- (meta.ready$bio12)/(meta.ready$bio1+10)
+meta.ready <- meta.ready[!is.na(meta.ready$bio1),] ## drop NA temperatures
+
+
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~ poly(bio1,2),  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~ poly(bio1,1) * poly(bio12,1),  data = meta.ready)
 summary(m3) 
 
-meta.ready <- meta.ready[!is.na(meta.ready$bio1),] ## drop NA temperatures
 
 ## line
 preds <- predict(m3, bio1=meta.ready$bio1)
@@ -561,7 +600,7 @@ geom_ribbon(data=data.frame(preds), aes(x=meta.ready$bio12, y=pred, ymin=ci.lb, 
 
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
-animal.abd <- read.csv(occurdat[2])
+animal.abd <- read.csv(occurdat[3])
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
