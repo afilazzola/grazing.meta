@@ -1,0 +1,57 @@
+Trophic,Genus,Species,Site,Stat,Value
+Herbivore,Heteronyx,sp.,strip,mean,0.42
+Herbivore,Heteronyx,sp.,grazed strip,mean,0
+Herbivore,Heteronyx,sp.,strip,95conf,0.62
+Herbivore,Heteronyx,sp.,grazed strip,95conf,0
+Carnivore,Neocarenum,elongatum,strip,mean,0.32
+Carnivore,Neocarenum,elongatum,grazed strip,mean,0.95
+Carnivore,Neocarenum,elongatum,strip,95conf,0.85
+Carnivore,Neocarenum,elongatum,grazed strip,95conf,2.24
+Carnivore,Arthropterus,sp.,strip,mean,0.6
+Carnivore,Arthropterus,sp.,grazed strip,mean,0.07
+Carnivore,Arthropterus,sp.,strip,95conf,0.91
+Carnivore,Arthropterus,sp.,grazed strip,95conf,0.23
+Carnivore,Gigaderma,nocte,strip,mean,0.71
+Carnivore,Gigaderma,nocte,grazed strip,mean,1.18
+Carnivore,Gigaderma,nocte,strip,95conf,1.38
+Carnivore,Gigaderma,nocte,grazed strip,95conf,2.16
+Herbivore,Heteronyx,constans,strip,mean,1.047
+Herbivore,Heteronyx,constans,grazed strip,mean,1.48
+Herbivore,Heteronyx,constans,strip,95conf,2.36
+Herbivore,Heteronyx,constans,grazed strip,95conf,2.22
+Detrivore,Isopteron,carbo,strip,mean,1
+Detrivore,Isopteron,carbo,grazed strip,mean,1.5
+Detrivore,Isopteron,carbo,strip,95conf,1.74
+Detrivore,Isopteron,carbo,grazed strip,95conf,1.97
+Carnivore,Microferonia,sp.,strip,mean,0.26
+Carnivore,Microferonia,sp.,grazed strip,mean,0
+Carnivore,Microferonia,sp.,strip,95conf,0.073
+Carnivore,Microferonia,sp.,grazed strip,95conf,0
+Omnivore,Cenogmus,sp.,strip,mean,0.46
+Omnivore,Cenogmus,sp.,grazed strip,mean,0.16
+Omnivore,Cenogmus,sp.,strip,95conf,0.79
+Omnivore,Cenogmus,sp.,grazed strip,95conf,0.46
+Carnivore,Gigaderma,sulcatum,strip,mean,0.11
+Carnivore,Gigaderma,sulcatum,grazed strip,mean,0
+Carnivore,Gigaderma,sulcatum,strip,95conf,0.53
+Carnivore,Gigaderma,sulcatum,grazed strip,95conf,0
+Detrivore,Isopteron,punctatissimus,strip,mean,0
+Detrivore,Isopteron,punctatissimus,grazed strip,mean,0.32
+Detrivore,Isopteron,punctatissimus,strip,95conf,0
+Detrivore,Isopteron,punctatissimus,grazed strip,95conf,0.76
+Detrivore,Omorgus,semicostatus,strip,mean,0.32
+Detrivore,Omorgus,semicostatus,grazed strip,mean,0
+Detrivore,Omorgus,semicostatus,strip,95conf,1.42
+Detrivore,Omorgus,semicostatus,grazed strip,95conf,0
+Carnivore,Rhytisternus,cyathoderus,strip,mean,0.23
+Carnivore,Rhytisternus,cyathoderus,grazed strip,mean,1.35
+Carnivore,Rhytisternus,cyathoderus,strip,95conf,0.53
+Carnivore,Rhytisternus,cyathoderus,grazed strip,95conf,2.27
+Carnivore,Cratogaster,melas,strip,mean,1
+Carnivore,Cratogaster,melas,grazed strip,mean,0
+Carnivore,Cratogaster,melas,strip,95conf,2.65
+Carnivore,Cratogaster,melas,grazed strip,95conf,0
+Carnivore,Scopodes,sp.,strip,mean,0.71
+Carnivore,Scopodes,sp.,grazed strip,mean,0.36
+Carnivore,Scopodes,sp.,strip,95conf,1.02
+Carnivore,Scopodes,sp.,grazed strip,95conf,0.765

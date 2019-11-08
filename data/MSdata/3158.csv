@@ -1,0 +1,25 @@
+Site,Taxa,stat,value,variable,Rep
+remnant forest,amphibian,mean,2.57,abundance,8
+remnant forest,reptiles,mean,2.89,abundance,8
+remnant forest,birds,mean,21.7,abundance,8
+remnant forest,mammmals,mean,3.55,abundance,8
+pasture,amphibian,mean,1.4,abundance,8
+pasture,reptiles,mean,1.21,abundance,8
+pasture,birds,mean,12.27,abundance,8
+pasture,mammmals,mean,2.61,abundance,8
+remnant forest,amphibian,se,0.93,abundance,8
+remnant forest,reptiles,se,1.45,abundance,8
+remnant forest,birds,se,3.36,abundance,8
+remnant forest,mammmals,se,0.93,abundance,8
+pasture,amphibian,se,1.03,abundance,8
+pasture,reptiles,se,0.56,abundance,8
+pasture,birds,se,3.74,abundance,8
+pasture,mammmals,se,1.08,abundance,8
+remnant forest,plants,mean,4.1,biomass,6
+remnant forest,plants,se,0.93,biomass,6
+pasture,plants,mean,4.2,biomass,6
+pasture,plants,se,1.29,biomass,6
+remnant forest,plants,mean,5,litter,6
+remnant forest,plants,se,1.11,litter,6
+pasture,plants,mean,1.2,litter,6
+pasture,plants,se,0.49,litter,6
