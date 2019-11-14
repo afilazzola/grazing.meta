@@ -1,0 +1,45 @@
+Taxa,Genus,Species,Trophic,treatment,stat,value,measure,
+Vertebrates,Cyanistes,caeruleus,Omnivorous,ungrazed,mean,0.256,abundance,16
+Vertebrates,Cyanistes,caeruleus,Omnivorous,grazed,mean,0.041,abundance,16
+Vertebrates,Fringilla,coelebs,Omnivorous,ungrazed,mean,0.943,abundance,16
+Vertebrates,Fringilla,coelebs,Omnivorous,grazed,mean,1.752,abundance,16
+Vertebrates,Phylloscopus,collybita,Predator,ungrazed,mean,0.686,abundance,16
+Vertebrates,Phylloscopus,collybita,Predator,grazed,mean,0.83,abundance,16
+Vertebrates,Carduelis,carduelis,Omnivorous,ungrazed,mean,0.184,abundance,16
+Vertebrates,Carduelis,carduelis,Omnivorous,grazed,mean,0.143,abundance,16
+Vertebrates,Anthus,pratensis,Omnivorous,ungrazed,mean,1.127,abundance,16
+Vertebrates,Anthus,pratensis,Omnivorous,grazed,mean,0.748,abundance,16
+Vertebrates,Erithacus,rubecula,Omnivorous,ungrazed,mean,1.434,abundance,16
+Vertebrates,Erithacus,rubecula,Omnivorous,grazed,mean,3.484,abundance,16
+Vertebrates,Parus,major,Omnivorous,ungrazed,mean,0.369,abundance,16
+Vertebrates,Parus,major,Omnivorous,grazed,mean,0.01,abundance,16
+Vertebrates,Motacilla,alba,Predator,ungrazed,mean,0,abundance,16
+Vertebrates,Motacilla,alba,Predator,grazed,mean,0.502,abundance,16
+Vertebrates,Cyanistes,caeruleus,Omnivorous,ungrazed,se,0.082,abundance,16
+Vertebrates,Cyanistes,caeruleus,Omnivorous,grazed,se,0.061,abundance,16
+Vertebrates,Fringilla,coelebs,Omnivorous,ungrazed,se,0.102,abundance,16
+Vertebrates,Fringilla,coelebs,Omnivorous,grazed,se,0.307,abundance,16
+Vertebrates,Phylloscopus,collybita,Predator,ungrazed,se,0.174,abundance,16
+Vertebrates,Phylloscopus,collybita,Predator,grazed,se,0.184,abundance,16
+Vertebrates,Carduelis,carduelis,Omnivorous,ungrazed,se,0.082,abundance,16
+Vertebrates,Carduelis,carduelis,Omnivorous,grazed,se,0.092,abundance,16
+Vertebrates,Anthus,pratensis,Omnivorous,ungrazed,se,0.625,abundance,16
+Vertebrates,Anthus,pratensis,Omnivorous,grazed,se,0.584,abundance,16
+Vertebrates,Erithacus,rubecula,Omnivorous,ungrazed,se,0.256,abundance,16
+Vertebrates,Erithacus,rubecula,Omnivorous,grazed,se,0.635,abundance,16
+Vertebrates,Parus,major,Omnivorous,ungrazed,se,0.041,abundance,16
+Vertebrates,Parus,major,Omnivorous,grazed,se,0.031,abundance,16
+Vertebrates,Motacilla,alba,Predator,ungrazed,se,0,abundance,16
+Vertebrates,Motacilla,alba,Predator,grazed,se,0.174,abundance,16
+Plants,,,producer,ungrazed,mean,8.38,abundance,12
+Plants,,,producer,grazed,mean,1.46,abundance,12
+Plants,,,producer,ungrazed,se,0.8,abundance,12
+Plants,,,producer,grazed,se,0.46,abundance,12
+Plants,,,producer,ungrazed,mean,4.69,leaf litter,12
+Plants,,,producer,grazed,mean,21.2,leaf litter,12
+Plants,,,producer,ungrazed,se,1.17,leaf litter,12
+Plants,,,producer,grazed,se,18.7,leaf litter,12
+Invertebrates,,,Omnivorous,ungrazed,mean,1073.9,abundance,5
+Invertebrates,,,Omnivorous,grazed,mean,706.8,abundance,5
+Invertebrates,,,Omnivorous,ungrazed,se,123.4,abundance,5
+Invertebrates,,,Omnivorous,grazed,se,43.9,abundance,5

@@ -1,0 +1,17 @@
+Site,Taxa,Species,Trophic,Measure,Treatment,Stat,Value,rep
+FN,Invertebrate,Hemiptera,Omnivorous,richness,ungrazed,mean,9.72,16
+FC,Invertebrate,Hemiptera,Omnivorous,richness,ungrazed,mean,8.56,16
+UN,Invertebrate,Hemiptera,Omnivorous,richness,grazed,mean,8.75,16
+UC,Invertebrate,Hemiptera,Omnivorous,richness,grazed,mean,8.12,16
+FN,Invertebrate,Hemiptera,Omnivorous,richness,ungrazed,se,1.11,16
+FC,Invertebrate,Hemiptera,Omnivorous,richness,ungrazed,se,1.64,16
+UN,Invertebrate,Hemiptera,Omnivorous,richness,grazed,se,1.26,16
+UC,Invertebrate,Hemiptera,Omnivorous,richness,grazed,se,1.11,16
+FN,Invertebrate,Hemiptera,Omnivorous,abundance,ungrazed,mean,82.11,16
+FC,Invertebrate,Hemiptera,Omnivorous,abundance,ungrazed,mean,69.06,16
+UN,Invertebrate,Hemiptera,Omnivorous,abundance,grazed,mean,69.61,16
+UC,Invertebrate,Hemiptera,Omnivorous,abundance,grazed,mean,38.07,16
+FN,Invertebrate,Hemiptera,Omnivorous,abundance,ungrazed,se,23.93,16
+FC,Invertebrate,Hemiptera,Omnivorous,abundance,ungrazed,se,22.3,16
+UN,Invertebrate,Hemiptera,Omnivorous,abundance,grazed,se,16.86,16
+UC,Invertebrate,Hemiptera,Omnivorous,abundance,grazed,se,6.53,16

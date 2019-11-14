@@ -1,0 +1,25 @@
+Taxa,Group,Site,Treatment,Measure,Stat,Value,Rep,
+Vertebrate,Rodenta,Baccharis,grazed,abundance,mean,10.49,10,
+Vertebrate,Rodenta,Lupinus,grazed,abundance,mean,7.51,10,
+Vertebrate,Rodenta,Open,grazed,abundance,mean,11.93,10,
+Vertebrate,Rodenta,Baccharis,ungrazed,abundance,mean,7.96,10,
+Vertebrate,Rodenta,Lupinus,ungrazed,abundance,mean,19.17,10,
+Vertebrate,Rodenta,Open,ungrazed,abundance,mean,9.09,10,
+Vertebrate,Rodenta,Baccharis,grazed,abundance,se,1.37,10,
+Vertebrate,Rodenta,Lupinus,grazed,abundance,se,1.54,10,
+Vertebrate,Rodenta,Open,grazed,abundance,se,1.13,10,
+Vertebrate,Rodenta,Baccharis,ungrazed,abundance,se,1.68,10,
+Vertebrate,Rodenta,Lupinus,ungrazed,abundance,se,2.3,10,
+Vertebrate,Rodenta,Open,ungrazed,abundance,se,0.96,10,
+Plants,Plants,Baccharis,grazed,abundance,mean,160.06,10,above-ground biomass
+Plants,Plants,Lupinus,grazed,abundance,mean,126.31,10,above-ground biomass
+Plants,Plants,Open,grazed,abundance,mean,114.74,10,above-ground biomass
+Plants,Plants,Baccharis,ungrazed,abundance,mean,242.98,10,above-ground biomass
+Plants,Plants,Lupinus,ungrazed,abundance,mean,188.02,10,above-ground biomass
+Plants,Plants,Open,ungrazed,abundance,mean,195.73,10,above-ground biomass
+Plants,Plants,Baccharis,grazed,abundance,se,31.82,10,above-ground biomass
+Plants,Plants,Lupinus,grazed,abundance,se,30.85,10,above-ground biomass
+Plants,Plants,Open,grazed,abundance,se,26.03,10,above-ground biomass
+Plants,Plants,Baccharis,ungrazed,abundance,se,58.82,10,above-ground biomass
+Plants,Plants,Lupinus,ungrazed,abundance,se,33.75,10,above-ground biomass
+Plants,Plants,Open,ungrazed,abundance,se,24.1,10,above-ground biomass

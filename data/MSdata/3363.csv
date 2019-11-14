@@ -1,0 +1,13 @@
+Trophic,Taxa,Species,Site,Treatment,Stat,Value,Measure,
+Herbivorous,Invertebrate,Coleoptera,Paddock,grazed,mean,15.823,Abundance,
+Herbivorous,Invertebrate,Coleoptera,Remnant,ungrazed,mean,7.595,Abundance,
+Herbivorous,Invertebrate,Coleoptera,Paddock,grazed,se,6.962,Abundance,
+Herbivorous,Invertebrate,Coleoptera,Remnant,ungrazed,se,2.532,Abundance,
+Detrivorous,Invertebrate,Coleoptera,Paddock,grazed,mean,151.563,Abundance,
+Detrivorous,Invertebrate,Coleoptera,Remnant,ungrazed,mean,18.75,Abundance,
+Detrivorous,Invertebrate,Coleoptera,Paddock,grazed,se,37.5,Abundance,
+Detrivorous,Invertebrate,Coleoptera,Remnant,ungrazed,se,6.25,Abundance,
+Detrivorous,Invertebrate,Coleoptera,Paddock,grazed,mean,0.515,richness,evenness
+Detrivorous,Invertebrate,Coleoptera,Remnant,ungrazed,mean,0.681,richness,evenness
+Detrivorous,Invertebrate,Coleoptera,Paddock,grazed,se,0.035,richness,evenness
+Detrivorous,Invertebrate,Coleoptera,Remnant,ungrazed,se,0.046,richness,evenness

@@ -1,0 +1,5 @@
+Taxa,Group,Trophic,Measure,Treatment,stat,Value
+Vertebrate,Rodenta,Herbivore,Density,ungrazed,mean,35.08928571
+Vertebrate,Rodenta,Herbivore,Density,grazed,mean,23.03571429
+Vertebrate,Rodenta,Herbivore,Density,ungrazed,se,45.44642857
+Vertebrate,Rodenta,Herbivore,Density,grazed,se,37.94642857

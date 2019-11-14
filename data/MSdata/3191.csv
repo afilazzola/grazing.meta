@@ -1,0 +1,5 @@
+Taxa,Trophic,Treatment,Stat,Value
+Rodenta,Herbivore,grazed,mean,1.78
+Rodenta,Herbivore,ungrazed,mean,2.68
+Rodenta,Herbivore,grazed,se,1.95
+Rodenta,Herbivore,ungrazed,se,2.92
