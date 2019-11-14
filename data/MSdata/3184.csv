@@ -1,0 +1,13 @@
+Trophic,treatment,stat,value,Rep
+Detritivores,ungrazed,mean,3195.8,8
+Detritivores,grazed,mean,1354.5,8
+Detritivores,ungrazed,se,423.2,8
+Detritivores,grazed,se,148.1,8
+Herbivore,ungrazed,mean,270.5,8
+Herbivore,grazed,mean,208.1,8
+Herbivore,ungrazed,se,45.4,8
+Herbivore,grazed,se,28.4,8
+Predator,ungrazed,mean,67.09,8
+Predator,grazed,mean,114.4,8
+Predator,ungrazed,se,6.81,8
+Predator,grazed,se,18.9,8

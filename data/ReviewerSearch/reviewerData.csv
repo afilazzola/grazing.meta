@@ -207,3 +207,139 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 3158,Vertebrate,plants,,,,producer,litter,remnant forest,2009-2013,6,grazed,grazed,,,,,,se,1.11
 3158,Vertebrate,plants,,,,producer,litter,pasture,2009-2013,6,grazed,grazed,,,,,,mean,1.2
 3158,Vertebrate,plants,,,,producer,litter,pasture,2009-2013,6,grazed,grazed,,,,,,se,0.49
+3127,Vertebrate,Mammalia,,Madoquoa,guentheri,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.369
+3127,Vertebrate,Mammalia,,Raphicerus,campestris,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.032
+3127,Vertebrate,Mammalia,,Litocranius,walleri,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.368
+3127,Vertebrate,Mammalia,,Giraffa,camelopardis,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.693
+3127,Vertebrate,Mammalia,,Canis,mesomelas,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.026
+3127,Vertebrate,Mammalia,,Felis,spp.,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.029
+3127,Vertebrate,Mammalia,,Small carnivores (n=5),,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.022
+3127,Vertebrate,Mammalia,,Ichneumia,albicauda,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.04
+3127,Vertebrate,Mammalia,,Panthera,pardus,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.251
+3127,Vertebrate,Mammalia,,Panthera,leo,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.286
+3127,Vertebrate,Mammalia,,Proteles,cristata,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.409
+3127,Vertebrate,Mammalia,,Crocuta,crocuta,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.559
+3127,Vertebrate,Mammalia,,Hyaena,hyaena,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.376
+3127,Vertebrate,Mammalia,,Lepus,saxatilis,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.139
+3127,Vertebrate,Mammalia,,Phacochoerus,africanus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.322
+3127,Vertebrate,Mammalia,,Gazella,rufifrons,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.057
+3127,Vertebrate,Mammalia,,Gazella,granti,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.327
+3127,Vertebrate,Mammalia,,Alcelaphus,buselaphus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.111
+3127,Vertebrate,Mammalia,,Oryx,beisa,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.362
+3127,Vertebrate,Mammalia,,Kobus,ellipsiprymnus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.126
+3127,Vertebrate,Mammalia,,Equus,quagga,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.789
+3127,Vertebrate,Mammalia,,Equus,grevyi,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.296
+3127,Vertebrate,Mammalia,,Syncerus,caffer,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.318
+3127,Vertebrate,Mammalia,,Sylvicapra,grimmia,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.057
+3127,Vertebrate,Mammalia,,Aepyceros,melampus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.426
+3127,Vertebrate,Mammalia,,Tragelaphus,scriptus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0
+3127,Vertebrate,Mammalia,,Loxondonta,africana,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.345
+3127,Vertebrate,Mammalia,,Taurotragus,oryx,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.377
+3127,Vertebrate,Mammalia,,Papio,anubis,omnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.323
+3127,Vertebrate,Mammalia,,Orycteropus,afer,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.082
+3127,Vertebrate,Mammalia,,Hystrix,cristata,omnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.049
+3127,Vertebrate,Mammalia,,Madoquoa,guentheri,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.342
+3127,Vertebrate,Mammalia,,Raphicerus,campestris,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.014
+3127,Vertebrate,Mammalia,,Litocranius,walleri,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.153
+3127,Vertebrate,Mammalia,,Giraffa,camelopardis,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Canis,mesomelas,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Felis,spp.,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Small carnivores (n=5),,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.025
+3127,Vertebrate,Mammalia,,Ichneumia,albicauda,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.051
+3127,Vertebrate,Mammalia,,Panthera,pardus,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Panthera,leo,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Proteles,cristata,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.018
+3127,Vertebrate,Mammalia,,Crocuta,crocuta,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.05
+3127,Vertebrate,Mammalia,,Hyaena,hyaena,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.062
+3127,Vertebrate,Mammalia,,Lepus,saxatilis,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.19
+3127,Vertebrate,Mammalia,,Phacochoerus,africanus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.101
+3127,Vertebrate,Mammalia,,Gazella,rufifrons,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.04
+3127,Vertebrate,Mammalia,,Gazella,granti,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.012
+3127,Vertebrate,Mammalia,,Alcelaphus,buselaphus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Oryx,beisa,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Kobus,ellipsiprymnus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Equus,quagga,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Equus,grevyi,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Syncerus,caffer,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.025
+3127,Vertebrate,Mammalia,,Sylvicapra,grimmia,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.094
+3127,Vertebrate,Mammalia,,Aepyceros,melampus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.092
+3127,Vertebrate,Mammalia,,Tragelaphus,scriptus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Loxondonta,africana,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.123
+3127,Vertebrate,Mammalia,,Taurotragus,oryx,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Papio,anubis,omnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.015
+3127,Vertebrate,Mammalia,,Orycteropus,afer,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.254
+3127,Vertebrate,Mammalia,,Hystrix,cristata,omnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.053
+3127,Vertebrate,Mammalia,,Madoquoa,guentheri,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.015637726
+3127,Vertebrate,Mammalia,,Raphicerus,campestris,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.00894779
+3127,Vertebrate,Mammalia,,Litocranius,walleri,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.010536649
+3127,Vertebrate,Mammalia,,Giraffa,camelopardis,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.005602821
+3127,Vertebrate,Mammalia,,Canis,mesomelas,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.002174229
+3127,Vertebrate,Mammalia,,Felis,spp.,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.003094095
+3127,Vertebrate,Mammalia,,Small carnivores (n=5),,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.001087115
+3127,Vertebrate,Mammalia,,Ichneumia,albicauda,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.001337987
+3127,Vertebrate,Mammalia,,Panthera,pardus,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.00677356
+3127,Vertebrate,Mammalia,,Panthera,leo,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.009115038
+3127,Vertebrate,Mammalia,,Proteles,cristata,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.014801484
+3127,Vertebrate,Mammalia,,Crocuta,crocuta,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004264834
+3127,Vertebrate,Mammalia,,Hyaena,hyaena,carnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.007860675
+3127,Vertebrate,Mammalia,,Lepus,saxatilis,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.003344968
+3127,Vertebrate,Mammalia,,Phacochoerus,africanus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004348458
+3127,Vertebrate,Mammalia,,Gazella,rufifrons,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.002090605
+3127,Vertebrate,Mammalia,,Gazella,granti,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004515707
+3127,Vertebrate,Mammalia,,Alcelaphus,buselaphus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.00418121
+3127,Vertebrate,Mammalia,,Oryx,beisa,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.006020942
+3127,Vertebrate,Mammalia,,Kobus,ellipsiprymnus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.00317772
+3127,Vertebrate,Mammalia,,Equus,quagga,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.005101076
+3127,Vertebrate,Mammalia,,Equus,grevyi,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.013045375
+3127,Vertebrate,Mammalia,,Syncerus,caffer,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.003763089
+3127,Vertebrate,Mammalia,,Sylvicapra,grimmia,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.001923357
+3127,Vertebrate,Mammalia,,Aepyceros,melampus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004766579
+3127,Vertebrate,Mammalia,,Tragelaphus,scriptus,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0
+3127,Vertebrate,Mammalia,,Loxondonta,africana,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.002006981
+3127,Vertebrate,Mammalia,,Taurotragus,oryx,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.006020942
+3127,Vertebrate,Mammalia,,Papio,anubis,omnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004933828
+3127,Vertebrate,Mammalia,,Orycteropus,afer,herbivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.002759599
+3127,Vertebrate,Mammalia,,Hystrix,cristata,omnivore,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.001839732
+3127,Vertebrate,Mammalia,,Madoquoa,guentheri,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.018994222
+3127,Vertebrate,Mammalia,,Raphicerus,campestris,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.00143561
+3127,Vertebrate,Mammalia,,Litocranius,walleri,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.011264016
+3127,Vertebrate,Mammalia,,Giraffa,camelopardis,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Canis,mesomelas,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Felis,spp.,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Small carnivores (n=5),,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.001325178
+3127,Vertebrate,Mammalia,,Ichneumia,albicauda,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.004196398
+3127,Vertebrate,Mammalia,,Panthera,pardus,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Panthera,leo,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Proteles,cristata,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.002098199
+3127,Vertebrate,Mammalia,,Crocuta,crocuta,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.003533809
+3127,Vertebrate,Mammalia,,Hyaena,hyaena,carnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.003865103
+3127,Vertebrate,Mammalia,,Lepus,saxatilis,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.005742439
+3127,Vertebrate,Mammalia,,Phacochoerus,africanus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.005300713
+3127,Vertebrate,Mammalia,,Gazella,rufifrons,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.004748556
+3127,Vertebrate,Mammalia,,Gazella,granti,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.001325178
+3127,Vertebrate,Mammalia,,Alcelaphus,buselaphus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Oryx,beisa,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Kobus,ellipsiprymnus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Equus,quagga,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Equus,grevyi,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Syncerus,caffer,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.002760788
+3127,Vertebrate,Mammalia,,Sylvicapra,grimmia,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.004085966
+3127,Vertebrate,Mammalia,,Aepyceros,melampus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.004748556
+3127,Vertebrate,Mammalia,,Tragelaphus,scriptus,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Loxondonta,africana,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.000993884
+3127,Vertebrate,Mammalia,,Taurotragus,oryx,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Papio,anubis,omnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.001546041
+3127,Vertebrate,Mammalia,,Orycteropus,afer,herbivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.010270132
+3127,Vertebrate,Mammalia,,Hystrix,cristata,omnivore,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.002429494
+3184,Invertebrate,,,,,Detritivores,abundance,,1998,8,ungrazed,ungrazed,4,,,,,mean,3195.8
+3184,Invertebrate,,,,,Detritivores,abundance,,1998,8,grazed,grazed,0,,,,,mean,1354.5
+3184,Invertebrate,,,,,Detritivores,abundance,,1998,8,ungrazed,ungrazed,4,,,,,se,423.2
+3184,Invertebrate,,,,,Detritivores,abundance,,1998,8,grazed,grazed,0,,,,,se,148.1
+3184,Invertebrate,,,,,Herbivore,abundance,,1998,8,ungrazed,ungrazed,4,,,,,mean,270.5
+3184,Invertebrate,,,,,Herbivore,abundance,,1998,8,grazed,grazed,0,,,,,mean,208.1
+3184,Invertebrate,,,,,Herbivore,abundance,,1998,8,ungrazed,ungrazed,4,,,,,se,45.4
+3184,Invertebrate,,,,,Herbivore,abundance,,1998,8,grazed,grazed,0,,,,,se,28.4
+3184,Invertebrate,,,,,Predator,abundance,,1998,8,ungrazed,ungrazed,4,,,,,mean,67.09
+3184,Invertebrate,,,,,Predator,abundance,,1998,8,grazed,grazed,0,,,,,mean,114.4
+3184,Invertebrate,,,,,Predator,abundance,,1998,8,ungrazed,ungrazed,4,,,,,se,6.81
+3184,Invertebrate,,,,,Predator,abundance,,1998,8,grazed,grazed,0,,,,,se,18.9
