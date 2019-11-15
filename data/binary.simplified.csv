@@ -3113,14 +3113,14 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 883,Plant,Plants,,poaceae,,Producer,,,2004,,grazed,grazed,,NA,,,,se,2.85
 883,Plant,Plants,,Poaceae,,Producer,Canopy %Cover,,2004,,grazed,grazed,,NA,,,,mean,76.31
 883,Plant,Plants,,Poaceae,,Producer,Canopy %Cover,,2004,,ungrazed,ungrazed,,NA,,,,mean,81.23
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,06-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,0.97
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,06-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,0.77
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,06-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,0.19
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,06-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,1.55
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,07-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,1.12
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,07-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,2.24
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,07-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,4.26
-892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,07-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,8.97
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,6-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,0.97
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,6-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,0.77
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,6-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,0.19
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,6-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,1.55
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,7-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,1.12
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,7-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,2.24
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,7-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,4.26
+892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,7-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,8.97
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,Early June 2006,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,13.03
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,Early June 2006,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,5.67
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,Early June 2006,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,4.25
@@ -3137,10 +3137,10 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,late june 2007,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,24.9
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,late june 2007,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,6.91
 892,Invertebrate,Arthropoda,,Speyeria,idalia,Pollinator,individuals/ha,,late june 2007,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,2.45
-892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,07-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,1500
-892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,07-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,3083.33
-892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,07-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,2708.33
-892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,07-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,916.67
+892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,7-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,1500
+892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,7-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,mean,3083.33
+892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,7-Jul,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,2708.33
+892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,7-Jul,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,916.67
 892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,Early june 2007,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,se,692.3
 892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,Early june 2007,4,grazed,grazed,0,0,ha/animal unit,2.2,,se,1115.38
 892,Plant,Plants,,,,Producer,flowering.stem.density/ha,,Early june 2007,4,ungrazed,ungrazed,,NA,ha/animal unit,2.2,,mean,2038.46
@@ -13454,42 +13454,42 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,se,27.54098361
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,mean,137.0242215
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,mean,167.2131148
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,14.53287197
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,21.3559322
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,27.54098361
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,58.13559322
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,132.8719723
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,190.8196721
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,49.82698962
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,123.3898305
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,129.8360656
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,200.5084746
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,236.6782007
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,438.6885246
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,23.72881356
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,24.91349481
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,35.40983607
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,112.7118644
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,191.0034602
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,300.9836066
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,35.29411765
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,49.83050847
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,62.95081967
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,167.2881356
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,234.6020761
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,399.3442623
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,9.491525424
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,14.53287197
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,15.73770492
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,72.37288136
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,143.2525952
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,218.3606557
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,20.76124567
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,23.72881356
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,27.54098361
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,100.8474576
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,170.2422145
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,273.442623
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,14.53287197
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,21.3559322
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,27.54098361
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,58.13559322
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,132.8719723
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,190.8196721
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,49.82698962
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,123.3898305
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,129.8360656
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,200.5084746
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,236.6782007
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,438.6885246
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,23.72881356
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,24.91349481
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,35.40983607
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,112.7118644
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,191.0034602
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,300.9836066
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,35.29411765
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,49.83050847
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,62.95081967
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,167.2881356
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,234.6020761
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,399.3442623
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,9.491525424
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,14.53287197
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,15.73770492
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,72.37288136
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,143.2525952
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,218.3606557
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,20.76124567
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,23.72881356
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,27.54098361
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,100.8474576
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,170.2422145
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,273.442623
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,1997,3,low,low,,NA,n adult livestock * months / area,<2,tive,se,4.745762712
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,1997,3,low,low,,NA,n adult livestock * months / area,<2,tive,mean,13.05084746
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,1997,3,low,low,,NA,n adult livestock * months / area,<2,tive,se,27.54098361
@@ -13550,54 +13550,54 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,se,24.91349481
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,mean,99.65397924
 2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2006,3,high,high,,NA,n adult livestock * months / area,>5,tive,mean,116.0655738
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,4.745762712
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,8.305084746
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,19.67213115
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,22.83737024
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,72.66435986
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,76.72131148
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,9.491525424
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,15.42372881
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,27.54098361
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,31.14186851
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,89.2733564
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,104.2622951
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,4.745762712
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,8.305084746
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,10.38062284
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,11.80327869
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,45.67474048
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,57.04918033
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,4.745762712
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,7.868852459
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,8.30449827
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,10.6779661
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,68.51211073
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,80.6557377
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,7.118644068
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,15.73770492
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,16.60899654
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,27.28813559
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,93.42560554
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,120
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,26.10169492
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,31.14186851
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,43.27868852
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,46.27118644
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,74.74048443
-2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,123.9344262
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,14.53287197
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,35.59322034
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,39.3442623
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,117.4576271
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,176.4705882
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,293.1147541
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,26.10169492
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,36.77966102
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,3,3,n adult livestock * months / area,02-May,tive,se,56.05536332
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,se,62.95081967
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,116.2629758
-2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,02-May,tive,mean,151.4754098
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,4.745762712
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,8.305084746
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,19.67213115
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,22.83737024
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,72.66435986
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2007,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,76.72131148
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,9.491525424
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,15.42372881
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,27.54098361
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,31.14186851
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,89.2733564
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2008,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,104.2622951
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,4.745762712
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,8.305084746
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,10.38062284
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,11.80327869
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,45.67474048
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2009,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,57.04918033
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,4.745762712
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,7.868852459
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,8.30449827
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,10.6779661
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,68.51211073
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2010,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,80.6557377
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,7.118644068
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,15.73770492
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,16.60899654
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,27.28813559
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,93.42560554
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2011,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,120
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,26.10169492
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,31.14186851
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,43.27868852
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,46.27118644
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,74.74048443
+2804,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2012,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,123.9344262
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,14.53287197
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,35.59322034
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,39.3442623
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,117.4576271
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,176.4705882
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Esquineau,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,293.1147541
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,26.10169492
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,36.77966102
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,3,3,n adult livestock * months / area,2-May,tive,se,56.05536332
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,se,62.95081967
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,116.2629758
+2805,Vertebrate,Reptilia,Testudines,Emys,orbicularis,Omnivorous,population size,Faisses,2013,3,medium,medium,,NA,n adult livestock * months / area,2-May,tive,mean,151.4754098
 2810,Vertebrate,Mammalia,,,,Herbivorous,Richness,,,3,grazed,grazed,0,0,sheep/ha,39,,sd,0.58
 2810,Vertebrate,Mammalia,,,,Herbivorous,Richness,,,3,no grazing,ungrazed,,NA,sheep/ha,0,,mean,4
 2810,Vertebrate,Mammalia,,,,Herbivorous,Richness,,,3,grazed,grazed,0,0,sheep/ha,22,,sd,1.53
@@ -13818,14 +13818,14 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 2908,Vertebrate,Mammalia,Lagomorpha,Lepus,europaeus,Herbivorous,hare count,31,2012,18,gradient,gradient,,NA,Livestock units /ha * days grazed,7.72,,sd,1.39
 2908,Vertebrate,Mammalia,Lagomorpha,Oryctolagus,cuniculus,Herbivorous,rabbit count,31,2012,18,gradient,gradient,,NA,Livestock units /ha * days grazed,7.72,,sd,9.02
 2908,Vertebrate,Mammalia,Lagomorpha,Oryctolagus,cuniculus,Herbivorous,rabbit count,31,2012,18,gradient,gradient,,NA,Livestock units /ha * days grazed,7.72,,mean,12.39
-2947,Vertebrate,Reptilia,,,,Other,abundance,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,08-Oct,,se,1.537117904
-2947,Vertebrate,Reptilia,,,,Other,abundance,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,08-Oct,,mean,14.10917031
-2947,Vertebrate,Reptilia,,,,Other,richness,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,08-Oct,,se,0.397959184
-2947,Vertebrate,Reptilia,,,,Other,richness,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,08-Oct,,mean,3.704081633
-2947,Vertebrate,Reptilia,,,,Other,abundance,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,04-Jun,,se,1.873362445
-2947,Vertebrate,Reptilia,,,,Other,abundance,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,04-Jun,,mean,14.63755459
-2947,Vertebrate,Reptilia,,,,Other,richness,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,04-Jun,,se,0.153061224
-2947,Vertebrate,Reptilia,,,,Other,richness,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,04-Jun,,mean,4.010204082
+2947,Vertebrate,Reptilia,,,,Other,abundance,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,8-Oct,,se,1.537117904
+2947,Vertebrate,Reptilia,,,,Other,abundance,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,8-Oct,,mean,14.10917031
+2947,Vertebrate,Reptilia,,,,Other,richness,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,8-Oct,,se,0.397959184
+2947,Vertebrate,Reptilia,,,,Other,richness,Heavy,,6,grazed,gra,0,0,ha/Adult Equivalent,8-Oct,,mean,3.704081633
+2947,Vertebrate,Reptilia,,,,Other,abundance,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,4-Jun,,se,1.873362445
+2947,Vertebrate,Reptilia,,,,Other,abundance,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,4-Jun,,mean,14.63755459
+2947,Vertebrate,Reptilia,,,,Other,richness,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,4-Jun,,se,0.153061224
+2947,Vertebrate,Reptilia,,,,Other,richness,Moderate,,6,grazed,gra,0,0,ha/Adult Equivalent,4-Jun,,mean,4.010204082
 2965,Invertebrate,Arthropoda,Coleoptera,Abax,parallelpipedus,Predator,% abundance,Grazed1,2007,,grazed,grazed,0,0,Cow Unit/ha/day,-653.72,,count,4
 2965,Invertebrate,Arthropoda,Coleoptera,Amara,aenea,Predator,% abundance,Grazed1,2007,,grazed,grazed,0,0,Cow Unit/ha/day,-190.76,,count,1
 2965,Invertebrate,Arthropoda,Coleoptera,Amara,apricaria,Predator,% abundance,Grazed1,2007,,grazed,grazed,0,0,Cow Unit/ha/day,-10.72,,count,26
@@ -14014,3 +14014,575 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 2989,Vertebrate,Aves,,Pooecetes,gramineus,Omnivorous,daily nest survival,ungrazed,2006-2008,18,ungrazed,ungrazed,15-30,NA,0,AUM/ha,native,mean,0.98
 2989,Vertebrate,Aves,,Pooecetes,gramineus,Omnivorous,nestling condition,ungrazed,2006-2008,24,ungrazed,ungrazed,15-30,NA,0,AUM/ha,native,mean,0.1496
 2989,Vertebrate,Aves,,Pooecetes,gramineus,Omnivorous,nestling condition,ungrazed,2006-2008,24,ungrazed,ungrazed,15-30,NA,0,AUM/ha,native,se,0.8783
+3118,Vertebrate,Amphibian,,Leptodactylus,diptyx,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Rhinella,schneideri,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Elachistocleis,bicolor,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.25
+3118,Vertebrate,Amphibian,,Leptodactylus,gracilis,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Leptodactylus,ocellatus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,1
+3118,Vertebrate,Amphibian,,Leptodactylus,podicipinus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,4
+3118,Vertebrate,Amphibian,,Lysapsus,limellus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.25
+3118,Vertebrate,Amphibian,,Odontophrynus,americanus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.13
+3118,Vertebrate,Amphibian,,Physalaemus,albonotatus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.25
+3118,Vertebrate,Amphibian,,Physalaemus,biligonigerus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.25
+3118,Vertebrate,Amphibian,,Physalaemus,riograndensis,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Physalaemus,santafecinus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.25
+3118,Vertebrate,Amphibian,,Pseudopaludicola,mystacalis,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.13
+3118,Vertebrate,Amphibian,,Scinax,nasicus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Leptodactylus,diptyx,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Rhinella,schneideri,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Elachistocleis,bicolor,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.16
+3118,Vertebrate,Amphibian,,Leptodactylus,gracilis,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Leptodactylus,ocellatus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.13
+3118,Vertebrate,Amphibian,,Leptodactylus,podicipinus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.19
+3118,Vertebrate,Amphibian,,Lysapsus,limellus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.25
+3118,Vertebrate,Amphibian,,Odontophrynus,americanus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.13
+3118,Vertebrate,Amphibian,,Physalaemus,albonotatus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.16
+3118,Vertebrate,Amphibian,,Physalaemus,biligonigerus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.16
+3118,Vertebrate,Amphibian,,Physalaemus,riograndensis,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Physalaemus,santafecinus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.16
+3118,Vertebrate,Amphibian,,Pseudopaludicola,mystacalis,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.13
+3118,Vertebrate,Amphibian,,Scinax,nasicus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Leptodactylus,diptyx,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Rhinella,schneideri,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.13
+3118,Vertebrate,Amphibian,,Elachistocleis,bicolor,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.38
+3118,Vertebrate,Amphibian,,Leptodactylus,gracilis,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Leptodactylus,ocellatus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.25
+3118,Vertebrate,Amphibian,,Leptodactylus,podicipinus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,1.75
+3118,Vertebrate,Amphibian,,Lysapsus,limellus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Odontophrynus,americanus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.13
+3118,Vertebrate,Amphibian,,Physalaemus,albonotatus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.13
+3118,Vertebrate,Amphibian,,Physalaemus,biligonigerus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.13
+3118,Vertebrate,Amphibian,,Physalaemus,riograndensis,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Physalaemus,santafecinus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Pseudopaludicola,mystacalis,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Scinax,nasicus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Amphibian,,Leptodactylus,diptyx,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Rhinella,schneideri,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.1
+3118,Vertebrate,Amphibian,,Elachistocleis,bicolor,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.3
+3118,Vertebrate,Amphibian,,Leptodactylus,gracilis,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Leptodactylus,ocellatus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.3
+3118,Vertebrate,Amphibian,,Leptodactylus,podicipinus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,1.3
+3118,Vertebrate,Amphibian,,Lysapsus,limellus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Odontophrynus,americanus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.1
+3118,Vertebrate,Amphibian,,Physalaemus,albonotatus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.1
+3118,Vertebrate,Amphibian,,Physalaemus,biligonigerus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.1
+3118,Vertebrate,Amphibian,,Physalaemus,riograndensis,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Physalaemus,santafecinus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Pseudopaludicola,mystacalis,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Vertebrate,Amphibian,,Scinax,nasicus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Vertebrate,Reptilia,,Kentropyx,viridistriga,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.75
+3118,Vertebrate,Reptilia,,Mabuya,dorsivittata,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.25
+3118,Vertebrate,Reptilia,,Ophiodes,intermedius,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Reptilia,,Cercosaura,schreibersii,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.75
+3118,Vertebrate,Reptilia,,Teius,oculatus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,3.75
+3118,Vertebrate,Reptilia,,Tupinambis,merianae,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Reptilia,,Kentropyx,viridistriga,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.4
+3118,Vertebrate,Reptilia,,Mabuya,dorsivittata,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.2
+3118,Vertebrate,Reptilia,,Ophiodes,intermedius,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0
+3118,Vertebrate,Reptilia,,Cercosaura,schreibersii,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.3
+3118,Vertebrate,Reptilia,,Teius,oculatus,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,1
+3118,Vertebrate,Reptilia,,Tupinambis,merianae,Predator,abundance,c,2007,8,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0
+3118,Vertebrate,Reptilia,,Kentropyx,viridistriga,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.13
+3118,Vertebrate,Reptilia,,Mabuya,dorsivittata,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.38
+3118,Vertebrate,Reptilia,,Ophiodes,intermedius,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Reptilia,,Cercosaura,schreibersii,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.38
+3118,Vertebrate,Reptilia,,Teius,oculatus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,1.25
+3118,Vertebrate,Reptilia,,Tupinambis,merianae,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,mean,0
+3118,Vertebrate,Reptilia,,Kentropyx,viridistriga,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.13
+3118,Vertebrate,Reptilia,,Mabuya,dorsivittata,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.26
+3118,Vertebrate,Reptilia,,Ophiodes,intermedius,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Vertebrate,Reptilia,,Cercosaura,schreibersii,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.26
+3118,Vertebrate,Reptilia,,Teius,oculatus,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0.45
+3118,Vertebrate,Reptilia,,Tupinambis,merianae,Predator,abundance,d,2007,8,grazed,grazed,0,0,per cattle unit,3.1,,se,0
+3118,Plants,plants,,,,Producer,abundance,c,2007,30,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,4.63
+3118,Plants,plants,,,,Producer,abundance,c,2007,30,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.42
+3118,Plants,plants,,,,Producer,abundance,d,2007,30,grazed,grazed,0,0,per cattle unit,3.1,,mean,3.5
+3118,Plants,plants,,,,Producer,abundance,d,2007,30,grazed,grazed,0,0,per cattle unit,3.1,,se,0.38
+3118,Plants,plants,,,,Producer,richness,c,2007,30,ungrazed,ungrazed,12,12,per cattle unit,3.1,,mean,0.37
+3118,Plants,plants,,,,Producer,richness,c,2007,30,ungrazed,ungrazed,12,12,per cattle unit,3.1,,se,0.05
+3118,Plants,plants,,,,Producer,richness,d,2007,30,grazed,grazed,0,0,per cattle unit,3.1,,mean,0.57
+3118,Plants,plants,,,,Producer,richness,d,2007,30,grazed,grazed,0,0,per cattle unit,3.1,,se,0.08
+3147,Invertebrate,Insecta,butterfly,,,Pollinator,richness,,2016,18,grazed,grazed,0,0,horse per ha,0.35,,mean,0.7222
+3147,Invertebrate,Insecta,butterfly,,,Pollinator,richness,,2016,18,ungrazed,ungrazed,1,1,horse per ha,0.35,,mean,0.2037
+3147,Invertebrate,Insecta,bumble,Bombus,Spp.,Pollinator,richness,,2016,18,grazed,grazed,0,0,horse per ha,0.35,,mean,1.6111
+3147,Invertebrate,Insecta,bumble,Bombus,Spp.,Pollinator,richness,,2016,18,ungrazed,ungrazed,1,1,horse per ha,0.35,,mean,0.4259
+3147,Invertebrate,Insecta,butterfly,,,Pollinator,richness,,2016,18,grazed,grazed,0,0,horse per ha,0.35,,se,0.1617
+3147,Invertebrate,Insecta,butterfly,,,Pollinator,richness,,2016,18,ungrazed,ungrazed,1,1,horse per ha,0.35,,se,0.0668
+3147,Invertebrate,Insecta,bumble,Bombus,Spp.,Pollinator,richness,,2016,18,grazed,grazed,0,0,horse per ha,0.35,,se,0.2038
+3147,Invertebrate,Insecta,bumble,Bombus,Spp.,Pollinator,richness,,2016,18,ungrazed,ungrazed,1,1,horse per ha,0.35,,se,0.0861
+3147,Plants,Plants,plant,,,Pollinator,richness,,2016,18,grazed,grazed,0,0,horse per ha,0.35,,mean,8.1296
+3147,Plants,Plants,plant,,,Pollinator,richness,,2016,18,ungrazed,ungrazed,1,1,horse per ha,0.35,,mean,6.2407
+3147,Plants,Plants,plant,,,Pollinator,richness,,2016,18,grazed,grazed,0,0,horse per ha,0.35,,se,0.1774
+3147,Plants,Plants,plant,,,Pollinator,richness,,2016,18,ungrazed,ungrazed,1,1,horse per ha,0.35,,se,0.1293
+3027,Invertebrate,Insecta,Bee,,,Pollinator,abundance,,2014,37,ungrazed,ungrazed,,,AUM,2.4,,mean,133.8
+3027,Invertebrate,Insecta,Bee,,,Pollinator,abundance,,2014,37,ungrazed,ungrazed,,,AUM,2.4,,se,10.08
+3027,Invertebrate,Insecta,Bee,,,Pollinator,abundance,,2014,37,grazed,grazed,,,AUM,2.4,,mean,63
+3027,Invertebrate,Insecta,Bee,,,Pollinator,abundance,,2014,37,grazed,grazed,,,AUM,2.4,,se,3.74
+3027,Invertebrate,Insecta,Bee,,,Pollinator,richness,,2014,37,ungrazed,ungrazed,,,AUM,2.4,,mean,15.6
+3027,Invertebrate,Insecta,Bee,,,Pollinator,richness,,2014,37,ungrazed,ungrazed,,,AUM,2.4,,se,0.66
+3027,Invertebrate,Insecta,Bee,,,Pollinator,richness,,2014,37,grazed,grazed,,,AUM,2.4,,mean,12.8
+3027,Invertebrate,Insecta,Bee,,,Pollinator,richness,,2014,37,grazed,grazed,,,AUM,2.4,,se,0.77
+3027,Plants,Plants,plant,,,Producer,abundance,,2014,5,ungrazed,ungrazed,,,AUM,2.4,,mean,7.8
+3027,Plants,Plants,plant,,,Producer,abundance,,2014,5,ungrazed,ungrazed,,,AUM,2.4,,se,0.31
+3027,Plants,Plants,plant,,,Producer,abundance,,2014,5,grazed,grazed,,,AUM,2.4,,mean,5.6
+3027,Plants,Plants,plant,,,Producer,abundance,,2014,5,grazed,grazed,,,AUM,2.4,,se,0.49
+3027,Plants,Plants,plant,,,Producer,richness,,2014,5,ungrazed,ungrazed,,,AUM,2.4,,mean,19.6
+3027,Plants,Plants,plant,,,Producer,richness,,2014,5,ungrazed,ungrazed,,,AUM,2.4,,se,2.28
+3027,Plants,Plants,plant,,,Producer,richness,,2014,5,grazed,grazed,,,AUM,2.4,,mean,14
+3027,Plants,Plants,plant,,,Producer,richness,,2014,5,grazed,grazed,,,AUM,2.4,,se,1.48
+3029,Invertebrate,Arthropoda,Coleoptera,Heteronyx,sp.,Herbivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.42
+3029,Invertebrate,Arthropoda,Coleoptera,Heteronyx,sp.,Herbivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0
+3029,Invertebrate,Arthropoda,Coleoptera,Heteronyx,sp.,Herbivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.1
+3029,Invertebrate,Arthropoda,Coleoptera,Heteronyx,sp.,Herbivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0
+3029,Invertebrate,Arthropoda,Coleoptera,Neocarenum,elongatum,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.32
+3029,Invertebrate,Arthropoda,Coleoptera,Neocarenum,elongatum,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0.95
+3029,Invertebrate,Arthropoda,Coleoptera,Neocarenum,elongatum,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.27
+3029,Invertebrate,Arthropoda,Coleoptera,Neocarenum,elongatum,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.66
+3029,Invertebrate,Arthropoda,Coleoptera,Arthropterus,sp.,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.6
+3029,Invertebrate,Arthropoda,Coleoptera,Arthropterus,sp.,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0.07
+3029,Invertebrate,Arthropoda,Coleoptera,Arthropterus,sp.,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.16
+3029,Invertebrate,Arthropoda,Coleoptera,Arthropterus,sp.,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.08
+3029,Invertebrate,Arthropoda,Coleoptera,Gigaderma,nocte,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.71
+3029,Invertebrate,Arthropoda,Coleoptera,Gigaderma,nocte,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,1.18
+3029,Invertebrate,Arthropoda,Coleoptera,Gigaderma,nocte,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.34
+3029,Invertebrate,Arthropoda,Coleoptera,Gigaderma,nocte,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.5
+3029,Invertebrate,Arthropoda,Coleoptera,Heteronyx,constans,Herbivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,1.047
+3029,Invertebrate,Arthropoda,Coleoptera,Heteronyx,constans,Herbivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,1.48
+3029,Invertebrate,Arthropoda,Coleoptera,Heteronyx,constans,Herbivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.67
+3029,Invertebrate,Arthropoda,Coleoptera,Heteronyx,constans,Herbivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.38
+3029,Invertebrate,Arthropoda,Coleoptera,Isopteron,carbo,Detrivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,1
+3029,Invertebrate,Arthropoda,Coleoptera,Isopteron,carbo,Detrivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,1.5
+3029,Invertebrate,Arthropoda,Coleoptera,Isopteron,carbo,Detrivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.38
+3029,Invertebrate,Arthropoda,Coleoptera,Isopteron,carbo,Detrivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.24
+3029,Invertebrate,Arthropoda,Coleoptera,Microferonia,sp.,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.26
+3029,Invertebrate,Arthropoda,Coleoptera,Microferonia,sp.,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0
+3029,Invertebrate,Arthropoda,Coleoptera,Microferonia,sp.,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.1
+3029,Invertebrate,Arthropoda,Coleoptera,Microferonia,sp.,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0
+3029,Invertebrate,Arthropoda,Coleoptera,Cenogmus,sp.,Omnivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.46
+3029,Invertebrate,Arthropoda,Coleoptera,Cenogmus,sp.,Omnivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0.16
+3029,Invertebrate,Arthropoda,Coleoptera,Cenogmus,sp.,Omnivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.17
+3029,Invertebrate,Arthropoda,Coleoptera,Cenogmus,sp.,Omnivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.15
+3029,Invertebrate,Arthropoda,Coleoptera,Gigaderma,sulcatum,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.11
+3029,Invertebrate,Arthropoda,Coleoptera,Gigaderma,sulcatum,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0
+3029,Invertebrate,Arthropoda,Coleoptera,Gigaderma,sulcatum,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.21
+3029,Invertebrate,Arthropoda,Coleoptera,Gigaderma,sulcatum,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0
+3029,Invertebrate,Arthropoda,Coleoptera,Isopteron,punctatissimus,Detrivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0
+3029,Invertebrate,Arthropoda,Coleoptera,Isopteron,punctatissimus,Detrivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0.32
+3029,Invertebrate,Arthropoda,Coleoptera,Isopteron,punctatissimus,Detrivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0
+3029,Invertebrate,Arthropoda,Coleoptera,Isopteron,punctatissimus,Detrivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.22
+3029,Invertebrate,Arthropoda,Coleoptera,Omorgus,semicostatus,Detrivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.32
+3029,Invertebrate,Arthropoda,Coleoptera,Omorgus,semicostatus,Detrivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0
+3029,Invertebrate,Arthropoda,Coleoptera,Omorgus,semicostatus,Detrivorous,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.56
+3029,Invertebrate,Arthropoda,Coleoptera,Omorgus,semicostatus,Detrivorous,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0
+3029,Invertebrate,Arthropoda,Coleoptera,Rhytisternus,cyathoderus,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.23
+3029,Invertebrate,Arthropoda,Coleoptera,Rhytisternus,cyathoderus,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,1.35
+3029,Invertebrate,Arthropoda,Coleoptera,Rhytisternus,cyathoderus,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.15
+3029,Invertebrate,Arthropoda,Coleoptera,Rhytisternus,cyathoderus,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.47
+3029,Invertebrate,Arthropoda,Coleoptera,Cratogaster,melas,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,1
+3029,Invertebrate,Arthropoda,Coleoptera,Cratogaster,melas,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0
+3029,Invertebrate,Arthropoda,Coleoptera,Cratogaster,melas,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.84
+3029,Invertebrate,Arthropoda,Coleoptera,Cratogaster,melas,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0
+3029,Invertebrate,Arthropoda,Coleoptera,Scopodes,sp.,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,mean,0.71
+3029,Invertebrate,Arthropoda,Coleoptera,Scopodes,sp.,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,mean,0.36
+3029,Invertebrate,Arthropoda,Coleoptera,Scopodes,sp.,Predator,abundance,strip,2000,16,ungrazed,ungrazed,,,,,,se,0.16
+3029,Invertebrate,Arthropoda,Coleoptera,Scopodes,sp.,Predator,abundance,grazed strip,2000,16,grazed,grazed,,,,,,se,0.21
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Nov,2013,30,grazed,grazed,0,0,sheep per ha,2.7,,mean,0.928
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Jan,2013,30,grazed,grazed,0,0,sheep per ha,2.7,,mean,5.13
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Feb,2013,30,grazed,grazed,0,0,sheep per ha,2.7,,mean,1.822
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Nov,2013,30,ungrazed,ungrazed,1,1,,,,mean,1.505
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Jan,2013,30,ungrazed,ungrazed,1,1,,,,mean,5.613
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Feb,2013,30,ungrazed,ungrazed,1,1,,,,mean,3.092
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Nov,2013,30,grazed,grazed,0,0,sheep per ha,2.7,,se,0.195
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Jan,2013,30,grazed,grazed,0,0,sheep per ha,2.7,,se,0.875
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Feb,2013,30,grazed,grazed,0,0,sheep per ha,2.7,,se,0.287
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Nov,2013,30,ungrazed,ungrazed,1,1,,,,se,0.444
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Jan,2013,30,ungrazed,ungrazed,1,1,,,,se,0.598
+3120,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,Feb,2013,30,ungrazed,ungrazed,1,1,,,,se,0.487
+3158,Vertebrate,Amphibian,,,,Predator,abundance,remnant forest,2009-2013,8,ungrazed,ungrazed,,,,,,mean,2.57
+3158,Vertebrate,Reptilia,,,,Predator,abundance,remnant forest,2009-2013,8,ungrazed,ungrazed,,,,,,mean,2.89
+3158,Vertebrate,Aves,,,,Omnivorous,abundance,remnant forest,2009-2013,8,ungrazed,ungrazed,,,,,,mean,21.7
+3158,Vertebrate,Mammalia,,,,Omnivorous,abundance,remnant forest,2009-2013,8,ungrazed,ungrazed,,,,,,mean,3.55
+3158,Vertebrate,Amphibian,,,,Predator,abundance,pasture,2009-2013,8,grazed,grazed,,,,,,mean,1.4
+3158,Vertebrate,Reptilia,,,,Predator,abundance,pasture,2009-2013,8,grazed,grazed,,,,,,mean,1.21
+3158,Vertebrate,Aves,,,,Omnivorous,abundance,pasture,2009-2013,8,grazed,grazed,,,,,,mean,12.27
+3158,Vertebrate,Mammalia,,,,Omnivorous,abundance,pasture,2009-2013,8,grazed,grazed,,,,,,mean,2.61
+3158,Vertebrate,Amphibian,,,,Predator,abundance,remnant forest,2009-2013,8,ungrazed,ungrazed,,,,,,se,0.93
+3158,Vertebrate,Reptilia,,,,Predator,abundance,remnant forest,2009-2013,8,ungrazed,ungrazed,,,,,,se,1.45
+3158,Vertebrate,Aves,,,,Omnivorous,abundance,remnant forest,2009-2013,8,ungrazed,ungrazed,,,,,,se,3.36
+3158,Vertebrate,Mammalia,,,,Omnivorous,abundance,remnant forest,2009-2013,8,ungrazed,ungrazed,,,,,,se,0.93
+3158,Vertebrate,Amphibian,,,,Predator,abundance,pasture,2009-2013,8,grazed,grazed,,,,,,se,1.03
+3158,Vertebrate,Reptilia,,,,Predator,abundance,pasture,2009-2013,8,grazed,grazed,,,,,,se,0.56
+3158,Vertebrate,Aves,,,,Omnivorous,abundance,pasture,2009-2013,8,grazed,grazed,,,,,,se,3.74
+3158,Vertebrate,Mammalia,,,,Omnivorous,abundance,pasture,2009-2013,8,grazed,grazed,,,,,,se,1.08
+3158,Vertebrate,Plants,,,,producer,abundance,remnant forest,2009-2013,6,ungrazed,ungrazed,,,,,,mean,4.1
+3158,Vertebrate,Plants,,,,producer,abundance,remnant forest,2009-2013,6,ungrazed,ungrazed,,,,,,se,0.93
+3158,Vertebrate,Plants,,,,producer,abundance,pasture,2009-2013,6,ungrazed,ungrazed,,,,,,mean,4.2
+3158,Vertebrate,Plants,,,,producer,abundance,pasture,2009-2013,6,ungrazed,ungrazed,,,,,,se,1.29
+3158,Vertebrate,Plants,,,,producer,litter,remnant forest,2009-2013,6,grazed,grazed,,,,,,mean,5
+3158,Vertebrate,Plants,,,,producer,litter,remnant forest,2009-2013,6,grazed,grazed,,,,,,se,1.11
+3158,Vertebrate,Plants,,,,producer,litter,pasture,2009-2013,6,grazed,grazed,,,,,,mean,1.2
+3158,Vertebrate,Plants,,,,producer,litter,pasture,2009-2013,6,grazed,grazed,,,,,,se,0.49
+3127,Vertebrate,Mammalia,,Madoquoa,guentheri,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.369
+3127,Vertebrate,Mammalia,,Raphicerus,campestris,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.032
+3127,Vertebrate,Mammalia,,Litocranius,walleri,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.368
+3127,Vertebrate,Mammalia,,Giraffa,camelopardis,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.693
+3127,Vertebrate,Mammalia,,Canis,mesomelas,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.026
+3127,Vertebrate,Mammalia,,Felis,spp.,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.029
+3127,Vertebrate,Mammalia,,Small carnivores (n=5),,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.022
+3127,Vertebrate,Mammalia,,Ichneumia,albicauda,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.04
+3127,Vertebrate,Mammalia,,Panthera,pardus,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.251
+3127,Vertebrate,Mammalia,,Panthera,leo,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.286
+3127,Vertebrate,Mammalia,,Proteles,cristata,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.409
+3127,Vertebrate,Mammalia,,Crocuta,crocuta,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.559
+3127,Vertebrate,Mammalia,,Hyaena,hyaena,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.376
+3127,Vertebrate,Mammalia,,Lepus,saxatilis,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.139
+3127,Vertebrate,Mammalia,,Phacochoerus,africanus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.322
+3127,Vertebrate,Mammalia,,Gazella,rufifrons,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.057
+3127,Vertebrate,Mammalia,,Gazella,granti,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.327
+3127,Vertebrate,Mammalia,,Alcelaphus,buselaphus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.111
+3127,Vertebrate,Mammalia,,Oryx,beisa,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.362
+3127,Vertebrate,Mammalia,,Kobus,ellipsiprymnus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.126
+3127,Vertebrate,Mammalia,,Equus,quagga,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.789
+3127,Vertebrate,Mammalia,,Equus,grevyi,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.296
+3127,Vertebrate,Mammalia,,Syncerus,caffer,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.318
+3127,Vertebrate,Mammalia,,Sylvicapra,grimmia,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.057
+3127,Vertebrate,Mammalia,,Aepyceros,melampus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.426
+3127,Vertebrate,Mammalia,,Tragelaphus,scriptus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0
+3127,Vertebrate,Mammalia,,Loxondonta,africana,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.345
+3127,Vertebrate,Mammalia,,Taurotragus,oryx,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.377
+3127,Vertebrate,Mammalia,,Papio,anubis,Omnivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.323
+3127,Vertebrate,Mammalia,,Orycteropus,afer,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.082
+3127,Vertebrate,Mammalia,,Hystrix,cristata,Omnivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,mean,0.049
+3127,Vertebrate,Mammalia,,Madoquoa,guentheri,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.342
+3127,Vertebrate,Mammalia,,Raphicerus,campestris,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.014
+3127,Vertebrate,Mammalia,,Litocranius,walleri,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.153
+3127,Vertebrate,Mammalia,,Giraffa,camelopardis,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Canis,mesomelas,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Felis,spp.,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Small carnivores (n=5),,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.025
+3127,Vertebrate,Mammalia,,Ichneumia,albicauda,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.051
+3127,Vertebrate,Mammalia,,Panthera,pardus,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Panthera,leo,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Proteles,cristata,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.018
+3127,Vertebrate,Mammalia,,Crocuta,crocuta,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.05
+3127,Vertebrate,Mammalia,,Hyaena,hyaena,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.062
+3127,Vertebrate,Mammalia,,Lepus,saxatilis,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.19
+3127,Vertebrate,Mammalia,,Phacochoerus,africanus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.101
+3127,Vertebrate,Mammalia,,Gazella,rufifrons,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.04
+3127,Vertebrate,Mammalia,,Gazella,granti,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.012
+3127,Vertebrate,Mammalia,,Alcelaphus,buselaphus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Oryx,beisa,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Kobus,ellipsiprymnus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Equus,quagga,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Equus,grevyi,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Syncerus,caffer,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.025
+3127,Vertebrate,Mammalia,,Sylvicapra,grimmia,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.094
+3127,Vertebrate,Mammalia,,Aepyceros,melampus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.092
+3127,Vertebrate,Mammalia,,Tragelaphus,scriptus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Loxondonta,africana,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.123
+3127,Vertebrate,Mammalia,,Taurotragus,oryx,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0
+3127,Vertebrate,Mammalia,,Papio,anubis,Omnivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.015
+3127,Vertebrate,Mammalia,,Orycteropus,afer,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.254
+3127,Vertebrate,Mammalia,,Hystrix,cristata,Omnivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,mean,0.053
+3127,Vertebrate,Mammalia,,Madoquoa,guentheri,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.015637726
+3127,Vertebrate,Mammalia,,Raphicerus,campestris,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.00894779
+3127,Vertebrate,Mammalia,,Litocranius,walleri,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.010536649
+3127,Vertebrate,Mammalia,,Giraffa,camelopardis,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.005602821
+3127,Vertebrate,Mammalia,,Canis,mesomelas,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.002174229
+3127,Vertebrate,Mammalia,,Felis,spp.,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.003094095
+3127,Vertebrate,Mammalia,,Small carnivores (n=5),,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.001087115
+3127,Vertebrate,Mammalia,,Ichneumia,albicauda,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.001337987
+3127,Vertebrate,Mammalia,,Panthera,pardus,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.00677356
+3127,Vertebrate,Mammalia,,Panthera,leo,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.009115038
+3127,Vertebrate,Mammalia,,Proteles,cristata,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.014801484
+3127,Vertebrate,Mammalia,,Crocuta,crocuta,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004264834
+3127,Vertebrate,Mammalia,,Hyaena,hyaena,Predator,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.007860675
+3127,Vertebrate,Mammalia,,Lepus,saxatilis,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.003344968
+3127,Vertebrate,Mammalia,,Phacochoerus,africanus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004348458
+3127,Vertebrate,Mammalia,,Gazella,rufifrons,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.002090605
+3127,Vertebrate,Mammalia,,Gazella,granti,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004515707
+3127,Vertebrate,Mammalia,,Alcelaphus,buselaphus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.00418121
+3127,Vertebrate,Mammalia,,Oryx,beisa,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.006020942
+3127,Vertebrate,Mammalia,,Kobus,ellipsiprymnus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.00317772
+3127,Vertebrate,Mammalia,,Equus,quagga,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.005101076
+3127,Vertebrate,Mammalia,,Equus,grevyi,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.013045375
+3127,Vertebrate,Mammalia,,Syncerus,caffer,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.003763089
+3127,Vertebrate,Mammalia,,Sylvicapra,grimmia,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.001923357
+3127,Vertebrate,Mammalia,,Aepyceros,melampus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004766579
+3127,Vertebrate,Mammalia,,Tragelaphus,scriptus,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0
+3127,Vertebrate,Mammalia,,Loxondonta,africana,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.002006981
+3127,Vertebrate,Mammalia,,Taurotragus,oryx,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.006020942
+3127,Vertebrate,Mammalia,,Papio,anubis,Omnivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.004933828
+3127,Vertebrate,Mammalia,,Orycteropus,afer,Herbivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.002759599
+3127,Vertebrate,Mammalia,,Hystrix,cristata,Omnivorous,abundance,Sanctuary,2008-2010,143,ungrazed,ungrazed,,,,,,se,0.001839732
+3127,Vertebrate,Mammalia,,Madoquoa,guentheri,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.018994222
+3127,Vertebrate,Mammalia,,Raphicerus,campestris,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.00143561
+3127,Vertebrate,Mammalia,,Litocranius,walleri,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.011264016
+3127,Vertebrate,Mammalia,,Giraffa,camelopardis,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Canis,mesomelas,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Felis,spp.,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Small carnivores (n=5),,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.001325178
+3127,Vertebrate,Mammalia,,Ichneumia,albicauda,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.004196398
+3127,Vertebrate,Mammalia,,Panthera,pardus,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Panthera,leo,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Proteles,cristata,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.002098199
+3127,Vertebrate,Mammalia,,Crocuta,crocuta,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.003533809
+3127,Vertebrate,Mammalia,,Hyaena,hyaena,Predator,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.003865103
+3127,Vertebrate,Mammalia,,Lepus,saxatilis,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.005742439
+3127,Vertebrate,Mammalia,,Phacochoerus,africanus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.005300713
+3127,Vertebrate,Mammalia,,Gazella,rufifrons,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.004748556
+3127,Vertebrate,Mammalia,,Gazella,granti,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.001325178
+3127,Vertebrate,Mammalia,,Alcelaphus,buselaphus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Oryx,beisa,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Kobus,ellipsiprymnus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Equus,quagga,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Equus,grevyi,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Syncerus,caffer,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.002760788
+3127,Vertebrate,Mammalia,,Sylvicapra,grimmia,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.004085966
+3127,Vertebrate,Mammalia,,Aepyceros,melampus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.004748556
+3127,Vertebrate,Mammalia,,Tragelaphus,scriptus,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Loxondonta,africana,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.000993884
+3127,Vertebrate,Mammalia,,Taurotragus,oryx,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0
+3127,Vertebrate,Mammalia,,Papio,anubis,Omnivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.001546041
+3127,Vertebrate,Mammalia,,Orycteropus,afer,Herbivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.010270132
+3127,Vertebrate,Mammalia,,Hystrix,cristata,Omnivorous,abundance,group ranch,2008-2010,82,grazed,grazed,,,total livestock units,25,,se,0.002429494
+3184,Invertebrate,,,,,Detritivores,abundance,,1998,8,ungrazed,ungrazed,4,,,,,mean,3195.8
+3184,Invertebrate,,,,,Detritivores,abundance,,1998,8,grazed,grazed,0,,,,,mean,1354.5
+3184,Invertebrate,,,,,Detritivores,abundance,,1998,8,ungrazed,ungrazed,4,,,,,se,423.2
+3184,Invertebrate,,,,,Detritivores,abundance,,1998,8,grazed,grazed,0,,,,,se,148.1
+3184,Invertebrate,,,,,Herbivorous,abundance,,1998,8,ungrazed,ungrazed,4,,,,,mean,270.5
+3184,Invertebrate,,,,,Herbivorous,abundance,,1998,8,grazed,grazed,0,,,,,mean,208.1
+3184,Invertebrate,,,,,Herbivorous,abundance,,1998,8,ungrazed,ungrazed,4,,,,,se,45.4
+3184,Invertebrate,,,,,Herbivorous,abundance,,1998,8,grazed,grazed,0,,,,,se,28.4
+3184,Invertebrate,,,,,Predator,abundance,,1998,8,ungrazed,ungrazed,4,,,,,mean,67.09
+3184,Invertebrate,,,,,Predator,abundance,,1998,8,grazed,grazed,0,,,,,mean,114.4
+3184,Invertebrate,,,,,Predator,abundance,,1998,8,ungrazed,ungrazed,4,,,,,se,6.81
+3184,Invertebrate,,,,,Predator,abundance,,1998,8,grazed,grazed,0,,,,,se,18.9
+3191,Vertebrate,Mammalia,Rodenta,,,Herbivorous,diversity,,2012-2013,64,grazed,grazed,,,,,,mean,1.78
+3191,Vertebrate,Mammalia,Rodenta,,,Herbivorous,diversity,,2012-2013,64,ungrazed,ungrazed,,,,,,mean,2.68
+3191,Vertebrate,Mammalia,Rodenta,,,Herbivorous,diversity,,2012-2013,64,grazed,grazed,,,,,,se,1.95
+3191,Vertebrate,Mammalia,Rodenta,,,Herbivorous,diversity,,2012-2013,64,ungrazed,ungrazed,,,,,,se,2.92
+3202,Vertebrate,,,Cyanistes,caeruleus,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,mean,0.256
+3202,Vertebrate,,,Cyanistes,caeruleus,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,mean,0.041
+3202,Vertebrate,,,Fringilla,coelebs,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,mean,0.943
+3202,Vertebrate,,,Fringilla,coelebs,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,mean,1.752
+3202,Vertebrate,,,Phylloscopus,collybita,Predator,abundance,,2012,16,ungrazed,ungrazed,,,,,,mean,0.686
+3202,Vertebrate,,,Phylloscopus,collybita,Predator,abundance,,2012,16,grazed,grazed,,,,,,mean,0.83
+3202,Vertebrate,,,Carduelis,carduelis,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,mean,0.184
+3202,Vertebrate,,,Carduelis,carduelis,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,mean,0.143
+3202,Vertebrate,,,Anthus,pratensis,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,mean,1.127
+3202,Vertebrate,,,Anthus,pratensis,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,mean,0.748
+3202,Vertebrate,,,Erithacus,rubecula,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,mean,1.434
+3202,Vertebrate,,,Erithacus,rubecula,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,mean,3.484
+3202,Vertebrate,,,Parus,major,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,mean,0.369
+3202,Vertebrate,,,Parus,major,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,mean,0.01
+3202,Vertebrate,,,Motacilla,alba,Predator,abundance,,2012,16,ungrazed,ungrazed,,,,,,mean,0
+3202,Vertebrate,,,Motacilla,alba,Predator,abundance,,2012,16,grazed,grazed,,,,,,mean,0.502
+3202,Vertebrate,,,Cyanistes,caeruleus,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,se,0.082
+3202,Vertebrate,,,Cyanistes,caeruleus,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,se,0.061
+3202,Vertebrate,,,Fringilla,coelebs,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,se,0.102
+3202,Vertebrate,,,Fringilla,coelebs,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,se,0.307
+3202,Vertebrate,,,Phylloscopus,collybita,Predator,abundance,,2012,16,ungrazed,ungrazed,,,,,,se,0.174
+3202,Vertebrate,,,Phylloscopus,collybita,Predator,abundance,,2012,16,grazed,grazed,,,,,,se,0.184
+3202,Vertebrate,,,Carduelis,carduelis,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,se,0.082
+3202,Vertebrate,,,Carduelis,carduelis,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,se,0.092
+3202,Vertebrate,,,Anthus,pratensis,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,se,0.625
+3202,Vertebrate,,,Anthus,pratensis,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,se,0.584
+3202,Vertebrate,,,Erithacus,rubecula,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,se,0.256
+3202,Vertebrate,,,Erithacus,rubecula,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,se,0.635
+3202,Vertebrate,,,Parus,major,Omnivorous,abundance,,2012,16,ungrazed,ungrazed,,,,,,se,0.041
+3202,Vertebrate,,,Parus,major,Omnivorous,abundance,,2012,16,grazed,grazed,,,,,,se,0.031
+3202,Vertebrate,,,Motacilla,alba,Predator,abundance,,2012,16,ungrazed,ungrazed,,,,,,se,0
+3202,Vertebrate,,,Motacilla,alba,Predator,abundance,,2012,16,grazed,grazed,,,,,,se,0.174
+3202,Plants,,,,,producer,abundance,,2012,12,ungrazed,ungrazed,,,,,,mean,8.38
+3202,Plants,,,,,producer,abundance,,2012,12,grazed,grazed,,,,,,mean,1.46
+3202,Plants,,,,,producer,abundance,,2012,12,ungrazed,ungrazed,,,,,,se,0.8
+3202,Plants,,,,,producer,abundance,,2012,12,grazed,grazed,,,,,,se,0.46
+3202,Plants,,,,,producer,litter,,2012,12,ungrazed,ungrazed,,,,,,mean,4.69
+3202,Plants,,,,,producer,litter,,2012,12,grazed,grazed,,,,,,mean,21.2
+3202,Plants,,,,,producer,litter,,2012,12,ungrazed,ungrazed,,,,,,se,1.17
+3202,Plants,,,,,producer,litter,,2012,12,grazed,grazed,,,,,,se,18.7
+3202,Invertebrate,,,,,Omnivorous,abundance,,2012,5,ungrazed,ungrazed,,,,,,mean,1073.9
+3202,Invertebrate,,,,,Omnivorous,abundance,,2012,5,grazed,grazed,,,,,,mean,706.8
+3202,Invertebrate,,,,,Omnivorous,abundance,,2012,5,ungrazed,ungrazed,,,,,,se,123.4
+3202,Invertebrate,,,,,Omnivorous,abundance,,2012,5,grazed,grazed,,,,,,se,43.9
+3208,Invertebrate,Nematode,,,,Detritivores,abundance,,2010,50,ungrazed,ungrazed,10,10,,,,mean,5.35025
+3208,Invertebrate,Nematode,,,,Detritivores,abundance,,2010,50,ungrazed,ungrazed,10,10,,,,se,0.58142
+3208,Invertebrate,Nematode,,,,Detritivores,richness,,2010,50,ungrazed,ungrazed,10,10,,,,mean,17.05988
+3208,Invertebrate,Nematode,,,,Detritivores,richness,,2010,50,ungrazed,ungrazed,10,10,,,,se,1.04176
+3208,Invertebrate,Nematode,,,,Detritivores,abundance,,2010,50,grazed,grazed,0,0,,,,mean,4.08056
+3208,Invertebrate,Nematode,,,,Detritivores,abundance,,2010,50,grazed,grazed,0,0,,,,se,0.67251
+3208,Invertebrate,Nematode,,,,Detritivores,richness,,2010,50,grazed,grazed,0,0,,,,mean,15.39748
+3208,Invertebrate,Nematode,,,,Detritivores,richness,,2010,50,grazed,grazed,0,0,,,,se,1.09618
+3208,Plants,,,,,Producer,abundance,,2010,50,ungrazed,ungrazed,10,10,,,,mean,134.7935
+3208,Plants,,,,,Producer,abundance,,2010,50,ungrazed,ungrazed,10,10,,,,se,13.8991
+3208,Plants,,,,,Producer,richness,,2010,50,ungrazed,ungrazed,10,10,,,,mean,11.6386
+3208,Plants,,,,,Producer,richness,,2010,50,ungrazed,ungrazed,10,10,,,,se,0.8786
+3208,Plants,,,,,Producer,abundance,,2010,50,grazed,grazed,0,0,,,,mean,79.1284
+3208,Plants,,,,,Producer,abundance,,2010,50,grazed,grazed,0,0,,,,se,11.5597
+3208,Plants,,,,,Producer,richness,,2010,50,grazed,grazed,0,0,,,,mean,10.6416
+3208,Plants,,,,,Producer,richness,,2010,50,grazed,grazed,0,0,,,,se,1.1339
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Baccharis,2013,10,grazed,grazed,,,,,,mean,10.49
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Lupinus,2013,10,grazed,grazed,,,,,,mean,7.51
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Open,2013,10,grazed,grazed,,,,,,mean,11.93
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Baccharis,2013,10,ungrazed,ungrazed,,,,,,mean,7.96
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Lupinus,2013,10,ungrazed,ungrazed,,,,,,mean,19.17
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Open,2013,10,ungrazed,ungrazed,,,,,,mean,9.09
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Baccharis,2013,10,grazed,grazed,,,,,,se,1.37
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Lupinus,2013,10,grazed,grazed,,,,,,se,1.54
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Open,2013,10,grazed,grazed,,,,,,se,1.13
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Baccharis,2013,10,ungrazed,ungrazed,,,,,,se,1.68
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Lupinus,2013,10,ungrazed,ungrazed,,,,,,se,2.3
+3239,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,Open,2013,10,ungrazed,ungrazed,,,,,,se,0.96
+3239,Plants,Plants,,,,producer,abundance,Baccharis,2013,10,grazed,grazed,,,,,,mean,160.06
+3239,Plants,Plants,,,,producer,abundance,Lupinus,2013,10,grazed,grazed,,,,,,mean,126.31
+3239,Plants,Plants,,,,producer,abundance,Open,2013,10,grazed,grazed,,,,,,mean,114.74
+3239,Plants,Plants,,,,producer,abundance,Baccharis,2013,10,ungrazed,ungrazed,,,,,,mean,242.98
+3239,Plants,Plants,,,,producer,abundance,Lupinus,2013,10,ungrazed,ungrazed,,,,,,mean,188.02
+3239,Plants,Plants,,,,producer,abundance,Open,2013,10,ungrazed,ungrazed,,,,,,mean,195.73
+3239,Plants,Plants,,,,producer,abundance,Baccharis,2013,10,grazed,grazed,,,,,,se,31.82
+3239,Plants,Plants,,,,producer,abundance,Lupinus,2013,10,grazed,grazed,,,,,,se,30.85
+3239,Plants,Plants,,,,producer,abundance,Open,2013,10,grazed,grazed,,,,,,se,26.03
+3239,Plants,Plants,,,,producer,abundance,Baccharis,2013,10,ungrazed,ungrazed,,,,,,se,58.82
+3239,Plants,Plants,,,,producer,abundance,Lupinus,2013,10,ungrazed,ungrazed,,,,,,se,33.75
+3239,Plants,Plants,,,,producer,abundance,Open,2013,10,ungrazed,ungrazed,,,,,,se,24.1
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,richness,FN,1993-1995,16,ungrazed,ungrazed,,,,,,mean,9.72
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,richness,FC,1993-1995,16,ungrazed,ungrazed,,,,,,mean,8.56
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,richness,UN,1993-1995,16,grazed,grazed,,,,,,mean,8.75
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,richness,UC,1993-1995,16,grazed,grazed,,,,,,mean,8.12
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,richness,FN,1993-1995,16,ungrazed,ungrazed,,,,,,se,1.11
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,richness,FC,1993-1995,16,ungrazed,ungrazed,,,,,,se,1.64
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,richness,UN,1993-1995,16,grazed,grazed,,,,,,se,1.26
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,richness,UC,1993-1995,16,grazed,grazed,,,,,,se,1.11
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,abundance,FN,1993-1995,16,ungrazed,ungrazed,,,,,,mean,82.11
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,abundance,FC,1993-1995,16,ungrazed,ungrazed,,,,,,mean,69.06
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,abundance,UN,1993-1995,16,grazed,grazed,,,,,,mean,69.61
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,abundance,UC,1993-1995,16,grazed,grazed,,,,,,mean,38.07
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,abundance,FN,1993-1995,16,ungrazed,ungrazed,,,,,,se,23.93
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,abundance,FC,1993-1995,16,ungrazed,ungrazed,,,,,,se,22.3
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,abundance,UN,1993-1995,16,grazed,grazed,,,,,,se,16.86
+3240,Invertebrate,Arthropoda,Hemiptera,,,Omnivorous,abundance,UC,1993-1995,16,grazed,grazed,,,,,,se,6.53
+3363,Invertebrate,Arthropoda,Coleoptera,,,Herbivorous,abundance,Paddock,2007,5,grazed,grazed,0,0,,,,mean,15.823
+3363,Invertebrate,Arthropoda,Coleoptera,,,Herbivorous,abundance,Remnant,2007,5,ungrazed,ungrazed,10,10,,,,mean,7.595
+3363,Invertebrate,Arthropoda,Coleoptera,,,Herbivorous,abundance,Paddock,2007,5,grazed,grazed,0,0,,,,se,6.962
+3363,Invertebrate,Arthropoda,Coleoptera,,,Herbivorous,abundance,Remnant,2007,5,ungrazed,ungrazed,10,10,,,,se,2.532
+3363,Invertebrate,Arthropoda,Coleoptera,,,Detrivorous,abundance,Paddock,2007,5,grazed,grazed,0,0,,,,mean,151.563
+3363,Invertebrate,Arthropoda,Coleoptera,,,Detrivorous,abundance,Remnant,2007,5,ungrazed,ungrazed,10,10,,,,mean,18.75
+3363,Invertebrate,Arthropoda,Coleoptera,,,Detrivorous,abundance,Paddock,2007,5,grazed,grazed,0,0,,,,se,37.5
+3363,Invertebrate,Arthropoda,Coleoptera,,,Detrivorous,abundance,Remnant,2007,5,ungrazed,ungrazed,10,10,,,,se,6.25
+3363,Invertebrate,Arthropoda,Coleoptera,,,Detrivorous,richness,Paddock,2007,5,grazed,grazed,0,0,,,,mean,0.515
+3363,Invertebrate,Arthropoda,Coleoptera,,,Detrivorous,richness,Remnant,2007,5,ungrazed,ungrazed,10,10,,,,mean,0.681
+3363,Invertebrate,Arthropoda,Coleoptera,,,Detrivorous,richness,Paddock,2007,5,grazed,grazed,0,0,,,,se,0.035
+3363,Invertebrate,Arthropoda,Coleoptera,,,Detrivorous,richness,Remnant,2007,5,ungrazed,ungrazed,10,10,,,,se,0.046
+3341,Plants,Plants,,,,producer,abundance,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,mean,180.33
+3341,Plants,Plants,,,,producer,abundance,,2010-2013,6,grazed,grazed,,,cattle per site,8,,mean,187.88
+3341,Plants,Plants,,,,producer,abundance,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,se,6.51
+3341,Plants,Plants,,,,producer,abundance,,2010-2013,6,grazed,grazed,,,cattle per site,8,,se,3.25
+3341,Plants,Plants,,,,producer,litter,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,mean,132.83
+3341,Plants,Plants,,,,producer,litter,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,mean,122
+3341,Plants,Plants,,,,producer,litter,,2010-2013,6,grazed,grazed,,,cattle per site,8,,se,5.47
+3341,Plants,Plants,,,,producer,litter,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,se,6.76
+3341,Invertebrate,Arthropoda,Formicidae,,,Detrivorous,abundance,,2010-2013,6,grazed,grazed,,,cattle per site,8,,mean,1.26
+3341,Invertebrate,Arthropoda,Formicidae,,,Detrivorous,abundance,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,mean,1.42
+3341,Invertebrate,Arthropoda,Formicidae,,,Detrivorous,abundance,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,se,0.25
+3341,Invertebrate,Arthropoda,Formicidae,,,Detrivorous,abundance,,2010-2013,6,grazed,grazed,,,cattle per site,8,,se,0.3
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,10.Aug,2014,20,ungrazed,ungrazed,2,2,,,,mean,9.61
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,21.Aug,2014,20,ungrazed,ungrazed,2,2,,,,mean,11.49
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,30.Aug,2014,20,ungrazed,ungrazed,2,2,,,,mean,13.83
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,8.Sept,2014,20,ungrazed,ungrazed,2,2,,,,mean,5.87
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,10.Aug,2014,20,grazed,grazed,0,0,,,,mean,3.41
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,21.Aug,2014,20,grazed,grazed,0,0,,,,mean,6.16
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,30.Aug,2014,20,grazed,grazed,0,0,,,,mean,7.38
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,8.Sept,2014,20,grazed,grazed,0,0,,,,mean,2.89
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,10.Aug,2014,20,ungrazed,ungrazed,2,2,,,,se,0.72
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,21.Aug,2014,20,ungrazed,ungrazed,2,2,,,,se,1.36
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,30.Aug,2014,20,ungrazed,ungrazed,2,2,,,,se,1.71
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,8.Sept,2014,20,ungrazed,ungrazed,2,2,,,,se,1.45
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,10.Aug,2014,20,grazed,grazed,0,0,,,,se,0.32
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,21.Aug,2014,20,grazed,grazed,0,0,,,,se,0.75
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,30.Aug,2014,20,grazed,grazed,0,0,,,,se,1.27
+3490,Invertebrate,Arthropoda,Orthoptera,,,Herbivorous,abundance,8.Sept,2014,20,grazed,grazed,0,0,,,,se,0.93
+3490,Plants,,,,,Producer,abundance,,2014,10,ungrazed,ungrazed,2,2,,,,mean,237.2
+3490,Plants,,,,,Producer,abundance,,2014,10,grazed,grazed,0,0,,,,mean,204
+3490,Plants,,,,,Producer,abundance,,2014,10,ungrazed,ungrazed,2,2,,,,se,22.81
+3490,Plants,,,,,Producer,abundance,,2014,10,grazed,grazed,0,0,,,,se,28.68
+3491,Plants,,,,,Producer,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,mean,845.4283333
+3491,Plants,,,,,Producer,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,se,8.803936777
+3491,Plants,,,,,Producer,abundance,,2014,6,grazed,grazed,0,0,,,,mean,830.4816667
+3491,Plants,,,,,Producer,abundance,,2014,6,grazed,grazed,0,0,,,,se,17.95665233
+3491,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,mean,0.641666667
+3491,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,se,0.109099852
+3491,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,,2014,6,grazed,grazed,0,0,,,,mean,0.758333333
+3491,Invertebrate,Arthropoda,Araneae,,,Predator,abundance,,2014,6,grazed,grazed,0,0,,,,se,0.103615207
+3491,Invertebrate,Orthoptera,Orthoptera,Euchorthippus,,Herbivorous,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,mean,10.51666667
+3491,Invertebrate,Orthoptera,Orthoptera,Euchorthippus,,Herbivorous,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,se,0.594792214
+3491,Invertebrate,Orthoptera,Orthoptera,Euchorthippus,,Herbivorous,abundance,,2014,6,grazed,grazed,0,0,,,,mean,18.275
+3491,Invertebrate,Orthoptera,Orthoptera,Euchorthippus,,Herbivorous,abundance,,2014,6,grazed,grazed,0,0,,,,se,0.827219237
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,glades-red sand,2006-2008,25,ungrazed,ungrazed,,,,,,mean,99.2
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,glades-red sand,2006-2008,25,grazed,grazed,,,,,,mean,8.7
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,glades-red sand,2006-2008,25,ungrazed,ungrazed,,,,,,se,19.3
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,glades-red sand,2006-2008,25,grazed,grazed,,,,,,se,2.9
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,savanna-red sand,2006-2008,25,ungrazed,ungrazed,,,,,,mean,45.2
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,savanna-red sand,2006-2008,25,grazed,grazed,,,,,,mean,5.3
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,savanna-red sand,2006-2008,25,ungrazed,ungrazed,,,,,,se,7.3
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,savanna-red sand,2006-2008,25,grazed,grazed,,,,,,se,1.2
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,glades-black cotton,2006-2008,25,ungrazed,ungrazed,,,,,,mean,52
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,glades-black cotton,2006-2008,25,grazed,grazed,,,,,,mean,12.4
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,glades-black cotton,2006-2008,25,ungrazed,ungrazed,,,,,,se,8.3
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,glades-black cotton,2006-2008,25,grazed,grazed,,,,,,se,0.4
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,savanna-black cotton,2006-2008,25,ungrazed,ungrazed,,,,,,mean,3.1
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,savanna-black cotton,2006-2008,25,grazed,grazed,,,,,,mean,0.2
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,savanna-black cotton,2006-2008,25,ungrazed,ungrazed,,,,,,se,0.5
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,savanna-black cotton,2006-2008,25,grazed,grazed,,,,,,se,0.1
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,300,2015-2016,18,ungrazed,ungrazed,54,54,,,,mean,0.0769
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,100,2015-2016,18,ungrazed,ungrazed,54,54,,,,mean,0.102
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,0,2015-2016,18,ungrazed,ungrazed,54,54,,,,mean,0.0708
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,0,2015-2016,18,grazed,grazed,0,0,,,,mean,0.0663
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,100,2015-2016,18,grazed,grazed,0,0,,,,mean,0.042
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,300,2015-2016,18,grazed,grazed,0,0,,,,mean,0.0539
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,300,2015-2016,18,ungrazed,ungrazed,54,54,,,,se,0.0301
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,100,2015-2016,18,ungrazed,ungrazed,54,54,,,,se,0.0262
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,0,2015-2016,18,ungrazed,ungrazed,54,54,,,,se,0.0085
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,0,2015-2016,18,grazed,grazed,0,0,,,,se,0.0396
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,100,2015-2016,18,grazed,grazed,0,0,,,,se,0.0214
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivorous,abundance,300,2015-2016,18,grazed,grazed,0,0,,,,se,0.0338
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,grazed,grazed,,,,,,mean,11
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,grazed,grazed,,,,,,se,1.9
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,mean,5
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,se,0.63
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,grazed,grazed,,,,,,mean,17
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,grazed,grazed,,,,,,se,2.21
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,mean,20
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,se,1.9
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,grazed,grazed,,,,,,mean,13
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,grazed,grazed,,,,,,se,0.95
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,mean,58
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivorous,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,se,4.43
+3456,Vertebrate,Aves,,,,Omnivorous,diversity,wooded pasture,2017,9,grazed,grazed,,,,,,mean,19.1
+3456,Vertebrate,Aves,,,,Omnivorous,diversity,wooded pasture,2017,9,grazed,grazed,,,,,,se,1.4
+3456,Vertebrate,Aves,,,,Omnivorous,diversity,forest,2017,9,ungrazed,ungrazed,,,,,,mean,14.7
+3456,Vertebrate,Aves,,,,Omnivorous,diversity,forest,2017,9,ungrazed,ungrazed,,,,,,se,1.5
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,mean,37.9
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,se,4.3
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,mean,74.9
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,se,5.4
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,mean,16.7
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,se,1.2
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,mean,19.6
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,se,8
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,mean,16.7
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,se,1.2
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,mean,19.6
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,se,8
+3456,Plants,Plants,,,,Producer,litter,wooded pasture,2017,9,grazed,grazed,,,,,,mean,16.7
+3456,Plants,Plants,,,,Producer,litter,wooded pasture,2017,9,grazed,grazed,,,,,,se,4.8
+3456,Plants,Plants,,,,Producer,litter,forest,2017,9,ungrazed,ungrazed,,,,,,mean,63.9
+3456,Plants,Plants,,,,Producer,litter,forest,2017,9,ungrazed,ungrazed,,,,,,se,9.1
+3484,Invertebrate,Arthropoda,Arachnida,,,Predator,abundance,exclosure,2016,20,ungrazed,ungrazed,30,30,,,,mean,20.16
+3484,Invertebrate,Arthropoda,Arachnida,,,Predator,abundance,exclosure,2016,20,grazed,grazed,0,0,,,,mean,10.31
+3484,Invertebrate,Arthropoda,Arachnida,,,Predator,abundance,pasture,2016,20,ungrazed,ungrazed,30,30,,,,se,0.53
+3484,Invertebrate,Arthropoda,Arachnida,,,Predator,abundance,pasture,2016,20,grazed,grazed,0,0,,,,se,0.5
+3484,Plants,Plants,,,,Producer,abundance,exclosure,2016,20,ungrazed,ungrazed,30,30,,,,mean,49.6
+3484,Plants,Plants,,,,Producer,abundance,exclosure,2016,20,grazed,grazed,0,0,,,,mean,39
+3484,Plants,Plants,,,,Producer,abundance,pasture,2016,20,ungrazed,ungrazed,30,30,,,,se,8.2
+3484,Plants,Plants,,,,Producer,abundance,pasture,2016,20,grazed,grazed,0,0,,,,se,7.3

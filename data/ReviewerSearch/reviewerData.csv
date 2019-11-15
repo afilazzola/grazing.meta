@@ -459,3 +459,115 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 3363,Invertebrate,Coleoptera,,,,Detrivorous,richness,Remnant,2007,5,ungrazed,ungrazed,10,10,,,,mean,0.681
 3363,Invertebrate,Coleoptera,,,,Detrivorous,richness,Paddock,2007,5,grazed,grazed,0,0,,,,se,0.035
 3363,Invertebrate,Coleoptera,,,,Detrivorous,richness,Remnant,2007,5,ungrazed,ungrazed,10,10,,,,se,0.046
+3341,Plants,Plants,,,,producer,abundance,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,mean,180.33
+3341,Plants,Plants,,,,producer,abundance,,2010-2013,6,grazed,grazed,,,cattle per site,8,,mean,187.88
+3341,Plants,Plants,,,,producer,abundance,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,se,6.51
+3341,Plants,Plants,,,,producer,abundance,,2010-2013,6,grazed,grazed,,,cattle per site,8,,se,3.25
+3341,Plants,Plants,,,,producer,litter,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,mean,132.83
+3341,Plants,Plants,,,,producer,litter,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,mean,122
+3341,Plants,Plants,,,,producer,litter,,2010-2013,6,grazed,grazed,,,cattle per site,8,,se,5.47
+3341,Plants,Plants,,,,producer,litter,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,se,6.76
+3341,Invertebrate,Formicidae,,,,Detrivorous,abundance,,2010-2013,6,grazed,grazed,,,cattle per site,8,,mean,1.26
+3341,Invertebrate,Formicidae,,,,Detrivorous,abundance,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,mean,1.42
+3341,Invertebrate,Formicidae,,,,Detrivorous,abundance,,2010-2013,6,ungrazed,ungrazed,,,cattle per site,8,,se,0.25
+3341,Invertebrate,Formicidae,,,,Detrivorous,abundance,,2010-2013,6,grazed,grazed,,,cattle per site,8,,se,0.3
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,10.Aug,2014,20,ungrazed,ungrazed,2,2,,,,mean,9.61
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,21.Aug,2014,20,ungrazed,ungrazed,2,2,,,,mean,11.49
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,30.Aug,2014,20,ungrazed,ungrazed,2,2,,,,mean,13.83
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,8.Sept,2014,20,ungrazed,ungrazed,2,2,,,,mean,5.87
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,10.Aug,2014,20,grazed,grazed,0,0,,,,mean,3.41
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,21.Aug,2014,20,grazed,grazed,0,0,,,,mean,6.16
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,30.Aug,2014,20,grazed,grazed,0,0,,,,mean,7.38
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,8.Sept,2014,20,grazed,grazed,0,0,,,,mean,2.89
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,10.Aug,2014,20,ungrazed,ungrazed,2,2,,,,se,0.72
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,21.Aug,2014,20,ungrazed,ungrazed,2,2,,,,se,1.36
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,30.Aug,2014,20,ungrazed,ungrazed,2,2,,,,se,1.71
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,8.Sept,2014,20,ungrazed,ungrazed,2,2,,,,se,1.45
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,10.Aug,2014,20,grazed,grazed,0,0,,,,se,0.32
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,21.Aug,2014,20,grazed,grazed,0,0,,,,se,0.75
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,30.Aug,2014,20,grazed,grazed,0,0,,,,se,1.27
+3490,Invertebrate,Orthoptera,,,,Herbivore,abundance,8.Sept,2014,20,grazed,grazed,0,0,,,,se,0.93
+3490,Plants,,,,,Producer,abundance,,2014,10,ungrazed,ungrazed,2,2,,,,mean,237.2
+3490,Plants,,,,,Producer,abundance,,2014,10,grazed,grazed,0,0,,,,mean,204
+3490,Plants,,,,,Producer,abundance,,2014,10,ungrazed,ungrazed,2,2,,,,se,22.81
+3490,Plants,,,,,Producer,abundance,,2014,10,grazed,grazed,0,0,,,,se,28.68
+3491,Plants,,,,,Producer,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,mean,845.4283333
+3491,Plants,,,,,Producer,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,se,8.803936777
+3491,Plants,,,,,Producer,abundance,,2014,6,grazed,grazed,0,0,,,,mean,830.4816667
+3491,Plants,,,,,Producer,abundance,,2014,6,grazed,grazed,0,0,,,,se,17.95665233
+3491,Invertebrate,,Araneae,,,Predator,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,mean,0.641666667
+3491,Invertebrate,,Araneae,,,Predator,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,se,0.109099852
+3491,Invertebrate,,Araneae,,,Predator,abundance,,2014,6,grazed,grazed,0,0,,,,mean,0.758333333
+3491,Invertebrate,,Araneae,,,Predator,abundance,,2014,6,grazed,grazed,0,0,,,,se,0.103615207
+3491,Invertebrate,Orthoptera,Orthoptera,Euchorthippus,,Herbivore,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,mean,10.51666667
+3491,Invertebrate,Orthoptera,Orthoptera,Euchorthippus,,Herbivore,abundance,,2014,6,ungrazed,ungrazed,1,1,,,,se,0.594792214
+3491,Invertebrate,Orthoptera,Orthoptera,Euchorthippus,,Herbivore,abundance,,2014,6,grazed,grazed,0,0,,,,mean,18.275
+3491,Invertebrate,Orthoptera,Orthoptera,Euchorthippus,,Herbivore,abundance,,2014,6,grazed,grazed,0,0,,,,se,0.827219237
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,glades-red sand,2006-2008,25,ungrazed,ungrazed,,,,,,mean,99.2
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,glades-red sand,2006-2008,25,grazed,grazed,,,,,,mean,8.7
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,glades-red sand,2006-2008,25,ungrazed,ungrazed,,,,,,se,19.3
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,glades-red sand,2006-2008,25,grazed,grazed,,,,,,se,2.9
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,savanna-red sand,2006-2008,25,ungrazed,ungrazed,,,,,,mean,45.2
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,savanna-red sand,2006-2008,25,grazed,grazed,,,,,,mean,5.3
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,savanna-red sand,2006-2008,25,ungrazed,ungrazed,,,,,,se,7.3
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,savanna-red sand,2006-2008,25,grazed,grazed,,,,,,se,1.2
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,glades-black cotton,2006-2008,25,ungrazed,ungrazed,,,,,,mean,52
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,glades-black cotton,2006-2008,25,grazed,grazed,,,,,,mean,12.4
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,glades-black cotton,2006-2008,25,ungrazed,ungrazed,,,,,,se,8.3
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,glades-black cotton,2006-2008,25,grazed,grazed,,,,,,se,0.4
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,savanna-black cotton,2006-2008,25,ungrazed,ungrazed,,,,,,mean,3.1
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,savanna-black cotton,2006-2008,25,grazed,grazed,,,,,,mean,0.2
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,savanna-black cotton,2006-2008,25,ungrazed,ungrazed,,,,,,se,0.5
+3373,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,savanna-black cotton,2006-2008,25,grazed,grazed,,,,,,se,0.1
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,300,2015-2016,18,ungrazed,ungrazed,54,54,,,,mean,0.0769
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,100,2015-2016,18,ungrazed,ungrazed,54,54,,,,mean,0.102
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,0,2015-2016,18,ungrazed,ungrazed,54,54,,,,mean,0.0708
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,0,2015-2016,18,grazed,grazed,0,0,,,,mean,0.0663
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,100,2015-2016,18,grazed,grazed,0,0,,,,mean,0.042
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,300,2015-2016,18,grazed,grazed,0,0,,,,mean,0.0539
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,300,2015-2016,18,ungrazed,ungrazed,54,54,,,,se,0.0301
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,100,2015-2016,18,ungrazed,ungrazed,54,54,,,,se,0.0262
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,0,2015-2016,18,ungrazed,ungrazed,54,54,,,,se,0.0085
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,0,2015-2016,18,grazed,grazed,0,0,,,,se,0.0396
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,100,2015-2016,18,grazed,grazed,0,0,,,,se,0.0214
+3390,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,300,2015-2016,18,grazed,grazed,0,0,,,,se,0.0338
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,grazed,grazed,,,,,,mean,11
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,grazed,grazed,,,,,,se,1.9
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,mean,5
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,se,0.63
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,grazed,grazed,,,,,,mean,17
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,grazed,grazed,,,,,,se,2.21
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,mean,20
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,se,1.9
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,grazed,grazed,,,,,,mean,13
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,grazed,grazed,,,,,,se,0.95
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,mean,58
+3413,Vertebrate,Mammalia,,Alces,Alces,Herbivore,abundance,Sande,2012,10,ungrazed,ungrazed,,,,,,se,4.43
+3456,Vertebrate,Aves,,,,Omnivorous,diversity,wooded pasture,2017,9,grazed,grazed,,,,,,mean,19.1
+3456,Vertebrate,Aves,,,,Omnivorous,diversity,wooded pasture,2017,9,grazed,grazed,,,,,,se,1.4
+3456,Vertebrate,Aves,,,,Omnivorous,diversity,forest,2017,9,ungrazed,ungrazed,,,,,,mean,14.7
+3456,Vertebrate,Aves,,,,Omnivorous,diversity,forest,2017,9,ungrazed,ungrazed,,,,,,se,1.5
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,mean,37.9
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,se,4.3
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,mean,74.9
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,se,5.4
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,mean,16.7
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,se,1.2
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,mean,19.6
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,se,8
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,mean,16.7
+3456,Plants,Plants,,,,Producer,abundance,wooded pasture,2017,9,grazed,grazed,,,,,,se,1.2
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,mean,19.6
+3456,Plants,Plants,,,,Producer,abundance,forest,2017,9,ungrazed,ungrazed,,,,,,se,8
+3456,Plants,Plants,,,,Producer,litter,wooded pasture,2017,9,grazed,grazed,,,,,,mean,16.7
+3456,Plants,Plants,,,,Producer,litter,wooded pasture,2017,9,grazed,grazed,,,,,,se,4.8
+3456,Plants,Plants,,,,Producer,litter,forest,2017,9,ungrazed,ungrazed,,,,,,mean,63.9
+3456,Plants,Plants,,,,Producer,litter,forest,2017,9,ungrazed,ungrazed,,,,,,se,9.1
+3484,Invertebrate,,Arachnida,,,Predator,abundance,exclosure,2016,20,ungrazed,ungrazed,30,30,,,,mean,20.16
+3484,Invertebrate,,Arachnida,,,Predator,abundance,exclosure,2016,20,grazed,grazed,0,0,,,,mean,10.31
+3484,Invertebrate,,Arachnida,,,Predator,abundance,pasture,2016,20,ungrazed,ungrazed,30,30,,,,se,0.53
+3484,Invertebrate,,Arachnida,,,Predator,abundance,pasture,2016,20,grazed,grazed,0,0,,,,se,0.5
+3484,Plants,,,,,,abundance,exclosure,2016,20,ungrazed,ungrazed,30,30,,,,mean,49.6
+3484,Plants,,,,,,abundance,exclosure,2016,20,grazed,grazed,0,0,,,,mean,39
+3484,Plants,,,,,,abundance,pasture,2016,20,ungrazed,ungrazed,30,30,,,,se,8.2
+3484,Plants,,,,,,abundance,pasture,2016,20,grazed,grazed,0,0,,,,se,7.3

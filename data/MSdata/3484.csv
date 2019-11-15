@@ -1,0 +1,9 @@
+Taxa,Species,Site,Treatment,Stat,Value,Rep
+Invertebrate,Arachnida,exclosure,ungrazed,mean,20.16806723,20
+Invertebrate,Arachnida,exclosure,grazed,mean,10.30812325,20
+Invertebrate,Arachnida,pasture,ungrazed,se,0.526133642,20
+Invertebrate,Arachnida,pasture,grazed,se,0.501079659,20
+Plants,,exclosure,ungrazed,mean,49.6,20
+Plants,,exclosure,grazed,mean,39,20
+Plants,,pasture,ungrazed,se,8.2,20
+Plants,,pasture,grazed,se,7.3,20

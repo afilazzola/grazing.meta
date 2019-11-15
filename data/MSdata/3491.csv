@@ -1,0 +1,13 @@
+Taxa,Species,Trophic,,Stat,TotalDensity,Measure,
+Plants,,Producer,ungrazed,mean,845.4283333,abundance,plant density
+Plants,,Producer,ungrazed,se,8.803936777,abundance,plant density
+Plants,,Producer,grazed,mean,830.4816667,abundance,plant density
+Plants,,Producer,grazed,se,17.95665233,abundance,plant density
+Invertebrate,Araneae,Predator,ungrazed,mean,0.641666667,abundance,web density
+Invertebrate,Araneae,Predator,ungrazed,se,0.109099852,abundance,web density
+Invertebrate,Araneae,Predator,grazed,mean,0.758333333,abundance,web density
+Invertebrate,Araneae,Predator,grazed,se,0.103615207,abundance,web density
+Invertebrate,Euchorthippus,Predator,ungrazed,mean,10.51666667,abundance,
+Invertebrate,Euchorthippus,Predator,ungrazed,se,0.594792214,abundance,
+Invertebrate,Euchorthippus,Predator,grazed,mean,18.275,abundance,
+Invertebrate,Euchorthippus,Predator,grazed,se,0.827219237,abundance,

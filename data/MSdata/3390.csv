@@ -1,0 +1,13 @@
+Treatment,Site,Stat,Value,Measure
+ungrazed,300,mean,0.0769,Mammals captured per night
+ungrazed,100,mean,0.102,Mammals captured per night
+ungrazed,0,mean,0.0708,Mammals captured per night
+grazed,0,mean,0.0663,Mammals captured per night
+grazed,100,mean,0.042,Mammals captured per night
+grazed,300,mean,0.0539,Mammals captured per night
+ungrazed,300,se,0.0301,Mammals captured per night
+ungrazed,100,se,0.0262,Mammals captured per night
+ungrazed,0,se,0.0085,Mammals captured per night
+grazed,0,se,0.0396,Mammals captured per night
+grazed,100,se,0.0214,Mammals captured per night
+grazed,300,se,0.0338,Mammals captured per night

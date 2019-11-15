@@ -1,0 +1,17 @@
+Treatment,Site,Measure,stat,value,Rep
+ungrazed,glades-red sand,abundance,mean,99.2,25
+grazed,glades-red sand,abundance,mean,8.7,25
+ungrazed,glades-red sand,abundance,se,19.3,25
+grazed,glades-red sand,abundance,se,2.9,25
+ungrazed,savanna-red sand,abundance,mean,45.2,25
+grazed,savanna-red sand,abundance,mean,5.3,25
+ungrazed,savanna-red sand,abundance,se,7.3,25
+grazed,savanna-red sand,abundance,se,1.2,25
+ungrazed,glades-black cotton,abundance,mean,52,25
+grazed,glades-black cotton,abundance,mean,12.4,25
+ungrazed,glades-black cotton,abundance,se,8.3,25
+grazed,glades-black cotton,abundance,se,0.4,25
+ungrazed,savanna-black cotton,abundance,mean,3.1,25
+grazed,savanna-black cotton,abundance,mean,0.2,25
+ungrazed,savanna-black cotton,abundance,se,0.5,25
+grazed,savanna-black cotton,abundance,se,0.1,25

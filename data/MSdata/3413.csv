@@ -1,0 +1,13 @@
+Taxa,DetailedTaxa,Genus,Species,Site,Treatment,Measure,Stat,Value,Rep
+Vertebrate,Alces,Alces,Moose,Sande,grazed,feces per ha,mean,11,10
+Vertebrate,Alces,Alces,Moose,Sande,grazed,feces per ha,se,1.9,10
+Vertebrate,Alces,Alces,Moose,Sande,ungrazed,feces per ha,mean,5,10
+Vertebrate,Alces,Alces,Moose,Sande,ungrazed,feces per ha,se,0.63,10
+Vertebrate,Alces,Alces,Moose,Sande,grazed,feces per ha,mean,17,10
+Vertebrate,Alces,Alces,Moose,Sande,grazed,feces per ha,se,2.21,10
+Vertebrate,Alces,Alces,Moose,Sande,ungrazed,feces per ha,mean,20,10
+Vertebrate,Alces,Alces,Moose,Sande,ungrazed,feces per ha,se,1.9,10
+Vertebrate,Alces,Alces,Moose,Sande,grazed,feces per ha,mean,13,10
+Vertebrate,Alces,Alces,Moose,Sande,grazed,feces per ha,se,0.95,10
+Vertebrate,Alces,Alces,Moose,Sande,ungrazed,feces per ha,mean,58,10
+Vertebrate,Alces,Alces,Moose,Sande,ungrazed,feces per ha,se,4.43,10

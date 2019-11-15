@@ -1,0 +1,21 @@
+Taxa,Trophic,Site,Treatment,Stat,value,Measure,Rep
+Aves,Omnivorous,wooded pasture,grazed,mean,19.1,richness,9
+Aves,Omnivorous,wooded pasture,grazed,se,1.4,richness,9
+Aves,Omnivorous,forest,ungrazed,mean,14.7,richness,9
+Aves,Omnivorous,forest,ungrazed,se,1.5,richness,9
+Plants,Producer,wooded pasture,grazed,mean,37.9,canopy cover percent,9
+Plants,Producer,wooded pasture,grazed,se,4.3,canopy cover percent,9
+Plants,Producer,forest,ungrazed,mean,74.9,canopy cover percent,9
+Plants,Producer,forest,ungrazed,se,5.4,canopy cover percent,9
+Plants,Producer,wooded pasture,grazed,mean,16.7,shrub cover percent,9
+Plants,Producer,wooded pasture,grazed,se,1.2,shrub cover percent,9
+Plants,Producer,forest,ungrazed,mean,19.6,shrub cover percent,9
+Plants,Producer,forest,ungrazed,se,8,shrub cover percent,9
+Plants,Producer,wooded pasture,grazed,mean,16.7,herb cover percent,9
+Plants,Producer,wooded pasture,grazed,se,1.2,herb cover percent,9
+Plants,Producer,forest,ungrazed,mean,19.6,herb cover percent,9
+Plants,Producer,forest,ungrazed,se,8,herb cover percent,9
+Plants,Producer,wooded pasture,grazed,mean,16.7,litter,9
+Plants,Producer,wooded pasture,grazed,se,4.8,litter,9
+Plants,Producer,forest,ungrazed,mean,63.9,litter,9
+Plants,Producer,forest,ungrazed,se,9.1,litter,9
