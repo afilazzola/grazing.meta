@@ -146,7 +146,7 @@ meta2 <- meta2 %>% filter(Functional.Group != "Producer") %>% filter(Higher.Taxa
 ms.data <- read.csv("data//synthesisdata//manuscript.revised.csv")
 meta2 <- merge(meta2, ms.data, by="uniqueID")
 ## subset for abundance only
-meta2 <- meta2 %>% filter(est.reduced == "abundance")
+meta2 <- meta2 %>% filter(est.reduced == "diversity")
 meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
 
 ## Create Unique identifier column
@@ -236,6 +236,8 @@ funnel(m2, ylim=c(1.2,0))
 
 ## Calculate rosenthals Failsafe number
 fsn(yi, vi, data=meta.ready)
+
+
 
 # ## generate plot with spaces inbetween
 # forest(m1, atransf=exp, cex=0.75, ylim=c(-1, 24),
@@ -346,6 +348,9 @@ meta.ready <- escalc(n1i = dummyN, n2i = dummyN, m1i = ungrazed_mean, m2i = graz
 funnel(m2)
 regtest(m2)
 
+
+## write
+write.csv(subset(meta.ready, vi<4), "plantEff.csv", row.names=F)
 ```
 
 ### Separated Plant responses
@@ -383,7 +388,7 @@ summary(m4)
 ### Trends among studies
 ```{r}
 ## load metadata of manuscripts
- ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
+ ms.data <- read.csv("data//synthesisdata//manuscript.revised.csv")
 ms.data[is.na(ms.data)] <- 0
 
 ## load effect sizes from each model 
@@ -605,11 +610,11 @@ geom_ribbon(data=data.frame(preds), aes(x=meta.ready$bio12, y=pred, ymin=ci.lb, 
 
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
-animal.abd <- read.csv(occurdat[3])
+animal.abd <- read.csv(occurdat[1])
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
-ms.data <- read.csv("data//synthesisdata//manuscript.data.csv")
+ms.data <- read.csv("data//synthesisdata//manuscript.revised.csv")
 meta3 <- merge(animal.abd, ms.data, by="uniqueID")
 meta3$last.grazing.event <- as.numeric(meta3$last.grazing.event)
 
@@ -620,22 +625,26 @@ meta3$last.grazing.event <- as.numeric(meta3$last.grazing.event)
 meta.ready <- subset(meta3, yr.grazed>0& yr.grazed < 49)
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~ -1 + yr.grazed ,  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~  yr.grazed ,  data = meta.ready)
 summary(m3) 
 
 
-meta.ready$FG
+trophicReduced <- data.frame(FG=c("InvertebrateHerbivorous", "InvertebrateParasitic", "InvertebratePredator", "InvertebratePollinator", "VertebrateOmnivorous", "VertebratePredator", "VertebrateHerbivorous", "InvertebrateDetritivores", "InvertebrateOmnivorous"), trophic=c("Herbivore","Parasite","Predator","Pollinator","Omnivore","Predator","Herbivore","Detritivore","Omnivore"))
 
-meta.ready[,"trophic"] <- c("Detrivore","Detrivore","Herbivore","Herbivore","Herbivore","Parasite","Pollinator","Pollinator","Pollinator","Predator","Herbivore","Herbivore","Herbivore","Predator")
-
+meta.ready <- merge(meta.ready, trophicReduced, by="FG")
 ## line
-preds <- predict(m3, newmods=1:35)
+preds <- predict(m3, newmods=1:40)
 
-cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2")
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2", "#000000")
 
+
+## animals
+ggplot(meta.ready, aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since control was last grazed (log-years)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=1:35, y=pred), lwd=1) +
+geom_ribbon(data=data.frame(preds), aes(x=1:35, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)
+
+### plants
 ggplot(meta.ready, aes(x=log(yr.grazed), y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since control was last grazed (log-years)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=log(1:35), y=pred), lwd=1) +
 geom_ribbon(data=data.frame(preds), aes(x=log(1:35), y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)
-
 
 ### Old figure
 # ### calculate predicted risk ratios for full grazing time gradient
