@@ -29,7 +29,7 @@ biomass (g / m2),biomass,abundance
 number of territories,number of territories,abundance
 plant height (cm),plant height,abundance
 biomass (mg),biomass,abundance
-perch height (cm),perch height,abundance
+perch height (cm),perch height,behavioural
 productivity,productivity,abundance
 height (cm),height,abundance
 mean body mass (g),mean body mass,abundance
@@ -137,7 +137,7 @@ abundance of all species,abundance,abundance
 ground vegetation cover,percent.cover,abundance
 litter cover,percent.cover,abundance
 fine woody debris cover,percent.cover,abundance
-proportiol body mass growth rate,body mass growth rate,abundance
+proportiol body mass growth rate,body mass growth rate,fitness
 post-hibertion abundance across years,abundance,abundance
 pre-hibertion abundance across years,abundance,abundance
 body mass g,body.mass,abundance
@@ -492,3 +492,7 @@ Daily survival rate chick,survival,fitness
 % abundance,omit,omit
 % total abundance,omit,omit
 colony abundance,colony abundance,abundance
+invert body mass,invert body mass,omit
+Invert l.w.ratio,l.w.ratio,omit
+Invert Bodysize,Bodysize,omit
+Lizard burrow depth,burrow depth,behavioural

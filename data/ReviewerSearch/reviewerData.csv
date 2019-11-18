@@ -571,3 +571,7 @@ uniqueID,Higher.Taxa,Taxa,Detailed.Taxa,Genus,Species,Functional.Group,Estimate,
 3484,Plants,,,,,,abundance,exclosure,2016,20,grazed,grazed,0,0,,,,mean,39
 3484,Plants,,,,,,abundance,pasture,2016,20,ungrazed,ungrazed,30,30,,,,se,8.2
 3484,Plants,,,,,,abundance,pasture,2016,20,grazed,grazed,0,0,,,,se,7.3
+3232,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,MWC,1996-2006,8,grazed,grazed,,,,,,mean,23.1
+3232,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,MWC,1996-2006,8,grazed,grazed,,,,,,se,5.55
+3232,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,MW,1996-2006,8,ungrazed,ungrazed,,,,,,mean,23.6
+3232,Vertebrate,Mammalia,Rodenta,,,Herbivore,abundance,MW,1996-2006,8,ungrazed,ungrazed,,,,,,se,5.48
