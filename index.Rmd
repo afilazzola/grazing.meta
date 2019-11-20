@@ -146,7 +146,7 @@ meta2 <- meta2 %>% filter(Functional.Group != "Producer") %>% filter(Higher.Taxa
 ms.data <- read.csv("data//synthesisdata//manuscript.revised.csv")
 meta2 <- merge(meta2, ms.data, by="uniqueID")
 ## subset for abundance only
-meta2 <- meta2 %>% filter(est.reduced == "abundance")
+meta2 <- meta2 %>% filter(est.reduced == "diversity")
 meta2[,"functional.taxa"] <- paste0(meta2$Higher.Taxa, meta2$Functional.Group)
 
 ## Create Unique identifier column
@@ -505,12 +505,6 @@ mp + geom_point(data=msUsed , aes(x=lon, y=lat, col=grazer.spp.reduced ), size=2
 
 ### Compare regional patterns
 ```{r}
-temp <- stack(list.files("F:\\worldclim2\\tmax\\", pattern=".tif", full.names=T))
-temp <- mean(temp)
-prec <- stack(list.files("F:\\worldclim2\\prec\\", pattern=".tif", full.names=T))
-prec <- sum(prec)
-
-
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
 animal.abd <- read.csv(occurdat[1])
@@ -520,60 +514,57 @@ colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
 ## join manuscript data
 ms.data <- read.csv("data//synthesisdata//manuscript.revised.csv")
 meta3 <- merge(animal.abd, ms.data, by="uniqueID")
+meta3[,c("yi")] <- meta3[,c("yi")]*-1 ## inverse effect
 
 library(raster)
+# 
+# ## Convert lat lon to spatial points
+# meta3 <- meta3 %>% filter(lat != "") ## remove blanks for lat and lon
+# meta3 <- meta3[!grepl(";", meta3$lat),] ## remove multiple entries
+# meta3$lat <- as.numeric(levels(meta3$lat))[meta3$lat] ## convert from factor to number
+# meta3$lon <- as.numeric(levels(meta3$lon))[meta3$lon] ## convert from factor to number
+# 
+# ## generate dataframe
+# gps <- data.frame(uniqueID = meta3$uniqueID, lon=meta3$lon, lat=meta3$lat)
+# gps <- gps[!duplicated(gps$uniqueID),]
+# 
+# 
+# ## assign spatial points
+# crs.world <-CRS("+proj=longlat +datum=WGS84")
+# coordinates(gps) <- ~lon+lat
+# proj4string(gps) <- crs.world
+# 
+# ## load rasters
+# temp <- raster("C:\\Users\\Fitz\\Downloads\\bioclim2\\bio01.tif")
+# prec <- raster("C:\\Users\\Fitz\\Downloads\\bioclim2\\bio12.tif")
+# 
+# temp2 <- temp
+# 
+# clim <- stack(temp,prec)
+# 
+# 
+# ## extract temperature and preciptiation
+# gps.clim <- data.frame(raster::extract(clim, gps))
+# gps.clim["uniqueID"] <- gps$uniqueID
 
-## Convert lat lon to spatial points
-meta3 <- meta3 %>% filter(lat != "") ## remove blanks for lat and lon
-meta3 <- meta3[!grepl(";", meta3$lat),] ## remove multiple entries
-meta3$lat <- as.numeric(levels(meta3$lat))[meta3$lat] ## convert from factor to number
-meta3$lon <- as.numeric(levels(meta3$lon))[meta3$lon] ## convert from factor to number
 
-## generate dataframe
-gps <- data.frame(uniqueID = meta3$uniqueID, lon=meta3$lon, lat=meta3$lat)
-gps <- gps[!duplicated(gps$uniqueID),]
-
-
-## assign spatial points
-crs.world <-CRS("+proj=longlat +datum=WGS84")
-coordinates(gps) <- ~lon+lat
-proj4string(gps) <- crs.world
-
-## load rasters
-prec <- raster("F:\\worldclim2\\bioclim\\bio1.tif")
-prec <- raster("F:\\worldclim2\\bioclim\\bio12.tif")
-
-temp2 <- temp
-
-clim <- stack(temp,prec)
-
-
-## extract temperature and preciptiation
-gps.clim <- data.frame(raster::extract(clim, gps))
-gps.clim["uniqueID"] <- gps$uniqueID
-gps.clim$bio1 <- gps.clim$bio1 ## divide by 10 when worldclim 1
-
+## get CRU data
+CRU <- read.csv("data//climateCRU.csv")
+CRU <- na.omit(CRU)
 
 ## compare climate & grazing duration variables against effect size
 
-m1 <- lm(yi~ poly(bio1,2), data=meta.ready)
-summary(m1)
-
 
 ## get last year grazed as covariate
-meta.ready <- merge(meta3, gps.clim, by="uniqueID")
-meta.ready[,"aridity"] <- (meta.ready$bio12)/(meta.ready$bio1+10)
-meta.ready <- meta.ready[!is.na(meta.ready$bio1),] ## drop NA temperatures
-
+meta.ready <- merge(meta3, CRU, by="uniqueID")
 
 ### Temperature only
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~ poly(bio1,2),  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~ poly(temp,1),  data = meta.ready)
 summary(m3) 
 
-
 ## line
-preds <- predict(m3, bio1=meta.ready$bio1)
+preds <- predict(m3, temp=meta.ready$temp)
 
 cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
 
@@ -581,30 +572,41 @@ cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
 meta.ready[,"trophic"] <- gsub("^.*?ertebrate","",meta.ready$FG)
 
 ### Plot against temperature
-ggplot(meta.ready, aes(x=bio1, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Temperature (°C)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$bio1, y=pred), lwd=2) +
-geom_ribbon(data=data.frame(preds), aes(x=meta.ready$bio1, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+xlim(0,40)
+ggplot(meta.ready, aes(x=temp, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Temperature (°C)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$temp, y=pred), lwd=2) +
+geom_ribbon(data=data.frame(preds), aes(x=meta.ready$temp, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+xlim(0,20)
 
 
 ### Preciptiation
 
+test <- subset(meta.ready, FG == "VertebrateHerbivorous" | FG == "InvertebrateHerbivorous")
+
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m4 <- rma(yi=yi, vi=vi, mods=~ poly(bio12,2),  data = meta.ready)
+m4 <- rma(yi=yi, vi=vi, mods=~ poly(precip,2),  data = meta.ready)
 summary(m4) 
-
-meta.ready <- meta.ready[!is.na(meta.ready$bio12),] ## drop NA preciptiations
-
 
 
 ## line
-preds <- predict(m4, bio12=meta.ready$bio12)
+preds <- predict(m4, precip=meta.ready$precip)
 
 
 ### Plot against temperature
-ggplot(meta.ready, aes(x=bio12, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa),size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Mean annual preciptiation (mm)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$bio12, y=pred), lwd=2) +
-geom_ribbon(data=data.frame(preds), aes(x=meta.ready$bio12, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)
+ggplot(meta.ready, aes(x=precip, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa),size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Mean annual preciptiation (mm)") + ylab("Effect of grazing relative to control (LRR)") + scale_color_manual(values=cbPalette) + 
+  geom_line(data=data.frame(preds), aes(x=meta.ready$precip, y=pred), lwd=2) +
+geom_ribbon(data=data.frame(preds), aes(x=meta.ready$precip, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) 
 
 
 
+test <- meta.ready[!is.infinite(meta.ready$aridity),]
+
+m4 <- rma(yi=yi, vi=vi, mods=~ poly(aridity,2),  data = test)
+summary(m4) 
+
+preds <- predict(m4, aridity=test$aridity)
+
+
+### Plot against aridity
+ggplot(test, aes(x=aridity, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa),size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Mean annual preciptiation (mm)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=test$aridity, y=pred), lwd=2) +
+geom_ribbon(data=data.frame(preds), aes(x=test$aridity, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)
 
 
 ## Time since grazed Grazed
