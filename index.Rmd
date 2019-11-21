@@ -507,7 +507,7 @@ mp + geom_point(data=msUsed , aes(x=lon, y=lat, col=grazer.spp.reduced ), size=2
 ```{r}
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
-animal.abd <- read.csv(occurdat[1])
+animal.abd <- read.csv(occurdat[2])
 # animal.abd <- subset(animal.abd, measure=="diversity" & vi!=0) ## one measure at a time for plants
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
@@ -581,7 +581,7 @@ geom_ribbon(data=data.frame(preds), aes(x=meta.ready$temp, y=pred, ymin=ci.lb, y
 test <- subset(meta.ready, FG == "VertebrateHerbivorous" | FG == "InvertebrateHerbivorous")
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m4 <- rma(yi=yi, vi=vi, mods=~ poly(precip,2),  data = meta.ready)
+m4 <- rma(yi=yi, vi=vi, mods=~ poly(precip,2),  data = subset(meta.ready)
 summary(m4) 
 
 
@@ -598,7 +598,7 @@ geom_ribbon(data=data.frame(preds), aes(x=meta.ready$precip, y=pred, ymin=ci.lb,
 
 test <- meta.ready[!is.infinite(meta.ready$aridity),]
 
-m4 <- rma(yi=yi, vi=vi, mods=~ poly(aridity,2),  data = test)
+m4 <- rma(yi=yi, vi=vi, mods=~ poly(log(aridity),2),  data = test)
 summary(m4) 
 
 preds <- predict(m4, aridity=test$aridity)
