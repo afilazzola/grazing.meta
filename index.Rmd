@@ -245,7 +245,30 @@ fsn(yi, vi, data=meta.ready)
 
 ```
 
+### Animal comparisons
+```{r}
+meta.ready <- read.csv("abundanceEff.csv")
+  
+  #random-effects meta-analysis for grazed vs ungrazed plots
+  m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
+  summary(m1) 
 
+  
+  #mixed-effects meta-analysis for grazed vs ungrazed plots
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<4), digits=4 )
+  summary(m2) 
+
+  meta.ready <- read.csv("diversityEff.csv")
+  
+  #random-effects meta-analysis for grazed vs ungrazed plots
+  m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
+  summary(m1) 
+
+  
+  #mixed-effects meta-analysis for grazed vs ungrazed plots
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<4), digits=4 )
+  summary(m2) 
+```
 
 ### Testing the effects of grazing on producers
 ```{r}
@@ -350,31 +373,41 @@ write.csv(subset(meta.ready, vi<4), "plantEff.csv", row.names=F)
 ### Separated Plant responses
 ```{r}
 plt <- read.csv("plantEff.csv")
+# animal.abd <- subset(animal.abd, measure=="diversity" & vi!=0) ## one measure at a time for plants
+colnames(plt)[colnames(plt)=="Study"] <- "uniqueID"
+ 
+## join manuscript data
+ms.data <- read.csv("data//synthesisdata//manuscript.revised.csv")
+meta3 <- merge(plt, ms.data, by="uniqueID")
+meta3[,c("yi")] <- meta3[,c("yi")] ## inverse effect
+meta3[,"yr.grazed"] <- meta3$last.grazing.event
+
+meta.ready <- meta3[!is.na(meta3$yr.grazed),]
+meta.ready$yr.grazed <- as.numeric(meta.ready$yr.grazed)
 
 ## abundance
-m1 <- rma(yi=yi, vi=vi, data = subset(plt, measure == "abundance" & vi!=0))
+m1 <- rma(yi=yi, vi=vi, data = subset(meta.ready, measure == "abundance" & vi!=0))
 summary(m1) 
 
 ## time-since-grazed
-m1.tsg <- rma(yi=yi, vi=vi,  mods=~ yr.grazed, data = subset(plt, measure == "abundance" & vi!=0))
+m1.tsg <- rma(yi=yi, vi=vi,  mods=~ yr.grazed, data = subset(meta.ready, measure == "abundance" & vi!=0))
 summary(m1.tsg) 
 
 ## richness
-m2 <- rma(yi=yi, vi=vi, data = subset(plt, measure == "diversity"& vi!=0))
+m2 <- rma(yi=yi, vi=vi, data = subset(meta.ready, measure == "diversity"& vi!=0))
 summary(m2) 
 
 ## time-since-grazed
-m2.tsg <- rma(yi=yi, vi=vi, mods=~ yr.grazed , data = subset(plt, measure == "diversity" & vi!=0))
+m2.tsg <- rma(yi=yi, vi=vi, mods=~ poly(yr.grazed,2) , data = subset(meta.ready, measure == "diversity" & vi!=0))
 summary(m2.tsg)
 
-## Mycorrhiza
-m3 <- rma(yi=yi, vi=vi, data = subset(plt, measure == "MycorrhizaColonize"))
-summary(m3) 
+preds <- predict(m2.tsg, yr.grazed=meta.ready$yr.grazed)
 
-## debris
-m4 <- rma(yi=yi, vi=vi, data = subset(plt, measure == "debris"))
-summary(m4) 
-
+### plants
+ggplot(subset(meta.ready, measure == "abundance" & vi!=0), aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since exclusion (yrs)") + ylab("Effect of livestock exclusion (LRR)")+ 
+  annotate("text", x=32, y=2.2, label="plant abundance", size=6) + 
+  geom_line( aes(x=yr.grazed, y=preds$pred), lwd=1) +
+geom_ribbon(aes(x=yr.grazed,ymin=preds$ci.lb, ymax=preds$ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette) 
 
 ```
 
@@ -560,8 +593,9 @@ meta.ready <- merge(meta3, CRU, by="uniqueID")
 
 ### Temperature only
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~ poly(temp,1),  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~ poly(temp,1) * poly(precip,1),  data = meta.ready)
 summary(m3) 
+
 
 ## line
 preds <- predict(m3, temp=meta.ready$temp)
@@ -613,14 +647,14 @@ geom_ribbon(data=data.frame(preds), aes(x=test$aridity, y=pred, ymin=ci.lb, ymax
 
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
-animal.abd <- read.csv(occurdat[1])
+animal.abd <- read.csv(occurdat[2])
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
 ms.data <- read.csv("data//synthesisdata//manuscript.revised.csv")
 meta3 <- merge(animal.abd, ms.data, by="uniqueID")
 meta3$last.grazing.event <- as.numeric(meta3$last.grazing.event)
-meta3[,c("yi")] <- meta3[,c("yi")]*-1
+meta3[,c("yi")] <- meta3[,c("yi")]
 meta3[,"yr.grazed"] <- meta3$last.grazing.event
 
 ## compare climate & grazing duration variables against effect size
@@ -628,27 +662,30 @@ meta3[,"yr.grazed"] <- meta3$last.grazing.event
 ## get last year grazed as covariate
 meta.ready <- subset(meta3, yr.grazed>0& yr.grazed < 60)
 
+
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~  yr.grazed,  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~  poly(yr.grazed,2),  data = meta.ready)
 summary(m3) 
 
 
-trophicReduced <- data.frame(FG=c("InvertebrateHerbivorous", "InvertebrateParasitic", "InvertebratePredator", "InvertebratePollinator", "VertebrateOmnivorous", "VertebratePredator", "VertebrateHerbivorous", "InvertebrateDetritivores", "InvertebrateOmnivorous"), trophic=c("Herbivore","Parasite","Predator","Pollinator","Omnivore","Predator","Herbivore","Detritivore","Omnivore"))
+## generate column for FG
+meta.ready[,"trophic"] <- gsub("^.*?ertebrate","",meta.ready$FG)
 
-meta.ready <- merge(meta.ready, trophicReduced, by="FG")
+
 ## line
-preds <- predict(m3, newmods=1:40)
+preds <- predict(m3, yr.grazed=meta.ready$yr.grazed)
 
-cbPalette <- c("#77564C", "#4381C1", "#9AD4D6", "#4FB286", "#564787", "#08415C")
+# cbPalette <- c("#77564C", "#4381C1", "#9AD4D6", "#4FB286", "#564787", "#08415C")
+
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
 
 
 ## animals
-ggplot(meta.ready, aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4, width=1) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since control was last grazed (log-years)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=1:40, y=pred), lwd=1) +
-geom_ribbon(data=data.frame(preds), aes(x=1:40, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)
+ggplot(meta.ready, aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4, width=1) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since exclusion (yrs)") + ylab("Effect of livestock exclusion (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$yr.grazed, y=pred), lwd=1) +
+geom_ribbon(data=data.frame(preds), aes(x=meta.ready$yr.grazed, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+ 
+  annotate("text", x=32, y=1, label="animal diversity", size=6)
 
-### plants
-ggplot(meta.ready, aes(x=log(yr.grazed), y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since control was last grazed (log-years)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=log(1:35), y=pred), lwd=1) +
-geom_ribbon(data=data.frame(preds), aes(x=log(1:35), y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)
+
 
 ### Old figure
 # ### calculate predicted risk ratios for full grazing time gradient

@@ -257,7 +257,7 @@ uniqueID,Publication Year,StudyYear,grazer.spp,grazer.spp.reduced,grazer.status,
 3120,2019,2013,sheep,sheep,,domestic,grazed vs. ungrazed,1,2,co-occurring,co-occurring,3,-33.67,138.93,,Australia,6,sweeps
 3127,2012,2008:2010,cattle,cattle,,domestic,grazed vs. ungrazed,NA,3,co-occurring,co-occurring,3,0.2948,36.2552,,Kenya,4,camera traps
 3147,2019,2016,horses,domestic,,domestic,grazed vs. ungrazed,1,3,unknown,unknown,,59.733,17.667,,Sweden,2,
-3158,2015,2009:2013,cattle,cattle,,domestic,grazed vs. ungrazed,NA,5,co-occurring,co-occurring,2,-24.2213,151.2643,,Australia,5,
+3158,2015,2009:2013,cattle,cattle,,domestic,grazed vs. ungrazed,10,5,co-occurring,co-occurring,2,-24.2213,151.2643,,Australia,5,
 3189,2018,NA,cattle,cattle,,domestic,grazed vs. ungrazed,4,1,unknown,unknown,,-23.375,147.5875,,Australia,4,suction
 3191,2019,2012:2013,cattle,cattle,,domestic,grazed vs. ungrazed,NA,2,co-occurring,co-occurring,3,34.3863,-110.6335,2590,USA,64,trapping
 3202,2019,2012,sheep,sheep,,domestic,grazed vs. ungrazed,NA,1,none,none,3,38.7,-8.4833,,Portugal,3,transects
@@ -266,11 +266,11 @@ uniqueID,Publication Year,StudyYear,grazer.spp,grazer.spp.reduced,grazer.status,
 3240,2003,1993:1995,sheep,sheep,,domestic,grazed vs. ungrazed,1,2,co-occurring,co-occurring,3,56.9544,-4.0785,,Scotland,4,suction
 3341,2018,2010:2013,cattle,cattle,,domestic,grazed vs. ungrazed,NA,3,unknown,unknown,2,44.75,123.75,,China,8,traps
 3363,2010,2007,both,both,,domestic,grazed vs. ungrazed,10,1,unknown,unknown,3,-35.2833,149.133,600,Australia,20,pitfall
-3373,2018,2006:2008,cattle,cattle,,domestic,grazed vs. ungrazed,NA,2,co-occurring,co-occurring,3,0.2833,36.833,,Kenya,6,trapping
+3373,2018,2006:2008,cattle,cattle,,domestic,grazed vs. ungrazed,7,2,co-occurring,co-occurring,3,0.2833,36.833,,Kenya,6,trapping
 3390,2018,2015:2016,cattle,cattle,,domestic,grazed vs. ungrazed,54,2,unknown,unknown,3,-34.033,-69.9677,,Argentina,6,trapping
 3413,2018,2012,both,both,,domestic,grazed vs. ungrazed,NA,1,co-occurring,co-occurring,3,60.2167,10.933,,Norway,3,transects
 3456,2019,2017,both,both,,domestic,grazed vs. ungrazed,NA,1,none,none,3,49.1833,8.11667,,Germany,24,transects
 3484,2018,2016,sheep,sheep,,domestic,grazed vs. ungrazed,30,1,co-occurring,co-occurring,3,-33.165,22.268,,South Africa,2,transects
 3490,2018,2014,cattle,cattle,,domestic,grazed vs. ungrazed,2,2,unknown,unknown,3,44.75,123.75,,China,1,transect
 3491,2017,2014,sheep,sheep,,domestic,grazed vs. ungrazed,2,2,unknown,unknown,3,44.75,123.75,,China,1,transect
-3232,2019,1996:2006,cattle,cattle,domestic,domestic,grazed vs. ungrazed,NA,8,co-occurring,co-occurring,3,0.2833,36.8833,,Kenya,6,trapping
+3232,2019,1996:2006,cattle,cattle,domestic,domestic,grazed vs. ungrazed,7,8,co-occurring,co-occurring,3,0.2833,36.8833,,Kenya,6,trapping
