@@ -73,7 +73,7 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 
 #### Reasons for exclusion
 ```{r, warning=FALSE, message=FALSE}
-evidence <- read.csv("data//synthesisdata//evidence.csv")
+evidence <- read.csv("data//ReviewerSearch//evidence.new.csv")
 ### Identify studies that were excluded
 excludes <- evidence %>% group_by(reason.simplified) %>% count(exclude) %>% filter(reason.simplified!="")
 ggplot(excludes, aes(x=reason.simplified, y=n)) + geom_bar(stat="identity") + coord_flip() + xlab("Reason for exclusion")
@@ -108,15 +108,15 @@ datasets <- read.csv("data//binary.simplified.csv")
 meta <- length(unique(datasets$uniqueID))
 meta
 
-prisma(found = 2992,
+prisma(found = 3485,
        found_other = 4,
-       no_dupes = 2992,
-       screened = 2992,
-       screen_exclusions = 2681,
-       full_text = 311,
-       full_text_exclusions = 0,
-       qualitative = 311, 
-       quantitative = 92,
+       no_dupes = 3489,
+       screened = 3489,
+       screen_exclusions = 0,
+       full_text = 3489,
+       full_text_exclusions = 3250,
+       qualitative = 239, 
+       quantitative = 90,
        width = 800, height = 800)
 ```
 
@@ -245,6 +245,31 @@ fsn(yi, vi, data=meta.ready)
 
 ```
 
+### Create Appendix A
+``` {r}
+meta <- read.csv("data//binary.simplified.csv")
+
+
+## Load packages and functions
+library(reshape2)
+library(metafor)
+source("meta.evalSE.r") ## Multiple aggregate
+
+
+## Simplify the estimates column
+meta2 <- meta
+est <- read.csv("data//Unique.Estimates.Column.csv")
+meta2 <- merge(meta2, est, by="Estimate")
+
+## drop duplicates
+ests <- meta2[!duplicated(meta2[,c(1,21:22)]),c(1,21:22)]
+ests.used <- ests %>% filter(!est.reduced %in% c("omit", "behavioural","fitness")) ## filter only the variables used
+
+## write estimates
+write.csv(ests.used, "data//appendixA.csv", row.names = F)
+```
+
+
 ### Animal comparisons
 ```{r}
 meta.ready <- read.csv("abundanceEff.csv")
@@ -258,6 +283,18 @@ meta.ready <- read.csv("abundanceEff.csv")
   m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<4), digits=4 )
   summary(m2) 
 
+### Bias tests  
+regtest(m2)
+
+
+## Check for publication bias
+## The symetrical distriubtion suggests there is no publication bias
+funnel(m2, ylim=c(1.2,0))
+
+## Calculate rosenthals Failsafe number
+fsn(yi, vi, data=meta.ready)
+
+  
   meta.ready <- read.csv("diversityEff.csv")
   
   #random-effects meta-analysis for grazed vs ungrazed plots
@@ -268,6 +305,17 @@ meta.ready <- read.csv("abundanceEff.csv")
   #mixed-effects meta-analysis for grazed vs ungrazed plots
   m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<4), digits=4 )
   summary(m2) 
+  
+  ### Bias tests  
+regtest(m2)
+
+
+## Check for publication bias
+## The symetrical distriubtion suggests there is no publication bias
+funnel(m2, ylim=c(0.8,0))
+
+## Calculate rosenthals Failsafe number
+fsn(yi, vi, data=meta.ready)
 ```
 
 ### Testing the effects of grazing on producers
@@ -389,6 +437,15 @@ meta.ready$yr.grazed <- as.numeric(meta.ready$yr.grazed)
 m1 <- rma(yi=yi, vi=vi, data = subset(meta.ready, measure == "abundance" & vi!=0))
 summary(m1) 
 
+
+  ### Bias tests  
+regtest(m1)
+
+
+## Check for publication bias
+## The symetrical distriubtion suggests there is no publication bias
+funnel(m1, ylim=c(0.8,0))
+
 ## time-since-grazed
 m1.tsg <- rma(yi=yi, vi=vi,  mods=~ yr.grazed, data = subset(meta.ready, measure == "abundance" & vi!=0))
 summary(m1.tsg) 
@@ -396,6 +453,15 @@ summary(m1.tsg)
 ## richness
 m2 <- rma(yi=yi, vi=vi, data = subset(meta.ready, measure == "diversity"& vi!=0))
 summary(m2) 
+
+
+  ### Bias tests  
+regtest(m2)
+
+
+## Check for publication bias
+## The symetrical distriubtion suggests there is no publication bias
+funnel(m2, ylim=c(0.8,0))
 
 ## time-since-grazed
 m2.tsg <- rma(yi=yi, vi=vi, mods=~ poly(yr.grazed,2) , data = subset(meta.ready, measure == "diversity" & vi!=0))
@@ -495,6 +561,8 @@ names <- map.where(database="world", msUsed$lon, msUsed$lat)
 ## separate subcountry identifiers
 country <- gsub("?:.*", "", names)
 length(unique(country))
+
+table(country)
 
 ## extract climate
 
@@ -615,7 +683,7 @@ geom_ribbon(data=data.frame(preds), aes(x=meta.ready$temp, y=pred, ymin=ci.lb, y
 test <- subset(meta.ready, FG == "VertebrateHerbivorous" | FG == "InvertebrateHerbivorous")
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m4 <- rma(yi=yi, vi=vi, mods=~ poly(precip,2),  data = subset(meta.ready)
+m4 <- rma(yi=yi, vi=vi, mods=~ poly(precip,2),  data = subset(meta.ready))
 summary(m4) 
 
 
@@ -719,5 +787,24 @@ geom_ribbon(data=data.frame(preds), aes(x=meta.ready$yr.grazed, y=pred, ymin=ci.
 # lines(0:35, preds$pred, lwd=2)
 # lines(0:35, preds$ci.lb, lty="dashed")
 # lines(0:35, preds$ci.ub, lty="dashed") 
+```
 
+### Taxa that are tested
+```{r}
 
+### Load main data
+meta <- read.csv("data//binary.simplified.csv")
+
+## load studies used
+div <- read.csv("diversityEff.csv")
+abd <- read.csv("abundanceEff.csv")
+
+studiesUsed <- c(div$Study, abd$Study)
+dataused <- meta %>% filter(uniqueID %in% studiesUsed)
+
+## count taxa 
+taxa <- dataused %>% group_by(Taxa) %>% summarize(n=length(unique(uniqueID)))
+taxa
+
+## unique studies
+length(unique(studiesUsed))
