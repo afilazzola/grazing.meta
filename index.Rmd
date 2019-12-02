@@ -275,12 +275,12 @@ write.csv(ests.used, "data//appendixA.csv", row.names = F)
 meta.ready <- read.csv("abundanceEff.csv")
   
   #random-effects meta-analysis for grazed vs ungrazed plots
-  m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
+  m1 <- rma(yi=yi, vi=vi,  data = meta.ready, test="t" )
   summary(m1) 
 
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<4), digits=4 )
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<4), digits=4, test="t" )
   summary(m2) 
 
 ### Bias tests  
@@ -303,7 +303,7 @@ fsn(yi, vi, data=meta.ready)
 
   
   #mixed-effects meta-analysis for grazed vs ungrazed plots
-  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<4), digits=4 )
+  m2 <- rma(yi=yi, vi=vi, mods=~ -1 + FG,  data = subset(meta.ready, vi<4), digits=4, test="t"  )
   summary(m2) 
   
   ### Bias tests  
@@ -434,7 +434,7 @@ meta.ready <- meta3[!is.na(meta3$yr.grazed),]
 meta.ready$yr.grazed <- as.numeric(meta.ready$yr.grazed)
 
 ## abundance
-m1 <- rma(yi=yi, vi=vi, data = subset(meta.ready, measure == "abundance" & vi!=0))
+m1 <- rma(yi=yi, vi=vi, data = subset(meta.ready, measure == "abundance" & vi!=0) , test="t" )
 summary(m1) 
 
 
@@ -447,11 +447,11 @@ regtest(m1)
 funnel(m1, ylim=c(0.8,0))
 
 ## time-since-grazed
-m1.tsg <- rma(yi=yi, vi=vi,  mods=~ yr.grazed, data = subset(meta.ready, measure == "abundance" & vi!=0))
+m1.tsg <- rma(yi=yi, vi=vi,  mods=~ yr.grazed, data = subset(meta.ready, measure == "abundance" & vi!=0), test="t")
 summary(m1.tsg) 
 
 ## richness
-m2 <- rma(yi=yi, vi=vi, data = subset(meta.ready, measure == "diversity"& vi!=0))
+m2 <- rma(yi=yi, vi=vi, data = subset(meta.ready, measure == "diversity"& vi!=0) , test="t")
 summary(m2) 
 
 
@@ -464,7 +464,7 @@ regtest(m2)
 funnel(m2, ylim=c(0.8,0))
 
 ## time-since-grazed
-m2.tsg <- rma(yi=yi, vi=vi, mods=~ poly(yr.grazed,2) , data = subset(meta.ready, measure == "diversity" & vi!=0))
+m2.tsg <- rma(yi=yi, vi=vi, mods=~ poly(yr.grazed,2) , data = subset(meta.ready, measure == "diversity" & vi!=0), test="t")
 summary(m2.tsg)
 
 preds <- predict(m2.tsg, yr.grazed=meta.ready$yr.grazed)
@@ -661,7 +661,7 @@ meta.ready <- merge(meta3, CRU, by="uniqueID")
 
 ### Temperature only
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~ poly(temp,1) * poly(precip,1),  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~ poly(temp,2) * poly(precip,1),  data = meta.ready , test="t" )
 summary(m3) 
 
 
@@ -715,7 +715,7 @@ geom_ribbon(data=data.frame(preds), aes(x=test$aridity, y=pred, ymin=ci.lb, ymax
 
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
-animal.abd <- read.csv(occurdat[2])
+animal.abd <- read.csv(occurdat[1])
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
@@ -732,7 +732,7 @@ meta.ready <- subset(meta3, yr.grazed>0& yr.grazed < 60)
 
 
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~  poly(yr.grazed,2),  data = meta.ready)
+m3 <- rma(yi=yi, vi=vi, mods=~  poly(yr.grazed,1),  data = meta.ready, test="t")
 summary(m3) 
 
 
@@ -808,3 +808,74 @@ taxa
 
 ## unique studies
 length(unique(studiesUsed))
+
+```
+
+### Cascade effects
+```{r}
+## load studies used
+div <- read.csv("diversityEff.csv")
+div$yi <- div$yi*-1
+abd <- read.csv("abundanceEff.csv")
+abd$yi <- abd$yi*-1
+plt <- read.csv("plantEff.csv")
+plt$yi <- plt$yi*-1
+
+## merge data
+plt <- subset(plt, measure=="diversity")
+
+## select matching studies
+abd <- abd[abd$Study %in% plt$Study,]
+plt <- plt[plt$Study %in% abd$Study,]
+
+## generate dataframe
+plt <- data.frame(Study=plt$Study, plteff = plt$yi)
+pltabd <- merge(plt, abd, by="Study", all.x=T)
+
+## Model
+m1 <- rma(yi=yi, vi=vi, mods=~  poly(plteff,1),  data = pltabd, test="t")
+summary(m1)
+
+## separate trophic group
+pltabd[,"trophic"] <- gsub("^.*?ertebrate","",pltabd$FG)
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
+
+## predict line
+preds <- predict(m1, plteff=pltabd$plteff)
+
+##plot
+ggplot(data=pltabd, aes(x=plteff, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_point(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Effect of livestock on plants (LRR)") + ylab("Effect of livestock on animals (LRR)") + geom_line(data=data.frame(preds), aes(x=pltabd$plteff, y=pred), lwd=1) +
+geom_ribbon(data=data.frame(preds), aes(x=pltabd$plteff, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+ 
+  annotate("text", x=-.2, y=.6, label="plant div - animal div", size=6)
+
+
+### Animal diversity
+## merge data
+plt <- subset(plt, measure=="diversity")
+
+## select matching studies
+div <- div[div$Study %in% plt$Study,]
+plt <- plt[plt$Study %in% div$Study,]
+
+## generate dataframe
+plt <- data.frame(Study=plt$Study, plteff = plt$yi)
+pltdiv <- merge(plt, div, by="Study", all.x=T)
+
+## Model
+m1 <- rma(yi=yi, vi=vi, mods=~  poly(plteff,1),  data = pltdiv, test="t")
+summary(m1)
+
+## separate trophic group
+pltdiv[,"trophic"] <- gsub("^.*?ertebrate","",pltdiv$FG)
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
+
+## predict line
+preds <- predict(m1, plteff=pltdiv$plteff)
+
+##plot
+ggplot(data=pltdiv, aes(x=plteff, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_point(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Effect of livestock on plants (LRR)") + ylab("Effect of livestock on animals (LRR)") +# geom_line(data=data.frame(preds), aes(x=pltdiv$plteff, y=pred), lwd=1) +
+#geom_ribbon(data=data.frame(preds), aes(x=pltdiv$plteff, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + 
+  scale_color_manual(values=cbPalette)+ 
+  annotate("text", x=-.2, y=.1, label="plant div - animal div", size=6)
+````
+
