@@ -661,7 +661,7 @@ meta.ready <- merge(meta3, CRU, by="uniqueID")
 
 ### Temperature only
 #mixed-effects meta-analysis for grazed vs ungrazed plots
-m3 <- rma(yi=yi, vi=vi, mods=~ poly(temp,2) * poly(precip,1),  data = meta.ready , test="t" )
+m3 <- rma(yi=yi, vi=vi, mods=~ poly(temp,2),  data = meta.ready , test="t" )
 summary(m3) 
 
 
@@ -674,8 +674,8 @@ cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
 meta.ready[,"trophic"] <- gsub("^.*?ertebrate","",meta.ready$FG)
 
 ### Plot against temperature
-ggplot(meta.ready, aes(x=temp, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Temperature (°C)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$temp, y=pred), lwd=2) +
-geom_ribbon(data=data.frame(preds), aes(x=meta.ready$temp, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+xlim(0,20)
+ggplot(meta.ready, aes(x=temp, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Mean annual temperature (°C)") + ylab("Effect of grazing relative to control (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$temp, y=pred), lwd=2) +
+geom_ribbon(data=data.frame(preds), aes(x=meta.ready$temp, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+xlim(0,20) + annotate("text", x=2, y=-.6, label="animal \n diversity", size=6)
 
 
 ### Preciptiation
@@ -809,6 +809,8 @@ taxa
 ## unique studies
 length(unique(studiesUsed))
 
+## list species
+dataused %>% group_by(Detailed.Taxa ) %>% summarize(n=length(unique(Detailed.Taxa ))) %>%  data.frame(.)
 ```
 
 ### Cascade effects
@@ -844,9 +846,10 @@ cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
 preds <- predict(m1, plteff=pltabd$plteff)
 
 ##plot
-ggplot(data=pltabd, aes(x=plteff, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_point(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Effect of livestock on plants (LRR)") + ylab("Effect of livestock on animals (LRR)") + geom_line(data=data.frame(preds), aes(x=pltabd$plteff, y=pred), lwd=1) +
-geom_ribbon(data=data.frame(preds), aes(x=pltabd$plteff, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+ 
-  annotate("text", x=-.2, y=.6, label="plant div - animal div", size=6)
+ggplot(data=pltabd, aes(x=plteff, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+geom_vline(xintercept=0, lwd=1, lty=2)+ geom_point(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Effect of livestock on plants (LRR)") + ylab("Effect of livestock on animals (LRR)") + geom_line(data=data.frame(preds), aes(x=pltabd$plteff, y=pred), lwd=1) +
+geom_ribbon(data=data.frame(preds), aes(x=pltabd$plteff, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) +
+  scale_color_manual(values=cbPalette)+ 
+  annotate("text", x=-.25, y=-1.6, label="plant diversity \n animal abundance", size=6)
 
 
 ### Animal diversity
@@ -873,9 +876,9 @@ cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
 preds <- predict(m1, plteff=pltdiv$plteff)
 
 ##plot
-ggplot(data=pltdiv, aes(x=plteff, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_point(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Effect of livestock on plants (LRR)") + ylab("Effect of livestock on animals (LRR)") +# geom_line(data=data.frame(preds), aes(x=pltdiv$plteff, y=pred), lwd=1) +
+ggplot(data=pltdiv, aes(x=plteff, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2) + geom_vline(xintercept=0, lwd=1, lty=2)+  geom_point(aes(color=trophic, shape=higher.taxa), size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Effect of livestock on plants (LRR)") + ylab("Effect of livestock on animals (LRR)") +# geom_line(data=data.frame(preds), aes(x=pltdiv$plteff, y=pred), lwd=1) +
 #geom_ribbon(data=data.frame(preds), aes(x=pltdiv$plteff, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + 
-  scale_color_manual(values=cbPalette)+ 
-  annotate("text", x=-.2, y=.1, label="plant div - animal div", size=6)
+  scale_color_manual(values=cbPalette)+ ylim(-0.5,0.25)+
+  annotate("text", x=-.3, y=-.4, label="plant diversity \n animal diversity", size=6)
 ````
 
