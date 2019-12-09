@@ -75,8 +75,12 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 ```{r, warning=FALSE, message=FALSE}
 evidence <- read.csv("data//ReviewerSearch//evidence.new.csv")
 ### Identify studies that were excluded
-excludes <- evidence %>% group_by(reason.simplified) %>% count(exclude) %>% filter(reason.simplified!="")
-ggplot(excludes, aes(x=reason.simplified, y=n)) + geom_bar(stat="identity") + coord_flip() + xlab("Reason for exclusion")
+excludes <- evidence %>% group_by(reason.simplified) %>% count(reason.simplified) %>% filter(reason.simplified!="")
+
+## Generate plot
+excludes$reason.simplified <- factor(excludes$reason.simplified, levels = excludes$reason.simplified[order(excludes$n)]) ## sort by frequency
+
+ggplot(excludes %>% filter(n > 5) , aes(x=reason.simplified, y=n)) + geom_bar(stat="identity") + coord_flip() + xlab("Reason for exclusion") + theme(text = element_text(size=20))
 
 ## frequency of study
 year.rate <- evidence %>% group_by(Publication.Year) %>% summarize(n=length(Publication.Year))
@@ -534,8 +538,8 @@ kruskal.test(yi ~ indigenous.simplified, data = hist)
 require(ggmap)
 ###  Start with base map of world
 mp <- NULL
-mapWorld <- borders("world", colour="gray50", fill="gray50") # create a layer of borders
-mp <- ggplot() +   mapWorld
+mapWorld <- borders("world", colour="gray50", fill="gray65") # create a layer of borders
+mp <- ggplot() + theme_bw()+  mapWorld
 
 ## colorblind-friendly palette
 cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#000000")
