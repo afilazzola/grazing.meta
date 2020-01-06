@@ -425,7 +425,7 @@ write.csv(subset(meta.ready, vi<4), "plantEff.csv", row.names=F)
 ```
 
 ### Separated Plant responses
-```{r}
+```{r echo=FALSE, eval=FALSE}
 plt <- read.csv("plantEff.csv")
 # animal.abd <- subset(animal.abd, measure=="diversity" & vi!=0) ## one measure at a time for plants
 colnames(plt)[colnames(plt)=="Study"] <- "uniqueID"
@@ -503,8 +503,6 @@ studies <- studies[!duplicated(studies)]
 msUsed <- ms.data[ms.data$uniqueID %in% studies,]
 
 
-## Taxa that was examined
-apply(msUsed[,21:29], 2, sum)
 
 ## Which grazer
  msUsed %>% group_by(grazer.spp.reduced) %>% summarize(n=length(grazer.spp.reduced))
@@ -538,6 +536,7 @@ kruskal.test(yi ~ indigenous.simplified, data = hist)
 #### Patterns of Grazing Studies Globally
 ```{r warning=FALSE, message=FALSE, fig.width=12, fig.height=10}
 require(ggmap)
+require(maps)
 ###  Start with base map of world
 mp <- NULL
 mapWorld <- borders("world", colour="gray50", fill="gray65") # create a layer of borders
@@ -860,14 +859,13 @@ geom_ribbon(data=data.frame(preds), aes(x=pltabd$plteff, y=pred, ymin=ci.lb, yma
 
 ### Animal diversity
 ## merge data
-plt <- subset(plt, measure=="diversity")
 
 ## select matching studies
 div <- div[div$Study %in% plt$Study,]
 plt <- plt[plt$Study %in% div$Study,]
 
 ## generate dataframe
-plt <- data.frame(Study=plt$Study, plteff = plt$yi)
+#plt <- data.frame(Study=plt$Study, plteff = plt$yi)
 pltdiv <- merge(plt, div, by="Study", all.x=T)
 
 ## Model
