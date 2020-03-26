@@ -506,12 +506,14 @@ preds <- predict(m2.tsg, yr.grazed=meta.ready$yr.grazed)
 
 ### plants
 ggplot(subset(meta.ready, measure == "abundance" & vi!=0), aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since exclusion (yrs)") + ylab("Effect of livestock exclusion (LRR)")+ 
-  annotate("text", x=32, y=2.2, label="plant abundance", size=6) + 
-  geom_line( aes(x=yr.grazed, y=preds$pred), lwd=1) +
-geom_ribbon(aes(x=yr.grazed,ymin=preds$ci.lb, ymax=preds$ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette) 
+  annotate("text", x=32, y=2.3, label="plant abundance", size=8)
+#   geom_line( aes(x=yr.grazed, y=preds$pred), lwd=1) +
+# geom_ribbon(aes(x=yr.grazed,ymin=preds$ci.lb, ymax=preds$ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette) 
 
 ggplot(subset(meta.ready, measure == "diversity" & vi!=0), aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(size=4) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=18)) + xlab("Time since exclusion (yrs)") + ylab("Effect of livestock exclusion (LRR)")+ 
   annotate("text", x=36, y=0.2, label="plant diversity", size=8)
+
+
 
 ```
 
@@ -745,7 +747,7 @@ geom_ribbon(data=data.frame(preds), aes(x=meta.ready$precip, y=pred, ymin=ci.lb,
 
 ## Load in effect sizes
 occurdat<-list.files( pattern="Eff.csv$",full=T)
-animal.abd <- read.csv(occurdat[3])
+animal.abd <- read.csv(occurdat[1])
 colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
  
 ## join manuscript data
@@ -779,9 +781,51 @@ cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
 
 
 ## animals
-ggplot(meta.ready, aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(size=4, width=1) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since exclusion (yrs)") + ylab("Effect of livestock exclusion (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$yr.grazed, y=pred), lwd=1) +
+plot1 <- ggplot(meta.ready, aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4, width=1) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since exclusion (yrs)") + ylab("Effect of livestock exclusion (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$yr.grazed, y=pred), lwd=1) +
 geom_ribbon(data=data.frame(preds), aes(x=meta.ready$yr.grazed, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+ 
-  annotate("text", x=32, y=1, label="animal abundance", size=6)
+  annotate("text", x=32, y=2.4, label="animal abundance", size=8)
+
+
+#### diversity
+## Load in effect sizes
+occurdat<-list.files( pattern="Eff.csv$",full=T)
+animal.abd <- read.csv(occurdat[2])
+colnames(animal.abd)[colnames(animal.abd)=="Study"] <- "uniqueID"
+ 
+## join manuscript data
+ms.data <- read.csv("data//synthesisdata//manuscript.revised.csv")
+meta3 <- merge(animal.abd, ms.data, by="uniqueID")
+meta3$last.grazing.event <- as.numeric(meta3$last.grazing.event)
+meta3[,c("yi")] <- meta3[,c("yi")]
+meta3[,"yr.grazed"] <- meta3$last.grazing.event
+
+## compare climate & grazing duration variables against effect size
+
+## get last year grazed as covariate
+meta.ready <- subset(meta3, yr.grazed>0& yr.grazed < 60)
+
+
+#mixed-effects meta-analysis for grazed vs ungrazed plots
+m3 <- rma(yi=yi, vi=vi, mods=~  poly(yr.grazed,2),  data = meta.ready, test="t")
+summary(m3) 
+
+
+## generate column for FG
+meta.ready[,"trophic"] <- gsub("^.*?ertebrate","",meta.ready$FG)
+
+
+## line
+preds <- predict(m3, yr.grazed=meta.ready$yr.grazed)
+
+# cbPalette <- c("#77564C", "#4381C1", "#9AD4D6", "#4FB286", "#564787", "#08415C")
+
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#D55E00", "#0072B2","#000000")
+
+
+## animals
+plot2 <- ggplot(meta.ready, aes(x=yr.grazed, y=yi))+ geom_hline(yintercept=0, lwd=1, lty=2)+ geom_jitter(aes(color=trophic, shape=higher.taxa), size=4, width=1) + theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), text = element_text(size=16)) + xlab("Time since exclusion (yrs)") + ylab("Effect of livestock exclusion (LRR)") + geom_line(data=data.frame(preds), aes(x=meta.ready$yr.grazed, y=pred), lwd=1) +
+geom_ribbon(data=data.frame(preds), aes(x=meta.ready$yr.grazed, y=pred, ymin=ci.lb, ymax=ci.ub), alpha=0.2) + scale_color_manual(values=cbPalette)+ 
+  annotate("text", x=32, y=1, label="animal diversity", size=8)
 
 
 
