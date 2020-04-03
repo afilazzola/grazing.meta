@@ -1,0 +1,42 @@
+File,Header,Details
+RawData,uniqueID,Identifier associated with study (number) - connected to the meta-data file
+RawData,Higher.Taxa,The vertebrate class of the responding taxa in the study (invertebrate vs. vertebrate)
+RawData,Taxa,A general classification of taxa by Class. 
+RawData,Detailed.Taxa,"A more detailed description of taxa, usually the Order"
+RawData,Genus,The genus of the responding species
+RawData,Species,The species name of the responding species
+RawData,Trophic.Group,The trophic group of the responding species based on the majority of their diet (>90%)
+RawData,Estimate,The response variable that was measured
+RawData,siteID,A name of the site that was used within the study
+RawData,year,The year the survey was conducted
+RawData,replicate,The number of replicates used in the study
+RawData,grazing.compare,The grazing comparison used in the study
+RawData,grazing.reduced,A simplified version of grazed vs ungrazed (livestock excluded)
+RawData,last.grazed,The number of years since the livestock excluded site had livestock
+RawData,yr.grazed,Number of years the grazed site was continuously grazed
+RawData,grazing.estimate,The reported units for grazing intensity. 
+RawData,grazing.value,The value associated with the grazing estimate
+RawData,Stat,The statistic extracted for the specific survey instance
+RawData,Value,The value associated with the survey instance. 
+Msmeta,uniqueID,Identifier associated with study (number) - connected to the raw data file
+Msmeta,Title,Name of the article
+Msmeta,Authors,Authors associated with the paper
+Msmeta,Source Title,Journal article that the study was obtained from
+Msmeta,Publication Year,Year the article was published
+Msmeta,exclude,Whether or  not the study was excluded (Y/N)
+Msmeta,reason,A short reason why the paper did not fit the criteria for inclusion
+Msmeta,reason.simplified,A simplified version of the reason why the study was not included
+Msmeta,DataExtract,Whether the data was successfully extracted
+Msmeta,grazer.spp,The species within the study that were considered grazers
+Msmeta,grazer.status,"The status of the grazers (e.g. domesticated, indigenous)"
+Msmeta,contrast,What time of comparison was conducted between grazed sites and controls.
+Msmeta,last.grazing.event,The last indicated time grazing occurred on the control sites
+Msmeta,indigenous.grazers,Whether there were indigenous grazers present
+Msmeta,grazing.frequency,"An Likert scale estimation of grazer frequency. 3 = continuously, 2 = intermittent with short breaks, 1 = large periods of time (i.e. years) where no grazing occurred"
+Msmeta,study.duration,Number of years the study was conducted over
+Msmeta,lat,"Latitude (decimal degrees) - when many sites were reported, the centroid was used"
+Msmeta,lon,"Longtiude (decimal degrees)  - when many sites were reported, the centroid was used"
+Msmeta,elevation,elevation (meters)
+Msmeta,country,Country the study was reported to be conducted
+Msmeta,n.sites,Number of sites used in the study
+Msmeta,survey.technique,Survey method to capture or survey animals
